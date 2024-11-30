@@ -56,6 +56,9 @@ This model can be integrated with historic diamond pricing to understand how dia
 Repository Contents:
 
 All data is stored inside Audio/ 
+
 The Sample output and evaluation metrics are stored inside Output/ 
+
 Training/ contains transcripts generation, model training and baseline comparison code.
+
 Plot/ contains code for visual representation of audio and text(training, testing) data.

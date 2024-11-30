@@ -1,4 +1,5 @@
 CSCI 6518 Deep Speech Project: Diamond Market Analysis
+
 Overview
 This project focuses on analyzing sentiments and trends in the diamond market by leveraging advanced Natural Language Processing (NLP) techniques. Using podcasts and videos sourced from the Rapaport Community, we explore how recent socio-economic factors influence diamond prices, sales, and trading.
 

@@ -16,20 +16,31 @@ The source data includes videos and podcasts from the Rapaport Community Website
 
 Methodology:
 
-1. Audio Transcription
+1. Audio Transcription:
 Tool Used: OpenAI's Whisper (medium) model.
 Each audio file was transcribed into human-readable text, forming the basis for further analysis.
-2. Labeled Dataset Creation
+
+2. Labeled Dataset Creation:
 We prepared a labeled dataset for fine-tuning by:
 
-Sentiment Analysis: Using BERT to classify sentiments in the transcriptions.
-Keyword Extraction: Leveraging RAKE (Rapid Automatic Keyword Extraction) to identify relevant keywords.
-Trend Analysis: Training an LDA (Latent Dirichlet Allocation) model to extract the top 7 trends from grouped sentences.
+Sentiment Analysis: 
+Using BERT to classify sentiments in the transcriptions.
+
+Keyword Extraction: 
+Leveraging RAKE (Rapid Automatic Keyword Extraction) to identify relevant keywords.
+
+Trend Analysis: 
+Training an LDA (Latent Dirichlet Allocation) model to extract the top 7 trends from grouped sentences.
+
 3. Model Fine-Tuning
 Two tasks were addressed using fine-tuned models:
 
-Sentiment Analysis: Fine-tuned DistilBERT and compared results with RoBERTa (baseline).
-Trend Extraction: Fine-tuned KEYBART and compared results with Facebook BART (baseline).
+Sentiment Analysis: 
+Fine-tuned DistilBERT and compared results with RoBERTa (baseline).
+
+Trend Extraction: 
+Fine-tuned KEYBART and compared results with Facebook BART (baseline).
+
 Results
 The fine-tuned DistilBERT model demonstrated significant improvements over the baseline RoBERTa for sentiment analysis.
 Similarly, KEYBART outperformed Facebook BART for trend extraction in terms of coherence and relevance.

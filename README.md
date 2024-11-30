@@ -45,3 +45,7 @@ Results:
 
 The fine-tuned DistilBERT model demonstrated significant improvements over the baseline RoBERTa for sentiment analysis.
 Similarly, KEYBART outperformed Facebook BART for trend extraction in terms of coherence and relevance.
+
+Future Work:
+
+This model can be integrated with historic diamond pricing to understand how diamond prices are fluctuating based on market condition, to predict future diamond pricing.

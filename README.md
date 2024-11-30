@@ -48,4 +48,14 @@ Similarly, KEYBART outperformed Facebook BART for trend extraction in terms of c
 
 Future Work:
 
+Enhance trend extraction by integrating multimodal data (text and visuals).
+Extend the labeled dataset with more diverse podcast and video sources.
+Explore the use of RAG (Retrieval-Augmented Generation) for combining trends and sentiments.
 This model can be integrated with historic diamond pricing to understand how diamond prices are fluctuating based on market condition, to predict future diamond pricing.
+
+Repository Contents:
+
+All data is stored inside Audio/ 
+The Sample output and evaluation metrics are stored inside Output/ 
+Training/ contains transcripts generation, model training and baseline comparison code.
+Plot/ contains code for visual representation of audio and text(training, testing) data.

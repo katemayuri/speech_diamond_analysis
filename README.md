@@ -41,6 +41,7 @@ Fine-tuned DistilBERT and compared results with RoBERTa (baseline).
 Trend Extraction: 
 Fine-tuned KEYBART and compared results with Facebook BART (baseline).
 
-Results
+Results:
+
 The fine-tuned DistilBERT model demonstrated significant improvements over the baseline RoBERTa for sentiment analysis.
 Similarly, KEYBART outperformed Facebook BART for trend extraction in terms of coherence and relevance.

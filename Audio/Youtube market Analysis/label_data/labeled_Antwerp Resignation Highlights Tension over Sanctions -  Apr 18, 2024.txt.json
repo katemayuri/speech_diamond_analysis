@@ -1,0 +1,235 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to this week's Rappaport Market Comment.",
+            "Antwerp's diamond industry and the Antwerp World Diamond Centre, the AWDC, which represents it, are going through a tense period because of the Russian diamond issue.",
+            "Wider European Union sanctions went into effect on March 1st."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wider european union sanctions went",
+            "antwerp world diamond centre",
+            "russian diamond issue",
+            "rappaport market comment",
+            "diamond industry",
+            "tense period",
+            "march 1st"
+        ],
+        "trends": [
+            "diamond",
+            "antwerp",
+            "went",
+            "union",
+            "sanctions",
+            "effect",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "These have created concern among dealers who support a ban on Russian goods but don't like the way it is being implemented.",
+            "Let's do a quick recap.",
+            "rules require all rough of 1 carat or larger entering the EU to go to Antwerp's customs centre, called the Diamond Office, for inspection."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "created concern among dealers",
+            "russian goods",
+            "rules require",
+            "quick recap",
+            "larger entering",
+            "diamond office",
+            "customs centre"
+        ],
+        "trends": [
+            "way",
+            "ban",
+            "concern",
+            "created",
+            "dealers",
+            "support",
+            "implemented"
+        ]
+    },
+    {
+        "sentence": [
+            "From September 1st, this will extend to half a carat and larger.",
+            "Industry members in Belgium and around the world have criticised this requirement to send goods to Antwerp for inspection before they enter European markets.",
+            "There's also a proposal according to which, in future, all rough entering any group of G7 countries, such as the US, will also have to go to Antwerp for inspection."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "enter european markets",
+            "september 1st",
+            "send goods",
+            "rough entering",
+            "proposal according",
+            "industry members",
+            "g7 countries"
+        ],
+        "trends": [
+            "also",
+            "inspection",
+            "antwerp",
+            "future",
+            "go",
+            "us",
+            "half"
+        ]
+    },
+    {
+        "sentence": [
+            "It's worth noting, however,  this is not being confirmed publicly and support for such an expanded inspection regime is reportedly waning.",
+            "Upon implementation, the rules caused chaos, with many shipments being held up at the Diamond Office for over a week because they didn't have the right paperwork.",
+            "Such inefficiencies have put considerable pressure on the leadership of the AWDC, which operates the Diamond Office in collaboration with the Belgian government."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rules caused chaos",
+            "put considerable pressure",
+            "expanded inspection regime",
+            "worth noting",
+            "upon implementation",
+            "right paperwork",
+            "reportedly waning"
+        ],
+        "trends": [
+            "diamond",
+            "office",
+            "worth",
+            "reportedly",
+            "noting",
+            "however",
+            "expanded"
+        ]
+    },
+    {
+        "sentence": [
+            "Specifically, 146 Belgian diamond companies submitted a complaint to the organisation on March 13,  14th, saying that they had been assured that shipments would be cleared in under 24 hours.",
+            "When Ari Epstein, CEO of the AWDC, resigned on April 11th without giving a reason, the initial assumption was that it was related to the sanctions-related issues.",
+            "According to Belgian newspaper Detarred, Epstein stepped down to make it clear that while he supported his transparency, the board of directors and diamond companies did not."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "146 belgian diamond companies submitted",
+            "april 11th without giving",
+            "belgian newspaper detarred",
+            "diamond companies",
+            "shipments would",
+            "march 13",
+            "initial assumption"
+        ],
+        "trends": [
+            "companies",
+            "belgian",
+            "diamond",
+            "epstein",
+            "ceo",
+            "related",
+            "initial"
+        ]
+    },
+    {
+        "sentence": [
+            "This report prompted about 150 Antwerp diamond traders to distribute a letter the following  day in which they reiterated that the diamond industry supported the G7 sanctions, but were concerned about procedures currently in place.",
+            "Delays caused by the inspections, the traders noted, have caused Antwerp to be alienated from the rest of the global diamond industry and have cost businesses a lot of money.",
+            "They also criticised the lack of resolution on key issues such as grandfathered goods that predate the sanctions, as well as the lack of alignment with other G7 countries, which have different sets of rules."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "150 antwerp diamond traders",
+            "global diamond industry",
+            "diamond industry supported",
+            "traders noted",
+            "caused antwerp",
+            "report prompted",
+            "procedures currently"
+        ],
+        "trends": [
+            "diamond",
+            "lack",
+            "caused",
+            "antwerp",
+            "industry",
+            "traders",
+            "sanctions"
+        ]
+    },
+    {
+        "sentence": [
+            "The signatories said they welcomed  the opportunity to work with new management.",
+            "The AWDC board of directors also responded by denying that it had opposed the sanctions, but said its chairman, Isidor Izzy Muzl, was concerned about the way the measures were being enforced and the consequences of such an implementation.",
+            "Specifically, the board said his concerns relate to the non-sanctioned goods which are inevitably being impacted."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "isidor izzy muzl",
+            "directors also responded",
+            "sanctioned goods",
+            "new management",
+            "concerns relate",
+            "awdc board",
+            "signatories said"
+        ],
+        "trends": [
+            "said",
+            "board",
+            "relate",
+            "concerns",
+            "welcomed",
+            "new",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "The AWDC, which has since appointed current rentmeisters as interim CEO, declined to explain why Ariabstine was  designed, but there are clearly differences of opinion within the Antwerp diamond industry about how these sanctions should work.",
+            "This video is brought to you by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you liked it, please subscribe to get every new one we make on a weekly basis discussing trends and analysis in the diamond industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly basis discussing trends",
+            "since appointed current rentmeisters",
+            "get every new one",
+            "trusted diamond trading network",
+            "antwerp diamond industry",
+            "diamond industry",
+            "please subscribe"
+        ],
+        "trends": [
+            "industry",
+            "diamond",
+            "world",
+            "trading",
+            "brought",
+            "network",
+            "rapnet"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching, we'll be taking a pause next week for Passover, wishing everyone a happy holiday and see you back afterwards.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pause next week",
+            "wishing everyone",
+            "happy holiday",
+            "back afterwards",
+            "watching",
+            "thanks",
+            "taking"
+        ],
+        "trends": [
+            "wishing",
+            "week",
+            "watching",
+            "thanks",
+            "taking",
+            "see",
+            "pause"
+        ]
+    }
+]

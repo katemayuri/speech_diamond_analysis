@@ -1,0 +1,338 @@
+[
+    {
+        "sentence": [
+            " Action!",
+            "fashion, jewelry, cosmetics, and drinks sectors.",
+            "Sales in Asia, which includes China but excludes Japan, decreased substantially."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "includes china",
+            "excludes japan",
+            "drinks sectors",
+            "decreased substantially",
+            "sales",
+            "jewelry",
+            "fashion"
+        ],
+        "trends": [
+            "substantially",
+            "sales",
+            "japan",
+            "includes",
+            "excludes",
+            "sectors",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "Higher group sales in Japan partially offset this.",
+            "The jewelry and watches division saw the same geographical trend.",
+            "I think there are three interesting takeaways from LVMH executives' commentary on the results, which they gave at an investor call on July 23rd."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watches division saw",
+            "three interesting takeaways",
+            "japan partially offset",
+            "higher group sales",
+            "lvmh executives",
+            "july 23rd",
+            "investor call"
+        ],
+        "trends": [
+            "investor",
+            "commentary",
+            "three",
+            "group",
+            "higher",
+            "sales",
+            "japan"
+        ]
+    },
+    {
+        "sentence": [
+            "But before getting into the details, just a weekly small request.",
+            "Subscribe to this channel.",
+            "there is a button with a bell you should press to get notifications of all our new videos."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "weekly small request",
+            "new videos",
+            "get notifications",
+            "subscribe",
+            "press",
+            "getting",
+            "details"
+        ],
+        "trends": [
+            "weekly",
+            "small",
+            "request",
+            "videos",
+            "press",
+            "notifications",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "Every week we dig into what's going on in the industry all around the world.",
+            "You can also comment, like our videos, or suggest new topics we should follow in the coming months.",
+            "Now, let's get back to LVMH."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "suggest new topics",
+            "get back",
+            "every week",
+            "coming months",
+            "also comment",
+            "world",
+            "videos"
+        ],
+        "trends": [
+            "world",
+            "week",
+            "around",
+            "dig",
+            "every",
+            "going",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "First, the company gave quite a concerning view on the bridal jewelry market as CFO Jean-Jacques Guignolny said this segment was under pressure.",
+            "jewelry brand, where engagement rings are a major part of the US business.",
+            "Inflation and higher interest rates have also put pressure on aspirational consumer spending in the US and, to a lesser extent, in Europe."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jacques guignolny said",
+            "higher interest rates",
+            "company gave quite",
+            "aspirational consumer spending",
+            "bridal jewelry market",
+            "also put pressure",
+            "jewelry brand"
+        ],
+        "trends": [
+            "pressure",
+            "inflation",
+            "us",
+            "jewelry",
+            "brand",
+            "business",
+            "rings"
+        ]
+    },
+    {
+        "sentence": [
+            "This, again, has impacted Tiffany, which appeals to this segment of the market.",
+            "Secondly, LVMH saw a strong surge in sales in Japan across the group.",
+            "In jewelry and watches, Japan's share of global revenue increased to 13% from 10% a year earlier."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "global revenue increased",
+            "year earlier",
+            "strong surge",
+            "lvmh saw",
+            "impacted tiffany",
+            "japan across",
+            "japan"
+        ],
+        "trends": [
+            "japan",
+            "appeals",
+            "watches",
+            "earlier",
+            "global",
+            "increased",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "The rest of Asia saw its share slump to 30% from 37% a year before.",
+            "This is because Chinese consumers have been travelling to Japan to capitalise on the weakness of the Japanese yen currency, Gionni explained.",
+            "Today, each Chinese yuan buys about 3% more yen than two years ago."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two years ago",
+            "chinese yuan buys",
+            "japanese yen currency",
+            "chinese consumers",
+            "share slump",
+            "gionni explained",
+            "asia saw"
+        ],
+        "trends": [
+            "chinese",
+            "yen",
+            "weakness",
+            "travelling",
+            "rest",
+            "slump",
+            "asia"
+        ]
+    },
+    {
+        "sentence": [
+            "This situation creates challenges for LVMH, which reports its results in euros.",
+            "It impacts the company's top and bottom lines, because each yen is worth fewer in euros than before.",
+            "This is why group sales rose at constant currency rates but decreased in reported terms."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "situation creates challenges",
+            "group sales rose",
+            "constant currency rates",
+            "worth fewer",
+            "reported terms",
+            "bottom lines",
+            "yen"
+        ],
+        "trends": [
+            "euros",
+            "yen",
+            "worth",
+            "company",
+            "reports",
+            "challenges",
+            "situation"
+        ]
+    },
+    {
+        "sentence": [
+            "Also, Gionni said the speed of the weakening of the yen has made it hard to respond with price increases.",
+            "This brings us to the third point.",
+            "A lot of the sales growth in Japan is happening at low consumer prices, which creates an incentive for consumers in the rest of Asia, notably China, to wait till their next trip to Japan to make a luxury purchase."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "low consumer prices",
+            "wait till",
+            "third point",
+            "sales growth",
+            "price increases",
+            "notably china",
+            "next trip"
+        ],
+        "trends": [
+            "japan",
+            "yen",
+            "price",
+            "gionni",
+            "hard",
+            "increases",
+            "made"
+        ]
+    },
+    {
+        "sentence": [
+            "This has had a slowing effect on sales in these markets.",
+            "We are talking here about luxury in general and not just jewellery.",
+            "While we already knew that sales in China were weak, especially in diamonds, this gives a new perspective on what's driving the consumer's lack of local spending."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "slowing effect",
+            "new perspective",
+            "local spending",
+            "already knew",
+            "weak",
+            "talking",
+            "sales"
+        ],
+        "trends": [
+            "weak",
+            "china",
+            "sales",
+            "general",
+            "luxury",
+            "talking",
+            "jewellery"
+        ]
+    },
+    {
+        "sentence": [
+            "The sentiment from LVMH is consistent with reports we are hearing about luxury brands buying fewer diamonds than expected.",
+            "This in turn is consistent with the recent declines in the prices of the top colour and clarity diamonds that the leading houses buy.",
+            "situation improve in time for the holiday season?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "luxury brands buying fewer diamonds",
+            "leading houses buy",
+            "clarity diamonds",
+            "top colour",
+            "situation improve",
+            "recent declines",
+            "holiday season"
+        ],
+        "trends": [
+            "diamonds",
+            "consistent",
+            "expected",
+            "fewer",
+            "hearing",
+            "improve",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "Let us know your predictions for the second half of the year in the comments.",
+            "This video is sponsored by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Rapnet is the right solution for you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "let us know",
+            "sell diamonds",
+            "second half",
+            "right solution",
+            "year",
+            "world"
+        ],
+        "trends": [
+            "rapnet",
+            "second",
+            "us",
+            "predictions",
+            "let",
+            "sell",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Find out more at rapnet.com.",
+            "Thanks for watching and enjoy the rest of the week!",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "rapnet",
+            "find",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

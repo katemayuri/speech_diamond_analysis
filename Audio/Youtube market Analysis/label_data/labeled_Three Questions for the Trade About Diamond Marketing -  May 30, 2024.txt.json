@@ -1,0 +1,282 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market Comment.",
+            "The JCK Las Vegas show starts this Friday.",
+            "Last week I wrote down 5 market trends to watch out for."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jck las vegas show starts",
+            "rappaport market comment",
+            "5 market trends",
+            "last week",
+            "wrote",
+            "welcome",
+            "watch"
+        ],
+        "trends": [
+            "market",
+            "welcome",
+            "rappaport",
+            "hello",
+            "wrote",
+            "week",
+            "watch"
+        ]
+    },
+    {
+        "sentence": [
+            "This time I want to focus on one of the biggest issues that will dominate the show.",
+            "What is going on with diamond marketing?",
+            "To state the obvious, the diamond industry has no future without consumer demand and this requires marketing."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "future without consumer demand",
+            "requires marketing",
+            "diamond marketing",
+            "diamond industry",
+            "biggest issues",
+            "want",
+            "time"
+        ],
+        "trends": [
+            "marketing",
+            "diamond",
+            "without",
+            "consumer",
+            "state",
+            "demand",
+            "requires"
+        ]
+    },
+    {
+        "sentence": [
+            "But the Natural Diamond Council, the NDC,  has less money available since Arosa stopped funding it in 2022 following the start of the Russian-Ukraine war.",
+            "As we discussed in previous videos, the landscape of the industry is also changing at a fast pace, creating new challenges for diamond marketing.",
+            "Here are my three questions for the industry at the show."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "less money available since arosa stopped funding",
+            "creating new challenges",
+            "natural diamond council",
+            "diamond marketing",
+            "ukraine war",
+            "three questions",
+            "previous videos"
+        ],
+        "trends": [
+            "industry",
+            "diamond",
+            "also",
+            "changing",
+            "landscape",
+            "videos",
+            "marketing"
+        ]
+    },
+    {
+        "sentence": [
+            "trading company Ocovango Diamond Company as its first non-mining member, and adding a range of partners, most recently diamond manufacturer Oro Star.",
+            "This will go some way in compensating for the loss of Alrosa, which alongside De Beers, was its largest financial contributor.",
+            "Does it have the funding it needs?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trading company ocovango diamond company",
+            "recently diamond manufacturer oro star",
+            "largest financial contributor",
+            "alongside de beers",
+            "mining member",
+            "first non",
+            "way"
+        ],
+        "trends": [
+            "company",
+            "diamond",
+            "ocovango",
+            "first",
+            "trading",
+            "manufacturer",
+            "adding"
+        ]
+    },
+    {
+        "sentence": [
+            "Will its actions have an effect on demand?",
+            "Second, what categories will diamond marketing focus on?",
+            "A week before the show, De Beers at Signet Jewelers, the US's largest diamond  retailer, announced they would cooperate on a campaign to showcase the inherent rarity and timelessness of natural diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "largest diamond retailer",
+            "diamond marketing focus",
+            "would cooperate",
+            "signet jewelers",
+            "natural diamonds",
+            "inherent rarity",
+            "de beers"
+        ],
+        "trends": [
+            "announced",
+            "beers",
+            "diamond",
+            "focus",
+            "categories",
+            "second",
+            "marketing"
+        ]
+    },
+    {
+        "sentence": [
+            "Research by Signet indicated there would be an upswing in proposals and engagements among what it calls US Zillennials over the next 37 months.",
+            "That's people on the younger end of millennials and the older end of Gen Z, born in the mid 1990s.",
+            "This follows a lull due to the ongoing effects of COVID-19 lockdowns  three to four years ago, which according to Signet led to a delayed drop in engagements."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "next 37 months",
+            "four years ago",
+            "calls us zillennials",
+            "19 lockdowns three",
+            "younger end",
+            "signet led",
+            "signet indicated"
+        ],
+        "trends": [
+            "end",
+            "engagements",
+            "signet",
+            "gen",
+            "younger",
+            "mid",
+            "millennials"
+        ]
+    },
+    {
+        "sentence": [
+            "Does this single a focus on engagement ring marketing for the time being?",
+            "And how does this relate to the way consumers view natural diamonds as opposed to lab-grown?",
+            "And also what product types will the industry promote aside from engagement rings?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "way consumers view natural diamonds",
+            "industry promote aside",
+            "engagement ring marketing",
+            "engagement rings",
+            "product types",
+            "time",
+            "single"
+        ],
+        "trends": [
+            "engagement",
+            "single",
+            "way",
+            "natural",
+            "consumers",
+            "diamonds",
+            "ring"
+        ]
+    },
+    {
+        "sentence": [
+            "Third, what is the role of Botswana?",
+            "Botswana's new sales deal with De Beers calls for eventually 50% of the  country's rough to go to state-owned Ocovango Diamond Company for sale.",
+            "This means that Ocovango and the Botswana government itself will become more of a competitor to the beers in the diamond market."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "owned ocovango diamond company",
+            "new sales deal",
+            "de beers calls",
+            "diamond market",
+            "eventually 50",
+            "botswana government",
+            "ocovango"
+        ],
+        "trends": [
+            "botswana",
+            "diamond",
+            "beers",
+            "ocovango",
+            "calls",
+            "company",
+            "country"
+        ]
+    },
+    {
+        "sentence": [
+            "I noticed a few things about the pre-show publicity.",
+            "a time of recording, but it appears to be a luxury brand for Voxwana diamonds.",
+            "Does this indicate Voxwana will become a more independent and important voice in the future of diamond marketing?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "voxwana diamonds",
+            "show publicity",
+            "luxury brand",
+            "indicate voxwana",
+            "important voice",
+            "diamond marketing",
+            "time"
+        ],
+        "trends": [
+            "voxwana",
+            "noticed",
+            "luxury",
+            "brand",
+            "diamonds",
+            "appears",
+            "recording"
+        ]
+    },
+    {
+        "sentence": [
+            "Those are my questions.",
+            "Catch me at the show if you have more to add or possible answers.",
+            "Please don't forget to subscribe to get every new video we make on a weekly basis discussing trends and analysis in the diamond industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly basis discussing trends",
+            "get every new video",
+            "possible answers",
+            "diamond industry",
+            "subscribe",
+            "show",
+            "questions"
+        ],
+        "trends": [
+            "forget",
+            "analysis",
+            "basis",
+            "diamond",
+            "discussing",
+            "add",
+            "answers"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and I hope to see you in Vegas."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watching",
+            "vegas",
+            "thanks",
+            "see",
+            "hope"
+        ],
+        "trends": [
+            "watching",
+            "vegas",
+            "thanks",
+            "see",
+            "hope"
+        ]
+    }
+]

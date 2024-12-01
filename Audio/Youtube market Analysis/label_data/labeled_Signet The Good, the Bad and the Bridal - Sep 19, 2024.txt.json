@@ -1,0 +1,360 @@
+[
+    {
+        "sentence": [
+            " When I write about a company's results, I like to categorise stories as an up or a down because that helps readers to understand.",
+            "But with some issues, it's just too blurry to side with their good or bad news.",
+            "Signet Jewelers' earnings for the second fiscal quarter, which they announced last Thursday, were a case in point."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "second fiscal quarter",
+            "announced last thursday",
+            "signet jewelers",
+            "helps readers",
+            "categorise stories",
+            "bad news",
+            "write"
+        ],
+        "trends": [
+            "company",
+            "helps",
+            "understand",
+            "like",
+            "side",
+            "last",
+            "quarter"
+        ]
+    },
+    {
+        "sentence": [
+            "Sales fell year on year.",
+            "The US retailer, which owns K Jewelers, Zales and other brands, reported a heavy loss.",
+            "But the price of its shares on the stock market rose 11% on the same day."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stock market rose 11",
+            "owns k jewelers",
+            "sales fell year",
+            "us retailer",
+            "heavy loss",
+            "year",
+            "zales"
+        ],
+        "trends": [
+            "year",
+            "sales",
+            "loss",
+            "price",
+            "day",
+            "stock",
+            "shares"
+        ]
+    },
+    {
+        "sentence": [
+            "What's going on?",
+            "Before getting into the numbers, please hit the button down here to like this video.",
+            "And if you are watching us like many others every week, we invite you to give us some feedback about our latest videos and suggest what we should talk about in the coming weeks."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watching us like many others every week",
+            "give us",
+            "please hit",
+            "like",
+            "latest videos",
+            "coming weeks",
+            "video"
+        ],
+        "trends": [
+            "us",
+            "latest",
+            "coming",
+            "every",
+            "like",
+            "button",
+            "video"
+        ]
+    },
+    {
+        "sentence": [
+            "Now let's look at some of the factors that pull us in different directions.",
+            "First, Signet's group revenue declined 8% year on year for the three months that ended August 3rd.",
+            "The company said this reflected the impact of ongoing economic challenges on consumer spending."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "group revenue declined 8",
+            "ongoing economic challenges",
+            "ended august 3rd",
+            "three months",
+            "pull us",
+            "different directions",
+            "consumer spending"
+        ],
+        "trends": [
+            "year",
+            "reflected",
+            "economic",
+            "ongoing",
+            "us",
+            "pull",
+            "look"
+        ]
+    },
+    {
+        "sentence": [
+            "a slower recovery in engagements than previously expected, pricing pressure from competitors, door closures, and the sale of luxury watch stores in the UK in late 2023.",
+            "Second, some slight changes to the company's reporting calendar meant that some sales related to Mother's Day were shifted to the first quarter of this year, whereas last year they counted towards the second quarter.",
+            "These factors outweighed the benefits that came from new product assortments in the fashion jewelry store."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "reporting calendar meant",
+            "new product assortments",
+            "luxury watch stores",
+            "fashion jewelry store",
+            "whereas last year",
+            "slower recovery",
+            "slight changes"
+        ],
+        "trends": [
+            "year",
+            "quarter",
+            "second",
+            "sales",
+            "whereas",
+            "last",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "segment and improvements in engagement trends, though, as we noted, this improvement was not as good as expected.",
+            "Remember that Cignaz has long argued that we were due a bump in engagements because of the delayed impact of the COVID-19 pandemic, which led to a short term slowdown in dating.",
+            "The company believes this recovery has begun."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "short term slowdown",
+            "long argued",
+            "engagement trends",
+            "delayed impact",
+            "company believes",
+            "19 pandemic",
+            "though"
+        ],
+        "trends": [
+            "trends",
+            "improvements",
+            "expected",
+            "good",
+            "though",
+            "improvement",
+            "company"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just been sluggish because of the economic challenges.",
+            "Let's go to the positives.",
+            "First, there has been a gradual easing of the decline in Cignaz's same  the  share price."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "share price",
+            "gradual easing",
+            "economic challenges",
+            "sluggish",
+            "positives",
+            "let",
+            "go"
+        ],
+        "trends": [
+            "positives",
+            "let",
+            "go",
+            "share",
+            "price",
+            "gradual",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "But before we get to a conclusion, we need to dig deeper into another observation, which is a firmly negative one.",
+            "Why does Cigna record a loss of $98.5 million for the second quarter?",
+            "The answer is asset impairment charges of $166.2 million, without which the company would have been in the black."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "firmly negative one",
+            "asset impairment charges",
+            "second quarter",
+            "dig deeper",
+            "company would",
+            "cigna record",
+            "another observation"
+        ],
+        "trends": [
+            "million",
+            "would",
+            "answer",
+            "asset",
+            "black",
+            "second",
+            "record"
+        ]
+    },
+    {
+        "sentence": [
+            "A company incurs an impairment charge when an asset it owns gets devalued.",
+            "It counts towards the company's losses.",
+            "In this case, the weak recovery and engagements force Cigna to devalue some of its divisions that are more skewed towards the bridal  segment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "owns gets devalued",
+            "engagements force cigna",
+            "weak recovery",
+            "skewed towards",
+            "impairment charge",
+            "counts towards",
+            "bridal segment"
+        ],
+        "trends": [
+            "company",
+            "towards",
+            "asset",
+            "charge",
+            "owns",
+            "incurs",
+            "impairment"
+        ]
+    },
+    {
+        "sentence": [
+            "These include Diamonds Direct, a store chain the group acquired for $490 million in 2021 when the market was much better.",
+            "The company also booked a $7 million impairment charge related to the Diamonds Direct in trade name, meaning it reduced its value.",
+            "And it took a hit of $36 million for the devaluation of the Blue Nile trade name and a further $123 million related to the combined digital banners unit, which also includes James Allen."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "7 million impairment charge related",
+            "combined digital banners unit",
+            "also includes james allen",
+            "blue nile trade name",
+            "123 million related",
+            "company also booked",
+            "include diamonds direct"
+        ],
+        "trends": [
+            "million",
+            "direct",
+            "diamonds",
+            "trade",
+            "also",
+            "related",
+            "name"
+        ]
+    },
+    {
+        "sentence": [
+            "Signet said the digital banners as well as being exposed to the engagement market  from declines in prices of synthetic diamonds.",
+            "To sum up, Signet had a mixed quarter, with figures deteriorating in absolute terms, but also with some signs of improvement.",
+            "However, the disappointing rebound in engagements has taken its toll."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "synthetic diamonds",
+            "mixed quarter",
+            "figures deteriorating",
+            "engagement market",
+            "disappointing rebound",
+            "digital banners",
+            "absolute terms"
+        ],
+        "trends": [
+            "signet",
+            "improvement",
+            "mixed",
+            "also",
+            "taken",
+            "disappointing",
+            "engagements"
+        ]
+    },
+    {
+        "sentence": [
+            "Is this a clear up or a clear down?",
+            "Well, uncertainty pretty much sums up the current situation.",
+            "Let us know in the comments how you would rate the state of US retail right now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "uncertainty pretty much sums",
+            "us retail right",
+            "let us know",
+            "would rate",
+            "current situation",
+            "well",
+            "state"
+        ],
+        "trends": [
+            "us",
+            "well",
+            "would",
+            "state",
+            "right",
+            "uncertainty",
+            "sums"
+        ]
+    },
+    {
+        "sentence": [
+            "This video is sponsored by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Rapnet is the right solution for you.",
+            "Find out more at rapnet.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "sell diamonds",
+            "right solution",
+            "world",
+            "video",
+            "sponsored",
+            "rapnet"
+        ],
+        "trends": [
+            "rapnet",
+            "solution",
+            "world",
+            "video",
+            "trusted",
+            "trading",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

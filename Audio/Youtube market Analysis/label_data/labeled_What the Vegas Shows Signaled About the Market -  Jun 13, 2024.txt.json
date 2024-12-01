@@ -1,0 +1,308 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market comment.",
+            "We are back at our regular studio in Israel after my return from the JCK show in Las Vegas.",
+            "I hope everyone who attended had a great time and got back safely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport market comment",
+            "got back safely",
+            "regular studio",
+            "las vegas",
+            "jck show",
+            "hope everyone",
+            "great time"
+        ],
+        "trends": [
+            "back",
+            "comment",
+            "hope",
+            "everyone",
+            "got",
+            "great",
+            "hello"
+        ]
+    },
+    {
+        "sentence": [
+            "Before the show on May 23rd, I wrote down 5 things to look out for at the show.",
+            "In this video, I'd like to review those points and see whether any questions were answered.",
+            "The first question was, will people come?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "see whether",
+            "people come",
+            "may 23rd",
+            "first question",
+            "5 things",
+            "wrote",
+            "video"
+        ],
+        "trends": [
+            "show",
+            "come",
+            "first",
+            "wrote",
+            "things",
+            "look",
+            "may"
+        ]
+    },
+    {
+        "sentence": [
+            "The answer to this is definitely yes, they did come.",
+            "though the attendance was not a record high.",
+            "JCK Events reported that more than 17,300 people came, slightly down from the 18,000 it reported for last year's show."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "300 people came",
+            "jck events reported",
+            "record high",
+            "last year",
+            "definitely yes",
+            "reported",
+            "though"
+        ],
+        "trends": [
+            "reported",
+            "though",
+            "year",
+            "jck",
+            "yes",
+            "come",
+            "definitely"
+        ]
+    },
+    {
+        "sentence": [
+            "That was expected.",
+            "The diamond market is in a challenging state, and the cost of hiring a booth has risen as have other expenses.",
+            "Nonetheless, the reported number of exhibitors was steady at 1,900."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "reported number",
+            "diamond market",
+            "challenging state",
+            "steady",
+            "risen",
+            "nonetheless",
+            "hiring"
+        ],
+        "trends": [
+            "steady",
+            "state",
+            "risen",
+            "market",
+            "hiring",
+            "expenses",
+            "reported"
+        ]
+    },
+    {
+        "sentence": [
+            "However, what matters is the quality of the visitors and not just the volume.",
+            "Exhibitors either  I spoke to said those who did attend were serious and this led to decent sales and inquiries, especially in the finished jewelry sections.",
+            "Second, I asked how US retail was faring."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "finished jewelry sections",
+            "us retail",
+            "exhibitors either",
+            "decent sales",
+            "volume",
+            "visitors",
+            "spoke"
+        ],
+        "trends": [
+            "volume",
+            "however",
+            "visitors",
+            "matters",
+            "quality",
+            "retail",
+            "faring"
+        ]
+    },
+    {
+        "sentence": [
+            "I got a mix of answers.",
+            "Many said consumers and retailers were shifting back to natural diamonds as I mentioned on the last video.",
+            "Others pointed out uncertainty around the US economy and upcoming presidential elections."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "upcoming presidential elections",
+            "many said consumers",
+            "us economy",
+            "uncertainty around",
+            "shifting back",
+            "others pointed",
+            "natural diamonds"
+        ],
+        "trends": [
+            "uncertainty",
+            "upcoming",
+            "around",
+            "presidential",
+            "pointed",
+            "others",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "No one wants to be too optimistic about the market right now.",
+            "Third, I asked what the industry thought about the beers.",
+            "This theme was not as prominent as I expected in the conversations participants had at the show."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one wants",
+            "market right",
+            "industry thought",
+            "conversations participants",
+            "third",
+            "theme",
+            "show"
+        ],
+        "trends": [
+            "thought",
+            "third",
+            "industry",
+            "beers",
+            "wants",
+            "right",
+            "optimistic"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think anyone can predict how the sale of De Beers could impact the industry.",
+            "I asked De Beers CEO Al Cook whether the separation from Anglo-American might reduce De Beers' financial flexibility.",
+            "This flexibility has enabled it to maintain industry stability in recent downturns, for example by limiting sales rather than lowering prices."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "asked de beers ceo al cook whether",
+            "american might reduce de beers",
+            "de beers could impact",
+            "limiting sales rather",
+            "maintain industry stability",
+            "think anyone",
+            "recent downturns"
+        ],
+        "trends": [
+            "beers",
+            "de",
+            "industry",
+            "flexibility",
+            "whether",
+            "might",
+            "asked"
+        ]
+    },
+    {
+        "sentence": [
+            "He said that the Beers had been an independent company for the vast majority of its history, and therefore this was not a concern.",
+            "Fourth, I asked how the trade felt about sanctions on Russian diamonds.",
+            "There was some sense of uncertainty and disillusionment with the plans that have been discussed, especially for requiring all diamonds to go to Belgium for inspection before entering G7 markets."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "entering g7 markets",
+            "vast majority",
+            "trade felt",
+            "independent company",
+            "russian diamonds",
+            "diamonds",
+            "uncertainty"
+        ],
+        "trends": [
+            "diamonds",
+            "independent",
+            "beers",
+            "company",
+            "asked",
+            "trade",
+            "sanctions"
+        ]
+    },
+    {
+        "sentence": [
+            "There was also a lot of keenness to learn about the sanctions, as evidenced by the strong attendance at several of  events that dealt with these topics.",
+            "Fifth and finally, I asked whether American diamond companies were able to compete with Indian suppliers.",
+            "I'm going to hold my hand up and say I didn't get enough answers about this while I was in Vegas, so I'll leave this one open for you to send in your very valuable feedback on how this dynamic played out at the show."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "asked whether american diamond companies",
+            "get enough answers",
+            "valuable feedback",
+            "strong attendance",
+            "one open",
+            "indian suppliers",
+            "dynamic played"
+        ],
+        "trends": [
+            "whether",
+            "indian",
+            "american",
+            "asked",
+            "companies",
+            "compete",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "is brought to you by Wrapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Wrapnet is the right solution for you.",
+            "Find out more at Wrapnet.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "sell diamonds",
+            "right solution",
+            "wrapnet",
+            "wrapnet",
+            "wrapnet",
+            "world"
+        ],
+        "trends": [
+            "wrapnet",
+            "solution",
+            "sell",
+            "world",
+            "trusted",
+            "trading",
+            "network"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week!"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

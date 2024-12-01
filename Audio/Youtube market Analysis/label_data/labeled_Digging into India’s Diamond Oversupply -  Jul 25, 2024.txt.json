@@ -1,0 +1,322 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market comment.",
+            "We've seen this reflected in prices.",
+            "The wrappy index for 1k diamonds has fallen by around 16% since the start of 2024."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rappaport market comment",
+            "wrappy index",
+            "around 16",
+            "1k diamonds",
+            "welcome",
+            "start",
+            "since"
+        ],
+        "trends": [
+            "seen",
+            "reflected",
+            "prices",
+            "wrappy",
+            "start",
+            "welcome",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "What happened?",
+            "This graph shows India's rough imports by value.",
+            "Imports dropped gradually throughout 2023 as the market responded to the decline in demand caused by competition from synthetics, economic uncertainty, and a slowdown in China."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "imports dropped gradually throughout 2023",
+            "graph shows india",
+            "rough imports",
+            "market responded",
+            "economic uncertainty",
+            "demand caused",
+            "value"
+        ],
+        "trends": [
+            "slowdown",
+            "responded",
+            "market",
+            "synthetics",
+            "imports",
+            "shows",
+            "graph"
+        ]
+    },
+    {
+        "sentence": [
+            "They slumped in November because of the import pause, but as you can see, they bounced back quite fast.",
+            "In this one, you can see India's imports by volume.",
+            "There was a big spike in February, which is the last data we had at the time of that video I mentioned at the beginning, just when the market was looking like it might be recovering."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bounced back quite fast",
+            "looking like",
+            "last data",
+            "import pause",
+            "big spike",
+            "see india",
+            "see"
+        ],
+        "trends": [
+            "see",
+            "bounced",
+            "fast",
+            "import",
+            "november",
+            "back",
+            "india"
+        ]
+    },
+    {
+        "sentence": [
+            "One of the reasons for the spike was a reduction in rough prices at De Beers' January site.",
+            "The company kept prices steady during the 2023 downturn, but lowered them at the first set of 2024.",
+            "According to parent company Anglo-Americans Production Report last week, De Beers' rough price index  slid 17% between 2023 and the first quarter of 2024."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "americans production report last week",
+            "rough price index slid 17",
+            "company kept prices steady",
+            "parent company anglo",
+            "rough prices",
+            "january site",
+            "first set"
+        ],
+        "trends": [
+            "prices",
+            "beers",
+            "rough",
+            "company",
+            "first",
+            "de",
+            "kept"
+        ]
+    },
+    {
+        "sentence": [
+            "This stimulated rough purchases by manufacturers, of which most are in India.",
+            "But the hopes of recovery that existed in February appear now to have been short-lived.",
+            "Rough imports came down in the following months, but so did polished exports, which indicate levels of overseas demand."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stimulated rough purchases",
+            "rough imports came",
+            "polished exports",
+            "overseas demand",
+            "indicate levels",
+            "following months",
+            "february appear"
+        ],
+        "trends": [
+            "rough",
+            "appear",
+            "recovery",
+            "existed",
+            "february",
+            "hopes",
+            "manufacturers"
+        ]
+    },
+    {
+        "sentence": [
+            "Now, let's examine how polished exports performed as a percentage of rough imports.",
+            "To me, this is the best signal we have of how well India's rough buying matches polished  demand.",
+            "The higher the percentage, the better India is doing as a polished exporter relative to how much rough it is importing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rough buying matches polished demand",
+            "polished exports performed",
+            "polished exporter relative",
+            "rough imports",
+            "much rough",
+            "well india",
+            "better india"
+        ],
+        "trends": [
+            "rough",
+            "polished",
+            "percentage",
+            "india",
+            "much",
+            "importing",
+            "imports"
+        ]
+    },
+    {
+        "sentence": [
+            "In the past 4 months, this percentage has increased slightly when you look at both value and volume.",
+            "This is a good sign.",
+            "However, if we zoom out and look at the first half of 2024, we see a decline compared to the past half years."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "past 4 months",
+            "past half years",
+            "first half",
+            "increased slightly",
+            "good sign",
+            "decline compared",
+            "zoom"
+        ],
+        "trends": [
+            "past",
+            "look",
+            "half",
+            "zoom",
+            "years",
+            "volume",
+            "value"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not easy for Indian manufacturers to reduce rough buying and polished production.",
+            "Many of them rely on rough purchases to maintain their credit lines.",
+            "Those that buy from De Beers and Arosa through supply contracts are under pressure to continue buying from them to maintain their future access to rough."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "reduce rough buying",
+            "continue buying",
+            "supply contracts",
+            "rough purchases",
+            "polished production",
+            "indian manufacturers",
+            "future access"
+        ],
+        "trends": [
+            "rough",
+            "buying",
+            "maintain",
+            "de",
+            "rely",
+            "credit",
+            "purchases"
+        ]
+    },
+    {
+        "sentence": [
+            "Also, many companies want to keep workers busy and are reluctant to fire them.",
+            "However, this could change in the second half of this year.",
+            "De Beers offers siteholders enhanced flexibility at its July trading session, which took place this week in Botswana."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "de beers offers siteholders enhanced flexibility",
+            "many companies want",
+            "keep workers busy",
+            "july trading session",
+            "took place",
+            "second half",
+            "could change"
+        ],
+        "trends": [
+            "many",
+            "busy",
+            "companies",
+            "fire",
+            "change",
+            "year",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "The miner also said last week it was exploring ways of reducing production, though this is to save money rather than to help the industry.",
+            "have already fell 90% year on year in the first half of 2024.",
+            "How will the industry manage to balance supply and demand?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "miner also said last week",
+            "save money rather",
+            "already fell 90",
+            "reducing production",
+            "first half",
+            "exploring ways",
+            "balance supply"
+        ],
+        "trends": [
+            "year",
+            "industry",
+            "half",
+            "fell",
+            "first",
+            "already",
+            "supply"
+        ]
+    },
+    {
+        "sentence": [
+            "Let me know your predictions in the comments.",
+            "And if you like our videos, please subscribe to our channel so we can keep bringing the latest updates on this issue to your notifications.",
+            "This video is sponsored by Wrapnet, the world's largest and most trusted diamond trading network."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trusted diamond trading network",
+            "please subscribe",
+            "latest updates",
+            "keep bringing",
+            "wrapnet",
+            "world",
+            "videos"
+        ],
+        "trends": [
+            "subscribe",
+            "predictions",
+            "comments",
+            "know",
+            "let",
+            "bringing",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "If you buy or sell diamonds, Wrapnet is the right solution for you.",
+            "Find out more at Wrapnet.com.",
+            "Thanks for watching, and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sell diamonds",
+            "right solution",
+            "wrapnet",
+            "wrapnet",
+            "week",
+            "watching",
+            "thanks"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "wrapnet",
+            "solution",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [],
+        "trends": []
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": [
+            " Diamond demand is a bit shaky right now, but demand for positive diamond news is pretty strong.",
+            "So this is my contribution to the cause.",
+            "Last week, India published its diamond import and export data for August."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bit shaky right",
+            "positive diamond news",
+            "diamond import",
+            "pretty strong",
+            "last week",
+            "india published",
+            "export data"
+        ],
+        "trends": [
+            "diamond",
+            "demand",
+            "week",
+            "india",
+            "data",
+            "export",
+            "import"
+        ]
+    },
+    {
+        "sentence": [
+            "While Polish exports fell by almost a quarter year on year, there are a few indications that the situation might be improving.",
+            "Before getting into the numbers, please hit the button down here to like this video or subscribe to our channel if you haven't done so already.",
+            "I also want to invite you to give us some feedback in the comments section."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "polish exports fell",
+            "situation might",
+            "please hit",
+            "give us",
+            "comments section",
+            "also want",
+            "quarter year"
+        ],
+        "trends": [
+            "year",
+            "done",
+            "feedback",
+            "us",
+            "give",
+            "section",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "We have spoken before about the link between India's rough imports and its polished exports.",
+            "This relationship is important because it helps us understand whether India's industry is maintaining inventory levels that are not too high.",
+            "When the August data came out, a colleague of mine pointed out that the numbers were moving in a positive direction."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "helps us understand whether india",
+            "maintaining inventory levels",
+            "august data came",
+            "rough imports",
+            "positive direction",
+            "polished exports",
+            "mine pointed"
+        ],
+        "trends": [
+            "mine",
+            "direction",
+            "data",
+            "india",
+            "imports",
+            "spoken",
+            "rough"
+        ]
+    },
+    {
+        "sentence": [
+            "Let's see what that means.",
+            "Take India's polished exports, subtract polished imports, and subtract returns, which is the previously exported goods that came back to India because they went on memo to wholesalers and retailers and were not sold for example.",
+            "This gives what we can call a net-net figure for India's polished exports and reflects the value of diamonds India provided to overseas markets during the month."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "previously exported goods",
+            "subtract polished imports",
+            "diamonds india provided",
+            "subtract returns",
+            "polished exports",
+            "polished exports",
+            "overseas markets"
+        ],
+        "trends": [
+            "india",
+            "polished",
+            "subtract",
+            "exports",
+            "provided",
+            "markets",
+            "figure"
+        ]
+    },
+    {
+        "sentence": [
+            "In August this came to $629 million.",
+            "This is not an especially high number compared with recent  month and we wouldn't expect it to be, since August was a sluggish month for global diamond demand by most accounts.",
+            "However, net rough imports, which is India's rough imports minus its rough exports, declined to $642 million for the same month, the lowest since November 2023 when India was in the middle of a two-month voluntary freeze on rough imports."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "especially high number compared",
+            "lowest since november 2023",
+            "global diamond demand",
+            "rough imports minus",
+            "net rough imports",
+            "month voluntary freeze",
+            "rough imports"
+        ],
+        "trends": [
+            "rough",
+            "imports",
+            "month",
+            "india",
+            "since",
+            "would",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "The difference between net net polished exports and net rough imports gives some indication of India's inventory growth.",
+            "diamond stockpiles rose by $13 million in August, the lowest since November last year.",
+            "We're talking here about diamonds being exported from and imported into India."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lowest since november last year",
+            "net rough imports gives",
+            "net net polished exports",
+            "diamond stockpiles rose",
+            "inventory growth",
+            "13 million",
+            "talking"
+        ],
+        "trends": [
+            "net",
+            "india",
+            "inventory",
+            "rough",
+            "difference",
+            "polished",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "But when you consider the trade sales of polished diamonds to the domestic Indian jewelry market, which I estimate to be around $100 million to $150 million per month based on the available data, it seems that trade inventories actually declined.",
+            "So mining companies are making efforts to reduce supply to the market and Indian manufacturers are reducing  polished production, as we have reported on rabbitball.com.",
+            "The beers and other miners postponed their August rough sales, while polished manufacturers extended their shutdowns during the recent religious festivals in India."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "150 million per month based",
+            "trade inventories actually declined",
+            "domestic indian jewelry market",
+            "recent religious festivals",
+            "reducing polished production",
+            "august rough sales",
+            "polished manufacturers extended"
+        ],
+        "trends": [
+            "polished",
+            "trade",
+            "million",
+            "sales",
+            "manufacturers",
+            "market",
+            "indian"
+        ]
+    },
+    {
+        "sentence": [
+            "Each part of the industry needs to work together to get out of the difficulties, and it seems they are.",
+            "Now some of you might be asking, didn't you write recently that inventories of India-based polished stones on rapnet increased in August?",
+            "That is correct, you can read that article here."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "based polished stones",
+            "write recently",
+            "work together",
+            "rapnet increased",
+            "industry needs",
+            "seems",
+            "read"
+        ],
+        "trends": [
+            "part",
+            "difficulties",
+            "get",
+            "industry",
+            "work",
+            "needs",
+            "seems"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think the explanation is that the declines in inventories has mostly been in the rough.",
+            "Sipul Shah, chairman of the GJAPC, the Indian trade body that publishes the month's imports and exports data, tells me polished inventories in India remained high last month, but rough came more under control.",
+            "I think it will take time for polished inventories to see a similar drop."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "india remained high last month",
+            "indian trade body",
+            "take time",
+            "sipul shah",
+            "similar drop",
+            "exports data",
+            "polished inventories"
+        ],
+        "trends": [
+            "inventories",
+            "think",
+            "month",
+            "rough",
+            "polished",
+            "drop",
+            "take"
+        ]
+    },
+    {
+        "sentence": [
+            "India's oversupply of diamonds was one of the factors causing the recent market crisis.",
+            "Inflated rough and polished inventories relative to demand levels have several negative effects.",
+            "They put pressure on manufacturers to sell as fast as possible to manage liquidity and repay their bank loans, even if that means lowering  their prices."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "several negative effects",
+            "recent market crisis",
+            "polished inventories relative",
+            "put pressure",
+            "means lowering",
+            "manage liquidity",
+            "inflated rough"
+        ],
+        "trends": [
+            "several",
+            "one",
+            "causing",
+            "india",
+            "recent",
+            "crisis",
+            "factors"
+        ]
+    },
+    {
+        "sentence": [
+            "It also increases their fear about falling prices and the devaluation of their inventories, piling further pressure on them to get rid of their goods.",
+            "However, all this might be an early indication that things are going in the right direction, but it's too early to say for sure.",
+            "This video is sponsored by Rapnet, the world's largest and most trusted diamond trading network."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trusted diamond trading network",
+            "right direction",
+            "get rid",
+            "falling prices",
+            "also increases",
+            "early indication",
+            "early"
+        ],
+        "trends": [
+            "early",
+            "direction",
+            "also",
+            "devaluation",
+            "falling",
+            "fear",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "If you buy or sell diamonds, Rapnet is the right solution for you.",
+            "Find out more at rapnet.com.",
+            "So see you in two weeks and wishing you and your loved ones a happy and meaningful new year."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "meaningful new year",
+            "two weeks",
+            "sell diamonds",
+            "right solution",
+            "loved ones",
+            "wishing",
+            "see"
+        ],
+        "trends": [
+            "year",
+            "wishing",
+            "weeks",
+            "two",
+            "solution",
+            "sell",
+            "right"
+        ]
+    }
+]

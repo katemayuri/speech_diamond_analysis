@@ -1,0 +1,204 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to this edition of the Wrapper Fort Market comment, which we're recording from the JCK Las Vegas show.",
+            "For the past six days, diamond and jewelry industry members have been trading, networking and learning at the JCK Luxury, Antique and Couture shows.",
+            "This year's shows came in a very tough period."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wrapper fort market comment",
+            "jck las vegas show",
+            "past six days",
+            "jewelry industry members",
+            "jck luxury",
+            "tough period",
+            "shows came"
+        ],
+        "trends": [
+            "jck",
+            "vegas",
+            "comment",
+            "welcome",
+            "show",
+            "shows",
+            "came"
+        ]
+    },
+    {
+        "sentence": [
+            "Expectations for diamonds were especially low.",
+            "Many exhibitors anticipated that they would be using the shows for public  How did that play out?",
+            "that they were making sales."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many exhibitors anticipated",
+            "making sales",
+            "especially low",
+            "would",
+            "using",
+            "shows",
+            "public"
+        ],
+        "trends": [
+            "low",
+            "expectations",
+            "would",
+            "using",
+            "shows",
+            "public",
+            "play"
+        ]
+    },
+    {
+        "sentence": [
+            "The floors were also busy at the antique jewellery and watch show, with decent demand for vintage signed pieces.",
+            "However, for loose diamonds at Jason K, which started on Friday, the reports were mixed.",
+            "Some of the larger diamond companies reported good sales, possibly because they're the ones most able to provide traceability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "larger diamond companies reported good sales",
+            "vintage signed pieces",
+            "watch show",
+            "provide traceability",
+            "loose diamonds",
+            "jason k",
+            "decent demand"
+        ],
+        "trends": [
+            "larger",
+            "companies",
+            "mixed",
+            "started",
+            "diamonds",
+            "friday",
+            "reports"
+        ]
+    },
+    {
+        "sentence": [
+            "Sales of nice-looking diamonds with SI clarity were positive, reflecting steady consumer demand for this category's  and shortages, but some exhibitors noted overall reluctance among retailers to make purchases due to uncertain consumer sentiment.",
+            "Another trend we spotted is the preference on the buyer side for memo deals rather than outright purchases.",
+            "This likely reflects high interest rates as the cost of financing inventory has risen."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "exhibitors noted overall reluctance among retailers",
+            "likely reflects high interest rates",
+            "reflecting steady consumer demand",
+            "uncertain consumer sentiment",
+            "memo deals rather",
+            "make purchases due",
+            "outright purchases"
+        ],
+        "trends": [
+            "consumer",
+            "purchases",
+            "uncertain",
+            "category",
+            "clarity",
+            "demand",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Finally, most manufacturers I spoke to have noted a shift in retailer demand toward natural diamonds in recent months as lab-grown prices and margins have fallen.",
+            "However there were still underlying concerns about Labgro's impact on the natural market.",
+            "One natural diamond exhibitor said his customers who dealt in Labgro were still making margins of up to 8 or 9 times on that product."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "retailer demand toward natural diamonds",
+            "one natural diamond exhibitor said",
+            "still underlying concerns",
+            "still making margins",
+            "natural market",
+            "recent months",
+            "grown prices"
+        ],
+        "trends": [
+            "margins",
+            "natural",
+            "still",
+            "labgro",
+            "customers",
+            "underlying",
+            "however"
+        ]
+    },
+    {
+        "sentence": [
+            "The show is usually an early indicator of how the market is shaping up for the second half of the year.",
+            "If you've been at the show let us know what other trends you've seen.",
+            "a new one."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "show let us know",
+            "second half",
+            "new one",
+            "early indicator",
+            "show",
+            "year",
+            "usually"
+        ],
+        "trends": [
+            "show",
+            "us",
+            "year",
+            "usually",
+            "shaping",
+            "second",
+            "trends"
+        ]
+    },
+    {
+        "sentence": [
+            "This video is brought to you by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamond, Rapnet is the right solution for you.",
+            "Find out more at rapnet.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "sell diamond",
+            "right solution",
+            "world",
+            "video",
+            "rapnet",
+            "rapnet"
+        ],
+        "trends": [
+            "rapnet",
+            "diamond",
+            "solution",
+            "world",
+            "video",
+            "trusted",
+            "trading"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

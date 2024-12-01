@@ -1,0 +1,335 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome back to our first Rappaport Market comment after the short break we took for Passover.",
+            "I hope everyone celebrating had an enjoyable holiday.",
+            "Since it's a quiet time of the year for the diamond industry, I thought we'd take a detour from the day-to-day news to talk about a topic I find especially interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first rappaport market comment",
+            "hope everyone celebrating",
+            "find especially interesting",
+            "welcome back",
+            "short break",
+            "quiet time",
+            "enjoyable holiday"
+        ],
+        "trends": [
+            "back",
+            "first",
+            "welcome",
+            "market",
+            "passover",
+            "holiday",
+            "hope"
+        ]
+    },
+    {
+        "sentence": [
+            "Which diamonds are traditionally popular in different parts of the world?",
+            "Let's start with the US.",
+            "When traders talk about an American diamond, they don't mean it was mined or manned."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traditionally popular",
+            "traders talk",
+            "different parts",
+            "american diamond",
+            "world",
+            "us",
+            "start"
+        ],
+        "trends": [
+            "us",
+            "start",
+            "let",
+            "traders",
+            "world",
+            "traditionally",
+            "popular"
+        ]
+    },
+    {
+        "sentence": [
+            "manufactured in the US, but that it's the type of diamond that sells well there.",
+            "Generally, those are diamonds of 40 pointers or larger.",
+            "The average centre stone for engagement rings in America hovers at just above the 1 carat mark, depending on the survey you read."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "average centre stone",
+            "1 carat mark",
+            "sells well",
+            "engagement rings",
+            "america hovers",
+            "40 pointers",
+            "us"
+        ],
+        "trends": [
+            "diamonds",
+            "generally",
+            "larger",
+            "pointers",
+            "america",
+            "engagement",
+            "average"
+        ]
+    },
+    {
+        "sentence": [
+            "Panning out to US diamond preferences more generally, demand is usually focused on the medium quality range, F to J colour and VS2 to I1 clarity.",
+            "This inclination reflects the budget-conscious nature of the American  shopper.",
+            "Americans also buy a broad range of fancy shapes, with these tending to offer lower prices than rounds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us diamond preferences",
+            "offer lower prices",
+            "americans also buy",
+            "medium quality range",
+            "broad range",
+            "usually focused",
+            "j colour"
+        ],
+        "trends": [
+            "range",
+            "also",
+            "broad",
+            "lower",
+            "buy",
+            "inclination",
+            "shopper"
+        ]
+    },
+    {
+        "sentence": [
+            "Now let's look at what people in other countries like best.",
+            "We're talking here in broad terms and not just about engagement rings.",
+            "In China, round diamonds are still dominant, and people purchase smaller but higher quality diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "countries like best",
+            "higher quality diamonds",
+            "people purchase smaller",
+            "round diamonds",
+            "still dominant",
+            "engagement rings",
+            "broad terms"
+        ],
+        "trends": [
+            "people",
+            "diamonds",
+            "like",
+            "countries",
+            "let",
+            "look",
+            "rings"
+        ]
+    },
+    {
+        "sentence": [
+            "30-pointer stones are traditionally popular there.",
+            "While there is some reluctance to buy diamonds with a number 4 in the carrot size, such as 40-pointers, as 4 is considered  an unlucky number in Chinese culture.",
+            "As for clarities, Chinese consumers were in the past big buyers of VVS diamonds, but now the typical ranges of VS1 to SI1."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "past big buyers",
+            "vvs diamonds",
+            "unlucky number",
+            "typical ranges",
+            "traditionally popular",
+            "pointer stones",
+            "chinese culture"
+        ],
+        "trends": [
+            "number",
+            "chinese",
+            "diamonds",
+            "popular",
+            "stones",
+            "traditionally",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "As we said in our February the 8th video, Chinese buyers apparently shifted to higher colours but lower clarities during last year's economic slump.",
+            "Elsewhere in Asia, Japan traditionally prefers 30-pointers with DTF colour and VVS clarity, as do such emerging markets as Vietnam and Cambodia.",
+            "India?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "japan traditionally prefers 30",
+            "chinese buyers apparently shifted",
+            "vvs clarity",
+            "lower clarities",
+            "last year",
+            "higher colours",
+            "emerging markets"
+        ],
+        "trends": [
+            "markets",
+            "colour",
+            "vietnam",
+            "asia",
+            "traditionally",
+            "elsewhere",
+            "cambodia"
+        ]
+    },
+    {
+        "sentence": [
+            "There is really a tale of two markets.",
+            "The south of the country is wealthier and tends to buy D to H coloured diamonds with VVS to VS clarity.",
+            "The north, which is poorer on average, opts for G to L coloured VS to SI clarity diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "h coloured diamonds",
+            "si clarity diamonds",
+            "l coloured vs",
+            "vs clarity",
+            "two markets",
+            "wealthier",
+            "vvs"
+        ],
+        "trends": [
+            "vs",
+            "clarity",
+            "coloured",
+            "diamonds",
+            "poorer",
+            "north",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "The European market is also mixed.",
+            "The UK is rather like the US, focusing on the lower qualities.",
+            "Germany and Switzerland are particular about quality, leaning towards diamonds under 1 carat and often 40 to 50 pointers, with high colour and clarity."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "leaning towards diamonds",
+            "rather like",
+            "often 40",
+            "lower qualities",
+            "high colour",
+            "european market",
+            "also mixed"
+        ],
+        "trends": [
+            "focusing",
+            "like",
+            "uk",
+            "us",
+            "qualities",
+            "rather",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "That's the geographical survey, but don't forget there's another factor.",
+            "International luxury brands such as Cartier, Tiffany, Van Cleef and Arpels buy top colours and clarities irrespective of where they're going to sell them.",
+            "In summary, the older, more mature diamond markets such as the US and UK have developed broader diamond preferences to accommodate a range of budgets."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "arpels buy top colours",
+            "developed broader diamond preferences",
+            "mature diamond markets",
+            "international luxury brands",
+            "van cleef",
+            "geographical survey",
+            "clarities irrespective"
+        ],
+        "trends": [
+            "diamond",
+            "accommodate",
+            "developed",
+            "us",
+            "budgets",
+            "markets",
+            "another"
+        ]
+    },
+    {
+        "sentence": [
+            "In the less established markets, however, diamonds are still predominantly for the higher-end consumer.",
+            "This is something to keep in mind when  watching how countries diamond markets develop over time.",
+            "Are there certain diamond buying preferences where you live?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "certain diamond buying preferences",
+            "countries diamond markets develop",
+            "less established markets",
+            "still predominantly",
+            "end consumer",
+            "watching",
+            "time"
+        ],
+        "trends": [
+            "diamond",
+            "markets",
+            "still",
+            "predominantly",
+            "consumer",
+            "less",
+            "buying"
+        ]
+    },
+    {
+        "sentence": [
+            "Let us know what you think in the comments.",
+            "This video is brought to you by RapNet, the world's largest and most trusted diamond trading network.",
+            "If you liked it, please subscribe to get every new video we make on a weekly basis discussing trends and analysis in the diamond industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly basis discussing trends",
+            "trusted diamond trading network",
+            "get every new video",
+            "let us know",
+            "diamond industry",
+            "please subscribe",
+            "video"
+        ],
+        "trends": [
+            "video",
+            "diamond",
+            "largest",
+            "network",
+            "world",
+            "think",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week!",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

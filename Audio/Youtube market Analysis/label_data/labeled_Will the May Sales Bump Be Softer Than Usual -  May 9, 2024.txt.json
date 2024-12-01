@@ -1,0 +1,244 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market Comment.",
+            "Mother's Day is coming up in the US on Sunday, May 12th.",
+            "It's an important gifting time for the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport market comment",
+            "important gifting time",
+            "may 12th",
+            "welcome",
+            "us",
+            "sunday",
+            "mother"
+        ],
+        "trends": [
+            "time",
+            "industry",
+            "important",
+            "gifting",
+            "us",
+            "welcome",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "It's probably the most popular period for buying diamonds after the fourth quarter holiday season, even more so than Valentine's Day.",
+            "So let's use this opportunity to reassess the state of the US jewelry market.",
+            "months of the year for sales at US jewellery stores, according to the US Department of Commerce."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fourth quarter holiday season",
+            "us jewelry market",
+            "us jewellery stores",
+            "us department",
+            "popular period",
+            "buying diamonds",
+            "year"
+        ],
+        "trends": [
+            "us",
+            "year",
+            "commerce",
+            "market",
+            "opportunity",
+            "use",
+            "state"
+        ]
+    },
+    {
+        "sentence": [
+            "The department stopped publishing these numbers for jewellery stores in 2021, but the trend was pretty consistent before then.",
+            "In many years, May also sees a spike in US polished diamond imports.",
+            "However, I question whether that is due to Mother's Day, since dealers and retailers would have imported most of the diamonds they need for May by the end of April."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us polished diamond imports",
+            "department stopped publishing",
+            "may also sees",
+            "since dealers",
+            "retailers would",
+            "question whether",
+            "pretty consistent"
+        ],
+        "trends": [
+            "may",
+            "numbers",
+            "consistent",
+            "department",
+            "trend",
+            "stores",
+            "stopped"
+        ]
+    },
+    {
+        "sentence": [
+            "Probably the main factor there is the JCK Las Vegas show in late May and early June, for which companies shipped lots of goods to display  and sell at the exhibition.",
+            "The fact that the spike did not happen in 2020 when the show was cancelled due to Covid-19 supports this claim.",
+            "We should also note that the late spring and early summer are popular times for engagements."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jck las vegas show",
+            "companies shipped lots",
+            "popular times",
+            "main factor",
+            "late spring",
+            "late may",
+            "early summer"
+        ],
+        "trends": [
+            "show",
+            "late",
+            "early",
+            "fact",
+            "due",
+            "supports",
+            "happen"
+        ]
+    },
+    {
+        "sentence": [
+            "This might be a further influence on both spikes in the data.",
+            "However, this year's Mother's Day doesn't look so great.",
+            "The National Retail Federation, the NRF, predicted US spending on jewellery would total $7 billion this Mother's Day."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "predicted us spending",
+            "national retail federation",
+            "jewellery would total",
+            "7 billion",
+            "year",
+            "spikes",
+            "nrf"
+        ],
+        "trends": [
+            "mother",
+            "day",
+            "great",
+            "however",
+            "look",
+            "year",
+            "might"
+        ]
+    },
+    {
+        "sentence": [
+            "That's 10% less than the prediction of $7.8 billion  $1.5 million it gave a year earlier.",
+            "The NRF's figures indicate consumers plan to spend more than in the past on experiences such as outings.",
+            "That inevitably impacts jewelry sales, but there is also a background of uncertain US economic conditions due to high inflation and interest rates."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "uncertain us economic conditions due",
+            "inevitably impacts jewelry sales",
+            "figures indicate consumers plan",
+            "year earlier",
+            "interest rates",
+            "high inflation",
+            "8 billion"
+        ],
+        "trends": [
+            "experiences",
+            "indicate",
+            "consumers",
+            "prediction",
+            "inflation",
+            "jewelry",
+            "background"
+        ]
+    },
+    {
+        "sentence": [
+            "Last week the US Federal Reserve held interest rates at a 23 year high, citing a lack of progress in reducing inflation.",
+            "Again, as we've seen in many other videos, we are not in the  easiest period for the US jewelry market.",
+            "How do you expect it to develop?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us federal reserve held interest rates",
+            "us jewelry market",
+            "23 year high",
+            "reducing inflation",
+            "last week",
+            "easiest period",
+            "videos"
+        ],
+        "trends": [
+            "federal",
+            "held",
+            "us",
+            "many",
+            "jewelry",
+            "videos",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "Let us know in the comments.",
+            "Please don't forget to subscribe to get every new video we make on a weekly basis discussing trends and analysis in the diamond industry.",
+            "This video is brought to you by Rapnet, the world's largest and most trusted diamond trading network."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly basis discussing trends",
+            "trusted diamond trading network",
+            "get every new video",
+            "let us know",
+            "diamond industry",
+            "video",
+            "world"
+        ],
+        "trends": [
+            "video",
+            "diamond",
+            "network",
+            "brought",
+            "largest",
+            "world",
+            "comments"
+        ]
+    },
+    {
+        "sentence": [
+            "If you buy or sell diamonds, Rapnet is the right solution for you.",
+            "Find out more at rapnet.com.",
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sell diamonds",
+            "right solution",
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "rapnet"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "solution",
+            "sell",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [],
+        "trends": []
+    }
+]

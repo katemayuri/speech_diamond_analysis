@@ -1,0 +1,415 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome back to the Rappaport Market comment.",
+            "Don't forget to subscribe, share and comment down here if you like our videos.",
+            "While the average price fell 14% to $114 per carat."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "average price fell 14",
+            "114 per carat",
+            "rappaport market comment",
+            "welcome back",
+            "comment",
+            "videos",
+            "subscribe"
+        ],
+        "trends": [
+            "comment",
+            "price",
+            "per",
+            "fell",
+            "carat",
+            "welcome",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "For the reasons why production dropped, I recommend a video by Avi Kravitz who used to present the irreparable market comment.",
+            "It's in the description of this video.",
+            "Now, let's focus on another aspect."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "irreparable market comment",
+            "production dropped",
+            "avi kravitz",
+            "another aspect",
+            "video",
+            "video",
+            "used"
+        ],
+        "trends": [
+            "video",
+            "used",
+            "recommend",
+            "reasons",
+            "production",
+            "present",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "Russia has been the world's largest diamond producer by volume for decades.",
+            "However, by value, the country overtook Botswana in 2023 to become the world's biggest producer, with output rising 1% by value to $3.6 billion.",
+            "Russia's rough exports came to a similar amount, at around $3.7 billion."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rough exports came",
+            "output rising 1",
+            "country overtook botswana",
+            "largest diamond producer",
+            "biggest producer",
+            "similar amount",
+            "7 billion"
+        ],
+        "trends": [
+            "world",
+            "producer",
+            "value",
+            "russia",
+            "billion",
+            "become",
+            "biggest"
+        ]
+    },
+    {
+        "sentence": [
+            "Both of these numbers are noteworthy, as Russian diamonds have been the subject of various import bans and voluntary boycotts since the war in Ukraine began in February 2022.",
+            "We don't need to go into the details of them now, but there was clearly a decline in demand for Russian diamonds in the US and Europe compared with before the war.",
+            "diamond exports go."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "voluntary boycotts since",
+            "various import bans",
+            "diamond exports go",
+            "ukraine began",
+            "russian diamonds",
+            "russian diamonds",
+            "february 2022"
+        ],
+        "trends": [
+            "war",
+            "diamonds",
+            "russian",
+            "us",
+            "clearly",
+            "compared",
+            "decline"
+        ]
+    },
+    {
+        "sentence": [
+            "Full information is not publicly available.",
+            "Arosa, Russia's largest diamond miner, used to publish its revenue by location of customer, but stopped doing this when the war began.",
+            "However, private KP-trace statistics show that around 40% of Russia's exports in 2023 went to the United Arab Emirates, which contains Dubai, according to my anonymous source, the works in the Kimberley Process Circles."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "united arab emirates",
+            "trace statistics show",
+            "largest diamond miner",
+            "kimberley process circles",
+            "war began",
+            "publicly available",
+            "private kp"
+        ],
+        "trends": [
+            "russia",
+            "publish",
+            "customer",
+            "miner",
+            "publicly",
+            "full",
+            "information"
+        ]
+    },
+    {
+        "sentence": [
+            "If you do the math, that equates to around 1.5 billion  billion US dollars.",
+            "Some 30% went to India and 20% to China, the source estimates.",
+            "The remaining 10% went to markets such as the European Union, which includes Belgium, as well as Belarus, an ally of Russia."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "5 billion billion us dollars",
+            "source estimates",
+            "remaining 10",
+            "includes belgium",
+            "european union",
+            "around 1",
+            "went"
+        ],
+        "trends": [
+            "billion",
+            "went",
+            "equates",
+            "us",
+            "around",
+            "math",
+            "dollars"
+        ]
+    },
+    {
+        "sentence": [
+            "What do we know about those destinations?",
+            "If those numbers are right, then the UAE's share of the Russian diamond market has increased since the war.",
+            "In 2020 and 2021, the last four years for which we have our roses, data on location of  It accounted for 20% of Alros' revenue."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "russian diamond market",
+            "last four years",
+            "increased since",
+            "war",
+            "uae",
+            "share",
+            "roses"
+        ],
+        "trends": [
+            "right",
+            "years",
+            "revenue",
+            "alros",
+            "data",
+            "four",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "It's clear that the European Union is importing less rough from Russia than before.",
+            "Belgium was constantly Alros' number one market.",
+            "In 2020 and 2021, it accounted for around 35% of the miners' sales."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "number one market",
+            "importing less rough",
+            "european union",
+            "constantly alros",
+            "around 35",
+            "sales",
+            "russia"
+        ],
+        "trends": [
+            "around",
+            "miners",
+            "sales",
+            "constantly",
+            "alros",
+            "one",
+            "number"
+        ]
+    },
+    {
+        "sentence": [
+            "Furthermore, statistics from the National Bank of Belgium show that Belgium imports of rough diamonds from Russia fell from about 1.7 billion US dollars in 2021 to 1.4 billion US dollars in 2020.",
+            "US dollars in 2022 and then slumped to around 310 million in 2023.",
+            "This decline reflects Antwerp Diamond Company's ethical and commercial buying decisions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "decline reflects antwerp diamond company",
+            "7 billion us dollars",
+            "4 billion us dollars",
+            "commercial buying decisions",
+            "around 310 million",
+            "us dollars",
+            "russia fell"
+        ],
+        "trends": [
+            "us",
+            "dollars",
+            "billion",
+            "belgium",
+            "diamond",
+            "reflects",
+            "buying"
+        ]
+    },
+    {
+        "sentence": [
+            "Remember that the EU only banned imports of Russian diamonds from January 1, 2024.",
+            "But India's direct imports of Russian diamonds haven't declined since the war began.",
+            "In fact, they rose from around US$800 million in the fiscal year ending March 2022 to around US$1.2 billion in  following two years."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fiscal year ending march 2022",
+            "following two years",
+            "war began",
+            "russian diamonds",
+            "russian diamonds",
+            "direct imports",
+            "declined since"
+        ],
+        "trends": [
+            "imports",
+            "russian",
+            "diamonds",
+            "around",
+            "us",
+            "war",
+            "began"
+        ]
+    },
+    {
+        "sentence": [
+            "That matches our estimate that 30% of Russian rough was going to India.",
+            "The years are off slightly because the KP follows a calendar year while India follows a fiscal year ending in March.",
+            "As for other countries, data for China's imports from Russia are unavailable as far as I know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fiscal year ending",
+            "calendar year",
+            "russian rough",
+            "kp follows",
+            "india follows",
+            "india",
+            "years"
+        ],
+        "trends": [
+            "india",
+            "follows",
+            "year",
+            "kp",
+            "ending",
+            "fiscal",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "Also, Belarus reported to the Kimberley Process that it imported around 36 million US dollars of rough diamonds from Russia in 2023.",
+            "That works out at about  about 1% of Russia's total output.",
+            "In summary, Russia's diamonds have continued to reach the market, mostly going to Dubai and India."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "imported around 36 million us dollars",
+            "total output",
+            "mostly going",
+            "kimberley process",
+            "belarus reported",
+            "rough diamonds",
+            "diamonds"
+        ],
+        "trends": [
+            "russia",
+            "diamonds",
+            "works",
+            "output",
+            "total",
+            "also",
+            "around"
+        ]
+    },
+    {
+        "sentence": [
+            "But there is one outstanding question.",
+            "As we reported in February, our rose's revenues increased 9% in 2023 despite sanctions.",
+            "Yet the company also reported that its inventories of rough diamonds grew by some US$306 million during the year."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rough diamonds grew",
+            "revenues increased 9",
+            "one outstanding question",
+            "2023 despite sanctions",
+            "company also reported",
+            "306 million",
+            "reported"
+        ],
+        "trends": [
+            "reported",
+            "one",
+            "question",
+            "outstanding",
+            "yet",
+            "year",
+            "company"
+        ]
+    },
+    {
+        "sentence": [
+            "This is surprising  given that we have heard steady reports and rumours about Auroza selling production to Gohran, the Russian state gem depository that buys Aurozas rough when markets are bad.",
+            "It's also surprising because the KP data shows that Russia's rough exports exceeded its production plus imports by about $600 million.",
+            "Is Auroza growing its stock of diamonds or reporting an excessive stock for another reason?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian state gem depository",
+            "rough exports exceeded",
+            "production plus imports",
+            "kp data shows",
+            "heard steady reports",
+            "buys aurozas rough",
+            "auroza selling production"
+        ],
+        "trends": [
+            "stock",
+            "surprising",
+            "rough",
+            "auroza",
+            "production",
+            "another",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Let us know what you think in the comments.",
+            "largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Wrapnet is the right solution for you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "let us know",
+            "sell diamonds",
+            "right solution",
+            "wrapnet",
+            "think",
+            "largest"
+        ],
+        "trends": [
+            "us",
+            "think",
+            "let",
+            "know",
+            "trusted",
+            "trading",
+            "network"
+        ]
+    },
+    {
+        "sentence": [
+            "Find out more at Wrapnet.com.",
+            "Thanks for watching and enjoy the rest of the week!"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wrapnet",
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "find",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

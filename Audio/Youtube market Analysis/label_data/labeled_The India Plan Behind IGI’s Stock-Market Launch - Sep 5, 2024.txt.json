@@ -1,0 +1,305 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market comment.",
+            "594 pages is the length of the prospectus document that the International Gerological Institute or IGI published with its initial public offering or IPO.",
+            "Last week we discussed three facts from it on this video as you might have seen."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rappaport market comment",
+            "international gerological institute",
+            "initial public offering",
+            "discussed three facts",
+            "prospectus document",
+            "last week",
+            "igi published"
+        ],
+        "trends": [
+            "seen",
+            "discussed",
+            "facts",
+            "might",
+            "three",
+            "welcome",
+            "hello"
+        ]
+    },
+    {
+        "sentence": [
+            "The company declined to comment beyond what was in that prospectus, but there is a lot of information in it.",
+            "I noticed through reading the document that IGI is not merely listing on a socket change,  It also has a plan to change the structure of the global business.",
+            "And today we are going to dig a little deeper into what this means for the company."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "merely listing",
+            "little deeper",
+            "global business",
+            "comment beyond",
+            "socket change",
+            "company declined",
+            "company"
+        ],
+        "trends": [
+            "company",
+            "change",
+            "today",
+            "means",
+            "little",
+            "beyond",
+            "prospectus"
+        ]
+    },
+    {
+        "sentence": [
+            "Let's start by describing IGI at present.",
+            "India, the grading lab's largest section, which also owns IGI Turkey, IGI Netherlands, which owns subsidiaries in the Middle East, China, and other countries, and IGI Belgium, which owns IGI USA.",
+            "IGI India, which is issuing shares on two Indian stock exchanges, wants to use some of the proceeds of the IPO to acquire the other two arms of IGI, Belgium and the Netherlands, from BCP."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two indian stock exchanges",
+            "also owns igi turkey",
+            "owns igi usa",
+            "two arms",
+            "owns subsidiaries",
+            "describing igi",
+            "middle east"
+        ],
+        "trends": [
+            "igi",
+            "owns",
+            "two",
+            "netherlands",
+            "belgium",
+            "india",
+            "subsidiaries"
+        ]
+    },
+    {
+        "sentence": [
+            "According to the document, BCP would directly own IGI India, which would then own and be responsible for all the rest  of the business.",
+            "This acquisition will cost an estimated $131 million, the filing says.",
+            "The largest part of the non-India business is IGI Belgium, which again includes the US, where the organization has three labs."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bcp would directly",
+            "three labs",
+            "largest part",
+            "igi india",
+            "igi belgium",
+            "filing says",
+            "131 million"
+        ],
+        "trends": [
+            "igi",
+            "business",
+            "would",
+            "organization",
+            "part",
+            "cost",
+            "estimated"
+        ]
+    },
+    {
+        "sentence": [
+            "Revenue from IGI Belgium came to around $18 million in 2023, according to the filing.",
+            "That is about a quarter of the revenue of IGI India, which brought in 76 million, as we said last week.",
+            "The filing doesn't say how much revenue IGI USA makes, as far as I could tell."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much revenue igi usa makes",
+            "igi belgium came",
+            "said last week",
+            "igi india",
+            "could tell",
+            "76 million",
+            "18 million"
+        ],
+        "trends": [
+            "revenue",
+            "igi",
+            "filing",
+            "million",
+            "india",
+            "brought",
+            "according"
+        ]
+    },
+    {
+        "sentence": [
+            "What is this document telling us?",
+            "IGI was founded by the Lorry family in Belgium in 1975.",
+            "What this move indicates is that after becoming increasingly focused on the India market, it's also planning to switch control of the global business to India."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "document telling us",
+            "becoming increasingly focused",
+            "switch control",
+            "move indicates",
+            "lorry family",
+            "global business",
+            "also planning"
+        ],
+        "trends": [
+            "india",
+            "indicates",
+            "increasingly",
+            "belgium",
+            "family",
+            "founded",
+            "igi"
+        ]
+    },
+    {
+        "sentence": [
+            "The IPO filing also follows the appointment of India-based Tamas Printer as CEO last year when he replaced Antwerp-based Roland Lorry.",
+            "A source told Indian newspaper Money Control that these acquisitions would have happened irrespective of the stock market's rotation.",
+            "But this method enabled it to do them in a more timely and cost effective way by tapping into the strong Indian IPO market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "source told indian newspaper money control",
+            "strong indian ipo market",
+            "ipo filing also follows",
+            "cost effective way",
+            "ceo last year",
+            "based tamas printer",
+            "based roland lorry"
+        ],
+        "trends": [
+            "market",
+            "indian",
+            "ipo",
+            "acquisitions",
+            "year",
+            "ceo",
+            "filing"
+        ]
+    },
+    {
+        "sentence": [
+            "Behind the IPO is actually a transition.",
+            "IGI is becoming less Europe based and more India based.",
+            "Given its revenue distribution and the fact that India is central to natural and synthetic diamond manufacturing, that makes a lot of sense."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "becoming less europe based",
+            "synthetic diamond manufacturing",
+            "india based",
+            "revenue distribution",
+            "india",
+            "transition",
+            "sense"
+        ],
+        "trends": [
+            "based",
+            "india",
+            "natural",
+            "sense",
+            "central",
+            "diamond",
+            "igi"
+        ]
+    },
+    {
+        "sentence": [
+            "What do you think the rest of the market can learn about this?",
+            "Let us know in the comments.",
+            "You can also comment down here and share your suggestions for topics we should follow in the coming weeks."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "let us know",
+            "coming weeks",
+            "also comment",
+            "topics",
+            "think",
+            "suggestions",
+            "share"
+        ],
+        "trends": [
+            "weeks",
+            "topics",
+            "think",
+            "rest",
+            "us",
+            "let",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "And before we finish, let me also encourage you to participate in our current Diamond Trends survey on WrapReport.com.",
+            "We're asking for feedback on consumer trends, synthetic diamonds, and more.",
+            "It's also a great opportunity to have your business featured in our coverage."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "current diamond trends survey",
+            "consumer trends",
+            "synthetic diamonds",
+            "great opportunity",
+            "business featured",
+            "also encourage",
+            "also"
+        ],
+        "trends": [
+            "feedback",
+            "trends",
+            "also",
+            "featured",
+            "opportunity",
+            "great",
+            "asking"
+        ]
+    },
+    {
+        "sentence": [
+            "Click on this link to take part.",
+            "is the right solution for you.",
+            "Find out more at Wrapnet.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "take part",
+            "right solution",
+            "wrapnet",
+            "link",
+            "find",
+            "com",
+            "click"
+        ],
+        "trends": [
+            "take",
+            "part",
+            "link",
+            "click"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

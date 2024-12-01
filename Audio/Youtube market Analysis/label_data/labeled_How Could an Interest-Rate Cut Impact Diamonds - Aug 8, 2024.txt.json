@@ -1,0 +1,301 @@
+[
+    {
+        "sentence": [
+            " Action!",
+            "on September 17th and 18th.",
+            "This is because inflation has come down."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "september 17th",
+            "inflation",
+            "come",
+            "action",
+            "18th"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "This could have a considerable impact on the diamond and jewellery industry.",
+            "But before getting into possible outcomes, we have a request for you.",
+            "Please like this video or subscribe to the channel if you haven't done it already."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "possible outcomes",
+            "please like",
+            "jewellery industry",
+            "considerable impact",
+            "video",
+            "subscribe",
+            "request"
+        ],
+        "trends": [
+            "possible",
+            "outcomes",
+            "getting",
+            "video",
+            "subscribe",
+            "channel",
+            "done"
+        ]
+    },
+    {
+        "sentence": [
+            "We are very close to achieving 4,000 subscribers and want to get there before the holiday season starts.",
+            "You can also comment down here and share your suggestions for topics we should follow in the coming weeks.",
+            "So now let's jump through four possible effects of an interest rate cut."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "interest rate cut",
+            "holiday season starts",
+            "four possible effects",
+            "coming weeks",
+            "also comment",
+            "achieving 4",
+            "000 subscribers"
+        ],
+        "trends": [
+            "also",
+            "coming",
+            "four",
+            "cut",
+            "weeks",
+            "topics",
+            "suggestions"
+        ]
+    },
+    {
+        "sentence": [
+            "First, consumer demand.",
+            "The higher the interest rates, the more expensive life tends to become for those who borrow.",
+            "That is, of course, chiefly homeowners with mortgages."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "expensive life tends",
+            "interest rates",
+            "consumer demand",
+            "chiefly homeowners",
+            "mortgages",
+            "higher",
+            "first"
+        ],
+        "trends": [
+            "first",
+            "demand",
+            "tends",
+            "rates",
+            "life",
+            "mortgages",
+            "homeowners"
+        ]
+    },
+    {
+        "sentence": [
+            "Their spending power is reduced when interest rates rise and vice versa.",
+            "If the Fed lowers the federal funds rate, this will trickle down to middle class Americans.",
+            "However, those who have lots of savings might lose out from lower returns if interest rates fall, so this could negatively impact the higher end segment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "savings might lose",
+            "middle class americans",
+            "interest rates rise",
+            "interest rates fall",
+            "higher end segment",
+            "federal funds rate",
+            "could negatively impact"
+        ],
+        "trends": [
+            "interest",
+            "middle",
+            "class",
+            "rates",
+            "vice",
+            "spending",
+            "rise"
+        ]
+    },
+    {
+        "sentence": [
+            "Second, the cost of borrowing has consequences for businesses.",
+            "rates negatively impact companies' profit margins because financing is more expensive.",
+            "This would ease if the rate comes down."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rates negatively impact companies",
+            "would ease",
+            "rate comes",
+            "profit margins",
+            "second",
+            "financing",
+            "expensive"
+        ],
+        "trends": [
+            "comes",
+            "ease",
+            "expensive",
+            "second",
+            "businesses",
+            "consequences",
+            "cost"
+        ]
+    },
+    {
+        "sentence": [
+            "In particular, diamond dealers and retailers would likely see a reduction in the cost of inventory finance, the credit they get from banks to fund purchases of goods that they will sell later.",
+            "With a lower interest rate, it's likely diamond buyers would have an easier time buying inventory outright rather than taking goods on memo, which has become very common in recent years, partly because of the cost of holding inventory.",
+            "to prop up the value of the dollar as they attract investment from foreign entities and increase demand for the currency."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "easier time buying inventory outright rather",
+            "retailers would likely see",
+            "likely diamond buyers would",
+            "lower interest rate",
+            "inventory finance",
+            "holding inventory",
+            "diamond dealers"
+        ],
+        "trends": [
+            "inventory",
+            "cost",
+            "diamond",
+            "goods",
+            "would",
+            "likely",
+            "attract"
+        ]
+    },
+    {
+        "sentence": [
+            "However, there are many things that impact the value of the dollar, so predictions are notoriously hard to make.",
+            "But if rates were to fall, the dollar would likely weaken.",
+            "This could have many implications, including making business easier for overseas companies that export diamonds to the US."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "including making business easier",
+            "dollar would likely weaken",
+            "overseas companies",
+            "notoriously hard",
+            "many things",
+            "many implications",
+            "export diamonds"
+        ],
+        "trends": [
+            "dollar",
+            "many",
+            "predictions",
+            "notoriously",
+            "make",
+            "rates",
+            "weaken"
+        ]
+    },
+    {
+        "sentence": [
+            "This is because they sell in US dollars but incur costs in their local currency.",
+            "interest rates and gold demand, though some claim this connection is not significant.",
+            "In theory, when interest rates are high, gold has more competitors as an investment, as people can make a lot of money from bonds and other financial investments."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us dollars",
+            "local currency",
+            "interest rates",
+            "interest rates",
+            "incur costs",
+            "financial investments",
+            "gold demand"
+        ],
+        "trends": [
+            "interest",
+            "rates",
+            "gold",
+            "costs",
+            "currency",
+            "local",
+            "dollars"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's possible that gold could gain in price even beyond its current highs.",
+            "We'll have to wait till next month to see if the interest rate drops, and several more months to understand the real impact of this.",
+            "What do you expect will happen?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wait till next month",
+            "price even beyond",
+            "interest rate drops",
+            "gold could gain",
+            "real impact",
+            "current highs",
+            "understand"
+        ],
+        "trends": [
+            "interest",
+            "beyond",
+            "could",
+            "current",
+            "even",
+            "gain",
+            "price"
+        ]
+    },
+    {
+        "sentence": [
+            "Let us know in the comments.",
+            "This video is sponsored by Rapnet, the world's largest and most trusted  diamond trading network.",
+            "If you buy or sell diamonds, Rapnet is the right solution for you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "let us know",
+            "sell diamonds",
+            "right solution",
+            "world",
+            "video",
+            "sponsored"
+        ],
+        "trends": [
+            "rapnet",
+            "let",
+            "right",
+            "diamonds",
+            "buy",
+            "sell",
+            "solution"
+        ]
+    },
+    {
+        "sentence": [
+            "Find out more at rapnet.com.",
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "rapnet",
+            "find",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

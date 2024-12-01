@@ -1,0 +1,287 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market comment.",
+            "I feel a bit bad about what I'm going to tell you.",
+            "When I was in Las Vegas for the JCK show three weeks ago, I took a few hours to walk around some luxury jewellers nearby."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jck show three weeks ago",
+            "rappaport market comment",
+            "luxury jewellers nearby",
+            "walk around",
+            "las vegas",
+            "bit bad",
+            "welcome"
+        ],
+        "trends": [
+            "welcome",
+            "comment",
+            "rappaport",
+            "market",
+            "hello",
+            "las",
+            "nearby"
+        ]
+    },
+    {
+        "sentence": [
+            "I went into Tiffany, Cartier and Van Cleef & Arpels, claiming I was interested in viewing diamond engagement rings.",
+            "I'm already married, but I wanted to see first hand what the customer experience was like and how the sales associates spoke about diamonds.",
+            "They could probably tell from my  that I wasn't genuinely about to spend $30,000 on jewellery, and when they asked about my proposal plans, I dodged the question."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "viewing diamond engagement rings",
+            "see first hand",
+            "sales associates spoke",
+            "could probably tell",
+            "van cleef",
+            "proposal plans",
+            "customer experience"
+        ],
+        "trends": [
+            "could",
+            "genuinely",
+            "dodged",
+            "plans",
+            "probably",
+            "proposal",
+            "question"
+        ]
+    },
+    {
+        "sentence": [
+            "But still, if any of the salespeople are watching, I apologise for wasting your time or getting your hopes up.",
+            "What I asked in each store were a few standard questions.",
+            "Where are the diamonds from?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "standard questions",
+            "watching",
+            "wasting",
+            "time",
+            "store",
+            "still",
+            "salespeople"
+        ],
+        "trends": [
+            "store",
+            "standard",
+            "watching",
+            "wasting",
+            "time",
+            "still",
+            "salespeople"
+        ]
+    },
+    {
+        "sentence": [
+            "How do I know they're natural?",
+            "What styles are the most popular?",
+            "I'm going to summarise how it went, without naming the store, because I don't want to get anyone fired."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get anyone fired",
+            "without naming",
+            "went",
+            "want",
+            "summarise",
+            "styles",
+            "store"
+        ],
+        "trends": [
+            "without",
+            "went",
+            "want",
+            "summarise",
+            "store",
+            "naming",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "The first store I went to was very appealing, but I wasn't so impressed by the salesman.",
+            "He didn't seem very knowledgeable about diamonds and gemstones, he actually seemed like he read a Wikipedia article on them.",
+            "He conflated colour and clarity and didn't appear to know much about where manufacturing took place."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "manufacturing took place",
+            "actually seemed like",
+            "wikipedia article",
+            "know much",
+            "first store",
+            "conflated colour",
+            "went"
+        ],
+        "trends": [
+            "manufacturing",
+            "colour",
+            "know",
+            "clarity",
+            "impressed",
+            "wikipedia",
+            "read"
+        ]
+    },
+    {
+        "sentence": [
+            "He said with confidence that the company had no Russian diamonds, but was shaky on the details.",
+            "To my surprise, he brought up the issue of synthetic diamonds right at the start of our conversation before I had asked about it, and was insistent accurately that the company didn't have any of them.",
+            "Yes, what matters is the ability to make a sale."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "synthetic diamonds right",
+            "russian diamonds",
+            "insistent accurately",
+            "yes",
+            "surprise",
+            "start",
+            "shaky"
+        ],
+        "trends": [
+            "diamonds",
+            "company",
+            "insistent",
+            "accurately",
+            "asked",
+            "confidence",
+            "shaky"
+        ]
+    },
+    {
+        "sentence": [
+            "colours and clarities the company accepted and why.",
+            "When I asked about Origin, he cited the responsible jewellery council and his company's role in it.",
+            "This was an impressive performance."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "responsible jewellery council",
+            "impressive performance",
+            "company accepted",
+            "company",
+            "role",
+            "origin",
+            "colours"
+        ],
+        "trends": [
+            "company",
+            "colours",
+            "clarities",
+            "role",
+            "responsible",
+            "origin",
+            "jewellery"
+        ]
+    },
+    {
+        "sentence": [
+            "The third store also had a knowledgeable sales associate who talked about the Kimberley process, said all the diamonds were from Africa, something I heard from a few salespeople, and was also very specific about what colours and clarities the jewellery accepted.",
+            "This guy rumbled me very quickly and asked if I was in Vegas for the show.",
+            "So here are my overall impressions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "knowledgeable sales associate",
+            "third store also",
+            "overall impressions",
+            "kimberley process",
+            "jewellery accepted",
+            "guy rumbled",
+            "also"
+        ],
+        "trends": [
+            "also",
+            "africa",
+            "associate",
+            "clarities",
+            "vegas",
+            "asked",
+            "show"
+        ]
+    },
+    {
+        "sentence": [
+            "There was a lot of diversity  in the quality of knowledge of sales associates.",
+            "There might be because different brands cater to different types of consumers.",
+            "There was a general focus on diamonds being broadly from Africa, without much mention of other locations."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "without much mention",
+            "different brands cater",
+            "different types",
+            "sales associates",
+            "general focus",
+            "quality",
+            "might"
+        ],
+        "trends": [
+            "different",
+            "lot",
+            "might",
+            "brands",
+            "types",
+            "cater",
+            "sales"
+        ]
+    },
+    {
+        "sentence": [
+            "To my recollection, only one of them said anything about Botswana, the world's biggest producer of diamonds by value.",
+            "There was also a tendency to rely on the GIA, rightly or wrongly, as the answer to all questions about product verification.",
+            "I'm not sure if the salespeople knew what the GIA did and didn't do, and  And I suspect one or two of them might have been overstating how much their companies use the GIA for origin confirmation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "salespeople knew",
+            "said anything",
+            "product verification",
+            "origin confirmation",
+            "companies use",
+            "biggest producer",
+            "suspect one"
+        ],
+        "trends": [
+            "gia",
+            "one",
+            "wrongly",
+            "rightly",
+            "answer",
+            "product",
+            "questions"
+        ]
+    },
+    {
+        "sentence": [
+            "in the comments of this video, and don't forget to subscribe to get notifications every time we make a new one.",
+            "Thanks for watching, and enjoy the rest of the week!"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get notifications every time",
+            "new one",
+            "week",
+            "watching",
+            "video",
+            "thanks",
+            "subscribe"
+        ],
+        "trends": [
+            "video",
+            "time",
+            "subscribe",
+            "one",
+            "notifications",
+            "week",
+            "watching"
+        ]
+    }
+]

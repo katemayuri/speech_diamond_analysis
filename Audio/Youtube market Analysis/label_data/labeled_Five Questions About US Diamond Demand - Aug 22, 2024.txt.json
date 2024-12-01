@@ -1,0 +1,262 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome back to the Rappaport Market comment.",
+            "The diamond market is quiet this summer, partly for the usual seasonal reasons, and partly because demand is weak, even for the time of year.",
+            "But with the fourth quarter holidays coming up soon, industry members will return for their vacations, wondering if the season in the US will signal a turnaround for the market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fourth quarter holidays coming",
+            "usual seasonal reasons",
+            "rappaport market comment",
+            "welcome back",
+            "industry members",
+            "diamond market",
+            "market"
+        ],
+        "trends": [
+            "partly",
+            "usual",
+            "reasons",
+            "demand",
+            "diamond",
+            "market",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "On that note, here are five questions about the state of the US diamond market, the answers to which could well determine the extent to which the industry recovers.",
+            "But before getting into them, we have a request for you.",
+            "Please like this video or subscribe to this channel if you haven't done so already."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us diamond market",
+            "could well determine",
+            "please like",
+            "industry recovers",
+            "five questions",
+            "video",
+            "subscribe"
+        ],
+        "trends": [
+            "recovers",
+            "questions",
+            "note",
+            "like",
+            "please",
+            "channel",
+            "done"
+        ]
+    },
+    {
+        "sentence": [
+            "You can also comment down here and share your suggestions for topics we should follow in the coming weeks.",
+            "Now, going back to our questions about the US market.",
+            "First, when, if ever, will retailers start buying diamonds for inventory?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "retailers start buying diamonds",
+            "us market",
+            "going back",
+            "coming weeks",
+            "also comment",
+            "topics",
+            "suggestions"
+        ],
+        "trends": [
+            "questions",
+            "diamonds",
+            "buying",
+            "start",
+            "retailers",
+            "inventory",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "We have heard a lot of reports of duellers being cautious about their purchases and taking goods on memo to minimize risk.",
+            "Will this change as the season approaches?",
+            "be determined by consumer demand of course, as well as their existing inventory levels."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "existing inventory levels",
+            "taking goods",
+            "season approaches",
+            "minimize risk",
+            "consumer demand",
+            "well",
+            "reports"
+        ],
+        "trends": [
+            "inventory",
+            "consumer",
+            "course",
+            "demand",
+            "determined",
+            "existing",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "The Indian diamond manufacturing sector has slashed its production levels to try and rebalance supply and demand, as we have reported on Rappaport.com.",
+            "But certainly a return to inventory buying by US retailers would greatly help this cause.",
+            "comparatively high, as do interest rates."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us retailers would greatly help",
+            "indian diamond manufacturing sector",
+            "rebalance supply",
+            "production levels",
+            "inventory buying",
+            "interest rates",
+            "comparatively high"
+        ],
+        "trends": [
+            "comparatively",
+            "high",
+            "interest",
+            "rates",
+            "levels",
+            "indian",
+            "try"
+        ]
+    },
+    {
+        "sentence": [
+            "There is also a presidential election on November 5, an event that often causes uncertainty and pushes Americans to defer investment decisions until they have more clarity about government policy.",
+            "This includes the desirability of natural diamonds as a consumer product and as an investment, as well as the impact of synthetic diamonds.",
+            "Will synthetic diamonds grow their market share this holiday?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "often causes uncertainty",
+            "defer investment decisions",
+            "synthetic diamonds grow",
+            "synthetic diamonds",
+            "natural diamonds",
+            "pushes americans",
+            "presidential election"
+        ],
+        "trends": [
+            "diamonds",
+            "synthetic",
+            "investment",
+            "well",
+            "consumer",
+            "desirability",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "and natural diamonds impact consumer decisions.",
+            "Will consumers take advantage of price drops to get a cheaper deal or will they use the same budget to get a bigger or higher quality stone than before?",
+            "On a similar topic, check out the video we made a few months ago explaining how consumers have been shifting to synthetic diamonds instead of natural ones because of the price."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamonds impact consumer decisions",
+            "synthetic diamonds instead",
+            "months ago explaining",
+            "higher quality stone",
+            "consumers take advantage",
+            "natural ones",
+            "similar topic"
+        ],
+        "trends": [
+            "get",
+            "consumers",
+            "price",
+            "diamonds",
+            "natural",
+            "bigger",
+            "budget"
+        ]
+    },
+    {
+        "sentence": [
+            "And finally, question number five.",
+            "Will profit margins on synthetics continue to fall in dollar terms and if so, will retailers start encouraging consumers to buy  natural instead of lab grown?",
+            "I would like to hear your predictions in the comments."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retailers start encouraging consumers",
+            "question number five",
+            "buy natural instead",
+            "would like",
+            "synthetics continue",
+            "profit margins",
+            "lab grown"
+        ],
+        "trends": [
+            "grown",
+            "would",
+            "comments",
+            "predictions",
+            "like",
+            "hear",
+            "question"
+        ]
+    },
+    {
+        "sentence": [
+            "A lot of these questions won't be answered for several weeks or even months, but these are some of the key things I will be keeping my eyes open for this holiday season.",
+            "link to take part.",
+            "This video is sponsored by Wrapnet, the world's largest and most trusted diamond trading network."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "take part",
+            "several weeks",
+            "key things",
+            "holiday season",
+            "eyes open",
+            "even months"
+        ],
+        "trends": [
+            "diamond",
+            "largest",
+            "network",
+            "world",
+            "sponsored",
+            "wrapnet",
+            "video"
+        ]
+    },
+    {
+        "sentence": [
+            "If you buy or sell diamonds, Wrapnet is the right solution for you.",
+            "Find out more at Wrapnet.com.",
+            "Thanks for watching and enjoy the rest of the week!"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sell diamonds",
+            "right solution",
+            "wrapnet",
+            "wrapnet",
+            "week",
+            "watching",
+            "thanks"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "wrapnet",
+            "solution",
+            "sell"
+        ]
+    }
+]

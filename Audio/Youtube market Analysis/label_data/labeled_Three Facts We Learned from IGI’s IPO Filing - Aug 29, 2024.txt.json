@@ -1,0 +1,167 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome back to the Rappaport Market Comment.",
+            "week, the filing presents a wealth of information about IGI's global business.",
+            "industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport market comment",
+            "welcome back",
+            "global business",
+            "filing presents",
+            "week",
+            "wealth",
+            "information"
+        ],
+        "trends": [
+            "welcome",
+            "rappaport",
+            "week",
+            "wealth",
+            "presents",
+            "information",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "And at this point, I'd like to take the opportunity to give a shout out to our video producer, Vernina Pickhole, and our videographer, Laylee Films, for producing this video on a weekly basis.",
+            "This is going to be a two-part series, as there's so much to say.",
+            "But for now, let's jump through three key facts we learned from the IGI public offering."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "three key facts",
+            "igi public offering",
+            "weekly basis",
+            "vernina pickhole",
+            "part series",
+            "laylee films",
+            "video producer"
+        ],
+        "trends": [
+            "video",
+            "three",
+            "facts",
+            "let",
+            "public",
+            "igi",
+            "jump"
+        ]
+    },
+    {
+        "sentence": [
+            "the world's second largest diamond grading lab behind, of course, the GIA.",
+            "20% came from the jewellery grading and 19% from natural diamonds.",
+            "Less than 1% was from education services."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "second largest diamond grading lab behind",
+            "jewellery grading",
+            "natural diamonds",
+            "education services",
+            "world",
+            "less",
+            "gia"
+        ],
+        "trends": [
+            "grading",
+            "world",
+            "second",
+            "services",
+            "natural",
+            "jewellery",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "This makes IGI a unique business, giving it a selling point that distinguishes it from the GIA.",
+            "It's also a feature that may well be attractive for investors who see synthetics as a major element of the jewellery market in the future.",
+            "This is the most important IPO of a diamond related company for a while."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond related company",
+            "unique business",
+            "selling point",
+            "see synthetics",
+            "may well",
+            "makes igi",
+            "major element"
+        ],
+        "trends": [
+            "makes",
+            "distinguishes",
+            "giving",
+            "igi",
+            "unique",
+            "company",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "and as we have seen has a strong position in lab grown diamonds and finished jewelry.",
+            "Being a listed company will mean IGI will publish its financial data on a regular basis, providing information for competitors and the entire market.",
+            "From a journalist perspective, this is also going to offer us great information about the organization and the state of the diamond grading sector."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "offer us great information",
+            "lab grown diamonds",
+            "diamond grading sector",
+            "providing information",
+            "strong position",
+            "regular basis",
+            "mean igi"
+        ],
+        "trends": [
+            "information",
+            "us",
+            "organization",
+            "diamond",
+            "going",
+            "grading",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "Watch out for more!",
+            "for you.",
+            "Find out more at wrapnet.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wrapnet",
+            "watch",
+            "find",
+            "com"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Thanks for watching and enjoy the rest of the week!"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

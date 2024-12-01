@@ -1,0 +1,389 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the RappaportMarket comment.",
+            "I want to start this video with my thanks to Gregory Katz, one of our viewers, who pointed out a mistake I made in the last video about interest rates.",
+            "If the dollar were to weaken, this would in fact make business harder for overseas companies exporting diamonds to the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "overseas companies exporting diamonds",
+            "fact make business harder",
+            "rappaportmarket comment",
+            "interest rates",
+            "gregory katz",
+            "last video",
+            "video"
+        ],
+        "trends": [
+            "video",
+            "would",
+            "overseas",
+            "companies",
+            "diamonds",
+            "dollar",
+            "exporting"
+        ]
+    },
+    {
+        "sentence": [
+            "Not easier, as I wrongly said.",
+            "Your feedback is always welcome and, of course, you can like this video on the button down here, or subscribe to this channel if you haven't done so already.",
+            "This helps us a lot to get to know our audience better and keep making new, interesting videos for all of you every week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "keep making new",
+            "wrongly said",
+            "interesting videos",
+            "helps us",
+            "every week",
+            "audience better",
+            "always welcome"
+        ],
+        "trends": [
+            "always",
+            "button",
+            "channel",
+            "course",
+            "done",
+            "feedback",
+            "wrongly"
+        ]
+    },
+    {
+        "sentence": [
+            "Now, onto this week's topic.",
+            "The market for large, high value stones has been affected by the global slowdown in demand.",
+            "So it was interesting and even surprising to see that Lucara Diamond Corp, perhaps the number one miner of large, expensive rough, reported sales growth for the second quarter and the first half."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "reported sales growth",
+            "number one miner",
+            "lucara diamond corp",
+            "high value stones",
+            "second quarter",
+            "global slowdown",
+            "first half"
+        ],
+        "trends": [
+            "large",
+            "affected",
+            "demand",
+            "global",
+            "high",
+            "market",
+            "value"
+        ]
+    },
+    {
+        "sentence": [
+            "Let's look at the numbers briefly.",
+            "revenue rose 7% year on year in the second quarter, with net profit more than doubling.",
+            "For the first half of this year, sales increased 1%, though net profit fell 43%."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sales increased 1 %, though net profit fell 43 %.",
+            "net profit",
+            "revenue rose 7",
+            "second quarter",
+            "numbers briefly",
+            "first half",
+            "year"
+        ],
+        "trends": [
+            "year",
+            "net",
+            "profit",
+            "numbers",
+            "sales",
+            "though",
+            "increased"
+        ]
+    },
+    {
+        "sentence": [
+            "Lucara owns the Koroa mine in Botswana, a renowned source of large and high value rough diamonds, including a handful over 1,000 carats.",
+            "Compare this with De Beers, which reported a 21% drop in sales for the first half of the year.",
+            "Rio Tinto's diamond sales stood 40% for the same 6 months."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high value rough diamonds",
+            "diamond sales stood 40",
+            "rio tinto",
+            "renowned source",
+            "lucara owns",
+            "koroa mine",
+            "first half"
+        ],
+        "trends": [
+            "sales",
+            "year",
+            "half",
+            "compare",
+            "de",
+            "rio",
+            "tinto"
+        ]
+    },
+    {
+        "sentence": [
+            "How did Lucara manage to outperform the market?",
+            "I believe there are three factors.",
+            "One is that the market for large diamonds can be affected by a small number of big sales, enabling total revenue to defy current market conditions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "defy current market conditions",
+            "enabling total revenue",
+            "three factors",
+            "small number",
+            "lucara manage",
+            "large diamonds",
+            "big sales"
+        ],
+        "trends": [
+            "market",
+            "enabling",
+            "big",
+            "conditions",
+            "lucara",
+            "outperform",
+            "manage"
+        ]
+    },
+    {
+        "sentence": [
+            "Lucara's sales in the second quarter were $41.3 million.",
+            "Even one 5 million diamond sale can have a big impact on year on year figures.",
+            "Lucara didn't specify any particularly large stones it sold during the second quarter, but it said it recovered 491 carat, 226 carat and 109 carat  There is a lag between unearthing a diamond and selling it, but Lucara probably sold at least one of these during the period."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "even one 5 million diamond sale",
+            "particularly large stones",
+            "recovered 491 carat",
+            "lucara probably sold",
+            "least one",
+            "3 million",
+            "226 carat"
+        ],
+        "trends": [
+            "lucara",
+            "carat",
+            "million",
+            "sold",
+            "year",
+            "second",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "A second factor is that even aside from these exceptional stones, Lucara had more special stones available to sell.",
+            "These are defined as 10.8 carat and larger.",
+            "The company dug up 206 of these during the quarter compared with 162 a year earlier, an increase of 27%."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "special stones available",
+            "exceptional stones",
+            "year earlier",
+            "second factor",
+            "quarter compared",
+            "even aside",
+            "company dug"
+        ],
+        "trends": [
+            "stones",
+            "year",
+            "earlier",
+            "company",
+            "quarter",
+            "compared",
+            "increase"
+        ]
+    },
+    {
+        "sentence": [
+            "Again, production during the period does not equal sales, but the increased availability of these stones  of its large diamonds likely boosted sales value and the average selling price.",
+            "According to our calculations, this rose about 2% to $541 per carat.",
+            "The third and related factor is that Lucara has an agreement to sell all qualifying special stones to Antwerp-based diamond manufacturer HB."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "large diamonds likely boosted sales value",
+            "based diamond manufacturer hb",
+            "average selling price",
+            "541 per carat",
+            "qualifying special stones",
+            "equal sales",
+            "related factor"
+        ],
+        "trends": [
+            "sales",
+            "stones",
+            "agreement",
+            "diamond",
+            "factor",
+            "according",
+            "per"
+        ]
+    },
+    {
+        "sentence": [
+            "According to what the company said, HB will buy all 10.8 carat gem and near gem diamonds from Kowhoye of qualities that could directly enter the manufacturing stream.",
+            "polished outcome.",
+            "Lucara can get a top up payment or HP can get a partial refund if the final polished exceeds or misses that estimate."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "near gem diamonds",
+            "could directly enter",
+            "8 carat gem",
+            "final polished exceeds",
+            "polished outcome",
+            "partial refund",
+            "manufacturing stream"
+        ],
+        "trends": [
+            "gem",
+            "get",
+            "top",
+            "partial",
+            "estimate",
+            "hp",
+            "lucara"
+        ]
+    },
+    {
+        "sentence": [
+            "What does this mean in short?",
+            "That Lucara has a guaranteed buyer.",
+            "This is important in the current market where demand for large stones is sporadic and customers are generally only buying when they have a confirmed end sale."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "confirmed end sale",
+            "large stones",
+            "guaranteed buyer",
+            "current market",
+            "sporadic",
+            "short",
+            "mean"
+        ],
+        "trends": [
+            "stones",
+            "sporadic",
+            "sale",
+            "market",
+            "large",
+            "important",
+            "generally"
+        ]
+    },
+    {
+        "sentence": [
+            "When the availability of special stones rises 27% and HP has to buy essentially everything, it doesn't take much for revenue to grow.",
+            "Lucaris sales from its HB deal rose 15% year on year to $29.5 million in the second quarter after top up payments.",
+            "Lucaris CEO William Lam said the company's unique production profile and innovative sales strategies helped it navigate market conditions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lucaris ceo william lam said",
+            "special stones rises 27",
+            "hb deal rose 15",
+            "innovative sales strategies helped",
+            "unique production profile",
+            "navigate market conditions",
+            "buy essentially everything"
+        ],
+        "trends": [
+            "year",
+            "sales",
+            "lucaris",
+            "availability",
+            "grow",
+            "everything",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "The obvious question after this is, with HB buying up all of Lucaris' special stones, will the market be able to absorb all of them?",
+            "Or is Lucaris saturating the market for large diamonds?",
+            "Let us know what you think in the comments below."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "let us know",
+            "special stones",
+            "obvious question",
+            "large diamonds",
+            "hb buying",
+            "lucaris saturating",
+            "lucaris"
+        ],
+        "trends": [
+            "market",
+            "lucaris",
+            "us",
+            "think",
+            "comments",
+            "know",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "in the comments.",
+            "This video is sponsored by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Rapnet is the right solution for you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trusted diamond trading network",
+            "sell diamonds",
+            "right solution",
+            "world",
+            "video",
+            "sponsored",
+            "rapnet"
+        ],
+        "trends": [
+            "rapnet",
+            "solution",
+            "world",
+            "video",
+            "trusted",
+            "trading",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "Find out more at rapnet.com.",
+            "Thanks for watching and enjoy the rest of the week."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "rapnet",
+            "find",
+            "enjoy"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "thanks",
+            "rest",
+            "enjoy"
+        ]
+    }
+]

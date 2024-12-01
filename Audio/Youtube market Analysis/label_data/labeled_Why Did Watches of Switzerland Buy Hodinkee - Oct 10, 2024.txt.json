@@ -1,0 +1,339 @@
+[
+    {
+        "sentence": [
+            " Watches of Switzerland, the UK retailer of timepieces and jewellery, announced last week that it was acquiring Hodinkee, a market-leading blog for watch enthusiasts.",
+            "The name of the website is based on the Czech and Slovak words for watch, in case you were wondering.",
+            "The financial details of the acquisition were not disclosed, but this event made me wonder, as an industry-specialised journalist, what is happening in the watch market that can help us understand what prompted a Rolex and Patek Philippe retailer  to buy a New York based editorial website."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york based editorial website",
+            "help us understand",
+            "announced last week",
+            "patek philippe retailer",
+            "uk retailer",
+            "specialised journalist",
+            "slovak words"
+        ],
+        "trends": [
+            "watch",
+            "retailer",
+            "website",
+            "based",
+            "wondering",
+            "words",
+            "name"
+        ]
+    },
+    {
+        "sentence": [
+            "But first of all, please make sure to subscribe to our channel and like this video in the bottom right here.",
+            "You can also leave us comments, follow us on all our channels and let us know which are the questions about the market and the holiday season trends that we should comment on in our coming videos.",
+            "And now let's go back to the acquisition."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "also leave us comments",
+            "please make sure",
+            "holiday season trends",
+            "let us know",
+            "follow us",
+            "go back",
+            "coming videos"
+        ],
+        "trends": [
+            "us",
+            "first",
+            "video",
+            "like",
+            "make",
+            "please",
+            "channel"
+        ]
+    },
+    {
+        "sentence": [
+            "Watches of Switzerland said the deal would boost its leadership position by providing access to Hodinkee's community  of 1.5 million monthly unique viewers, an engaged and knowledgeable group of watch fans and consumers.",
+            "The move also reflects the growing importance of the US watch market.",
+            "Ben Kleimer, the founder of Hodinki, first met the watches of the Switzerland team around 2015."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "5 million monthly unique viewers",
+            "switzerland team around 2015",
+            "move also reflects",
+            "deal would boost",
+            "us watch market",
+            "switzerland said",
+            "watch fans"
+        ],
+        "trends": [
+            "switzerland",
+            "watches",
+            "watch",
+            "move",
+            "also",
+            "us",
+            "growing"
+        ]
+    },
+    {
+        "sentence": [
+            "At the time, according to him, watch retail in the US was in a bad state.",
+            "post last week.",
+            "In 2017, Watches of Switzerland entered the US market by acquiring Meyers Jewelers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "post last week",
+            "acquiring meyers jewelers",
+            "watch retail",
+            "switzerland entered",
+            "bad state",
+            "us market",
+            "us"
+        ],
+        "trends": [
+            "us",
+            "week",
+            "last",
+            "time",
+            "state",
+            "retail",
+            "watch"
+        ]
+    },
+    {
+        "sentence": [
+            "It has since expanded through acquisitions.",
+            "According to Klima, the company's presence in the US has changed the entire retail scene in the country, forcing others to rise to that level.",
+            "The US market, he said, is now the largest and most stable watch market in the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "entire retail scene",
+            "stable watch market",
+            "us market",
+            "since expanded",
+            "forcing others",
+            "us",
+            "world"
+        ],
+        "trends": [
+            "market",
+            "us",
+            "world",
+            "watch",
+            "stable",
+            "said",
+            "largest"
+        ]
+    },
+    {
+        "sentence": [
+            "That is similar to what David Hurley, Watches of Switzerland's deputy CEO, said to me in an interview.",
+            "view at the Las Vegas shows in June 2022.",
+            "While the UK watch market outpaced the US's between 2005 and 2015, the following years saw considerable investment by watchers in Switzerland and independent businesses in the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "following years saw considerable investment",
+            "uk watch market outpaced",
+            "las vegas shows",
+            "june 2022",
+            "independent businesses",
+            "deputy ceo",
+            "david hurley"
+        ],
+        "trends": [
+            "us",
+            "switzerland",
+            "similar",
+            "hurley",
+            "ceo",
+            "david",
+            "june"
+        ]
+    },
+    {
+        "sentence": [
+            "He described this shift as an elevation of the category.",
+            "The numbers back this up.",
+            "Switzerland's exports of timepieces to America rose almost 80% between 2015 and 2023, according to the Federation of the Swiss Watch Industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "america rose almost 80",
+            "swiss watch industry",
+            "numbers back",
+            "timepieces",
+            "switzerland",
+            "shift",
+            "federation"
+        ],
+        "trends": [
+            "watch",
+            "timepieces",
+            "switzerland",
+            "swiss",
+            "rose",
+            "industry",
+            "shift"
+        ]
+    },
+    {
+        "sentence": [
+            "The US has replaced Hong Kong  as the top destination for Swiss watches by value, with wholesale shipments of around $4.9 billion last year.",
+            "In the first 8 months of 2024, exports also jumped 15% year on year.",
+            "But Watches Switzerland is probably not so interested in Haldinki as an e-commerce opportunity."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "exports also jumped 15",
+            "9 billion last year",
+            "replaced hong kong",
+            "first 8 months",
+            "wholesale shipments",
+            "watches switzerland",
+            "top destination"
+        ],
+        "trends": [
+            "year",
+            "watches",
+            "jumped",
+            "exports",
+            "first",
+            "probably",
+            "opportunity"
+        ]
+    },
+    {
+        "sentence": [
+            "The website entered this segment unsuccessfully in the last few years, launching its own sales of pre-owned luxury watches when the market was strong, but losing severely when the market ended up tanking  The plan from now on is to continue offering occasional limited edition watches with partner brands, but focusing on providing content about watches its original purpose.",
+            "So what is the main benefit for the buyer?",
+            "In my view, it's the power it gains over the market through owning the most prestigious voice in watch journalism."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "continue offering occasional limited edition watches",
+            "owned luxury watches",
+            "website entered",
+            "watch journalism",
+            "segment unsuccessfully",
+            "providing content",
+            "prestigious voice"
+        ],
+        "trends": [
+            "market",
+            "watches",
+            "watch",
+            "voice",
+            "owning",
+            "journalism",
+            "power"
+        ]
+    },
+    {
+        "sentence": [
+            "Both sides have stressed that Haudenosaunee will retain editorial independence, but as watch enthusiast and YouTuber Britt Pearce points out, watches of Switzerland isn't a charity.",
+            "the acquisition to finance independent journalism.",
+            "There are two points we can learn from this news."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "youtuber britt pearce points",
+            "retain editorial independence",
+            "finance independent journalism",
+            "two points",
+            "watch enthusiast",
+            "watches",
+            "switzerland"
+        ],
+        "trends": [
+            "points",
+            "retain",
+            "finance",
+            "independent",
+            "journalism",
+            "acquisition",
+            "pearce"
+        ]
+    },
+    {
+        "sentence": [
+            "The first is that the US watch market is worth investing in.",
+            "The second is that controlling the flow of information is a very smart way to do it.",
+            "This video is proudly sponsored by Rappaport Trade Missions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us watch market",
+            "rappaport trade missions",
+            "worth investing",
+            "smart way",
+            "proudly sponsored",
+            "video",
+            "second"
+        ],
+        "trends": [
+            "first",
+            "investing",
+            "market",
+            "worth",
+            "rappaport",
+            "proudly",
+            "sponsored"
+        ]
+    },
+    {
+        "sentence": [
+            "Join us for an exclusive transformative journey to Sierra Leone from November 10th to 15th.",
+            "This unique opportunity offers members of the diamond and jewelry industry a first-hand look at the artisanal mining sector and  how we as an industry can create lasting positive change in the lives of the people at the heart of it.",
+            "Before we go, many thanks to our followers who commented on last week's video wishing us a happy new year."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "unique opportunity offers members",
+            "create lasting positive change",
+            "happy new year",
+            "exclusive transformative journey",
+            "artisanal mining sector",
+            "video wishing us",
+            "join us"
+        ],
+        "trends": [
+            "industry",
+            "thanks",
+            "new",
+            "us",
+            "exclusive",
+            "sierra",
+            "leone"
+        ]
+    },
+    {
+        "sentence": [
+            "These coming two weeks we will be off again for the Jewish Festival of Sukkot, so we wish everyone a happy holiday and see you again on October 31st.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "coming two weeks",
+            "wish everyone",
+            "october 31st",
+            "jewish festival",
+            "happy holiday",
+            "sukkot",
+            "see"
+        ],
+        "trends": [
+            "wish",
+            "weeks",
+            "two",
+            "sukkot",
+            "see",
+            "october",
+            "jewish"
+        ]
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": [
+            " Hello and welcome to the Rappaport Market Comment.",
+            "The JCK Las Vegas show is coming up in just over a week, and I'm really looking forward to the De Beers breakfast on Friday May 31st.",
+            "This isn't because of the croissants and coffee, but because the company is expected to set out its strategy and view of the diamond market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jck las vegas show",
+            "really looking forward",
+            "friday may 31st",
+            "de beers breakfast",
+            "rappaport market comment",
+            "diamond market",
+            "welcome"
+        ],
+        "trends": [
+            "market",
+            "las",
+            "breakfast",
+            "coming",
+            "de",
+            "forward",
+            "expected"
+        ]
+    },
+    {
+        "sentence": [
+            "The announcement couldn't come at a more important time.",
+            "On May 14th, Anglo-American confirmed it planned to divest i.e.",
+            "sell De Beers or demerge it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sell de beers",
+            "may 14th",
+            "important time",
+            "american confirmed",
+            "planned",
+            "e",
+            "divest"
+        ],
+        "trends": [
+            "planned",
+            "may",
+            "divest",
+            "confirmed",
+            "sell",
+            "time",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "This follows weeks  of rumours that the mining conglomerate wanted to sell the diamond company.",
+            "It also follows two takeover bids for Anglo from rival BHP, both of which Anglo rejected.",
+            "The decision reflects two current realities."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "decision reflects two current realities",
+            "also follows two takeover bids",
+            "mining conglomerate wanted",
+            "follows weeks",
+            "rival bhp",
+            "diamond company",
+            "anglo rejected"
+        ],
+        "trends": [
+            "two",
+            "anglo",
+            "reflects",
+            "follows",
+            "also",
+            "takeover",
+            "bhp"
+        ]
+    },
+    {
+        "sentence": [
+            "The first is that Anglo wants to fend off BHP's attempts to acquire it.",
+            "To do this, it is restructuring and getting rid of non-core assets.",
+            "This will ensure copper represents a larger proportion of its total production."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ensure copper represents",
+            "total production",
+            "larger proportion",
+            "getting rid",
+            "core assets",
+            "anglo wants",
+            "restructuring"
+        ],
+        "trends": [
+            "getting",
+            "restructuring",
+            "wants",
+            "fend",
+            "anglo",
+            "attempts",
+            "bhp"
+        ]
+    },
+    {
+        "sentence": [
+            "Copper is Anglo's  most important product as it is crucial for electrical applications and renewable energy.",
+            "According to the Financial Times, Anglo is trying to present its shareholders with a proposition that is more valuable to them in the long term than if BHP were to buy the business.",
+            "The company also plans to offer its nickel, steelmaking, coal and platinum businesses."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "company also plans",
+            "renewable energy",
+            "platinum businesses",
+            "long term",
+            "important product",
+            "financial times",
+            "electrical applications"
+        ],
+        "trends": [
+            "anglo",
+            "company",
+            "platinum",
+            "nickel",
+            "also",
+            "steelmaking",
+            "coal"
+        ]
+    },
+    {
+        "sentence": [
+            "This will leave it with three core divisions, copper, premium iron ore, which is important for steel production, and crop nutrients.",
+            "The crop nutrients  to stay in development, and in fact, Angola said it would reduce investment in this, but in the long term it hopes that polyhalite, the natural fertilizer it plans to produce, will be vital to sustainable agriculture.",
+            "The second reality is that diamonds are not as central to Angola as they used to be."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would reduce investment",
+            "three core divisions",
+            "premium iron ore",
+            "sustainable agriculture",
+            "steel production",
+            "second reality",
+            "natural fertilizer"
+        ],
+        "trends": [
+            "angola",
+            "nutrients",
+            "crop",
+            "development",
+            "core",
+            "leave",
+            "ore"
+        ]
+    },
+    {
+        "sentence": [
+            "Lab-grown diamonds are a fresh competitor on the block, marriage rates are falling, consumer sentiment in the US is mixed, while demand for diamonds in China is very slow as we have discussed in past videos.",
+            "As I wrote in a recent analysis on the beer,  the company is also facing unprecedented political challenges, especially around its fragile relationship with the Botswana government.",
+            "De Beers CEO Al Cook, who will be at the breakfast at JCK, said he was confident De Beers would remain the diamond leader for the next century."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "de beers ceo al cook",
+            "confident de beers would remain",
+            "also facing unprecedented political challenges",
+            "recent analysis",
+            "past videos",
+            "next century",
+            "marriage rates"
+        ],
+        "trends": [
+            "diamonds",
+            "de",
+            "beers",
+            "wrote",
+            "political",
+            "also",
+            "analysis"
+        ]
+    },
+    {
+        "sentence": [
+            "He also said there was an ongoing recovery in demand for rough diamonds and a positive outlook for the sector.",
+            "I expect his presentation in Las Vegas to focus on the downstream segment, namely De Beers retail and wholesale brands.",
+            "Forevermark diamond brand that it would phase out supplying loose diamonds and become a jewelry brand focused on India, where its recognition among consumers is high."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "namely de beers retail",
+            "recognition among consumers",
+            "jewelry brand focused",
+            "forevermark diamond brand",
+            "supplying loose diamonds",
+            "rough diamonds",
+            "would phase"
+        ],
+        "trends": [
+            "brand",
+            "diamonds",
+            "also",
+            "demand",
+            "sector",
+            "said",
+            "rough"
+        ]
+    },
+    {
+        "sentence": [
+            "It will also no doubt have something to say about De Beers Jewelers, its higher end retail brand, and of course about Lightbox, its lab-grown diamond brand which recently announced a sharp price cut.",
+            "What's next for De Beers as a corporate group?",
+            "According to Reuters, Anglo-American is planning an initial public offering or IPO for De Beers, meaning it would float the company's  on a stock exchange likely in London, but there's still the possibility another entity such as an investment fund or a luxury house could acquire the business or parts of it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "luxury house could acquire",
+            "higher end retail brand",
+            "grown diamond brand",
+            "stock exchange likely",
+            "sharp price cut",
+            "possibility another entity",
+            "initial public offering"
+        ],
+        "trends": [
+            "beers",
+            "de",
+            "brand",
+            "higher",
+            "lightbox",
+            "cut",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "This is probably the biggest change in the diamond market in decades.",
+            "It comes alongside other new and important challenges, not least the G7 sanctions on Russian diamonds.",
+            "It's certainly quite a time to be in this industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian diamonds",
+            "important challenges",
+            "g7 sanctions",
+            "diamond market",
+            "comes alongside",
+            "certainly quite",
+            "biggest change"
+        ],
+        "trends": [
+            "industry",
+            "decades",
+            "biggest",
+            "probably",
+            "market",
+            "change",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "Please don't forget to subscribe to get every new video we make on a weekly basis discussing trends and analysis in the diamond industry.",
+            "This video is  brought to you by Rapnet, the world's largest and most trusted diamond trading network.",
+            "If you buy or sell diamonds, Rapnet is the right solution for you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly basis discussing trends",
+            "trusted diamond trading network",
+            "get every new video",
+            "diamond industry",
+            "sell diamonds",
+            "right solution",
+            "video"
+        ],
+        "trends": [
+            "rapnet",
+            "video",
+            "diamond",
+            "world",
+            "largest",
+            "buy",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "Find out more at rapnet.com.",
+            "Thanks for watching and enjoy the rest of the week, and if you're at the Las Vegas show, I hope to see you there, and hear your feedback.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "las vegas show",
+            "week",
+            "watching",
+            "thanks",
+            "see",
+            "rest",
+            "rapnet"
+        ],
+        "trends": [
+            "week",
+            "watching",
+            "vegas",
+            "thanks",
+            "show",
+            "see",
+            "rest"
+        ]
+    }
+]

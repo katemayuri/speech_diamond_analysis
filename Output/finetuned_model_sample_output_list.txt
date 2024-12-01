@@ -1,0 +1,43 @@
+Sentence: "The increasing demand for lab-grown diamonds is reshaping the market, especially among younger consumers."
+Sentiment: positive
+Trends: market ;  younger ;  diamonds ;  reshaping
+
+----------------------------------------------------------
+Sentence: "Diamond prices have seen a steady increase in recent months, with some shapes and carat sizes witnessing higher growth rates."
+Sentiment: positive
+Trends: steady ;  sizes ;  rates ;  prices ;  recent
+
+-----------------------------------------------------
+Sentence: "As the global economy recovers, there has been a noticeable rise in luxury diamond purchases from high-net-worth individuals."
+Sentiment: positive
+Trends: rise ;  luxury ;  purchases ;  high-net-worth ;  individuals ;  economy ;  recover ;  global ;  recover
+
+-------------------------------------------------------
+Sentence: "The shift towards online diamond retail platforms has accelerated, with e-commerce sales growing significantly during the pandemic."
+Sentiment: positive
+Trends: e-commerce ;  diamond ;  shift ;  online ;  retail ;  sales ;  significantly ;  pandemic
+
+------------------------------------------------------
+Sentence: "The market for colored diamonds has surged, particularly in the auction sector, as collectors seek rare stones."
+Sentiment: positive
+Trends: rare ;  sector ;  particularly ;  auction ;  seek ;  diamonds ;  sector
+
+--------------------------------------------------------
+Sentence: "Price volatility in natural diamonds remains a concern, with geopolitical tensions affecting supply chains."
+Sentiment: negative
+Trends: supply chains ;  tensions ;  natural ;  price
+
+-------------------------------------------------
+Sentence: "As the market faces pressure from alternative gemstones, many diamond retailers are struggling to maintain sales figures."
+Sentiment: negative
+Trends: market ;  struggling ;  alternative ;  retailers
+
+-----------------------------------------------------
+Sentence: "Geopolitical instability and the ongoing pandemic have left the diamond trade in disarray, with no clear path to recovery."
+Sentiment: negative
+Trends: disarray ;  recovery ;  left ;  trade ;  ongoing ;  pandemic ;  diamond ;  path ;  left
+
+-----------------------------------------------------
+Sentence: "Many diamond mines are running out of high-quality material, leading to increased costs and decreased production rates."
+Sentiment: negative
+Trends: diamond ;  many ;  running ;  material ;  increased ;  production ;  rates

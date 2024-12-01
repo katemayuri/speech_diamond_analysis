@@ -1,0 +1,4564 @@
+env: PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+Sample 0:
+  Predicted: collection ;  center ;  diamonds ;  brilliance ;  indian
+  Actual: center; collection; come; diamonds; brilliance; one; spinning
+--------------------
+Sample 1:
+  Predicted: start ;  nine ;  money ;  underground ;  diamonds
+  Actual: nine; cut; yet; start; underground; finished; red
+--------------------
+Sample 2:
+  Predicted: reductions ;  would ;  weak ;  used ;  important
+  Actual: controlled; primarily; diamond; organization; de; historically; important
+--------------------
+Sample 3:
+  Predicted: things ;  working ;  always ;  say ;  standards ;  degree ;  take ;  know
+  Actual: things; always; working; us; take; easy; hone
+--------------------
+Sample 4:
+  Predicted: stores ;  know ;  year ;  selling ;  million
+  Actual: know; stores; working; united; top; year; selling
+--------------------
+Sample 5:
+  Predicted: rich ;  world ;  hurting ;  actually
+  Actual: question; think; answer; world; rich; get; got
+--------------------
+Sample 6:
+  Predicted: selling ;  alternatives ;  synthetic ;  want
+  Actual: even; selling; require; reports; know; want; sure
+--------------------
+Sample 7:
+  Predicted: years ;  every ;  industry ;  definition ;  evolve ;  standards ;  cycle
+  Actual: every; years; industry; anything; takes; cycle; ca
+--------------------
+Sample 8:
+  Predicted: see ;  today ;  partners ;  long ;  reason ;  lab ;  years ;  carrying
+  Actual: years; term; reason; play; partners; ones; today
+--------------------
+Sample 9:
+  Predicted: podcast ;  studio ;  recording ;  today ;  emotional ;  little ;  getting
+  Actual: today; studio; recording; podcast; altogether; little; getting
+--------------------
+Sample 10:
+  Predicted: sales ;  holidays ;  number ;  honest ;  numerology
+  Actual: sales; holidays; would; able; new; uptick; except
+--------------------
+Sample 11:
+  Predicted: years ;  white ;  past ;  stores ;  everything ;  forward ;  white
+  Actual: like; years; walked; two; stores; everything; fast
+--------------------
+Sample 12:
+  Predicted: still ;  inflation ;  rate ;  us
+  Actual: inflation; still; us; things; really; priced; high
+--------------------
+Sample 13:
+  Predicted: actually ;  recovered ;  two ;  dates ;  head ;  la ;  rossan ;  take ;  photograph ;  press
+  Actual: recovered; la; actually; november; sede; de; rona
+--------------------
+Sample 14:
+  Predicted: time ;  machine ;  worries ;  sort
+  Actual: time; machine; actually; worries; sort; list; adds
+--------------------
+Sample 15:
+  Predicted: much ;  world ;  years ;  wrong ;  take ;  things ;  show ;  need
+  Actual: much; allow; ethics; happen; justified; believe; consumer
+--------------------
+Sample 16:
+  Predicted: collection ;  think ;  us ;  stone ;  carat ;  full ;  jewel ;  working ;  tache
+  Actual: collection; think; acquired; full; around; us; stone
+--------------------
+Sample 17:
+  Predicted: india ;  broadening ;  guess ;  firstly ;  case
+  Actual: india; wedding; thing; people; outside; market; guess
+--------------------
+Sample 18:
+  Predicted: never ;  countries ;  objected ;  give
+  Actual: never; reason; give; work; want; touch; simply
+--------------------
+Sample 19:
+  Predicted: rappaport ;  follow ;  us ;  diamond ;  visit ;  discussions ;  future ;  episodes ;  subscribe
+  Actual: rappaport; follow; get; visit; us; diamond; discussions
+--------------------
+Sample 20:
+  Predicted: wrong ;  image ;  whatever ;  money ;  looting
+  Actual: wrong; whatever; product; money; looting; laundering; banks
+--------------------
+Sample 21:
+  Predicted: something ;  convince ;  something ;  put
+  Actual: incredible; could; put; price; tag; know; buy
+--------------------
+Sample 22:
+  Predicted: came ;  ukraine ;  quite ;  bit ;  material ;  higher
+  Actual: came; quite; bit; grown; ukraine; always; market
+--------------------
+Sample 23:
+  Predicted: like ;  different ;  yeah ;  industry ;  million
+  Actual: like; different; right; people; million; us; acronyms
+--------------------
+Sample 24:
+  Predicted: designing ;  jewelry ;  consumer ;  diamond ;  design ;  diamonds ;  current ;  offerings ;  improve
+  Actual: jewelry; diamonds; designing; opportunity; offer; newly; consumer
+--------------------
+Sample 25:
+  Predicted: podcast ;  other ;  week ;  host ;  guests ;  well ;  us ;  avi
+  Actual: podcast; industry; quizzing; people; one; love; learning
+--------------------
+Sample 26:
+  Predicted: walmart ;  actually ;  go ;  pricing ;  best
+  Actual: walmart; actually; recommend; pricing; marco; lab; grown
+--------------------
+Sample 27:
+  Predicted: world ;  affected ;  prices ;  lab-grown
+  Actual: world; prices; really; question; interesting; spoke; like
+--------------------
+Sample 28:
+  Predicted: time ;  hardened ;  worse ;  arms
+  Actual: time; hardened; ca; creating; everything; worse; arms
+--------------------
+Sample 29:
+  Predicted: even ;  dare ;  natural ;  even ;  stones ;  lab ;  unfortunately ;  far ;  even
+  Actual: natural; lab; stones; dare; even; origin; unfortunately
+--------------------
+Sample 30:
+  Predicted: origin ;  russia ;  word ;  significant ;  meaning ;  excluded ;  diamonds ;  outside ;  significant
+  Actual: origin; russia; transformed; substantially; significant; phrase; outside
+--------------------
+Sample 31:
+  Predicted: impact ;  also ;  showcasing ;  solutions ;  would ;  always ;  interoperability
+  Actual: solutions; impact; also; showcasing; luxury; adopting; advantages
+--------------------
+Sample 32:
+  Predicted: volume ;  natural ;  extra ;  saying ;  total ;  getting ;  going ;  saying
+  Actual: correctly; extra; get; gia; going; longer; yes
+--------------------
+Sample 33:
+  Predicted: want ;  supply ;  manufacture ;  think
+  Actual: want; supply; retail; produce; manufacture; think; play
+--------------------
+Sample 34:
+  Predicted: diamonds ;  lab ;  happens ;  us ;  later
+  Actual: diamonds; lab; years; later; china; ends; experience
+--------------------
+Sample 35:
+  Predicted: working ;  together ;  future ;  excited ;  three ;  lee ;  michaels ;  father ;  correct
+  Actual: three; michaels; lee; father; correct; brothers
+--------------------
+Sample 36:
+  Predicted: jewelry ;  also ;  piece ;  traceability ;  want ;  products ;  category
+  Actual: jewelry; piece; also; continue; go; components; course
+--------------------
+Sample 37:
+  Predicted: sometimes ;  necessarily ;  stores ;  online ;  social ;  social media ;  stores
+  Actual: sometimes; necessarily; found; asking; stores; social; online
+--------------------
+Sample 38:
+  Predicted: value ;  solution ;  cross ;  ultimately ;  needs ;  chain
+  Actual: value; ultimately; solution; needs; cross; chain
+--------------------
+Sample 39:
+  Predicted: think ;  inventories ;  polished ;  rough ;  month ;  explanation ;  mostly
+  Actual: inventories; think; month; rough; polished; drop; take
+--------------------
+Sample 40:
+  Predicted: many ;  started ;  things ;  kind ;  havi ;  things
+  Actual: havi; opinion; explained; things; discussions; even; people
+--------------------
+Sample 41:
+  Predicted: job ;  car ;  take ;  lot
+  Actual: job; car; control; could; drive; lot; parking
+--------------------
+Sample 42:
+  Predicted: diamonds ;  synthetic ;  lab-grown ;  tell ;  story ;  part ;  diamond ;  tell
+  Actual: synthetic; diamonds; part; tell; aware; others; donated
+--------------------
+Sample 43:
+  Predicted: diamonds ;  increase ;  sales ;  said ;  demand ;  lab-grown ;  diamonds ;  sort
+  Actual: diamonds; sales; demand; increase; said; carat; larger
+--------------------
+Sample 44:
+  Predicted: wonder ;  wow ;  still ;  section ;  generally ;  world ;  Luce ;  sky ;  section
+  Actual: world; sky; section; mood; luce; generally; wow
+--------------------
+Sample 45:
+  Predicted: rappaport ;  follow ;  twitter ;  LinkedIn ;  facebook
+  Actual: rappaport; follow; subscribe; get; future; twitter; linkedin
+--------------------
+Sample 46:
+  Predicted: sustainability ;  located ;  work ;  already
+  Actual: sustainability; located; wobbly; think; things; suppliers; still
+--------------------
+Sample 47:
+  Predicted: exactly ;  things ;  glad ;  kinds
+  Actual: know; exactly; us; something; came; things; kinds
+--------------------
+Sample 48:
+  Predicted: would ;  store ;  love ;  hit ;  cops ;  point ;  hard
+  Actual: would; store; love; hit; point; hard; cops
+--------------------
+Sample 49:
+  Predicted: say ;  flexibility ;  saying ;  past ;  fixed ;  price ;  thinking
+  Actual: saying; flexibility; surat; fact; everything; thinking; price
+--------------------
+Sample 50:
+  Predicted: supply ;  goods ;  concentrate ;  big ;  though ;  quality ;  rough ;  thing
+  Actual: though; supply; quality; goods; go; concentrate; commercial
+--------------------
+Sample 51:
+  Predicted: said ;  one ;  first ;  shout ;  shout
+  Actual: said; one; first; answer; shout
+--------------------
+Sample 52:
+  Predicted:  Authentic ;  think ;  sharing ;  recently ;  caught
+  Actual: authentic; recently; caught; attention; anything; yes; sonia
+--------------------
+Sample 53:
+  Predicted: think ;  lab ;  marketing ;  really
+  Actual: think; really; marketing; lab; unfortunate; trying; selling
+--------------------
+Sample 54:
+  Predicted: think ;  retailers ;  frustrated ;  moment ;  pandemic
+  Actual: think; retailers; going; suspicion; probably; previous; pandemic
+--------------------
+Sample 55:
+  Predicted: examples ;  stories ;  love ;  us ;  share ;  like ;  Morissonia
+  Actual: examples; us; share; like; stories; love; know
+--------------------
+Sample 56:
+  Predicted: population ;  looking ;  movement ;  need
+  Actual: looking; lives; show; rhythm; people; normal; world
+--------------------
+Sample 57:
+  Predicted: diamonds ;  really ;  used ;  Cer ;  experts ;  footprint ;  analyze ;  really
+  Actual: diamonds; footprint; analyze; cer; used; experts; really
+--------------------
+Sample 58:
+  Predicted: little ;  point ;  maybe ;  alluded ;  bit ;  maybe
+  Actual: understand; timing; point; maybe; looks; little; important
+--------------------
+Sample 59:
+  Predicted: equipment ;  university ;  working ;  best ;  level ;  expensive ;  university
+  Actual: equipment; actual; based; contrary; determination; working; best
+--------------------
+Sample 60:
+  Predicted: like ;  computer ;  create ;  like ;  story
+  Actual: like; create; computer
+--------------------
+Sample 61:
+  Predicted: 
+  Actual: husband; came; back; sure; ring; review; negative
+--------------------
+Sample 62:
+  Predicted: retail ;  based ;  rather ;  spent ;  worth ;  still ;  based
+  Actual: worth; still; spent; retail; rather; big; based
+--------------------
+Sample 63:
+  Predicted: two ;  contrasting ;  companies ;  caused ;  companies
+  Actual: cygnet; develop; direct; two; contrasting; ways; caused
+--------------------
+Sample 64:
+  Predicted: straight ;  go ;  whatever ;  want ;  markets
+  Actual: straight; go; got; dance; whatever; want; us
+--------------------
+Sample 65:
+  Predicted: things ;  started ;  talking ;  one ;  thing ;  kind ;  journey ;  started
+  Actual: journey; company; de; industry; initially; issues; working
+--------------------
+Sample 66:
+  Predicted: take ;  apart ;  along ;  going
+  Actual: take; going; comes; apart; along
+--------------------
+Sample 67:
+  Predicted: waste ;  nature ;  think ;  animal ;  part
+  Actual: waste; nature; produce; lives; need; never; newly
+--------------------
+Sample 68:
+  Predicted: exactly ;  one ;  hope ;  right
+  Actual: right; one; men; hope; find
+--------------------
+Sample 69:
+  Predicted: booth ;  lot ;  time ;  like ;  kind ;  see ;  next ;  sort ;  sort
+  Actual: lot; booth; time; like; year; next; see
+--------------------
+Sample 70:
+  Predicted: bc ;  start ;  people ;  shock ;  museum
+  Actual: bc; start; talons; shells; shock; victoria; museum
+--------------------
+Sample 71:
+  Predicted: industry ;  going ;  think ;  young ;  terrace ;  understand ;  different ;  culture ;  understand
+  Actual: going; important; whoever; think; industry; india; comes
+--------------------
+Sample 72:
+  Predicted: done ;  really ;  options ;  jewelry ;  think ;  compared ;  like ;  recent
+  Actual: done; think; really; options; jewelry; years; see
+--------------------
+Sample 73:
+  Predicted: would ;  money ;  natural ;  understand
+  Actual: take; would; think; natural; much; money; years
+--------------------
+Sample 74:
+  Predicted: company ;  policy ;  weak
+  Actual: remains; policy; company; prompted; know; father
+--------------------
+Sample 75:
+  Predicted: video ;  diamond ;  world ;  trusted ;  network
+  Actual: video; diamond; network; brought; largest; world; comments
+--------------------
+Sample 76:
+  Predicted: think ;  means ;  think ;  commission ;  started ;  believe ;  name ;  made
+  Actual: started; nothing; name; much; made; happen; entire
+--------------------
+Sample 77:
+  Predicted: everything ;  reach ;  brands ;  quality
+  Actual: give; everything; reach; quality; like; investing; brands
+--------------------
+Sample 78:
+  Predicted: say ;  joshua ;  number
+  Actual: number; let; go; back
+--------------------
+Sample 79:
+  Predicted: third ;  cost ;  producing ;  carrots
+  Actual: system; third; cost; systems; twice; producing; carrots
+--------------------
+Sample 80:
+  Predicted: project ;  wanted ;  representation ;  hundred ;  women
+  Actual: project; know; discuss; women; trying; wanted; representation
+--------------------
+Sample 81:
+  Predicted: diamond ;  many ;  years ;  feeds ;  industry ;  happens ;  happens
+  Actual: diamond; years; many; level; goes; excitement; industry
+--------------------
+Sample 82:
+  Predicted: diamond ;  natural ;  something ;  people ;  value
+  Actual: diamond; natural; value; something; see; people; visually
+--------------------
+Sample 83:
+  Predicted: only ;  sales ;  antwerp ;  huge ;  rough ;  diamond ;  strong ;  connection ;  strong
+  Actual: sales; rough; big; believe; huge; advantage; diamond
+--------------------
+Sample 84:
+  Predicted: industry ;  good ;  bit ;  get ;  opportunity
+  Actual: industry; bit; good; sort; decided; like; area
+--------------------
+Sample 85:
+  Predicted: kelly ;  according ;  good ;  person ;  kenneth ;  kodak ;  lvmh ;  brands ;  spending ;  percentage
+  Actual: kelly; spending; revenue; percentage; ones; marketing; person
+--------------------
+Sample 86:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 87:
+  Predicted: say ;  know ;  kind ;  talk ;  consumers ;  often ;  topic ;  kind
+  Actual: say; know; topic; talk; sustainability; often; kind
+--------------------
+Sample 88:
+  Predicted: case ;  circumstances ;  difficult ;  job ;  would ;  open ;  another ;  get ;  inside
+  Actual: would; much; job; difficult; open; key; inside
+--------------------
+Sample 89:
+  Predicted: china ;  hope ;  everything ;  know ;  bunch
+  Actual: na; gon; america; hope; china; well; bunch
+--------------------
+Sample 90:
+  Predicted: think ;  year ;  strong ;  past
+  Actual: think; year; much; last; half; years; strong
+--------------------
+Sample 91:
+  Predicted: industry ;  experience ;  get ;  retail ;  couple ;  generations ;  retail
+  Actual: industry; get; experience; retail; generations; family; couple
+--------------------
+Sample 92:
+  Predicted: people ;  would ;  little ;  delayed
+  Actual: would; sound; pessimistic; period; make; people; spoke
+--------------------
+Sample 93:
+  Predicted: campaign ;  particularly ;  campaign ;  complex ;  designed ;  definitely ;  canva
+  Actual: particularly; complex; campaign; designed; definitely; could; canva
+--------------------
+Sample 94:
+  Predicted: diamond ;  one ;  also ;  noticed ;  podcast
+  Actual: diamond; also; another; jewelry; launched; time; quite
+--------------------
+Sample 95:
+  Predicted: someone ;  long ;  would ;  podcast ;  storyteller ;  diamond ;  give ;  name ;  would
+  Actual: long; next; name; love; someone; years; jck
+--------------------
+Sample 96:
+  Predicted: goods ;  goods ;  center ;  would ;  basically ;  trading ;  polished ;  center
+  Actual: goods; center; polished; trading; would; brought; call
+--------------------
+Sample 97:
+  Predicted: timé ;  winston ;  stamped ;  thing ;  distributed
+  Actual: winston; timé; piece; thing; tells; stamped; distributed
+--------------------
+Sample 98:
+  Predicted: business ;  continue ;  opportunity ;  customers
+  Actual: business; working; father; brothers; alongside; opportunity; great
+--------------------
+Sample 99:
+  Predicted: diamond ;  good ;  represents ;  think ;  example
+  Actual: think; example; brilliant; botswana; romance; represents; eternity
+--------------------
+Sample 100:
+  Predicted: turn ;  hphts ;  sell ;  market ;  report
+  Actual: market; sell; turn; hphts; report; cvds; funny
+--------------------
+Sample 101:
+  Predicted: cool ;  heart ;  zimu ;  recently ;  brooch
+  Actual: heart; cool; zimu; brooch; called; shape; saw
+--------------------
+Sample 102:
+  Predicted: right ;  et ;  cetera ;  claim ;  synthetic ;  something ;  better ;  greener
+  Actual: right; et; cetera; synthetic; something; share; market
+--------------------
+Sample 103:
+  Predicted: known ;  guest ;  victim ;  also ;  called ;  senior ;  dear ;  senior
+  Actual: victim; senior; kravitz; friend; dear; called; avi
+--------------------
+Sample 104:
+  Predicted: maybe ;  fit ;  think ;  Gutfeel
+  Actual: might; maybe; good; fit; think; gutfeel; correct
+--------------------
+Sample 105:
+  Predicted: years ;  jewelry ;  category ;  transition
+  Actual: category; years; two; took; take; jewelry; fine
+--------------------
+Sample 106:
+  Predicted: really ;  mind ;  like ;  get ;  color ;  software ;  company ;  really
+  Actual: software; really; one; company; mind; better; get
+--------------------
+Sample 107:
+  Predicted: work ;  term ;  could ;  competitors ;  research
+  Actual: like; could; term; work; address; also; suppliers
+--------------------
+Sample 108:
+  Predicted: started ;  know ;  year ;  like ;  coVID
+  Actual: started; know; years; week; said; three; like
+--------------------
+Sample 109:
+  Predicted: put ;  pleasure ;  always ;  jewelry ;  add ;  course ;  fun
+  Actual: slide; says; put; pleasure; need; jewelry; every
+--------------------
+Sample 110:
+  Predicted: want ;  prison ;  hard ;  listen ;  want ;  attack ;  cop ;  anxiety
+  Actual: throwing; start; licenses; want; prison; nothing; cop
+--------------------
+Sample 111:
+  Predicted: nonsense ;  much ;  years ;  synthetic ;  manufacturers ;  past ;  various ;  spewed
+  Actual: nonsense; much; hear; years; various; synthetic; spewed
+--------------------
+Sample 112:
+  Predicted: talked ;  see ;  went ;  life ;  talked ;  sense ;  kind ;  sense
+  Actual: went; talked; works; two; stores; passionate; hard
+--------------------
+Sample 113:
+  Predicted: want ;  run ;  store ;  take
+  Actual: want; take; store; run; mall
+--------------------
+Sample 114:
+  Predicted: beers ;  facing ;  diamond ;  de ;  company ;  market ;  bradley ;  diamonds
+  Actual: de; beers; facing; market; industry; bruce; company
+--------------------
+Sample 115:
+  Predicted: something ;  take ;  brands ;  use
+  Actual: something; store; people; watch; sales; rolex; patek
+--------------------
+Sample 116:
+  Predicted: business ;  wanted ;  see ;  first
+  Actual: wanted; see; worked; started; obviously; mean; growing
+--------------------
+Sample 117:
+  Predicted: know ;  proposal ;  really ;  workout ;  people
+  Actual: know; going; proposed; anyone; sort; scientific; quite
+--------------------
+Sample 118:
+  Predicted: business ;  networking ;  course
+  Actual: networking; course; business
+--------------------
+Sample 119:
+  Predicted: compparative ;  plastics ;  meaning ;  example ;  waste ;  would ;  work ;  precious ;  precious
+  Actual: example; meaning; compare; plastics; know; recycling; complicated
+--------------------
+Sample 120:
+  Predicted: retail ;  therapy ;  wanted ;  people ;  pandemic ;  particularly ;  wanted
+  Actual: therapy; retail; end; think; wanted; people; particularly
+--------------------
+Sample 121:
+  Predicted: world ;  seen ;  exceptional ;  last ;  leadership ;  results ;  think
+  Actual: world; seen; affected; exceptional; last; years; think
+--------------------
+Sample 122:
+  Predicted: cord ;  cornell ;  things ;  always ;  growth ;  things
+  Actual: things; see; sun; stumbled; researching; oriented; love
+--------------------
+Sample 123:
+  Predicted: industry ;  respect ;  consumers ;  perception ;  unethical
+  Actual: industry; view; respect; unethical; perception; mean; among
+--------------------
+Sample 124:
+  Predicted: diamond ;  trade ;  companies ;  want ;  certification ;  source ;  stop
+  Actual: diamond; want; stop; companies; trade; smaller; challenge
+--------------------
+Sample 125:
+  Predicted: like ;  report ;  live ;  getting
+  Actual: like; vegas; liked; hanging; definitely; report; market
+--------------------
+Sample 126:
+  Predicted: way ;  melee ;  let ;  say ;  levels ;  labs ;  like ;  recording
+  Actual: fact; july; labs; coming; must; moment; mean
+--------------------
+Sample 127:
+  Predicted: think ;  used ;  things ;  quite
+  Actual: think; planet; even; inhabitants; everything; less; actually
+--------------------
+Sample 128:
+  Predicted: one ;  based ;  gem ;  germany ;  online
+  Actual: sustainability; setting; online; focused; community; one; based
+--------------------
+Sample 129:
+  Predicted: plus ;  would ;  america ;  high ;  jewelers
+  Actual: plus; would; similar; selling; jewelers; independent; high
+--------------------
+Sample 130:
+  Predicted: rapnet ;  year ;  see ;  weeks ;  meaningful ;  new ;  loved
+  Actual: year; wishing; weeks; two; solution; sell; right
+--------------------
+Sample 131:
+  Predicted: left ;  mission ;  aborting
+  Actual: decided; came; back; said; mission; left; aborting
+--------------------
+Sample 132:
+  Predicted: open ;  still ;  reaction ;  podcast
+  Actual: open; still; see; reaction; speaking; really; humorous
+--------------------
+Sample 133:
+  Predicted: like ;  covid ;  years ;  think ;  really ;  kong ;  really
+  Actual: like; covid; happened; felt; really; kong; hong
+--------------------
+Sample 134:
+  Predicted: chance ;  half ;  think ;  one ;  leia
+  Actual: chance; half; win; catch; think; sonia; points
+--------------------
+Sample 135:
+  Predicted: many ;  times ;  think ;  occasion ;  government
+  Actual: many; times; parts; occasion; think; government; idea
+--------------------
+Sample 136:
+  Predicted: product ;  defend ;  humble
+  Actual: 
+--------------------
+Sample 137:
+  Predicted: want ;  money ;  mining ;  license
+  Actual: want; money; license; mining; spending; arapa; renegotiating
+--------------------
+Sample 138:
+  Predicted: try ;  realistic ;  let ;  room ;  smart ;  people ;  lot
+  Actual: try; realistic; let; think; likes; anyone; smart
+--------------------
+Sample 139:
+  Predicted: certain ;  claims ;  would ;  blanket
+  Actual: claims; certain; yeah; ways; way; people; misleading
+--------------------
+Sample 140:
+  Predicted: expensive ;  carats ;  manufacturing ;  lot ;  polish
+  Actual: expensive; three; manufacturing; lot; gossier; stone; polish
+--------------------
+Sample 141:
+  Predicted: way ;  talking ;  highly ;  Diamonds
+  Actual: highly; diamonds; cyclical; become; way; try; talking
+--------------------
+Sample 142:
+  Predicted: place ;  think ;  landmark ;  destination
+  Actual: think; go; place; landmark; destination; art; artwork
+--------------------
+Sample 143:
+  Predicted: feel ;  strongly ;  way ;  intellectual ;  concern ;  firm ;  law
+  Actual: way; strongly; feel; specific; someone; property; know
+--------------------
+Sample 144:
+  Predicted: distribution ;  diamonds ;  problems ;  thought ;  russian ;  sanctions ;  synthetic
+  Actual: distribution; talk; synthetic; sanctions; russian; okay; issue
+--------------------
+Sample 145:
+  Predicted: things ;  things ;  company ;  stuff ;  talking ;  initiatives ;  things
+  Actual: initiatives; completely; hk; impressed; done; reservations; work
+--------------------
+Sample 146:
+  Predicted: changes ;  started ;  yeah ;  procedure ;  sign
+  Actual: changes; things; yeah; took; time; consultation; get
+--------------------
+Sample 147:
+  Predicted: veto ;  came ;  questions ;  couple ;  interesting
+  Actual: veto; use; turned; things; saying; originally; later
+--------------------
+Sample 148:
+  Predicted: diamonds ;  color ;  lab-grown ;  diamonds ;  would ;  sort ;  treatment ;  market ;  alleged ;  market
+  Actual: diamonds; color; gone; grow; grown; metallic; typically
+--------------------
+Sample 149:
+  Predicted: complete ;  craftsmen ;  highly ;  able ;  new ;  focus ;  company ;  meticulous ;  craftsmanship
+  Actual: craftsmen; new; able; highly; complete; identity; focus
+--------------------
+Sample 150:
+  Predicted: year ;  less ;  prediction ;  year ;  spending ;  indicate ;  past
+  Actual: experiences; indicate; consumers; prediction; inflation; jewelry; background
+--------------------
+Sample 151:
+  Predicted: like ;  industry ;  luxury ;  pay
+  Actual: like; industry; luxury; talked; pay; also; look
+--------------------
+Sample 152:
+  Predicted: way ;  fda ;  enforcing ;  standards ;  claims
+  Actual: ways; ftc; advertising; also; enforcing; claims; ensuring
+--------------------
+Sample 153:
+  Predicted: supply ;  demand ;  diamond ;  manufacturing ;  sector ;  slashed ;  rappaport.com ;  would ;  retailers ;  certainly
+  Actual: comparatively; high; interest; rates; levels; indian; try
+--------------------
+Sample 154:
+  Predicted: years ;  really ;  botswana ;  community
+  Actual: really; years; botswana; done; five; community; understanding
+--------------------
+Sample 155:
+  Predicted: people ;  bourse ;  really ;  took ;  surprised
+  Actual: people; really; couple; bourse; everywhere; granted; women
+--------------------
+Sample 156:
+  Predicted: think ;  also ;  help ;  people ;  bigger ;  cooperation ;  work ;  specific ;  bigger
+  Actual: background; come; cooperation; different; international; also; help
+--------------------
+Sample 157:
+  Predicted: one ;  yeah ;  things ;  ever
+  Actual: one; growth; attention; challenges; members; growing; phenomenal
+--------------------
+Sample 158:
+  Predicted: platform ;  diamonds ;  well ;  polished ;  going ;  year ;  modest ;  fairly
+  Actual: platform; diamonds; year; really; scope; phase; next
+--------------------
+Sample 159:
+  Predicted: lot ;  jewelry ;  fine ;  seen ;  actually ;  lab ;  grown ;  jewelry
+  Actual: jewelry; fine; actually; seen; lab; grown; lot
+--------------------
+Sample 160:
+  Predicted: dilemma ;  melee ;  rough ;  claim ;  claim
+  Actual: melee; rough; dilemma; explain; give; like; working
+--------------------
+Sample 161:
+  Predicted: really ;  cool ;  concept ;  creators ;  video
+  Actual: really; cool; actually; video; creators; concept; came
+--------------------
+Sample 162:
+  Predicted: supply ;  issues ;  way ;  consumers ;  forever
+  Actual: issues; always; developments; shocks; seems; recent; need
+--------------------
+Sample 163:
+  Predicted: happen ;  happy ;  rappaport ;  year ;  holidays ;  everything ;  subscribe ;  episodes ;  subscribe
+  Actual: happy; rappaport; get; forget; future; group; facebook
+--------------------
+Sample 164:
+  Predicted: used ;  hey ;  says ;  well ;  found ;  used ;  well
+  Actual: would; goes; says; problems; well; hey; used
+--------------------
+Sample 165:
+  Predicted: price ;  important ;  would ;  branding ;  value
+  Actual: price; important; led; economics; carat; like; cost
+--------------------
+Sample 166:
+  Predicted: old ;  holidays ;  going ;  talking ;  something ;  different ;  going
+  Actual: holidays; old; working; even; back; going; talking
+--------------------
+Sample 167:
+  Predicted: market ;  lot ;  dealings ;  turkish ;  history
+  Actual: turkish; market; lot; dealings
+--------------------
+Sample 168:
+  Predicted: period ;  love ;  auction ;  houses
+  Actual: style; like; would; piece; period; love; jewelry
+--------------------
+Sample 169:
+  Predicted: expensive ;  area ;  expensive ;  tell ;  part ;  magic ;  many ;  minorities ;  tell
+  Actual: area; expensive; extremely; around; chinese; many; magic
+--------------------
+Sample 170:
+  Predicted: us ;  lots ;  open ;  mind ;  FTC
+  Actual: lots; left; us; tried; tone; set; important
+--------------------
+Sample 171:
+  Predicted: well ;  selling ;  sapphires ;  market ;  appetite
+  Actual: well; selling; gems; think; people; market; lot
+--------------------
+Sample 172:
+  Predicted: market ;  stronger ;  booms ;  figure
+  Actual: market; selling; flexibility; accumulators; trade; stronger; stock
+--------------------
+Sample 173:
+  Predicted: personal ;  experience ;  put ;  first ;  campaign ;  planned ;  council ;  diamond ;  put
+  Actual: personal; experience; put; planned; council; early; diamond
+--------------------
+Sample 174:
+  Predicted: get ;  also ;  anniversary ;  graduation
+  Actual: get; gift; also; graduation; anniversary; pictures; boxes
+--------------------
+Sample 175:
+  Predicted: think ;  enough ;  orange ;  natural ;  little
+  Actual: think; enough; juice; orange; natural; know; spread
+--------------------
+Sample 176:
+  Predicted: years ;  busy ;  several ;  pipeline ;  quite ;  pilot ;  various ;  launch ;  also ;  spurred
+  Actual: geopolitical; forward; true; also; climate; definitely; years
+--------------------
+Sample 177:
+  Predicted: think ;  end ;  gonna ;  end up ;  different ;  elements ;  polarizing
+  Actual: think; gon; na; end; different; elements; many
+--------------------
+Sample 178:
+  Predicted: instagram ;  bit ;  setting ;  independent ;  working ;  sort ;  shift
+  Actual: setting; bit; independent; instagram; working; company; dealer
+--------------------
+Sample 179:
+  Predicted: really ;  said ;  really ;  like ;  work ;  dad ;  rest ;  life ;  said
+  Actual: really; demon; said; like; first; see; know
+--------------------
+Sample 180:
+  Predicted: stock ;  memo ;  show ;  jeweler ;  prove ;  website ;  login
+  Actual: stock; memo; go; show; access; website; jeweler
+--------------------
+Sample 181:
+  Predicted: look ;  never ;  putting ;  like
+  Actual: look; sell; putting; website; somebody; seen; never
+--------------------
+Sample 182:
+  Predicted: should ;  takes ;  definitely ;  leads ;  believe ;  stopped ;  takes
+  Actual: worth; never; us; takes; tell; sobolewski; king
+--------------------
+Sample 183:
+  Predicted: polish ;  generation ;  decided ;  bit ;  bit
+  Actual: polish; started; world; quite; created; net; sales
+--------------------
+Sample 184:
+  Predicted: diamond ;  floor ;  space ;  multi-storey ;  floor
+  Actual: diamond; goods; across; square; space; several; covers
+--------------------
+Sample 185:
+  Predicted: people ;  really ;  slick ;  operation ;  fantastic ;  mine ;  large
+  Actual: people; really; tell; one; happy; slick; operation
+--------------------
+Sample 186:
+  Predicted: rotation ;  know ;  really ;  center ;  rotation ;  like ;  design ;  somehow ;  absorbing ;  influence
+  Actual: much; jewelry; somehow; art; design; embedded; grew
+--------------------
+Sample 187:
+  Predicted: think ;  way ;  mind ;  streams ;  positioning
+  Actual: think; white; within; two; streams; puts; works
+--------------------
+Sample 188:
+  Predicted: season ;  important ;  holiday ;  want ;  personalized ;  people ;  come ;  custom
+  Actual: season; important; holiday; want; usually; us; significant
+--------------------
+Sample 189:
+  Predicted: business ;  becoming ;  natural ;  settled ;  lawyers
+  Actual: business; becoming; people; natural; kind; accountants; become
+--------------------
+Sample 190:
+  Predicted: industry ;  know ;  think ;  red ;  paparazzi
+  Actual: industry; know; would; really; first; going; love
+--------------------
+Sample 191:
+  Predicted: blessed ;  long ;  port ;  feel ;  worked ;  old ;  wild
+  Actual: blessed; worked; wild; really; old; man; port
+--------------------
+Sample 192:
+  Predicted: standard ;  system ;  still ;  claim ;  expansion ;  immutable ;  back
+  Actual: well; simplifying; done; good; job; making; understandable
+--------------------
+Sample 193:
+  Predicted: facts ;  front ;  want ;  make ;  ways
+  Actual: facts; front; thing; ways; real; put; look
+--------------------
+Sample 194:
+  Predicted: diamonds ;  russia ;  war ;  two ;  Ukraine
+  Actual: diamonds; russian; russia; years; beginning; war; discussion
+--------------------
+Sample 195:
+  Predicted: work ;  patterns ;  work ;  traditional ;  yuvalv ;  ceramics ;  ukrainian ;  collection ;  studio ;  banak ;  jewelry
+  Actual: traditional; patterns; yuval; last; banak; became; ceramics
+--------------------
+Sample 196:
+  Predicted: prices ;  Mellie ;  natural ;  going ;  garbage
+  Actual: prices; mellie; natural; going; beers; first; year
+--------------------
+Sample 197:
+  Predicted: think ;  kind ;  understand ;  data ;  know ;  bit ;  get ;  sheet
+  Actual: understand; data; think; kind; excel; junkie; get
+--------------------
+Sample 198:
+  Predicted: one ;  tended ;  bill ;  traveling
+  Actual: tended; people; one; go; bill
+--------------------
+Sample 199:
+  Predicted: idea ;  strong ;  point ;  money ;  coming ;  really ;  guess ;  eventually
+  Actual: idea; strong; really; point; coming; money; trade
+--------------------
+Sample 200:
+  Predicted: market ;  watches ;  website ;  launching ;  tanking ;  last ;  positioning ;  power ;  journalism
+  Actual: market; watches; watch; voice; owning; journalism; power
+--------------------
+Sample 201:
+  Predicted: jewelers ;  right ;  stores ;  changed ;  stuff
+  Actual: stores; right; jewelry; changed; well; lot; know
+--------------------
+Sample 202:
+  Predicted: year ;  said ;  happy ;  business
+  Actual: year; bit; end; years; business; started; since
+--------------------
+Sample 203:
+  Predicted: scale ;  solution ;  lack ;  industry
+  Actual: solution; scale; work; lack; industry; said; important
+--------------------
+Sample 204:
+  Predicted: bourse ;  indian ;  company ;  reporting ;  provisions
+  Actual: bourse; indian; back; lacks; small; companies; reporting
+--------------------
+Sample 205:
+  Predicted: really ;  day ;  shipments ;  know ;  person
+  Actual: really; one; know; day; factories; gives; go
+--------------------
+Sample 206:
+  Predicted: terms ;  results ;  poor ;  terms ;  ever ;  anybody ;  hear ;  inflation ;  anybody
+  Actual: results; poor; terms; operations; say; inflation; hear
+--------------------
+Sample 207:
+  Predicted: back ;  make ;  like ;  traceability ;  issue ;  industry ;  want
+  Actual: like; back; get; make; issue; want; phenomenon
+--------------------
+Sample 208:
+  Predicted: australia ;  stores ;  chose ;  aussie ;  australian
+  Actual: australia; stores; chose; brisbane; told; going; ask
+--------------------
+Sample 209:
+  Predicted: synthetic ;  real ;  synthetic ;  putzes ;  say ;  robert ;  oh ;  puttingzes ;  synthetic
+  Actual: synthetic; deceptive; describe; genuine; yuts; oh; calling
+--------------------
+Sample 210:
+  Predicted: planning ;  larger ;  siteholders ;  importantly ;  cycle
+  Actual: planning; sites; larger; expect; supply; siteholders; importantly
+--------------------
+Sample 211:
+  Predicted: brand ;  realisation ;  think ;  big
+  Actual: brand; think; realisation; one; name; industry; coming
+--------------------
+Sample 212:
+  Predicted: york ;  conference ;  September ;  afraid
+  Actual: york; new; september; made; conference; go; everyone
+--------------------
+Sample 213:
+  Predicted: india ;  manufacturing ;  center ;  diamond ;  really ;  experience ;  quite
+  Actual: center; diamond; go; india; manufacturing; main; actually
+--------------------
+Sample 214:
+  Predicted: lot ;  gadot ;  cutting ;  ribbon ;  think
+  Actual: lot; think; buzz; really; created; nice; ambassador
+--------------------
+Sample 215:
+  Predicted: war ;  loved ;  still ;  positive
+  Actual: despite; emotions; cities; larger; theater; situation; especially
+--------------------
+Sample 216:
+  Predicted: youtube ;  follow ;  rappaport ;  twitter ;  LinkedIn
+  Actual: subscribe; get; future; forget; youtube; twitter; rappaport
+--------------------
+Sample 217:
+  Predicted: technology ;  separation ;  goods ;  enough
+  Actual: technology; show; minute; enough; detect; separation; improve
+--------------------
+Sample 218:
+  Predicted: years ;  best ;  sure ;  2021
+  Actual: make; best; years; sure; industry; lot; describe
+--------------------
+Sample 219:
+  Predicted: topic ;  want ;  miners ;  traders
+  Actual: women; want; traders; miners; interviewing; fasciners; topic
+--------------------
+Sample 220:
+  Predicted: diamond ;  export ;  free ;  see ;  countries ;  fit ;  requirement ;  antwerp
+  Actual: trading; single; requires; requirement; export; diamond; see
+--------------------
+Sample 221:
+  Predicted: going ;  independent ;  trade ;  keep ;  time ;  better ;  chain ;  back ;  always
+  Actual: trade; going; independent; keep; well; said; looking
+--------------------
+Sample 222:
+  Predicted: process ;  agree ;  still ;  find ;  taken
+  Actual: agree; process; taken; astounding; debated; find; long
+--------------------
+Sample 223:
+  Predicted: rules ;  general ;  blanket ;  judged
+  Actual: rules; way; judged; general; blanket
+--------------------
+Sample 224:
+  Predicted: diamond ;  organization ;  really ;  world ;  young ;  tears ;  founded ;  borses
+  Actual: diamond; organization; one; contributor; experts; great; also
+--------------------
+Sample 225:
+  Predicted: can ;  easy ;  think ;  diamonds ;  create ;  brand ;  around ;  think
+  Actual: coming; easier; bit; deptswana; aggregation; happens; little
+--------------------
+Sample 226:
+  Predicted: make ;  world ;  think ;  relative
+  Actual: make; world; say; data; loyal; get; easy
+--------------------
+Sample 227:
+  Predicted: want ;  store ;  synthetic ;  guy
+  Actual: wants; walks; synthetic; store; guy; diamonds; buy
+--------------------
+Sample 228:
+  Predicted: pay ;  actually ;  want ;  engagement ;  ring ;  little ;  little
+  Actual: engagement; actually; want; pay; clients; grown; willing
+--------------------
+Sample 229:
+  Predicted: years ;  see ;  going
+  Actual: years; see; next; going; five; anything
+--------------------
+Sample 230:
+  Predicted: collection ;  something ;  carry ;  people ;  give ;  donors ;  opportunity ;  like
+  Actual: something; collection; like; carry; donors; people; long
+--------------------
+Sample 231:
+  Predicted: deal ;  diamonds ;  available ;  quality ;  boutique
+  Actual: deal; diamonds; made; sapphires; rubies; gold; platinum
+--------------------
+Sample 232:
+  Predicted: different ;  appraiser ;  term ;  broad ;  value ;  jewelry ;  really ;  placing ;  term
+  Actual: different; whether; fair; term; really; placing; piece
+--------------------
+Sample 233:
+  Predicted: wore ;  cotton ;  industry ;  compare ;  polyester
+  Actual: cotton; would; world; think; industry; industries; grow
+--------------------
+Sample 234:
+  Predicted: end ;  sight ;  going ;  go ;  rebel ;  abuses ;  governments ;  coordinate ;  human ;  rights
+  Actual: rights; rebel; rather; human; groups; governments; discussions
+--------------------
+Sample 235:
+  Predicted: things ;  unique ;  running ;  journey ;  peak ;  diamonds ;  production
+  Actual: diamonds; production; unique; discover; finite; journey; running
+--------------------
+Sample 236:
+  Predicted: would ;  like ;  saw ;  mentalist
+  Actual: would; like; wow; looking; knowing; know; instagram
+--------------------
+Sample 237:
+  Predicted: industry ;  see ;  wonder ;  moving ;  watches
+  Actual: industry; see; wonder; extent; moving; transpired; watches
+--------------------
+Sample 238:
+  Predicted: watch ;  anybody ;  generic ;  one ;  anywhere ;  generic
+  Actual: watch; one; generic; anywhere; without; name; anybody
+--------------------
+Sample 239:
+  Predicted: kind ;  educated ;  buyer ;  something ;  people
+  Actual: kind; documentation; assumed; ask; buyer; educated; would
+--------------------
+Sample 240:
+  Predicted: day ;  factory ;  going ;  once ;  sure
+  Actual: go; day; well; twice; sure; everything; factory
+--------------------
+Sample 241:
+  Predicted: sent ;  love ;  linda ;  edited
+  Actual: vanina; produced; pikolk; edited
+--------------------
+Sample 242:
+  Predicted: wilbert ;  morning ;  good ;  stone ;  like
+  Actual: william; whatsapp; send; naseem; message; managing; lahari
+--------------------
+Sample 243:
+  Predicted: diamonds ;  back ;  discussing ;  today ;  dazzling ;  market ;  rachel ;  jewelry
+  Actual: today; discussing; successfully; rachel; plenty; market; jewelry
+--------------------
+Sample 244:
+  Predicted: actually ;  year ;  together ;  sustainability ;  vigneron
+  Actual: actually; together; ago; ceo; really; sustainability; year
+--------------------
+Sample 245:
+  Predicted: marketing ;  category ;  india ;  diamonds ;  bigger
+  Actual: marketing; diamonds; category; india; opportunity; interest; share
+--------------------
+Sample 246:
+  Predicted: business ;  know ;  roasting ;  fox ;  chicken
+  Actual: like; know; business; owns; maybe; african; company
+--------------------
+Sample 247:
+  Predicted: hopefully ;  podcast ;  chance ;  get ;  catch ;  hope ;  really ;  happy
+  Actual: soon; really; podcast; hope; happy; get; chance
+--------------------
+Sample 248:
+  Predicted: youtube ;  weekly ;  videos ;  market
+  Actual: youtube; weekly; watch; videos; market; invite; comment
+--------------------
+Sample 249:
+  Predicted: material ;  going ;  vast ;  see ;  mill ;  year ;  interesting
+  Actual: going; material; see; vast; majority; date; fabulous
+--------------------
+Sample 250:
+  Predicted: think ;  years ;  brands ;  still
+  Actual: still; see; part; years; think; things; one
+--------------------
+Sample 251:
+  Predicted: pavilion ;  something ;  hall ;  loose ;  grow
+  Actual: pavilion; something; hall; world; loose; lab; grow
+--------------------
+Sample 252:
+  Predicted: kids ;  trust ;  dad ;  one
+  Actual: kids; know; us; trust; tell; reasons; one
+--------------------
+Sample 253:
+  Predicted: talk ;  course ;  stories ;  amazing ;  come ;  demand ;  also
+  Actual: course; talk; stories; come; nice; jewel; favorite
+--------------------
+Sample 254:
+  Predicted: turnover ;  mainly ;  belgium ;  done ;  million ;  brands ;  top ;  luxury
+  Actual: top; luxury; focused; firm; brands; steadfast; link
+--------------------
+Sample 255:
+  Predicted: years ;  something ;  monetary ;  fleshed
+  Actual: could; years; relatives; long; monetary; back; value
+--------------------
+Sample 256:
+  Predicted: number ;  britain ;  constantly ;  miners ;  sales
+  Actual: around; miners; sales; constantly; alros; one; number
+--------------------
+Sample 257:
+  Predicted: jewelry ;  dad ;  purchase ;  guy ;  happened
+  Actual: dad; college; us; home; purchase; money; jewelry
+--------------------
+Sample 258:
+  Predicted: design ;  designer ;  conditions ;  dangerous ;  working ;  maybe ;  think ;  perhaps ;  dangerous
+  Actual: conditions; working; much; dangerous; designer; sourcing; used
+--------------------
+Sample 259:
+  Predicted: things ;  consumers ;  work ;  supply ;  exactly ;  chain ;  buys ;  rough
+  Actual: things; consumers; see; react; need; learn; keen
+--------------------
+Sample 260:
+  Predicted: fire ;  Oval ;  three ;  princess ;  time
+  Actual: fire; us; come; hot; long; oval; cushion
+--------------------
+Sample 261:
+  Predicted: sure ;  looked ;  really ;  standards
+  Actual: training; going; example; way; understood; standards; set
+--------------------
+Sample 262:
+  Predicted: diamond ;  india ;  indian ;  market ;  jewelry ;  indesh ;  shah ;  partner ;  today
+  Actual: diamond; india; devansh; market; venus; partner; guest
+--------------------
+Sample 263:
+  Predicted: government ;  us ;  based ;  considerations
+  Actual: us; government; mommy; governments; good; daddy; bad
+--------------------
+Sample 264:
+  Predicted: diamonds ;  season ;  facing ;  insurance ;  consumer
+  Actual: diamonds; season; consumer; insurance; holiday; still; conversation
+--------------------
+Sample 265:
+  Predicted: know ;  say ;  enjoyed ;  saying ;  problem ;  said ;  maybe ;  maybe
+  Actual: know; life; allow; bit; done; flexibility; wonderful
+--------------------
+Sample 266:
+  Predicted: licensees ;  throwing ;  start ;  cop ;  anxiety ;  comes ;  attack
+  Actual: throwing; start; licenses; cop; comes; attack; anxiety
+--------------------
+Sample 267:
+  Predicted: us ;  work ;  clarity ;  information ;  shipped
+  Actual: us; work; system; shipped; made; know; information
+--------------------
+Sample 268:
+  Predicted: diamond ;  welcome ;  rappaport ;  podcast ;  joshua ;  multi
+  Actual: dubai; dmcc; centre; joshua; host; friedman; welcome
+--------------------
+Sample 269:
+  Predicted: color ;  clarity ;  demand ;  high ;  mostly
+  Actual: clarity; low; colors; changed; demand; clients; factor
+--------------------
+Sample 270:
+  Predicted: topic ;  important ;  lot ;  podcast ;  enjoyed ;  everyone ;  reading
+  Actual: topic; lot; information; reading; podcast; hope; everyone
+--------------------
+Sample 271:
+  Predicted: diamonds ;  also ;  discussion ;  public ;  want
+  Actual: diamonds; discussion; public; within; process; believe; also
+--------------------
+Sample 272:
+  Predicted: would ;  think ;  rich ;  go
+  Actual: would; thought; think; rich; ruby; probably; go
+--------------------
+Sample 273:
+  Predicted: tommy ;  right ;  name ;  richmond
+  Actual: tommy; right; richmond; name; really; incredible; able
+--------------------
+Sample 274:
+  Predicted: actually ;  looking ;  people ;  know
+  Actual: looking; lot; know; actually; committed; people; would
+--------------------
+Sample 275:
+  Predicted: store ;  brick ;  mortar ;  store ;  going ;  seeing ;  confidence ;  without
+  Actual: believe; stone; sell; see; mind; million; store
+--------------------
+Sample 276:
+  Predicted: jewelry ;  connected ;  people ;  think ;  emotional
+  Actual: jewelry; connected; people; beautiful; concern; like; gemstone
+--------------------
+Sample 277:
+  Predicted: diamond ;  british ;  companies ;  benelbertralian ;  company ;  submitted ;  confirmed ;  emails ;  confirmed
+  Actual: companies; belgian; diamond; epstein; ceo; related; initial
+--------------------
+Sample 278:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 279:
+  Predicted: stores ;  year ;  predicted ;  absorb ;  want
+  Actual: absorb; changes; forecast; forward; stores; year; predicted
+--------------------
+Sample 280:
+  Predicted: podcast ;  welcome ;  rappaport ;  gemological ;  education ;  laboratory
+  Actual: podcast; welcome; diamond; rappaport; brought; consumers; trade
+--------------------
+Sample 281:
+  Predicted: market ;  partly ;  welcome ;  rappaport
+  Actual: partly; usual; reasons; demand; diamond; market; rappaport
+--------------------
+Sample 282:
+  Predicted: podcast ;  lutz ;  much ;  sharing ;  time ;  us ;  thank ;  note ;  jennifer ;  us
+  Actual: us; time; thank; sharing; view; industry; hearing
+--------------------
+Sample 283:
+  Predicted: would ;  public ;  veered ;  costs
+  Actual: yearly; participate; forward; membership; much; veered; costs
+--------------------
+Sample 284:
+  Predicted: us ;  brought ;  jewelry ;  lecturing ;  think
+  Actual: writing; thanks; thank; much; us; think; made
+--------------------
+Sample 285:
+  Predicted: angela ;  year ;  studied ;  listened ;  great ;  winston ;  archivist ;  say ;  harry ;  podcast
+  Actual: winston; say; podcast; longtime; hedges; harry; great
+--------------------
+Sample 286:
+  Predicted: gold ;  lots ;  like ;  past ;  diamond
+  Actual: gold; lots; come; pure; products; past; like
+--------------------
+Sample 287:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 288:
+  Predicted: solution ;  yet ;  information ;  entail ;  come ;  lot ;  traceability
+  Actual: solution; yet; would; information; traceability; technology; problem
+--------------------
+Sample 289:
+  Predicted: business ;  would ;  healthy ;  watch ;  lee
+  Actual: business; tell; stores; market; would; watch; say
+--------------------
+Sample 290:
+  Predicted: value ;  want ;  terms ;  money
+  Actual: worth; want; value; think; terms; people; much
+--------------------
+Sample 291:
+  Predicted: kind ;  work ;  want ;  inner
+  Actual: work; well; want; pick; kind; spirits; shining
+--------------------
+Sample 292:
+  Predicted: india ;  lorry ;  family ;  founded ;  us
+  Actual: india; indicates; increasingly; belgium; family; founded; igi
+--------------------
+Sample 293:
+  Predicted: think ;  trend ;  one ;  referred ;  mia
+  Actual: trend; think; one; simple; excess; well; story
+--------------------
+Sample 294:
+  Predicted: terms ;  tracer ;  get ;  right ;  trends
+  Actual: get; tracer; terms; onto; better; enable; leverage
+--------------------
+Sample 295:
+  Predicted: sort ;  rather ;  conspiracy ;  imagine ;  mix ;  sort ;  rather
+  Actual: sort; rather; mostly; mix; imagine; conspiracy
+--------------------
+Sample 296:
+  Predicted: costs ;  consumer ;  know ;  believe
+  Actual: know; costs; many; baseline; enough; consumer; believe
+--------------------
+Sample 297:
+  Predicted: talk ;  many ;  people ;  real
+  Actual: 
+--------------------
+Sample 298:
+  Predicted: surat ;  basically ;  building ;  want ;  trading
+  Actual: surat; wants; pretty; much; moment; huge; empty
+--------------------
+Sample 299:
+  Predicted: rappaport ;  follow ;  twitter ;  LinkedIn ;  facebook
+  Actual: rappaport; follow; subscribe; get; future; twitter; linkedin
+--------------------
+Sample 300:
+  Predicted: remember ;  anything ;  york ;  campaign ;  chic ;  actresses ;  think ;  see ;  others
+  Actual: anything; remember; last; year; tried; really; campaigns
+--------------------
+Sample 301:
+  Predicted: want ;  speak ;  something ;  changed
+  Actual: want; changed; speak; got; come; see; something
+--------------------
+Sample 302:
+  Predicted: well ;  mix ;  going ;  fashion ;  expect
+  Actual: would; going; fashion; expect; come
+--------------------
+Sample 303:
+  Predicted: work ;  want ;  working ;  us ;  look ;  us working ;  ecosystem ;  want
+  Actual: ecosystem; isolation; look; working; us; many; people
+--------------------
+Sample 304:
+  Predicted: working ;  something ;  bit ;  naive ;  finding
+  Actual: something; actually; working; naive; little; thinking; sort
+--------------------
+Sample 305:
+  Predicted: seeing ;  margins ;  working ;  chain ;  rogue
+  Actual: seeing; working; stores; see; chain; margins; healthy
+--------------------
+Sample 306:
+  Predicted: diamond ;  type ;  super ;  world
+  Actual: diamond; world; famous; type; super; iib; deep
+--------------------
+Sample 307:
+  Predicted: used ;  side ;  says ;  different ;  woman ;  uk ;  udp ;  Margot ;  says
+  Actual: assistant; like; whose; calls; downtrodden; hazel; really
+--------------------
+Sample 308:
+  Predicted: someone ;  meeting ;  great ;  smithsonian ;  opportunity ;  curator ;  place
+  Actual: great; somebody; smithsonian; wherever; call; conference; meeting
+--------------------
+Sample 309:
+  Predicted: back ;  think ;  industry ;  normality
+  Actual: back; booking; bookings; dates; think; normality; industry
+--------------------
+Sample 310:
+  Predicted: industry ;  years ;  proud ;  above ;  else
+  Actual: industry; think; years; whilst; rightly; last; history
+--------------------
+Sample 311:
+  Predicted: would ;  tell ;  jewelry ;  diamond ;  rappaport ;  guest ;  podcast ;  tell
+  Actual: asia; chairman; tell; diamond; dream; guest; would
+--------------------
+Sample 312:
+  Predicted: way ;  great ;  us ;  particularly ;  consumer
+  Actual: market; us; communications; customers; great; way; consumer
+--------------------
+Sample 313:
+  Predicted: best ;  provide ;  class ;  end user ;  consumer ;  also ;  insurance ;  means ;  probably
+  Actual: provide; class; best; system; probably; user; insurance
+--------------------
+Sample 314:
+  Predicted: world ;  stories ;  like ;  gold ;  many ;  markets ;  like
+  Actual: world; story; markets; many; like; gold; different
+--------------------
+Sample 315:
+  Predicted: single ;  stones ;  whatever ;  bring ;  happy
+  Actual: stones; single; whatever; recycled; happy; grains; four
+--------------------
+Sample 316:
+  Predicted: would ;  think ;  pieces ;  manufacture
+  Actual: would; view; think; significant; put; pieces; manufacture
+--------------------
+Sample 317:
+  Predicted: days ;  take ;  used ;  five ;  five
+  Actual: days; think; interesting; used; taking; take; get
+--------------------
+Sample 318:
+  Predicted: government ;  think ;  nothing ;  see ;  russia
+  Actual: government; used; taboo; rights; kp; war; see
+--------------------
+Sample 319:
+  Predicted: think ;  wonderful ;  idea ;  story ;  Queer ;  one ;  know ;  program ;  shine
+  Actual: queer; heard; know; mind; program; one; shine
+--------------------
+Sample 320:
+  Predicted: diamonds ;  time ;  think ;  fast ;  basically
+  Actual: amount; chemical; completely; described; diamonds; fast; fashion
+--------------------
+Sample 321:
+  Predicted: want ;  time ;  talk ;  something
+  Actual: york; know; five; grant; interviewed; wanted; different
+--------------------
+Sample 322:
+  Predicted: passing ;  baton ;  generation ;  readers ;  unfortunately ;  many ;  readers
+  Actual: unfortunately; readers; many; listeners; terms; passing; new
+--------------------
+Sample 323:
+  Predicted: video ;  counted ;  amount ;  turned ;  question
+  Actual: exact; amount; around; asked; based; counted; worked
+--------------------
+Sample 324:
+  Predicted: people ;  know ;  job ;  easy
+  Actual: people; know; connections; job; made; easy; thing
+--------------------
+Sample 325:
+  Predicted: winner ;  retailer ;  ring ;  day ;  sold ;  winner ;  retailer
+  Actual: tell; one; difference; winner; sold; ring; retailer
+--------------------
+Sample 326:
+  Predicted: sonia ;  thank ;  much ;  see ;  podcast ;  nice ;  see
+  Actual: thank; sonia; much; see; really; podcast; nice
+--------------------
+Sample 327:
+  Predicted: customer ;  win ;  lifetime ;  pass ;  generation ;  training ;  people ;  want ;  program
+  Actual: customer; years; wants; training; program; people; pass
+--------------------
+Sample 328:
+  Predicted: business ;  right ;  people ;  want
+  Actual: business; right; people; appraisers; help; like; want
+--------------------
+Sample 329:
+  Predicted: join ;  well ;  apart ;  listens ;  lot ;  attending ;  listens
+  Actual: arts; speak; phillips; apart; recordings; listen; attending
+--------------------
+Sample 330:
+  Predicted: mumbai ;  factories ;  different ;  liked ;  podcasts
+  Actual: mumbai; different; factories; types; every; single; saw
+--------------------
+Sample 331:
+  Predicted: us ;  couple ;  think ;  elements ;  bridal
+  Actual: us; couple; think; bridal; moment; diversity; young
+--------------------
+Sample 332:
+  Predicted: time ;  finding ;  hard ;  newspaper ;  figure ;  tells ;  unemployment ;  official ;  figure
+  Actual: unemployment; tells; sees; official; numbers; today; time
+--------------------
+Sample 333:
+  Predicted: people ;  surrounding ;  situations ;  many ;  years ;  trading ;  retired ;  last
+  Actual: people; surrounding; situations; many; community; everybody; government
+--------------------
+Sample 334:
+  Predicted: world ;  Feriel ;  sourcing ;  stakeholders ;  africa
+  Actual: world; whole; tried; story; short; mess; stakeholders
+--------------------
+Sample 335:
+  Predicted: people ;  work ;  make ;  reassess ;  know
+  Actual: people; come; extremely; good; step; one; number
+--------------------
+Sample 336:
+  Predicted: think ;  yeah ;  becoming ;  diverse ;  yeah, becoming ;  arosa ;  crisis ;  lot ;  happening
+  Actual: lot; things; arosa; crisis; happening; know; think
+--------------------
+Sample 337:
+  Predicted: collection ;  like ;  v&a ;  evolved ;  much ;  story ;  jewelry
+  Actual: collections; like; evolved; many; koch; louis; study
+--------------------
+Sample 338:
+  Predicted: something ;  create ;  stone ;  value ;  collection ;  polish ;  whether ;  back ;  think
+  Actual: something; create; stone; collection; value; actually; size
+--------------------
+Sample 339:
+  Predicted: course ;  running ;  well ;  introducing ;  demand ;  speak ;  extremely
+  Actual: courses; running; giving; introducing; high; demand; extremely
+--------------------
+Sample 340:
+  Predicted: would ;  statement ;  sustainable ;  biggest ;  wore
+  Actual: would; sustainable; statement; make; could; biggest
+--------------------
+Sample 341:
+  Predicted: commercial ;  would ;  everything ;  separate ;  commercial ;  quantities ;  large ;  rough ;  say ;  producing
+  Actual: everything; separate; commercial; would; much; certain; high
+--------------------
+Sample 342:
+  Predicted: mine ;  debswana ;  way ;  able ;  say ;  name ;  aggregated
+  Actual: mines; way; say; rough; odc; name; mine
+--------------------
+Sample 343:
+  Predicted: lapground ;  swarovski ;  somehow ;  store ;  beautiful
+  Actual: swarovski; lapground; segments; natural; competition; diamond; fully
+--------------------
+Sample 344:
+  Predicted: video ;  thanks ;  kutta ;  one ;  hello
+  Actual: video; would; overseas; companies; diamonds; dollar; exporting
+--------------------
+Sample 345:
+  Predicted: retailers ;  also ;  retailers ;  price ;  come ;  okay ;  pricing ;  algorithm
+  Actual: retailers; also; always; buy; dealers; good; helping
+--------------------
+Sample 346:
+  Predicted: think ;  technology ;  internal ;  go ;  end ;  jck ;  lot
+  Actual: internal; think; technology; side; tracer; critical; lot
+--------------------
+Sample 347:
+  Predicted: company ;  devalue ;  impairment ;  gets ;  impairment
+  Actual: company; towards; asset; charge; owns; incurs; impairment
+--------------------
+Sample 348:
+  Predicted: right ;  challenges ;  market
+  Actual: market; challenges; affected
+--------------------
+Sample 349:
+  Predicted: cost ;  second ;  businesses ;  negatively ;  profit
+  Actual: comes; ease; expensive; second; businesses; consequences; cost
+--------------------
+Sample 350:
+  Predicted: normal ;  think ;  return ;  certainly ;  quick ;  would ;  permanent
+  Actual: think; normal; would; permanent; market; leave; impact
+--------------------
+Sample 351:
+  Predicted: people ;  rebuild ;  artwork ;  knew ;  right
+  Actual: artwork; linked; uncle; brothers; father; four; grandparents
+--------------------
+Sample 352:
+  Predicted: system ;  know ;  transparent ;  manufacturer ;  continue
+  Actual: system; believe; case; chain; continue; pick; manufacturer
+--------------------
+Sample 353:
+  Predicted: people ;  know ;  group ;  names
+  Actual: know; people; group; pretty; shook; nice; louis
+--------------------
+Sample 354:
+  Predicted: industry ;  whole ;  let ;  great
+  Actual: industry; whole; great; let; livelihoods; join; watch
+--------------------
+Sample 355:
+  Predicted: years ;  around ;  polishing ;  facility
+  Actual: years; since; life; know; going; wheel; started
+--------------------
+Sample 356:
+  Predicted: rachel ;  guest ;  today ;  reason ;  finger
+  Actual: rachel; guest; issue; bridal; cover; currently; wrote
+--------------------
+Sample 357:
+  Predicted: jewelry ;  business ;  around ;  growing ;  family
+  Actual: jewelry; store; around; growing; family; business; people
+--------------------
+Sample 358:
+  Predicted: years ;  got ;  make ;  year ;  companies
+  Actual: years; four; year; three; said; remodeled; remodel
+--------------------
+Sample 359:
+  Predicted: journey ;  started ;  companies ;  advanced ;  think ;  report ;  certain
+  Actual: journey; started; companies; advanced; think; report; point
+--------------------
+Sample 360:
+  Predicted: maria ;  toilet ;  toilet
+  Actual: 
+--------------------
+Sample 361:
+  Predicted: business ;  joined ;  france ;  born ;  first ;  market ;  american ;  owned
+  Actual: joined; business; french; owned; stein; lasse; brother
+--------------------
+Sample 362:
+  Predicted: government ;  want ;  sentence ;  promote ;  stym
+  Actual: governments; want; sunday; stymied; something; sentence; promote
+--------------------
+Sample 363:
+  Predicted: gemstones ;  haddon ;  garden ;  started ;  years ;  quite ;  quite
+  Actual: back; garden; gemology; haddon; introduction; maybe; us
+--------------------
+Sample 364:
+  Predicted: technology ;  essentially ;  merchant ;  build ;  diamond ;  used ;  way ;  solve
+  Actual: technology; merchant; diamond; essentially; transform; traditional; build
+--------------------
+Sample 365:
+  Predicted: wanted ;  knew ;  world ;  swaths ;  started ;  huge ;  swaths ;  internet ;  switches ;  started
+  Actual: wanted; knew; type; content; created; diamond; educational
+--------------------
+Sample 366:
+  Predicted: sharon ;  famous ;  approach ;  us ;  risk-taking
+  Actual: sharon; working; big; private; maisons; collections; well
+--------------------
+Sample 367:
+  Predicted: maybe ;  practice ;  something ;  need ;  start ;  would ;  responsible ;  today
+  Actual: maybe; need; something; practice; start; ca; coach
+--------------------
+Sample 368:
+  Predicted: subscribe ;  episodes ;  future
+  Actual: subscribe; get; future; episodes
+--------------------
+Sample 369:
+  Predicted: interesting ;  company ;  purposes ;  kantar
+  Actual: purposes; kantar; internal; context; company; also; say
+--------------------
+Sample 370:
+  Predicted: know ;  value ;  going ;  carat ;  want ;  business ;  trade ;  trade-ups ;  also ;  diamonds
+  Actual: know; want; value; business; carat; going; make
+--------------------
+Sample 371:
+  Predicted: quite ;  working ;  issues ;  jvc ;  interesting
+  Actual: quite; yeah; combination; else; esoteric; everybody; actually
+--------------------
+Sample 372:
+  Predicted: know ;  mona ;  museum ;  see ;  want ;  lisa ;  louvre ;  sort ;  case
+  Actual: lisa; mona; know; leave; want; people; see
+--------------------
+Sample 373:
+  Predicted: customer ;  like ;  one ;  another ;  walks ;  process ;  said
+  Actual: like; another; job; designs; multiple; day; every
+--------------------
+Sample 374:
+  Predicted: diamonds ;  colorless ;  whatever ;  series ;  talk ;  impossible ;  type
+  Actual: whatever; diamonds; colorless; sends; somebody; violet; argyle
+--------------------
+Sample 375:
+  Predicted: most ;  notably ;  Benny ;  one ;  caught ;  attention ;  right ;  collaborations ;  right
+  Actual: notably; right; done; collaborations; one; maybe; caught
+--------------------
+Sample 376:
+  Predicted: people ;  opportunity ;  world ;  really ;  gem ;  industry ;  world
+  Actual: people; interact; gem; gives; industry; world; interesting
+--------------------
+Sample 377:
+  Predicted: market ;  week ;  trends ;  wrote ;  last week ;  watch ;  wrote
+  Actual: market; welcome; rappaport; hello; wrote; week; watch
+--------------------
+Sample 378:
+  Predicted: put ;  much ;  diligently ;  ethically
+  Actual: put; well; much; honestly; ethically; diligently
+--------------------
+Sample 379:
+  Predicted: need ;  know ;  sell ;  like ;  collectors
+  Actual: need; rough; buy; selling; know; sell; cut
+--------------------
+Sample 380:
+  Predicted: well ;  product ;  see ;  gold ;  diamond ;  taken ;  buyer ;  taken
+  Actual: well; product; taken; diamond; buyer; money; see
+--------------------
+Sample 381:
+  Predicted: worth ;  know ;  much ;  kind ;  fun ;  things ;  really ;  auction
+  Actual: worth; much; know; thing; start; great; things
+--------------------
+Sample 382:
+  Predicted: industry ;  jewelry ;  rappaport ;  bridge ;  drawing
+  Actual: bridge; rappaport; industry; jewelry; men; really; questioning
+--------------------
+Sample 383:
+  Predicted: gold ;  price ;  know ;  income ;  still
+  Actual: know; price; gold; mentioned; like; gone; still
+--------------------
+Sample 384:
+  Predicted: also ;  show ;  wanted ;  move ;  art ;  Nouveau ;  jewelry
+  Actual: also; show; tour; people; jewelry; classes; industrial
+--------------------
+Sample 385:
+  Predicted: send ;  people ;  require ;  often ;  stock
+  Actual: people; send; stock; difficult; time; originally; unhappy
+--------------------
+Sample 386:
+  Predicted: Keith ;  owner ;  started
+  Actual: owner; keith; idc
+--------------------
+Sample 387:
+  Predicted: problem ;  one ;  entity ;  dinner
+  Actual: problem; presented; possibility; person; panels; one; mind
+--------------------
+Sample 388:
+  Predicted: actually ;  would ;  positive ;  retailers
+  Actual: actually; advises; article; better; companies; considered; calm
+--------------------
+Sample 389:
+  Predicted: money ;  used ;  kinds ;  ukraine
+  Actual: money; kinds; used; diamonds; understand; real; look
+--------------------
+Sample 390:
+  Predicted: industry ;  survive ;  financing ;  antwerp
+  Actual: financing; survive; antwerp; industry; cause; way; decline
+--------------------
+Sample 391:
+  Predicted: years ;  entry ;  minimum ;  bodega
+  Actual: years; ticket; raising; much; minimum; lowest; level
+--------------------
+Sample 392:
+  Predicted: years ;  trade ;  things ;  kid ;  selling
+  Actual: years; trade; know; believe; selling; another; side
+--------------------
+Sample 393:
+  Predicted: everyday ;  learn ;  think ;  three ;  biodiversity ;  say ;  would ;  definitely
+  Actual: say; three; think; day; every; learning; biodiversity
+--------------------
+Sample 394:
+  Predicted: covid ;  little ;  fruition ;  see ;  independents
+  Actual: covid; little; come; commitments; saw; push; went
+--------------------
+Sample 395:
+  Predicted: would ;  trade ;  pieces ;  winston ;  personal
+  Actual: would; trade; winston; time; relationship; pieces; personal
+--------------------
+Sample 396:
+  Predicted: maybe ;  wants ;  foreign ;  government ;  trading ;  much ;  become ;  trade
+  Actual: maybe; wants; high; trading; foreign; imbalanced; much
+--------------------
+Sample 397:
+  Predicted: oil ;  gas ;  world ;  see ;  much
+  Actual: oil; gas; world; around; move; mean; much
+--------------------
+Sample 398:
+  Predicted: institutions ;  lausanne ;  think ;  2021 ;  university
+  Actual: institutions; lausanne; venture; also; called; companies; enterprise
+--------------------
+Sample 399:
+  Predicted: still ;  understand ;  marketed
+  Actual: still; understand; marketed
+--------------------
+Sample 400:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 401:
+  Predicted: people ;  think ;  environment ;  different
+  Actual: people; think; whatever; spent; simply; showed; sensitivity
+--------------------
+Sample 402:
+  Predicted: list ;  sold ;  everything ;  brought ;  everyone ;  jumped ;  correction ;  sure ;  sure
+  Actual: sold; list; old; tremendous; sure; month; later
+--------------------
+Sample 403:
+  Predicted: diamond ;  think ;  bit ;  little ;  maybe ;  lost ;  something ;  hard ;  say
+  Actual: think; diamond; industry; bit; little; maybe; lost
+--------------------
+Sample 404:
+  Predicted: things ;  get ;  think ;  challenges ;  normality
+  Actual: things; way; times; though; seem; return; get
+--------------------
+Sample 405:
+  Predicted: technical ;  trade ;  sometimes ;  technical ;  maybe ;  got ;  tracer ;  traceability
+  Actual: maybe; sometimes; got; technical; trade; traceability; come
+--------------------
+Sample 406:
+  Predicted: level ;  really ;  meeting ;  people
+  Actual: next; level; meeting; speaking; really; great; people
+--------------------
+Sample 407:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 408:
+  Predicted: think ;  metals ;  tons ;  mined ;  every ;  year ;  demand
+  Actual: think; need; metals; every; mined; gold; tons
+--------------------
+Sample 409:
+  Predicted: world ;  true ;  countries ;  looking ;  know
+  Actual: question; looking; know; world; true; countries; see
+--------------------
+Sample 410:
+  Predicted: framework ;  coming ;  important ;  mouveau
+  Actual: framework; sustainability; milestone; montreal; important; global; developed
+--------------------
+Sample 411:
+  Predicted: whole ;  saw ;  entirety ;  woman ;  tweet ;  need ;  white ;  told ;  need
+  Actual: woman; white; vision; tweet; told; said; photo
+--------------------
+Sample 412:
+  Predicted: years ;  quite ;  remote ;  conditions ;  often ;  think ;  environment ;  quite
+  Actual: coalition; kimberley; work; process; also; give; role
+--------------------
+Sample 413:
+  Predicted: know ;  working ;  great ;  think ;  job
+  Actual: working; know; things; love; amazing; families; great
+--------------------
+Sample 414:
+  Predicted: years ;  seeing ;  year ;  chinese
+  Actual: years; holidays; year; vietnamese; chinese; coming; moon
+--------------------
+Sample 415:
+  Predicted: gemological ;  consumers ;  education ;  supporting ;  research ;  industry ;  usa ;  channel
+  Actual: trade; supporting; since; services; research; protecting; laboratory
+--------------------
+Sample 416:
+  Predicted: india ;  diamond ;  yd ;  young ;  trip
+  Actual: harsh; india; diamond; shah; pasarvajah; manufacturing; based
+--------------------
+Sample 417:
+  Predicted: think ;  market ;  responsibility ;  everything ;  fiduciary ;  lucora ;  throw ;  everything
+  Actual: think; market; clifford; lucora; throw; responsibility; duty
+--------------------
+Sample 418:
+  Predicted: values ;  brands ;  think ;  block ;  nirvana
+  Actual: values; brands; value; purchaser; trace; think; said
+--------------------
+Sample 419:
+  Predicted: years ;  made ;  different ;  client ;  emotionally ;  lot ;  sentimental
+  Actual: made; ago; years; client; different; estate; believe
+--------------------
+Sample 420:
+  Predicted: rough ;  stone ;  verify ;  origin ;  yeah
+  Actual: rough; similar; service; offer; yeah; verify; take
+--------------------
+Sample 421:
+  Predicted: know ;  way ;  using ;  kind ;  stage
+  Actual: well; thinking; think; stage; way; using; shoes
+--------------------
+Sample 422:
+  Predicted: know ;  sell ;  together
+  Actual: sell; know; going; together; staying; home
+--------------------
+Sample 423:
+  Predicted: australia ;  could ;  year ;  close ;  disruptor
+  Actual: australia; could; zealand; age; two; start; said
+--------------------
+Sample 424:
+  Predicted: ask ;  session ;  wanted ;  us ;  bit ;  tell ;  process ;  kimblee
+  Actual: wanted; us; upcoming; understand; tell; session; process
+--------------------
+Sample 425:
+  Predicted: think ;  part ;  transparency ;  education ;  important ;  australian ;  certainly
+  Actual: substantial; space; seeing; mean; markets; transparency; think
+--------------------
+Sample 426:
+  Predicted: support ;  always ;  vision ;  find ;  certain ;  bear ;  regularity ;  bears
+  Actual: regularity; forget; vision; support; always; believe; certain
+--------------------
+Sample 427:
+  Predicted: dali ;  diamond ;  story ;  difficult ;  scripture
+  Actual: story; dali; diamond; written; speak; scripture; really
+--------------------
+Sample 428:
+  Predicted: people ;  hong ;  buying ;  started ;  trade
+  Actual: people; unsafe; got; asia; buy; feel; buying
+--------------------
+Sample 429:
+  Predicted: really ;  wanted ;  think ;  tota ;  farber
+  Actual: really; wanted; tota; thomas; think; success; special
+--------------------
+Sample 430:
+  Predicted: want ;  winston ;  another ;  plane ;  add
+  Actual: stones; another; one; want; highlight; winston; interest
+--------------------
+Sample 431:
+  Predicted: get ;  older ;  kids ;  blah ;  get ;  married ;  people ;  decide
+  Actual: blah; older; get; kids; cis; okay; entering
+--------------------
+Sample 432:
+  Predicted: 25th ;  used ;  gift ;  get
+  Actual: used; gift; get; easy; november; hey; december
+--------------------
+Sample 433:
+  Predicted: amount ;  gold ;  indian ;  women ;  huge ;  kept ;  people
+  Actual: gold; amount; thing; private; people; women; indian
+--------------------
+Sample 434:
+  Predicted: diamonds ;  wanted ;  sales ;  first ;  diamond ;  going ;  tiffany ;  van Cleef ;  claim
+  Actual: could; genuinely; dodged; plans; probably; proposal; question
+--------------------
+Sample 435:
+  Predicted: lab-grown ;  stones ;  think ;  plus
+  Actual: stones; think; negate; investment; future; plus; impact
+--------------------
+Sample 436:
+  Predicted: mine ;  aurora ;  would ;  line ;  beautiful
+  Actual: mine; territory; yellows; would; waiting; us; give
+--------------------
+Sample 437:
+  Predicted: going ;  think ;  value ;  somebody ;  compared ;  fashion ;  somebody
+  Actual: think; going; successful; ones; value; settle; see
+--------------------
+Sample 438:
+  Predicted: would ;  screaming ;  ground ;  thing
+  Actual: silent; question; would; thing; screaming; really; next
+--------------------
+Sample 439:
+  Predicted: beers ;  tech ;  de ;  tracer ;  year ;  think ;  urgency
+  Actual: beers; de; tracer; urgency; year; think; day
+--------------------
+Sample 440:
+  Predicted: jewelry ;  hands ;  human ;  create ;  gem
+  Actual: hands; jewelry; long; human; know; like; beautiful
+--------------------
+Sample 441:
+  Predicted: yeah ;  moved ;  correct
+  Actual: moved; correct; away
+--------------------
+Sample 442:
+  Predicted: days ;  typical ;  tell ;  day ;  retail ;  lot ;  willing ;  pop-up
+  Actual: season; shops; results; hit; miss; bit; typical
+--------------------
+Sample 443:
+  Predicted: store ;  places ;  affluent ;  people
+  Actual: store; affluent; cape; tended; couple; places; place
+--------------------
+Sample 444:
+  Predicted: lot ;  trying ;  struggle ;  jewelers
+  Actual: lot; work; helpful; little; take; field; different
+--------------------
+Sample 445:
+  Predicted: statistics ;  scheme ;  kimmerle ;  good ;  import
+  Actual: statistics; export; level; commodity; detail; something; think
+--------------------
+Sample 446:
+  Predicted: better ;  believe ;  money ;  nothing ;  burn ;  together ;  work
+  Actual: believe; better; work; together; nothing; money; lot
+--------------------
+Sample 447:
+  Predicted: going ;  business ;  things ;  like
+  Actual: going; business; basis; company; know; able; back
+--------------------
+Sample 448:
+  Predicted: quarter ;  percent ;  every ;  contribute ;  repeat ;  propose ;  participate
+  Actual: every; add; afford; quarter; ca; percent; business
+--------------------
+Sample 449:
+  Predicted: done ;  memo ;  right ;  thing ;  always ;  big ;  thing
+  Actual: right; memo; done; thing; memos; strategic; store
+--------------------
+Sample 450:
+  Predicted: years ;  online ;  support ;  odds
+  Actual: support; really; ones; odds; years; statistics; online
+--------------------
+Sample 451:
+  Predicted: value ;  coming ;  sentimental ;  together
+  Actual: value; narrated; deal; might; top; big; guess
+--------------------
+Sample 452:
+  Predicted: three ;  buttons ;  maybe ;  three ;  moment ;  developed ;  know
+  Actual: moment; know; three; maybe; buttons; said; remember
+--------------------
+Sample 453:
+  Predicted: diamonds ;  star ;  would ;  rampant ;  green
+  Actual: would; diamonds; rampant; star; diamond; green; direction
+--------------------
+Sample 454:
+  Predicted: people ;  gemstone ;  years ;  obvious ;  job ;  curator ;  alluded
+  Actual: people; gemstones; along; earlier; fascinated; obvious; job
+--------------------
+Sample 455:
+  Predicted: think ;  style ;  translating ;  people
+  Actual: people; think; style; looking; metals; engaged; get
+--------------------
+Sample 456:
+  Predicted: rappaport ;  podcast ;  kravitz ;  unique ;  platform ;  jewelry
+  Actual: model; beautiful; built; welcome; diamond; host; javi
+--------------------
+Sample 457:
+  Predicted: know ;  started ;  let ;  expression ;  indian ;  think ;  jewelry ;  let
+  Actual: think; started; start; let; know; vast; topic
+--------------------
+Sample 458:
+  Predicted: really ;  talk ;  young ;  enjoy
+  Actual: really; yet; trip; speak; young; think; people
+--------------------
+Sample 459:
+  Predicted: also ;  working ;  bit ;  trading ;  goods
+  Actual: also; trading; selling; polished; started; rough; since
+--------------------
+Sample 460:
+  Predicted: really ;  help ;  customer ;  tool ;  another ;  service ;  help
+  Actual: help; really; confused; got; path; say; somebody
+--------------------
+Sample 461:
+  Predicted: years ;  turbulence ;  hong ;  rowy ;  think
+  Actual: years; well; various; types; uncertainty; political; period
+--------------------
+Sample 462:
+  Predicted: people ;  ukrainian ;  contribute ;  jewelry ;  important ;  national ;  economy ;  important
+  Actual: ukrainian; people; graf; fact; started; products; buy
+--------------------
+Sample 463:
+  Predicted: prisoner ;  length ;  time ;  say ;  something ;  knew ;  prison ;  lot ;  knew
+  Actual: time; something; say; prison; lot; length; knew
+--------------------
+Sample 464:
+  Predicted: source ;  revealed ;  source ;  might ;  mining ;  later ;  even ;  diamonds ;  source
+  Actual: provenance; disclosed; helpful; visually; reports; see; might
+--------------------
+Sample 465:
+  Predicted: seeing ;  lot ;  immediately ;  colors
+  Actual: seeing; lot; actually; know; immediately; colors; change
+--------------------
+Sample 466:
+  Predicted: millions ;  livelihood ;  really ;  valuable
+  Actual: support; millions; livelihood
+--------------------
+Sample 467:
+  Predicted: really ;  side ;  kind ;  see ;  interesting ;  things ;  fit ;  together
+  Actual: really; side; kind; works; looking; angles; see
+--------------------
+Sample 468:
+  Predicted: natural ;  long ;  consumers ;  sense ;  future
+  Actual: natural; customers; throughout; awareness; beginning; confident; consumer
+--------------------
+Sample 469:
+  Predicted: always ;  podcast ;  happy ;  need
+  Actual: always; thank; much; guys; talk; podcast; panel
+--------------------
+Sample 470:
+  Predicted: change ;  articles ;  AGm ;  two ;  know
+  Actual: articles; change; agreement; would; needed; done; way
+--------------------
+Sample 471:
+  Predicted: zhen ;  show ;  thanks ;  podcast
+  Actual: zheng; thanks; show; coming
+--------------------
+Sample 472:
+  Predicted: would ;  impacts ;  people ;  think
+  Actual: would; think; impacts; people; instead; gold; products
+--------------------
+Sample 473:
+  Predicted: industry ;  journey ;  us ;  leone ;  unique
+  Actual: industry; thanks; new; us; exclusive; sierra; leone
+--------------------
+Sample 474:
+  Predicted: looking forward ;  lot ;  think ;  looking ;  interesting ;  coming ;  months ;  listeners
+  Actual: think; really; months; lot; look; tracer; related
+--------------------
+Sample 475:
+  Predicted: three ;  sure ;  necklaces ;  give
+  Actual: three; tried; oh; ruby; necklaces; got; makes
+--------------------
+Sample 476:
+  Predicted: different ;  rubies ;  fillers ;  heating ;  different
+  Actual: different; rubies; many; emeralds; mechanisms; tested; single
+--------------------
+Sample 477:
+  Predicted: jewelry ;  strictly ;  love ;  seeing ;  value
+  Actual: jewelry; value; strictly; seeing; putting; love; falling
+--------------------
+Sample 478:
+  Predicted: market ;  welcome ;  rappaport ;  de ;  las ;  looking
+  Actual: market; las; breakfast; coming; de; forward; expected
+--------------------
+Sample 479:
+  Predicted: know ;  something ;  technology ;  shoppers
+  Actual: something; know; express; everybody; equation; technology; shoppers
+--------------------
+Sample 480:
+  Predicted: kosher ;  diamonds ;  keyphrases
+  Actual: 
+--------------------
+Sample 481:
+  Predicted: show ;  kong ;  two ;  main ;  hong ;  year ;  basically
+  Actual: two; show; shows; main; hong; kong; years
+--------------------
+Sample 482:
+  Predicted: taking ;  ram ;  grab ;  sort ;  moment
+  Actual: moment; spur; sort; going; sitting; noting; necessarily
+--------------------
+Sample 483:
+  Predicted: exactly ;  same ;  exactly ;  care ;  replacement ;  replacement
+  Actual: 
+--------------------
+Sample 484:
+  Predicted: also ;  solution ;  diamonds ;  want ;  piece ;  really ;  traced
+  Actual: also; solution; diamonds; want; melee; valuable; big
+--------------------
+Sample 485:
+  Predicted: topic ;  industry ;  help ;  want ;  different ;  topics ;  think ;  think
+  Actual: industry; help; want; hopefully; advance; also; beyond
+--------------------
+Sample 486:
+  Predicted: facets ;  actually ;  bought ;  away ;  china ;  know ;  certificate
+  Actual: facets; bought; actually; right; need; know; gi
+--------------------
+Sample 487:
+  Predicted: think ;  showcase ;  original ;  Luxury ;  let ;  compete ;  one
+  Actual: think; showcase; original; luxury; one; narrowly; market
+--------------------
+Sample 488:
+  Predicted: government ;  debswana ;  well ;  thing ;  regulations
+  Actual: government; debswana; well; regulations; license; programs; invest
+--------------------
+Sample 489:
+  Predicted: time ;  want ;  stock ;  one ;  clients ;  sell ;  team ;  pieces
+  Actual: one; stock; clients; time; want; sales; unless
+--------------------
+Sample 490:
+  Predicted: baroque ;  western ;  ornaments ;  local ;  simplified
+  Actual: western; baroque; european; ornaments; ukrainian; course; lush
+--------------------
+Sample 491:
+  Predicted: think ;  lot ;  people ;  aware ;  think ;  collaboration ;  like ;  gia
+  Actual: think; people; started; since; like; interesting; harvard
+--------------------
+Sample 492:
+  Predicted: stock ;  tried ;  bit ;  move ;  market ;  king ;  seen ;  way ;  like
+  Actual: way; seen; remain; market; liquid; like; stock
+--------------------
+Sample 493:
+  Predicted: party ;  big ;  balls ;  like ;  parties ;  lavish ;  parties
+  Actual: parties; like; lavish; big; balls; year; specific
+--------------------
+Sample 494:
+  Predicted: banks ;  money ;  know ;  use
+  Actual: could; take; money; use; people; many; know
+--------------------
+Sample 495:
+  Predicted: really ;  know ;  make ;  instagram
+  Actual: really; like; instagram; make; know; films; almost
+--------------------
+Sample 496:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 497:
+  Predicted: directly ;  designers ;  york ;  london ;  brands
+  Actual: london; nomis; designers; directly; support; websites; want
+--------------------
+Sample 498:
+  Predicted: kind ;  different ;  open ;  much
+  Actual: different; culture; kind; carefully; closely; clothes; also
+--------------------
+Sample 499:
+  Predicted: think ;  unnatural ;  jewelry ;  stage ;  maybe ;  bridal ;  maybe
+  Actual: unnatural; think; element; also; upcycling; stage; maybe
+--------------------
+Sample 500:
+  Predicted: people ;  want ;  stone ;  seems ;  actually
+  Actual: people; coming; want; large; stone; seems; moment
+--------------------
+Sample 501:
+  Predicted: believe ;  much ;  place ;  polished ;  belgium
+  Actual: believe; one; transparency; integrity; important; quite; antwerp
+--------------------
+Sample 502:
+  Predicted: went ;  winston ;  places ;  wanted ;  piece
+  Actual: went; would; mind; business; wanted; vertically; retail
+--------------------
+Sample 503:
+  Predicted: services ;  diamond ;  offering ;  industry ;  sounds
+  Actual: services; variety; leading; chance; comprehensive; diamond; diamonds
+--------------------
+Sample 504:
+  Predicted: early ;  magazine ;  international ;  hard ;  times ;  seen ;  hard
+  Actual: times; seen; hard; magazine; international; early
+--------------------
+Sample 505:
+  Predicted: five ;  years ;  engaging ;  trade ;  tiffany
+  Actual: five; fives; conversations; customer; different; saying; need
+--------------------
+Sample 506:
+  Predicted: know ;  inflation ;  always ;  something ;  different ;  saying ;  yeah ;  first ;  yeah
+  Actual: know; inflation; something; always; different; yeah; say
+--------------------
+Sample 507:
+  Predicted: well ;  working ;  said ;  problem
+  Actual: well; working; said; okay; says; problem; large
+--------------------
+Sample 508:
+  Predicted: synthetics ;  mixing ;  general ;  companies
+  Actual: move; let; get; emotional; synthetics; mixing; general
+--------------------
+Sample 509:
+  Predicted: sense ;  would ;  long ;  think ;  something
+  Actual: make; sense; something; buying; convince; new; maybe
+--------------------
+Sample 510:
+  Predicted: diamonds ;  direct ;  million ;  name ;  indesign
+  Actual: million; direct; diamonds; trade; also; related; name
+--------------------
+Sample 511:
+  Predicted: market ;  welcome ;  rappaport ;  prices
+  Actual: seen; reflected; prices; wrappy; start; welcome; rappaport
+--------------------
+Sample 512:
+  Predicted: work ;  women ;  files ;  high ;  spectacular
+  Actual: work; saw; color; women; submit; resolution; high
+--------------------
+Sample 513:
+  Predicted: kind ;  matching ;  years ;  seems ;  real
+  Actual: matching; many; ago; bit; died; know; like
+--------------------
+Sample 514:
+  Predicted: said ;  lot ;  true ;  saw ;  people ;  saying ;  york ;  new ;  architect
+  Actual: company; started; actually; true; saying; saw; people
+--------------------
+Sample 515:
+  Predicted: surat ;  big ;  wonder ;  say ;  one ;  sort ;  like ;  wonder
+  Actual: going; already; crazy; everything; mean; taken; see
+--------------------
+Sample 516:
+  Predicted: said ;  impossible ;  somebody ;  wrong ;  say ;  corner ;  prove ;  someone
+  Actual: said; simply; wrong; somebody; say; proved; otherwise
+--------------------
+Sample 517:
+  Predicted: experience ;  unusual ;  covering ;  finding ;  weeks ;  first ;  like ;  beginning
+  Actual: experience; weeks; first; find; unusual; strange; something
+--------------------
+Sample 518:
+  Predicted: shape shapes ;  would ;  market ;  say ;  regular ;  fancy ;  say
+  Actual: shapes; would; say; regular; natural; market; selling
+--------------------
+Sample 519:
+  Predicted: watch ;  patek ;  Philippe ;  day
+  Actual: see; makes; feel; watch; philippe; patek
+--------------------
+Sample 520:
+  Predicted: sonia ;  podcast ;  like ;  joining
+  Actual: us; thank; sonia; podcast; like; joining
+--------------------
+Sample 521:
+  Predicted: met ;  young ;  mentioned
+  Actual: young; met; mentioned; diamonteers; beginning
+--------------------
+Sample 522:
+  Predicted: sanctions ;  really ;  written ;  paper ;  could ;  way ;  checked ;  imports
+  Actual: sanctions; checked; law; paper; written; could; diamond
+--------------------
+Sample 523:
+  Predicted: get ;  jeans ;  nice ;  shirt ;  pants ;  polos ;  people ;  variety
+  Actual: jeans; get; pants; nice; york; bright; color
+--------------------
+Sample 524:
+  Predicted: dubai ;  world ;  diamond ;  new ;  hub ;  give ;  opportunity ;  category ;  bring
+  Actual: sense; makes; lot; world; opportunity; give; new
+--------------------
+Sample 525:
+  Predicted: think ;  others ;  community ;  really ;  creative ;  social ;  look ;  keep
+  Actual: really; think; others; done; community; space; build
+--------------------
+Sample 526:
+  Predicted: rappaport ;  follow ;  youtube ;  facebook ;  LinkedIn
+  Actual: rappaport; follow; youtube; visit; diamond; discussions; facebook
+--------------------
+Sample 527:
+  Predicted: work ;  channels ;  different ;  direct ;  consumer
+  Actual: work; partners; three; distribution; different; mentioned; like
+--------------------
+Sample 528:
+  Predicted: world ;  certainly ;  wanted ;  curator
+  Actual: world; wanted; sure; several; referred; yanni; mellis
+--------------------
+Sample 529:
+  Predicted: months ;  established ;  first ;  companies
+  Actual: months; tricks; board; comes; consider; couple; established
+--------------------
+Sample 530:
+  Predicted: world ;  producer ;  value ;  russia
+  Actual: world; producer; value; russia; billion; become; biggest
+--------------------
+Sample 531:
+  Predicted: personal ;  would ;  jewelry ;  design ;  involved ;  people ;  story
+  Actual: jewelry; design; would; think; well; personal; involved
+--------------------
+Sample 532:
+  Predicted: years ;  ever ;  disappointed ;  wanted ;  ask ;  note ;  played ;  overalls ;  bad
+  Actual: playing; overalls; years; wanted; note; industry; ever
+--------------------
+Sample 533:
+  Predicted: think ;  opposite ;  independents ;  coin ;  probably
+  Actual: think; undergoing; covid; delay; engagements; market; experience
+--------------------
+Sample 534:
+  Predicted: carat ;  big ;  believe ;  nonsense ;  diamonds
+  Actual: carat; going; buy; come; big; believe; diamonds
+--------------------
+Sample 535:
+  Predicted: time ;  shakes ;  jack ;  knees
+  Actual: share; got; everybody; time; shake; says; knees
+--------------------
+Sample 536:
+  Predicted: know ;  think ;  something ;  made ;  lab ;  sort ;  want ;  diamond
+  Actual: know; think; something; sense; expensive; made; lab
+--------------------
+Sample 537:
+  Predicted: needs ;  report ;  somebody ;  reason ;  problem
+  Actual: whatever; somebody; report; reason; needs
+--------------------
+Sample 538:
+  Predicted: gold ;  solitaire ;  offer ;  diamond ;  safe ;  things ;  natural
+  Actual: ring; diamond; offer; gold; solitaire; natural; grown
+--------------------
+Sample 539:
+  Predicted: diamond ;  work ;  number ;  based ;  district ;  primarily ;  dealers ;  based
+  Actual: diamond; work; primarily; number; district; dealers; city
+--------------------
+Sample 540:
+  Predicted: prices ;  synthetics ;  oh ;  hell ;  diamond ;  thank ;  bit ;  bit
+  Actual: synthetics; prices; hell; oh; bit; came; cliff
+--------------------
+Sample 541:
+  Predicted: diamonds ;  market ;  coming ;  people ;  use ;  term ;  likely ;  inheritance
+  Actual: diamonds; coming; market; changes; death; people; use
+--------------------
+Sample 542:
+  Predicted: started ;  labs ;  gtl ;  gtl ;  opened ;  meantime ;  antwerp ;  belgium ;  opened
+  Actual: ggtl; started; laboratories; opened; meantime; belgium; antwerp
+--------------------
+Sample 543:
+  Predicted: diamond ;  business ;  much ;  guy ;  much
+  Actual: 
+--------------------
+Sample 544:
+  Predicted: jbc ;  president ;  society ;  ryan
+  Actual: ryan; chair; brother; board; society; president; jbc
+--------------------
+Sample 545:
+  Predicted: would ;  always ;  flag ;  sapphires ;  appraiser
+  Actual: always; red; flag; see; sapphires; rubies; would
+--------------------
+Sample 546:
+  Predicted: year ;  compared ;  spending ;  priority
+  Actual: year; compared; last; buy; squeezed; average; budget
+--------------------
+Sample 547:
+  Predicted: collection ;  interest ;  certainly ;  displays ;  history
+  Actual: interest; well; study; jewellery; historical; lucky; louis
+--------------------
+Sample 548:
+  Predicted: sales ;  diamond ;  year ;  compare ;  diamonds ;  source ;  mine ;  koroa
+  Actual: sales; year; half; compare; de; rio; tinto
+--------------------
+Sample 549:
+  Predicted: like ;  rush ;  inventory ;  christmas ;  little
+  Actual: like; little; bit; inventory; better; rush; holidays
+--------------------
+Sample 550:
+  Predicted: year ;  bit ;  china ;  demand
+  Actual: year; ago; bit; demand; ask; border; china
+--------------------
+Sample 551:
+  Predicted: thank ;  rappaport ;  podcast ;  episode
+  Actual: thank; rappaport; podcast; listening; episode; diamond
+--------------------
+Sample 552:
+  Predicted: blab ;  blab ;  employees ;  seven ;  great ;  people ;  look ;  behind ;  lot ;  wonderful
+  Actual: blab; jerusalem; invited; dubai; also; robin; shit
+--------------------
+Sample 553:
+  Predicted: used ;  remember ;  use ;  show ;  months ;  let ;  seven ;  think ;  six
+  Actual: think; six; seven; remind; months; maybe; let
+--------------------
+Sample 554:
+  Predicted: museum ;  jewelers ;  country ;  art ;  world ;  exhibitions ;  important ;  venues
+  Actual: museum; jewelers; country; art; important; exhibitions; presented
+--------------------
+Sample 555:
+  Predicted: part ;  initiative ;  last ;  priority ;  workshop
+  Actual: part; workshop; look; also; discussion; take; commitment
+--------------------
+Sample 556:
+  Predicted: much ;  keep ;  category ;  change ;  know
+  Actual: much; keep; change; two; know; policy; sure
+--------------------
+Sample 557:
+  Predicted: years ;  back ;  selling ;  worth
+  Actual: back; dollars; years; someone; coming; diamond; fifteen
+--------------------
+Sample 558:
+  Predicted: tell ;  everybody ;  somebody ;  never ;  told ;  explain ;  attitude
+  Actual: tell; everybody; get; told; somebody; never; explain
+--------------------
+Sample 559:
+  Predicted: taiwan ;  hindian ;  films ;  sight ;  india ;  language ;  indian ;  out ;  films
+  Actual: name; movie; maybe; look; tamil; sight; language
+--------------------
+Sample 560:
+  Predicted: wind ;  why ;  show ;  worried
+  Actual: wind; show; blowing; away
+--------------------
+Sample 561:
+  Predicted: maybe ;  question ;  sonja ;  talk ;  bridal ;  mainstay ;  true
+  Actual: anymore; industry; bridal; talk; sure; completely; true
+--------------------
+Sample 562:
+  Predicted: world ;  looking ;  Europe ;  fashion ;  everything ;  entire ;  Europe
+  Actual: take; lead; ca; world; looking; fashion; everything
+--------------------
+Sample 563:
+  Predicted: think ;  along ;  well ;  partners ;  brand
+  Actual: well; retailers; partners; de; think; got; go
+--------------------
+Sample 564:
+  Predicted: dress ;  jeans ;  t-shirts ;  dress ;  enforced ;  thank ;  podcast ;  joshua ;  much ;  much
+  Actual: thank; podcast; much; joshua; wear; yes; jeans
+--------------------
+Sample 565:
+  Predicted: star ;  east ;  exiled ;  told ;  winston
+  Actual: east; star; deposed; diamond; geneva; box; deposit
+--------------------
+Sample 566:
+  Predicted: things ;  journal ;  kept
+  Actual: 
+--------------------
+Sample 567:
+  Predicted: carat ;  see ;  experience ;  seeing ;  gold ;  incredible ;  fall ;  gemstones ;  incredible
+  Actual: see; seen; carat; experience; whimsical; auction; beautiful
+--------------------
+Sample 568:
+  Predicted: tom Thomas ;  hilbertstrang ;  interview ;  episode ;  number
+  Actual: thomas; interview; heinstrang; number; months; swiss; laboratories
+--------------------
+Sample 569:
+  Predicted: diamond ;  Maharajan ;  whole ;  body ;  see ;  clad ;  whole
+  Actual: diamond; studded; inch; whole; see; portrait; maharani
+--------------------
+Sample 570:
+  Predicted: one ;  cybersecurity ;  investment ;  often ;  tell ;  people ;  want ;  simple
+  Actual: cybersecurity; one; technology; net; lose; margin; mistake
+--------------------
+Sample 571:
+  Predicted: think ;  stabilization ;  press ;  today
+  Actual: think; stabilization; secondly; behind; today; release; read
+--------------------
+Sample 572:
+  Predicted: think ;  one ;  also ;  real ;  visited
+  Actual: think; one; also; work; founders; true; treat
+--------------------
+Sample 573:
+  Predicted: sale ;  indians ;  market ;  separating ;  particular
+  Actual: sale; know; without; separating; fragmenting; market; particular
+--------------------
+Sample 574:
+  Predicted: like ;  would ;  stage ;  things ;  still
+  Actual: like; would; definitely; earlier; next; things; taking
+--------------------
+Sample 575:
+  Predicted: years ;  traveling ;  quite ;  russia
+  Actual: years; rosa; buying; de; el; well; russia
+--------------------
+Sample 576:
+  Predicted: market ;  right ;  synthetics ;  basically
+  Actual: know; china; control; copy; go; market; basically
+--------------------
+Sample 577:
+  Predicted: time ;  lily ;  really ;  looking ;  diamond
+  Actual: really; lily; time; wanted; looking; ambassador; diamond
+--------------------
+Sample 578:
+  Predicted: said ;  president ;  chief ;  consumer ;  singleton ;  knew ;  gap
+  Actual: singleton; said; president; officer; knew; jamie; gap
+--------------------
+Sample 579:
+  Predicted: seeing ;  item ;  same ;  items ;  retail ;  drastic ;  trends ;  negative ;  stabilization ;  prices
+  Actual: seeing; item; trends; stabilization; seen; things; pretty
+--------------------
+Sample 580:
+  Predicted: episode ;  diamond ;  selling ;  number ;  instagram
+  Actual: episode; diamonds; think; us; sam; selling; number
+--------------------
+Sample 581:
+  Predicted: think ;  natural ;  born ;  people ;  happy ;  might ;  one ;  jewelry
+  Actual: think; people; one; might; making; jewelry; impossible
+--------------------
+Sample 582:
+  Predicted: week ;  wealth ;  filing ;  information ;  world ;  welcome ;  rappaport ;  market
+  Actual: welcome; rappaport; week; wealth; presents; information; market
+--------------------
+Sample 583:
+  Predicted: tracer ;  report ;  grading ;  directly ;  gia ;  process ;  easier
+  Actual: tracer; gia; report; directly; grading; verify; broader
+--------------------
+Sample 584:
+  Predicted: sustainability ;  jewelry ;  independent ;  plan ;  consultant
+  Actual: studies; plan; like; independent; consultant; sustainability; providing
+--------------------
+Sample 585:
+  Predicted: auctions ;  really ;  lot ;  leah ;  tell ;  quite ;  stones
+  Actual: auctions; really; lot; big; bringing; fall; leah
+--------------------
+Sample 586:
+  Predicted: industry ;  think ;  could ;  coming ;  issue
+  Actual: industry; could; issue; see; became; think; able
+--------------------
+Sample 587:
+  Predicted: jewelry ;  think ;  something ;  negative ;  industry ;  enough
+  Actual: think; jewelry; impact; industry; something; also; negative
+--------------------
+Sample 588:
+  Predicted: cost Costco ;  models ;  year ;  give ;  million
+  Actual: year; sell; need; money; million; membership; members
+--------------------
+Sample 589:
+  Predicted: love ;  era ;  everything
+  Actual: question; love; everything; every; era; interesting; evaluation
+--------------------
+Sample 590:
+  Predicted: without ;  exhibition ;  continued ;  although ;  together ;  designed
+  Actual: without; exhibition; even; continued; together; designed; although
+--------------------
+Sample 591:
+  Predicted: diamonds ;  world ;  popular ;  parts ;  start ;  us ;  talk ;  traders ;  mean ;  american
+  Actual: us; start; let; traders; world; traditionally; popular
+--------------------
+Sample 592:
+  Predicted: invest ;  people ;  especially ;  passing
+  Actual: wars; unfortunately; times; right; people; pass; message
+--------------------
+Sample 593:
+  Predicted: world ;  wants ;  european ;  goods
+  Actual: world; wants; people; models; european; entire
+--------------------
+Sample 594:
+  Predicted: lot ;  implementation ;  diamond ;  tax ;  dubai
+  Actual: lot; labor; dubai; irs; implementing; calculation; taxation
+--------------------
+Sample 595:
+  Predicted: thought ;  really ;  said ;  woman ;  maybe
+  Actual: understand; even; could; woman; somebody; said; thought
+--------------------
+Sample 596:
+  Predicted: more ;  less ;  week ;  chinese ;  year
+  Actual: year; tell; speaking; retailers; week; new; less
+--------------------
+Sample 597:
+  Predicted: real ;  paying ;  father ;  regarding
+  Actual: regarding; paying; father; farmer
+--------------------
+Sample 598:
+  Predicted: love ;  us ;  try ;  garbage
+  Actual: love; us; trying; sell; maybe; garbage; everybody
+--------------------
+Sample 599:
+  Predicted: inflation ;  normal ;  five ;  seven
+  Actual: inflation; six; five; years; two; three; think
+--------------------
+Sample 600:
+  Predicted: day ;  wanted ;  return ;  started
+  Actual: day; wanted; israel; israelis; memorial; night; also
+--------------------
+Sample 601:
+  Predicted: really ;  see ;  Geneva ;  innovative ;  designers
+  Actual: really; see; lucky; geneva; innovative; extraordinary; designers
+--------------------
+Sample 602:
+  Predicted: gold ;  issue ;  really ;  struggling ;  government
+  Actual: gold; government; issues; see; concerned; general; tracing
+--------------------
+Sample 603:
+  Predicted: trade ;  markets ;  work ;  intention ;  congressional ;  think ;  cares
+  Actual: think; congress; cares; work; trade; representatives; leaders
+--------------------
+Sample 604:
+  Predicted: know ;  butterfly ;  cutting ;  today ;  using
+  Actual: things; know; butterfly; would; look; well; using
+--------------------
+Sample 605:
+  Predicted: bespoke ;  choices ;  perhaps ;  rings ;  thought
+  Actual: bespoke; design; bounds; choice; thought; sync; sweet
+--------------------
+Sample 606:
+  Predicted: contemporary ;  jewelry ;  find ;  traditional ;  clothing ;  could ;  find
+  Actual: contemporary; yet; look; traditional; vivid; ukrainian; symbolism
+--------------------
+Sample 607:
+  Predicted: japan ;  price ;  also ;  weakening ;  yen
+  Actual: japan; yen; price; gionni; hard; increases; made
+--------------------
+Sample 608:
+  Predicted: partially ;  mainly ;  research ;  ipis ;  NGO ;  resources ;  conflict ;  human ;  resources
+  Actual: mainly; work; partners; instance; try; mining; government
+--------------------
+Sample 609:
+  Predicted: know ;  talks ;  obvious ;  diamonds ;  think
+  Actual: real; question; talks; public; people; mean; know
+--------------------
+Sample 610:
+  Predicted: important ;  throughout ;  think ;  gemologist ;  dear ;  mentioned ;  industry ;  ethics ;  advocate
+  Actual: important; throughout; think; yanni; dear; ethics; explorer
+--------------------
+Sample 611:
+  Predicted: partnership ;  really ;  bears ;  interest ;  going
+  Actual: partnership; really; windy; shake; little; going; interest
+--------------------
+Sample 612:
+  Predicted: retail ;  would ;  retail ;  experience ;  work ;  question ;  programs ;  jewelry
+  Actual: kind; looking; back; competition; consumers; experiences; discretionary
+--------------------
+Sample 613:
+  Predicted: know ;  upgrade ;  yeah ;  couples ;  coming ;  back ;  yeah
+  Actual: know; upgrade; back; coming; couples; yeah; birthday
+--------------------
+Sample 614:
+  Predicted: feel ;  years ;  really ;  podcasts ;  costello
+  Actual: feel; years; changed; really; publisher; podcasts; john
+--------------------
+Sample 615:
+  Predicted: please ;  marketing ;  think ;  line ;  diamonds
+  Actual: please; marketing; working; love; said; podcast; hear
+--------------------
+Sample 616:
+  Predicted: industry ;  diamond ;  russian ;  industry ;  rossin ;  robert ;  wan ;  wake ;  joshua ;  senior ;  senior
+  Actual: diamond; russian; industry; robert; familiar; grew; friedman
+--------------------
+Sample 617:
+  Predicted: rappaport ;  follow ;  subscribe ;  episodes ;  get
+  Actual: rappaport; follow; subscribe; get; future; twitter; linkedin
+--------------------
+Sample 618:
+  Predicted: work ;  odette ;  history ;  hb ;  continue ;  buy ;  people ;  willing ;  qualities
+  Actual: willing; rolodex; qualities; people; larger; large; work
+--------------------
+Sample 619:
+  Predicted: jewellery ;  books ;  time ;  documented ;  majority
+  Actual: jewellery; books; time; majority; documented; finds; archaeological
+--------------------
+Sample 620:
+  Predicted: labor ;  money ;  source
+  Actual: money; laundering; labor; child
+--------------------
+Sample 621:
+  Predicted: absolutely ;  could ;  mind ;  date
+  Actual: absolutely; want; said; mind; could; valid; point
+--------------------
+Sample 622:
+  Predicted: dealer ;  diamond ;  whether ;  see ;  office
+  Actual: whether; diamond; dealer; think; proximity; customer; hand
+--------------------
+Sample 623:
+  Predicted: diamond ;  natural ;  grown ;  wants
+  Actual: diamond; natural; grown; diamonds; lab; market; becomes
+--------------------
+Sample 624:
+  Predicted: rsa ;  governance ;  framework ;  launched ;  members ;  boston ;  consulting
+  Actual: result; governance; priorities; partners; looked; group; consulting
+--------------------
+Sample 625:
+  Predicted: supply ;  outlook ;  view ;  long term ;  rough ;  feel ;  discussed ;  little ;  volatile ;  discussed
+  Actual: volatile; discussed; feel; little; bit; outlook; supply
+--------------------
+Sample 626:
+  Predicted: topic ;  recycle ;  really ;  topics ;  industry
+  Actual: topic; similar; recycle; like; two; topics; really
+--------------------
+Sample 627:
+  Predicted: really ;  project ;  lvmh ;  sort ;  african
+  Actual: really; acquisition; brand; lvmh; within; french; project
+--------------------
+Sample 628:
+  Predicted: also ;  companies ;  effective ;  ground ;  think
+  Actual: also; companies; effective; diversity; would; means; making
+--------------------
+Sample 629:
+  Predicted: would ;  night ;  mosa ;  wife
+  Actual: wife; would; still; mosa; night; diamond; pick
+--------------------
+Sample 630:
+  Predicted: speak ;  takes ;  approaches ;  multiple ;  would ;  say ;  would
+  Actual: speak; ways; person; oversees; marketing; grown; everything
+--------------------
+Sample 631:
+  Predicted: things ;  long ;  take ;  view
+  Actual: term; long; things; get; worse; might; sure
+--------------------
+Sample 632:
+  Predicted: europe ;  reports ;  lvmh ;  impacts ;  bottom ;  company
+  Actual: euros; yen; worth; company; reports; challenges; situation
+--------------------
+Sample 633:
+  Predicted: well ;  feeling ;  tie ;  going ;  evolution
+  Actual: tie; going; evolution; also; well; perfect; moment
+--------------------
+Sample 634:
+  Predicted: india ;  india ;  insi ;  indesignans ;  owns ;  indonesia ;  bcp ;  two ;  boston ;  indian
+  Actual: igi; owns; two; netherlands; belgium; india; subsidiaries
+--------------------
+Sample 635:
+  Predicted: antwerp ;  negative ;  trade ;  sell ;  anymore
+  Actual: antwerp; selling; happen; air; anymore; actually; challenges
+--------------------
+Sample 636:
+  Predicted: diamonds ;  two ;  could ;  thinking ;  blue
+  Actual: two; diamonds; blue; holding; could; thinking; like
+--------------------
+Sample 637:
+  Predicted: diamonds ;  irradiated ;  even ;  labs ;  since ;  huge ;  headache ;  time
+  Actual: even; diamonds; irradiated; labs; since; irradiation; known
+--------------------
+Sample 638:
+  Predicted: question ;  journalists ;  little ;  difference ;  josh ;  find ;  probably ;  fight ;  probably
+  Actual: huge; question; little; journalists; josh; find; difference
+--------------------
+Sample 639:
+  Predicted: put ;  guess ;  put ;  security ;  mean ;  guard ;  belt ;  take ;  stand
+  Actual: take; stand; belt; security; mean; guard
+--------------------
+Sample 640:
+  Predicted: industry ;  legal ;  jewelry ;  issue ;  famously ;  jvc ;  members
+  Actual: legal; enables; feel; get; guidance; industry; jewelry
+--------------------
+Sample 641:
+  Predicted: really ;  strong ;  things ;  pointed ;  partnership
+  Actual: really; fully; space; position; entered; never; natural
+--------------------
+Sample 642:
+  Predicted: four ;  understanding ;  clearly ;  diamonds
+  Actual: four; social; research; online; media; et; cetera
+--------------------
+Sample 643:
+  Predicted: wave ;  basically ;  think ;  survive
+  Actual: trends; waves; try; think; survive; stabilizing; since
+--------------------
+Sample 644:
+  Predicted: think ;  differently ;  things ;  millennial ;  specifically ;  buy ;  consumer ;  preferences
+  Actual: purchasing; preferences; consumer; think; things; specifically; millennial
+--------------------
+Sample 645:
+  Predicted: dad ;  prior ;  car ;  yeah ;  tell ;  year ;  used ;  sort
+  Actual: dad; prior; probably; car; yeah; year; like
+--------------------
+Sample 646:
+  Predicted: thing ;  us ;  values ;  years ;  gotta
+  Actual: thing; wife; sustained; years; values; us; say
+--------------------
+Sample 647:
+  Predicted: campaign ;  shoot ;  industry ;  knew
+  Actual: shoot; campaign; amazingly; industry; advertise; depended; ability
+--------------------
+Sample 648:
+  Predicted: industry ;  south ;  see ;  people ;  trip
+  Actual: industry; mine; south; africa; people; trip; see
+--------------------
+Sample 649:
+  Predicted: go ;  research ;  together ;  learning ;  naively
+  Actual: research; go; willingness; felicitas; naively; margot; discussion
+--------------------
+Sample 650:
+  Predicted: world ;  still ;  times ;  diamond ;  even ;  world ;  fly ;  times
+  Actual: problem; jewelry; world; times; still; shorten; industry
+--------------------
+Sample 651:
+  Predicted: carry ;  put ;  something ;  worth ;  invest ;  people ;  gorgeous ;  sell ;  people
+  Actual: ca; carry; worth; something; sell; purses; two
+--------------------
+Sample 652:
+  Predicted: sure ;  committee ;  chad ;  brother ;  whole
+  Actual: sure; jsa; whole; want; make; local; jewelry
+--------------------
+Sample 653:
+  Predicted: time ;  testing ;  maybe ;  rough
+  Actual: testing; would; maybe; time; get; contamination; enough
+--------------------
+Sample 654:
+  Predicted: thank ;  work ;  much ;  explain ;  podcast ;  iris ;  much
+  Actual: work; thank; podcast; much; iris; explain; expand
+--------------------
+Sample 655:
+  Predicted: would ;  say
+  Actual: would; say; mix
+--------------------
+Sample 656:
+  Predicted: piece ;  made ;  one ;  kind
+  Actual: piece; one; made; say; oh; people; person
+--------------------
+Sample 657:
+  Predicted: big ;  know ;  people ;  edge
+  Actual: big; something; people; need; know; working; beers
+--------------------
+Sample 658:
+  Predicted: jewelry ;  memo ;  stores ;  like ;  investment ;  example
+  Actual: memo; jewelry; stores; always; almost; extra; investment
+--------------------
+Sample 659:
+  Predicted: wedding ;  people ;  think ;  like ;  india ;  referring
+  Actual: people; things; referring; recent; think; need; wedding
+--------------------
+Sample 660:
+  Predicted: loop ;  Sonia ;  indeed
+  Actual: 
+--------------------
+Sample 661:
+  Predicted: lab ;  grown ;  would ;  natural ;  say
+  Actual: lab; grown; would; sell; say; retailers; natural
+--------------------
+Sample 662:
+  Predicted: site ;  holders ;  shapes ;  fancies ;  set ;  something ;  unique ;  apart
+  Actual: fancies; shapes; holders; site; us; set; apart
+--------------------
+Sample 663:
+  Predicted: seeing ;  end ;  consumer ;  mean ;  though ;  place ;  get
+  Actual: seeing; place; value; healthy; though; consumer; day
+--------------------
+Sample 664:
+  Predicted: inflation ;  season ;  affect ;  people ;  think
+  Actual: fed; ca; control; inflation; affecting; terms; season
+--------------------
+Sample 665:
+  Predicted: entity ;  said ;  sanctioned ;  entity ;  world ;  good ;  line ;  described ;  economic ;  economic
+  Actual: said; use; blocked; treasury; seven; sanctions; department
+--------------------
+Sample 666:
+  Predicted: really ;  rough ;  result ;  diamonds ;  russian
+  Actual: diamond; diamonds; really; russian; revenue; exports; restriction
+--------------------
+Sample 667:
+  Predicted: started ;  would ;  service ;  customer ;  experience ;  also ;  dealing ;  jewelry
+  Actual: customer; started; would; like; anything; could; dealing
+--------------------
+Sample 668:
+  Predicted: hong ;  lot ;  last ;  changed ;  think
+  Actual: kong; hong; lot; little; course; trade; affected
+--------------------
+Sample 669:
+  Predicted: trade ;  obviously ;  route ;  india ;  trade
+  Actual: us; silk; route; road; obviously; trading; larger
+--------------------
+Sample 670:
+  Predicted: point ;  thought ;  raised ;  two
+  Actual: point; perfection; mystique; two; thought; raised; points
+--------------------
+Sample 671:
+  Predicted: cash ;  repair ;  lots ;  thought
+  Actual: cash; back; repair; lots; knew; thought; got
+--------------------
+Sample 672:
+  Predicted: wish ;  rich ;  give ;  people ;  catch ;  word ;  families
+  Actual: give; word; tradition; singles; people; kids; families
+--------------------
+Sample 673:
+  Predicted: heart ;  shape ;  really ;  took ;  perfect
+  Actual: shape; heart; took; storm; really; everything; perfect
+--------------------
+Sample 674:
+  Predicted: whatever ;  automatic ;  screening machines ;  little ;  relatively ;  relatively
+  Actual: whatever; screening; machines; get; could; automatic
+--------------------
+Sample 675:
+  Predicted: value ;  rather ;  spend ;  people
+  Actual: value; something; rather; holds; buy; wisely; spend
+--------------------
+Sample 676:
+  Predicted: like ;  call ;  like ;  undetermined ;  mean ;  stone ;  worthless ;  immediately ;  worthless
+  Actual: undetermined; natural; mean; worthless; stone; oh; immediately
+--------------------
+Sample 677:
+  Predicted: think ;  understanding ;  hard ;  definition
+  Actual: wider; understanding; think; hard; going; get; definition
+--------------------
+Sample 678:
+  Predicted: early ;  late ;  show ;  covid-19 ;  fact
+  Actual: show; late; early; fact; due; supports; happen
+--------------------
+Sample 679:
+  Predicted: online ;  reviews ;  lot ;  think ;  also
+  Actual: online; reviews; lot; also; topic; brand; consumers
+--------------------
+Sample 680:
+  Predicted: diamond ;  demand ;  right ;  news ;  shaky
+  Actual: diamond; demand; week; india; data; export; import
+--------------------
+Sample 681:
+  Predicted: industry ;  behind ;  topics ;  generally
+  Actual: behind; topics; many; ssi; industry; industries; generally
+--------------------
+Sample 682:
+  Predicted: take ;  jewelry ;  know ;  snatch ;  customer
+  Actual: know; case; jewelry; like; snatch; grab; back
+--------------------
+Sample 683:
+  Predicted: blood ;  guess ;  co-founder ;  met ;  kyle ;  also
+  Actual: guess; blood; along; different; comes; background; met
+--------------------
+Sample 684:
+  Predicted: diamonds ;  straight ;  ago ;  correct ;  spoke
+  Actual: diamonds; way; told; think; natural; years; wrong
+--------------------
+Sample 685:
+  Predicted: shen ;  paris ;  think ;  wearable ;  pieces ;  lovely ;  see ;  sometimes ;  collections
+  Actual: paris; christie; things; sometimes; see; wearable; think
+--------------------
+Sample 686:
+  Predicted: person ;  writing ;  Lucky ;  talking ;  person ;  wrote
+  Actual: wrote; talking; person; lucky
+--------------------
+Sample 687:
+  Predicted: youtube ;  weekly ;  comment videos ;  market
+  Actual: youtube; weekly; watch; videos; market; invite; comment
+--------------------
+Sample 688:
+  Predicted: would ;  dragon ;  know ;  course ;  really ;  unique ;  shapes
+  Actual: really; also; know; dragon; would; course; designer
+--------------------
+Sample 689:
+  Predicted: lawsuit ;  famous ;  winston ;  bought ;  back ;  sold ;  let ;  taylor ;  look
+  Actual: taylor; look; let; elizabeth; also; winston; sold
+--------------------
+Sample 690:
+  Predicted: great ;  episode ;  lea
+  Actual: lea; great; episode
+--------------------
+Sample 691:
+  Predicted: rule ;  countries ;  say ;  kp
+  Actual: countries; say; let; change; rule; consensus; kp
+--------------------
+Sample 692:
+  Predicted: year ;  know ;  think ;  next ;  year ;  boom ;  expect ;  bridal ;  sonja
+  Actual: away; maybe; commit; come; chance; together; moving
+--------------------
+Sample 693:
+  Predicted: way ;  crisis ;  work ;  together ;  need ;  see ;  politics ;  also
+  Actual: see; politics; mistrust; lots; work; way; together
+--------------------
+Sample 694:
+  Predicted: jewelry ;  actually ;  buying ;  bit ;  people ;  year ;  really ;  looked ;  spoke
+  Actual: actually; year; bit; assume; check; china; jewelry
+--------------------
+Sample 695:
+  Predicted: back ;  welcome ;  rappaport ;  market ;  jck ;  studio
+  Actual: back; comment; hope; everyone; got; great; hello
+--------------------
+Sample 696:
+  Predicted: rappaport ;  follow ;  us ;  diamond ;  industry ;  visit ;  get ;  youtube ;  facebook ;  twitter
+  Actual: follow; rappaport; diamond; episodes; facebook; forget; future
+--------------------
+Sample 697:
+  Predicted: Ryan ;  topic ;  hot ;  moment ;  trade ;  across ;  topic
+  Actual: trade; topic; moment; hot; ryan; please; perry
+--------------------
+Sample 698:
+  Predicted: nature ;  wanted ;  first ;  inspired ;  make ;  years ;  workshop ;  pieces
+  Actual: nature; first; inspired; make; wanted; pieces; came
+--------------------
+Sample 699:
+  Predicted: possible ;  also ;  found ;  much ;  overlap ;  much
+  Actual: study; rough; origins; might; identify; ever; diamonds
+--------------------
+Sample 700:
+  Predicted: buy ;  economy ;  good ;  people ;  go ;  maybe ;  quarter
+  Actual: us; bump; buying; diamond; people; maybe; good
+--------------------
+Sample 701:
+  Predicted: interesting ;  research ;  piece ;  online ;  magazine
+  Actual: interesting; people; check; massive; online; magazine; across
+--------------------
+Sample 702:
+  Predicted: work ;  sustainability ;  practices ;  clear ;  progress ;  company ;  struggling
+  Actual: progress; practices; every; work; sustainability; responsible; pertains
+--------------------
+Sample 703:
+  Predicted: collection ;  althani ;  examples ;  indian ;  mughal
+  Actual: collection; althani; pieces; magnificence; amazing; fascinating; like
+--------------------
+Sample 704:
+  Predicted: diamonds ;  friendly ;  narratives ;  lab-grown ;  natural ;  claim ;  bit
+  Actual: diamonds; used; lot; defined; trying; days; environmentally
+--------------------
+Sample 705:
+  Predicted: natural ;  diamond ;  industry ;  researched
+  Actual: see; botswana; come; communities; country; natural; everything
+--------------------
+Sample 706:
+  Predicted: thank ;  us ;  podcast ;  much ;  joining ;  real ;  experience ;  pleasure
+  Actual: us; thank; real; work; need; also; pleasure
+--------------------
+Sample 707:
+  Predicted: think ;  maybe ;  could ;  something ;  shifted ;  shifted
+  Actual: maybe; could; think; local; back; building; circularity
+--------------------
+Sample 708:
+  Predicted: may ;  open ;  whatever ;  may ;  setting ;  baroque ;  pieces ;  going ;  era
+  Actual: whatever; skin; setting; properties; pieces; going; era
+--------------------
+Sample 709:
+  Predicted: market ;  diamond ;  say ;  moment ;  chinese
+  Actual: diamond; market; wrong; says; buy; would; say
+--------------------
+Sample 710:
+  Predicted: time ;  know ;  making ;  metals ;  perfecting ;  piece ;  manufacturers
+  Actual: know; take; making; time; metals; every; band
+--------------------
+Sample 711:
+  Predicted: writing ;  years ;  plans ;  project ;  sort ;  months ;  years
+  Actual: writing; quite; coming; months; plans; years; sort
+--------------------
+Sample 712:
+  Predicted: repetrogining ;  us ;  questions ;  including ;  anyone ;  trade ;  issue ;  anyone
+  Actual: redefining; really; answer; issued; trade; anyone; questions
+--------------------
+Sample 713:
+  Predicted: know ;  big ;  jewelers ;  drive ;  seems
+  Actual: know; like; jewelers; drive; big; seems; store
+--------------------
+Sample 714:
+  Predicted: 1980 ;  crash ;  business ;  rapidly ;  heydays
+  Actual: crash; recall; mbas; debt; wide; rapidly; business
+--------------------
+Sample 715:
+  Predicted: diamonds ;  cycle ;  putting ;  volumes ;  tracer
+  Actual: diamonds; cycle; volumes; tracer; whether; split; really
+--------------------
+Sample 716:
+  Predicted: market ;  actually ;  work ;  wondering ;  us
+  Actual: market; asian; actual; make; difference; working; lot
+--------------------
+Sample 717:
+  Predicted: many ;  centres ;  india ;  emerged ;  craftsmanship
+  Actual: centres; many; india; emerged; craftsmanship; big; unification
+--------------------
+Sample 718:
+  Predicted: currency ;  india ;  people ;  countries
+  Actual: currency; people; india; countries; investment; good; thing
+--------------------
+Sample 719:
+  Predicted: license ;  government ;  operations ;  one ;  debswana ;  mining ;  whole
+  Actual: license; four; operations; one; government; within; awarding
+--------------------
+Sample 720:
+  Predicted: need ;  market ;  amazingly ;  go ;  lot ;  like ;  really ;  demand
+  Actual: lot; market; amazingly; need; go; around; say
+--------------------
+Sample 721:
+  Predicted: business ;  travel ;  time ;  related
+  Actual: time; business; travel; takes; make; hard; actually
+--------------------
+Sample 722:
+  Predicted: piece ;  certainly ;  gallery ;  recent
+  Actual: pieces; piece; papillon; working; time; certainly; definitely
+--------------------
+Sample 723:
+  Predicted: something ;  new ;  day ;  learn ;  every ;  styles ;  everybody
+  Actual: something; styles; everybody; different; see; days; new
+--------------------
+Sample 724:
+  Predicted: diamond ;  think ;  talk ;  well ;  Geneva ;  still ;  year ;  still
+  Actual: think; geneva; coming; still; diamond; talk; well
+--------------------
+Sample 725:
+  Predicted: first ;  industry ;  wanted ;  background
+  Actual: role; first; industry; cibjo; wanted; know; jewelry
+--------------------
+Sample 726:
+  Predicted: going ;  prices ;  started ;  seeing ;  going ;  whatever ;  went
+  Actual: started; seeing; prices; going; whatever; went; issues
+--------------------
+Sample 727:
+  Predicted: jewelry ;  us ;  subscribe ;  one ;  sonja
+  Actual: jewelry; us; subscribe; review; please; trends; state
+--------------------
+Sample 728:
+  Predicted: years ;  also ;  set ;  fcs ;  inner
+  Actual: also; years; set; ago; work; inner; florida
+--------------------
+Sample 729:
+  Predicted: think ;  also ;  crisis ;  faced ;  various ;  high ;  emotional
+  Actual: think; also; exemplary; various; forced; always; fill
+--------------------
+Sample 730:
+  Predicted: time ;  later ;  diamond ;  keep
+  Actual: would; keep; inventory; time; sooner; later; go
+--------------------
+Sample 731:
+  Predicted: business ;  total ;  shopping ;  different
+  Actual: business; tv; total; shopping; different; private; focused
+--------------------
+Sample 732:
+  Predicted: currency ;  scarce ;  competition ;  resources
+  Actual: scarce; resources; competition
+--------------------
+Sample 733:
+  Predicted: time ;  industry ;  trust ;  consumer
+  Actual: time; industry; consumer; protect; trust; well; say
+--------------------
+Sample 734:
+  Predicted: thank ;  podcast ;  rappaport ;  hope ;  once
+  Actual: thank; hope; hear; rappaport; podcast; listening; episode
+--------------------
+Sample 735:
+  Predicted: year ;  consistent ;  seen ;  thousand ;  part
+  Actual: year; consistent; stayed; pervasive; grown; lab; lot
+--------------------
+Sample 736:
+  Predicted: one ;  famous ;  collection ;  one ;  Lesotho ;  want ;  diamond ;  course ;  course
+  Actual: one; famous; collection; lesotho; great; carat; marquise
+--------------------
+Sample 737:
+  Predicted: got ;  podcast ;  opportunity ;  think ;  something ;  later ;  discuss ;  say
+  Actual: want; hear; introduction; got; think; later; podcast
+--------------------
+Sample 738:
+  Predicted: like ;  way ;  york ;  bit ;  kind
+  Actual: like; york; way; new; year; whereas; zones
+--------------------
+Sample 739:
+  Predicted: building ;  fortunate ;  post-VID ;  still
+  Actual: fortunate; build; able; still; seeing; gains; business
+--------------------
+Sample 740:
+  Predicted: topic ;  want ;  covered ;  time ;  rappaport ;  think ;  initially ;  mining ;  rough
+  Actual: initially; rappaport; want; mining; rough; fascinated; market
+--------------------
+Sample 741:
+  Predicted: green Guides ;  us ;  focusing ;  claim
+  Actual: green; us; claim; guides; marketing; focusing; many
+--------------------
+Sample 742:
+  Predicted: us ;  inflation ;  sales ;  matter ;  still
+  Actual: seeing; us; matter; inflation; sales; people; affects
+--------------------
+Sample 743:
+  Predicted: buy ;  store ;  bridal ;  semi-mount
+  Actual: store; jewelry; bridal; buy; diamond; designer; business
+--------------------
+Sample 744:
+  Predicted: diley ;  background ;  came ;  company
+  Actual: diley; diamond; company; came; business; background
+--------------------
+Sample 745:
+  Predicted: follow ;  instagram ;  pictures ;  expecting ;  lea
+  Actual: lea; instagram; follow; please; pictures; expecting; bunch
+--------------------
+Sample 746:
+  Predicted: anniversaries ;  know ;  would ;  say ;  bigger
+  Actual: know; old; would; anniversaries; maybe; bit; engaged
+--------------------
+Sample 747:
+  Predicted: industry ;  build ;  instruments ;  internationally ;  companies
+  Actual: industry; within; implement; build; see; recognized; companies
+--------------------
+Sample 748:
+  Predicted: office ;  indian ;  manufacturers ;  recoup ;  lot
+  Actual: opening; prices; office; indian; york; generally; manufacturer
+--------------------
+Sample 749:
+  Predicted: diamonds ;  working ;  pretty ;  milking
+  Actual: diamonds; talking; shocked; feeling; working; pretty; milking
+--------------------
+Sample 750:
+  Predicted: dependence ;  situation ;  really ;  mornings ;  puppies
+  Actual: situation; really; depends; usually; puppies; tremendous; things
+--------------------
+Sample 751:
+  Predicted: mumbai ;  into ;  would ;  contrast ;  Surat
+  Actual: mumbai; important; two; contrast; experiences; would; believe
+--------------------
+Sample 752:
+  Predicted: like ;  folks ;  incremental ;  jewelers
+  Actual: like; jewelers; incremental; get; successful; retargeting; really
+--------------------
+Sample 753:
+  Predicted: women ;  interviewed ;  studios
+  Actual: women; interviewed; airbnb
+--------------------
+Sample 754:
+  Predicted: challenge ;  new ;  think ;  part ;  retail ;  seen ;  middle ;  middle
+  Actual: challenge; january; chinese; common; countries; new; adjust
+--------------------
+Sample 755:
+  Predicted: alrosa ;  million ;  reach ;  dollars ;  amount
+  Actual: alrosa; million; yes; sufficient; know; even; reach
+--------------------
+Sample 756:
+  Predicted: lot ;  handwriting ;  appraisals ;  lot ;  appraisal ;  way ;  still ;  folks ;  still
+  Actual: lot; appraisals; stores; available; set; current; handwriting
+--------------------
+Sample 757:
+  Predicted: works ;  little ;  collection ;  set ;  koi ;  currently ;  carving
+  Actual: works; little; jeweled; another; koi; carving; set
+--------------------
+Sample 758:
+  Predicted: information ;  immediately ;  traceit ;  story ;  credibility ;  add ;  story
+  Actual: complex; challenge; certainly; story; credibility; itraceit; information
+--------------------
+Sample 759:
+  Predicted: diamonds ;  also ;  focus ;  research ;  really
+  Actual: diamonds; belgium; colored; exclusively; also; focus; research
+--------------------
+Sample 760:
+  Predicted: run ;  away ;  kampen ;  living ;  dagen ;  diamond ;  protection
+  Actual: away; occupation; nazi; german; survive; order; bag
+--------------------
+Sample 761:
+  Predicted: see ;  much ;  geek ;  talking ;  people
+  Actual: talking; recognition; stuff; geek; hours; loves; much
+--------------------
+Sample 762:
+  Predicted: think ;  closing ;  comments ;  one ;  trends
+  Actual: think; year; know; center; front; last; question
+--------------------
+Sample 763:
+  Predicted: go ;  implementation ;  difficult ;  policy ;  really ;  wait ;  see
+  Actual: forward; go; difficult; implementation; yet; going; clarity
+--------------------
+Sample 764:
+  Predicted: clients ;  came ;  russia ;  rough ;  say
+  Actual: clients; came; russia; rough; one; separated; looking
+--------------------
+Sample 765:
+  Predicted: wondering ;  also ;  jewelry ;  remounted ;  lot
+  Actual: wondering; see; jewelry; also; taken; stones; remounted
+--------------------
+Sample 766:
+  Predicted: diamond ;  way ;  hubs ;  affected ;  still
+  Actual: diamond; complicated; disruptive; element; gets; everything; implement
+--------------------
+Sample 767:
+  Predicted: bridal ;  seem ;  pent up ;  demand
+  Actual: bridal; mentioned; boom; sonia; quiet; expecting; moment
+--------------------
+Sample 768:
+  Predicted: example ;  ukrainian ;  embroidery ;  patterns ;  precious ;  examples ;  designers
+  Actual: oberik; jewelry; used; ukrainian; stones; represented; make
+--------------------
+Sample 769:
+  Predicted: stones ;  value ;  least ;  whatever
+  Actual: stones; value; least; added; wrap; whatever; sell
+--------------------
+Sample 770:
+  Predicted: day ;  impact ;  movie ;  nothing ;  came
+  Actual: movie; impact; day; onward; absolutely; came; hit
+--------------------
+Sample 771:
+  Predicted: europe ;  india ;  much ;  supply ;  market
+  Actual: india; europe; difficult; supply; booming; much; ca
+--------------------
+Sample 772:
+  Predicted: Harry ;  winston ;  jewel ;  think ;  sort
+  Actual: harry; winston; think; jewel; first; thing; diamonds
+--------------------
+Sample 773:
+  Predicted: specific ;  talk ;  invited ;  focus ;  focused ;  many ;  research ;  university
+  Actual: invited; talk; would; everything; hoping; trying; think
+--------------------
+Sample 774:
+  Predicted: word ;  man-made ;  nice ;  see
+  Actual: 
+--------------------
+Sample 775:
+  Predicted: time ;  happen ;  quite ;  took ;  time ;  think ;  moving ;  like ;  agree ;  diamonds
+  Actual: diamonds; chain; supply; conflict; ensuring; long; took
+--------------------
+Sample 776:
+  Predicted: market ;  also ;  use ;  engagement ;  us ;  milestones ;  couples ;  data
+  Actual: market; also; use; others; sigma; majors; one
+--------------------
+Sample 777:
+  Predicted: chance ;  tell ;  stories ;  enjoy
+  Actual: chance; well; lot; get; good; enjoy; tell
+--------------------
+Sample 778:
+  Predicted: would ;  higher ;  us ;  worse
+  Actual: higher; crime; rate; would; get; us; going
+--------------------
+Sample 779:
+  Predicted: sustainable ;  claim ;  percent ;  disclose
+  Actual: sustainable; percent; need; disclose
+--------------------
+Sample 780:
+  Predicted: small ;  size ;  question ;  dealers ;  money
+  Actual: small; sizes; shop; question; put; owners; need
+--------------------
+Sample 781:
+  Predicted: think ;  retailers ;  physical ;  interesting ;  try
+  Actual: retailers; within; think; bring; store; sonja; challenge
+--------------------
+Sample 782:
+  Predicted: industry ;  big ;  india ;  diamonds ;  facilitated ;  second
+  Actual: industry; big; year; india; diamonds; facilitated; freeze
+--------------------
+Sample 783:
+  Predicted: example ;  pillar ;  would ;  close ;  program ;  elements ;  practical
+  Actual: example; know; maybe; us; would; program; go
+--------------------
+Sample 784:
+  Predicted: like ;  started ;  things ;  understanding
+  Actual: like; made; decision; understood; something; think; things
+--------------------
+Sample 785:
+  Predicted: jewelry ;  india ;  wondering ;  pieces ;  stories
+  Actual: jewelry; wondering; talked; see; reena; pieces; india
+--------------------
+Sample 786:
+  Predicted: collection ;  never ;  yeah ;  acquire ;  let
+  Actual: collection; yeah; case; individual; let; never; acquire
+--------------------
+Sample 787:
+  Predicted: tracer ;  obviously ;  working ;  would ;  say
+  Actual: working; think; sure; lot; process; tracer; obviously
+--------------------
+Sample 788:
+  Predicted: years ;  think ;  process ;  question
+  Actual: classic; question; think; process; give; years; younger
+--------------------
+Sample 789:
+  Predicted: million ;  quality ;  could ;  still ;  market
+  Actual: weakened; still; since; right; quality; market; lower
+--------------------
+Sample 790:
+  Predicted: jewelry ;  india ;  known ;  first ;  diamonds ;  original
+  Actual: jewelry; old; makes; diamonds; india; everyone; fascinating
+--------------------
+Sample 791:
+  Predicted: rapnet ;  solution ;  sell ;  diamonds ;  look
+  Actual: rapnet; problem; look; changing; china; solution; sell
+--------------------
+Sample 792:
+  Predicted: things ;  sending ;  us ;  know ;  try ;  people ;  often
+  Actual: us; things; sending; know; people; various; connect
+--------------------
+Sample 793:
+  Predicted: like ;  shelves ;  one ;  big ;  look ;  actually ;  grocery ;  noticed
+  Actual: shelves; big; like; one; actually; noticed; spending
+--------------------
+Sample 794:
+  Predicted: site ;  de ;  beers ;  story ;  gave
+  Actual: story; side; gave; company; believe; another; site
+--------------------
+Sample 795:
+  Predicted: insurance ;  ensure ;  insure ;  jewelry ;  companies ;  diamonds ;  ensuring ;  process ;  exactly
+  Actual: insurance; companies; diamonds; ensure; jewelry; articulate; limited
+--------------------
+Sample 796:
+  Predicted: engagements ;  trends ;  good ;  noted ;  company
+  Actual: trends; improvements; expected; good; though; improvement; company
+--------------------
+Sample 797:
+  Predicted: think ;  liberating ;  many ;  see
+  Actual: perfect; nobody; expects; see; many; issues; everyone
+--------------------
+Sample 798:
+  Predicted: said ;  little ;  broke ;  kind
+  Actual: said; diamond; bigger; yes; well; little; kind
+--------------------
+Sample 799:
+  Predicted: diamond ;  antwerp ;  diamond ;  welcome ;  week ;  market ;  russian ;  world ;  sanctions ;  sanctions
+  Actual: diamond; antwerp; went; union; sanctions; effect; market
+--------------------
+Sample 800:
+  Predicted: think ;  starting ;  people ;  travel ;  levels ;  pandemic ;  yet
+  Actual: starting; yet; pandemic; levels; got; think; year
+--------------------
+Sample 801:
+  Predicted: maybe ;  brilliant ;  right ;  solved ;  engineer ;  meeting ;  sanctions
+  Actual: solved; trade; sanctions; people; meet; right; maybe
+--------------------
+Sample 802:
+  Predicted: jewelry ;  think ;  supply ;  india ;  china
+  Actual: jewelry; piece; enormous; armenia; chain; china; think
+--------------------
+Sample 803:
+  Predicted: lapgrounds ;  see ;  really ;  certifying ;  problem ;  see
+  Actual: lapgrounds; see; really; problem; certifying; wrong; nothing
+--------------------
+Sample 804:
+  Predicted: like ;  stream ;  might ;  jewelry ;  kind
+  Actual: like; wow; think; things; many; wearable; worlds
+--------------------
+Sample 805:
+  Predicted: think ;  really ;  liked ;  might ;  one ;  maybe ;  think ;  otherwise
+  Actual: think; really; otherwise; one; might; maybe; liked
+--------------------
+Sample 806:
+  Predicted: angola ;  nutrients ;  agambia ;  keyphrases ;  mineral ;  production ;  iron ;  division ;  production
+  Actual: angola; nutrients; crop; development; core; leave; ore
+--------------------
+Sample 807:
+  Predicted: people ;  aware ;  lab ;  diamonds ;  people ;  many ;  walks ;  store ;  like
+  Actual: walks; times; store; someone; seen; many; people
+--------------------
+Sample 808:
+  Predicted: stones ;  know ;  answer ;  part ;  evolving
+  Actual: stones; know; yes; product; evolving; part; answer
+--------------------
+Sample 809:
+  Predicted: next ;  step ;  sanction ;  heartening ;  surprising
+  Actual: way; surprising; kind; heartening; actually; story; step
+--------------------
+Sample 810:
+  Predicted: review ;  like ;  restaurant ;  no ;  think ;  reviews ;  general ;  think
+  Actual: like; review; restaurant; look; let; people; literally
+--------------------
+Sample 811:
+  Predicted: working ;  operations ;  mines ;  repairs ;  kimberley ;  mine ;  mining ;  fleet ;  namibia ;  engineering
+  Actual: mines; operations; repairs; fleet; offshore; south; kimberley
+--------------------
+Sample 812:
+  Predicted: time ;  africa ;  spending ;  quite ;  south ;  planning ;  travel
+  Actual: time; spending; south; quite; going; bit; africa
+--------------------
+Sample 813:
+  Predicted: premium ;  gpt ;  anybody ;  account ;  gtp ;  configured ;  gp ;  anybody, gpt, signed
+  Actual: well; plans; kay; banners; signature; jared; like
+--------------------
+Sample 814:
+  Predicted: every day ;  normally ;  getting ;  new
+  Actual: every; day; going; quite; ones; normally; new
+--------------------
+Sample 815:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 816:
+  Predicted: diamonds ;  picture ;  deciding ;  logo
+  Actual: wants; picture; logo; gemstones; diamonds; deciding; add
+--------------------
+Sample 817:
+  Predicted: would ;  stores ;  learned ;  return
+  Actual: would; years; stores; return; overwhelmingly; new; lesson
+--------------------
+Sample 818:
+  Predicted: would ;  like ;  constantly ;  preparing
+  Actual: would; speak; preparing; nightmare; like; impossible; cry
+--------------------
+Sample 819:
+  Predicted: sector ;  bigger ;  sector ;  better ;  higher ;  store ;  think ;  chips ;  right
+  Actual: sector; bigger; better; place; tier; chips; much
+--------------------
+Sample 820:
+  Predicted: diamonds ;  quite ;  time ;  industry ;  biggest ;  change
+  Actual: industry; decades; biggest; probably; market; change; diamond
+--------------------
+Sample 821:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 822:
+  Predicted: kazakhstan ;  funny ;  father ;  said ;  lot ;  manufactured
+  Actual: goods; belarus; gomel; beneficiation; business; decided; already
+--------------------
+Sample 823:
+  Predicted: goods ;  side ;  dropped ;  people ;  overpriced ;  hand ;  fist
+  Actual: goods; sides; people; dropped; side; overpriced; losing
+--------------------
+Sample 824:
+  Predicted: airport ;  think ;  two ;  locations ;  little
+  Actual: locations; bit; two; days; little; fact; think
+--------------------
+Sample 825:
+  Predicted: read ;  people ;  released ;  jewelry
+  Actual: think; tell; since; released; read; people; love
+--------------------
+Sample 826:
+  Predicted: stores ;  actually ;  mystery ;  diamonds ;  education
+  Actual: stores; actually; around; relaxed; mystery; diamonds; disappointing
+--------------------
+Sample 827:
+  Predicted: week ;  watching ;  enjoy
+  Actual: week; watching; thanks; rest; enjoy
+--------------------
+Sample 828:
+  Predicted: week ;  watching ;  enjoy
+  Actual: week; watching; thanks; rest; enjoy
+--------------------
+Sample 829:
+  Predicted: world ;  essentially ;  local ;  help ;  mean ;  something ;  company ;  india
+  Actual: world; went; something; mean; local; help; every
+--------------------
+Sample 830:
+  Predicted: side ;  making ;  margin ;  whoever
+  Actual: making; margin; side; whoever; well; obviously; purchasing
+--------------------
+Sample 831:
+  Predicted: one ;  designers ;  roof ;  sonja ;  think
+  Actual: designers; roof; one; edition; went; november; gon
+--------------------
+Sample 832:
+  Predicted: really ;  sucked ;  like ;  went ;  strange ;  show ;  sense
+  Actual: show; sucked; like; really; went; strange; sense
+--------------------
+Sample 833:
+  Predicted: surat ;  bigger ;  merge ;  one ;  centralized
+  Actual: surat; mumbai; way; importance; different; ecosystem; believe
+--------------------
+Sample 834:
+  Predicted: agenda ;  companies ;  integrate ;  question
+  Actual: question; integrate; companies; biodiversity; agenda
+--------------------
+Sample 835:
+  Predicted: technology ;  somehow ;  responsibly ;  user ;  design ;  customer ;  behavior ;  interface ;  user interface
+  Actual: technology; design; somehow; act; responsibly; behavior; interface
+--------------------
+Sample 836:
+  Predicted: seen ;  sales ;  huge ;  impact ;  aov
+  Actual: us; twenty; thousand; stayed; ring; price; seen
+--------------------
+Sample 837:
+  Predicted: diamond ;  stolen ;  would ;  say ;  york
+  Actual: term; diamond; stolen; york; listen; buy; diamonds
+--------------------
+Sample 838:
+  Predicted: first ;  intact ;  technology ;  think ;  recovered ;  person ;  technology
+  Actual: person; touched; think; technology; singling; recovered; employed
+--------------------
+Sample 839:
+  Predicted: open ;  shift ;  companies ;  technological advancements
+  Actual: shift; earth; fast; advancements; technological; businesses; ideas
+--------------------
+Sample 840:
+  Predicted: g7 ;  going ;  flow ;  us ;  continued ;  could ;  melee
+  Actual: checks; going; flow; continued; russian; could; melee
+--------------------
+Sample 841:
+  Predicted: still ;  happening ;  would ;  see ;  aging
+  Actual: still; would; well; stores; starting; see; remodels
+--------------------
+Sample 842:
+  Predicted: self-purchasing ;  say ;  little ;  think ;  fickle
+  Actual: want; ring; real; might; led; go; think
+--------------------
+Sample 843:
+  Predicted: financing ;  starts ;  belief ;  also ;  product ;  everything ;  starts
+  Actual: starts; product; financing; everything; belief; also
+--------------------
+Sample 844:
+  Predicted: come ;  conclusion ;  one ;  studies
+  Actual: studies; phd; one; conclusion; came
+--------------------
+Sample 845:
+  Predicted: bit ;  like ;  think ;  little ;  markets ;  well ;  seepage ;  uk
+  Actual: bit; like; little; think; longer; asia; take
+--------------------
+Sample 846:
+  Predicted: think ;  many ;  industry ;  also ;  challenges ;  recognize ;  time
+  Actual: think; thinking; industry; also; many; recognize; ca
+--------------------
+Sample 847:
+  Predicted: consumer ;  perspective ;  much ;  energy ;  et
+  Actual: consumer; perspective; much; monitoring; crisis; things; lot
+--------------------
+Sample 848:
+  Predicted: grading ;  even ;  talking ;  diamond ;  lafground
+  Actual: makes; grading; know; lafground; diamond; carat; talking
+--------------------
+Sample 849:
+  Predicted: think ;  significant ;  buffer ;  values
+  Actual: somewhere; range; percent; values; order; look; like
+--------------------
+Sample 850:
+  Predicted: think ;  over ;  slowly ;  would ;  trade ;  space ;  breeding ;  would
+  Actual: think; big; booked; breeding; challenge; drastic; back
+--------------------
+Sample 851:
+  Predicted: repair ;  lot ;  would ;  emphasis ;  stone
+  Actual: repair; lot; especially; sense; quality; broken; easy
+--------------------
+Sample 852:
+  Predicted: little ;  know ;  time ;  surat
+  Actual: little; time; think; surat; going; stuffy; mumbai
+--------------------
+Sample 853:
+  Predicted: branding ;  sought ;  diamond ;  even
+  Actual: sought; branding; diamond; build; diamonds; yes; producers
+--------------------
+Sample 854:
+  Predicted: truth ;  Rappaport ;  thing ;  interesting ;  pretend ;  people
+  Actual: unusual; trying; task; speaking; show; readers; pretend
+--------------------
+Sample 855:
+  Predicted: things ;  expect ;  end ;  worse
+  Actual: things; worse; lot; really; lose; know; anything
+--------------------
+Sample 856:
+  Predicted: make ;  allows ;  price ;  arrive ;  survive
+  Actual: make; money; allows; stone; specific; quite; number
+--------------------
+Sample 857:
+  Predicted: plus ;  trace elements ;  surroundings ;  trace ;  plus ;  would ;  chemical ;  carbon ;  blue
+  Actual: plus; trace; elements; surroundings; would; lattice; boron
+--------------------
+Sample 858:
+  Predicted: years ;  maybe ;  two ;  ago ;  bit ;  practical ;  understood ;  seemed ;  bit
+  Actual: maybe; years; ago; two; please; actually; practical
+--------------------
+Sample 859:
+  Predicted: brand ;  lightbox ;  quite ;  successful
+  Actual: brand; probably; good; talk; size; obviously; successful
+--------------------
+Sample 860:
+  Predicted: think ;  gender ;  projects ;  working ;  toward ;  building ;  blocks ;  probably
+  Actual: think; gender; building; gck; july; expand; toward
+--------------------
+Sample 861:
+  Predicted: world ;  biggest ;  brands ;  diamonds ;  hey ;  synthetic ;  retailers ;  like
+  Actual: synthetic; world; rolex; represent; retailers; like; laboratory
+--------------------
+Sample 862:
+  Predicted: like ;  somewhere ;  rough ;  come ;  back ;  calculation ;  president ;  approved
+  Actual: suadizar; prime; like; rough; back; calculation; come
+--------------------
+Sample 863:
+  Predicted: diamond ;  let ;  really ;  jewelry ;  put
+  Actual: let; going; jewelry; diamond; yeah; celebrities; right
+--------------------
+Sample 864:
+  Predicted: jewelry ;  watch ;  guy ;  tiktok ;  actually ;  follow ;  wonder ;  thing ;  transactions ;  maybe
+  Actual: transactions; thing; maybe; market; know; guy; tiktok
+--------------------
+Sample 865:
+  Predicted: still ;  show ;  covid-19 ;  later ;  industry
+  Actual: show; still; trade; industry; regarding; easiest; run
+--------------------
+Sample 866:
+  Predicted: exactly ;  wanted ;  time ;  millennial ;  goal ;  social ;  media
+  Actual: wanted; time; exactly; able; think; school; business
+--------------------
+Sample 867:
+  Predicted: years ;  place ;  Ryan ;  first ;  brother ;  went ;  different ;  years ;  relationships
+  Actual: years; went; ryan; place; first; different; brother
+--------------------
+Sample 868:
+  Predicted: us ;  dealers ;  easier ;  work ;  right
+  Actual: us; dealers; right; type; really; work; think
+--------------------
+Sample 869:
+  Predicted: understanding ;  government ;  amount ;  antwerp ;  diamond
+  Actual: diamond; amount; understanding; different; key; antwerp; offices
+--------------------
+Sample 870:
+  Predicted: stone ;  diamond
+  Actual: 
+--------------------
+Sample 871:
+  Predicted: diamond ;  natural ;  know ;  story ;  good ;  anything ;  good
+  Actual: diamond; know; natural; industry; story; good; anything
+--------------------
+Sample 872:
+  Predicted: new ;  look ;  started ;  told
+  Actual: look; started; voda; told; new; would; work
+--------------------
+Sample 873:
+  Predicted: value ;  actually ;  things ;  beautiful ;  last ;  ultimately ;  reason ;  sort
+  Actual: value; actually; things; beautiful; sort; reason; ultimately
+--------------------
+Sample 874:
+  Predicted: diamonds ;  good ;  lab-grown ;  well ;  think ;  crisis ;  walk ;  away ;  people
+  Actual: good; diamonds; lingering; effect; fooled; growth; lab
+--------------------
+Sample 875:
+  Predicted: want ;  crap ;  business ;  want ;  money ;  friends ;  make ;  business
+  Actual: amazing; statistics; real; want; business; crap; friends
+--------------------
+Sample 876:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 877:
+  Predicted: crisis ;  diamonds ;  oversupply ;  india ;  recent ;  factors ;  demand ;  relative ;  polished
+  Actual: several; one; causing; india; recent; crisis; factors
+--------------------
+Sample 878:
+  Predicted: still ;  kind ;  pivoted ;  business ;  unique
+  Actual: still; dealer; strong; focused; market; unique; pivoted
+--------------------
+Sample 879:
+  Predicted: business ;  affecting ;  buying ;  going ;  place ;  diamonds ;  right
+  Actual: affecting; business; go; york; tel; ancillary; anywhere
+--------------------
+Sample 880:
+  Predicted: potential ;  people ;  mistakenly ;  open ;  broke ;  kind ;  diamond
+  Actual: revealed; potential; people; open; mistakenly; kind; diamond
+--------------------
+Sample 881:
+  Predicted: supply chain ;  know ;  botswana ;  dc ;  working
+  Actual: supply; chain; know; botswana; odc; along; rough
+--------------------
+Sample 882:
+  Predicted: well ;  engagement ;  going ;  say ;  america
+  Actual: well; going; said; independent; lot; engagement; america
+--------------------
+Sample 883:
+  Predicted: one ;  luxury ;  campaign ;  obsessing ;  months ;  jewelry ;  quite ;  suppose ;  fact
+  Actual: suppose; quite; minimalist; one; obsessing; months; luxury
+--------------------
+Sample 884:
+  Predicted: industry ;  outpace ;  brands ;  diamond ;  put
+  Actual: industry; company; appears; diamond; brands; outpace; others
+--------------------
+Sample 885:
+  Predicted: renovations ;  lvmh ;  way ;  flagship ;  call
+  Actual: renovations; start; lvmh; years; reopened; four; way
+--------------------
+Sample 886:
+  Predicted: think ;  commitment ;  heart ;  reporting ;  whole
+  Actual: commitment; circle; think; week; headquarters; meeting; maybe
+--------------------
+Sample 887:
+  Predicted: things ;  newspaper ;  would ;  house ;  describe ;  model ;  diamonds ;  student
+  Actual: things; wanted; focus; couple; would; model; house
+--------------------
+Sample 888:
+  Predicted: jewelry ;  wear ;  lot ;  space ;  interest
+  Actual: jewelry; wear; plastic; space; see; metals; interest
+--------------------
+Sample 889:
+  Predicted: first ;  rappaport ;  working ;  circle ;  kind
+  Actual: first; rappaport; day; working; question; last; joshua
+--------------------
+Sample 890:
+  Predicted: grading ;  diamonds ;  natural ;  came ;  jewellery ;  education ;  services
+  Actual: grading; world; second; services; natural; jewellery; diamonds
+--------------------
+Sample 891:
+  Predicted: want ;  university ;  went ;  bit ;  pricing
+  Actual: want; went; university; undergrad; hear; got; first
+--------------------
+Sample 892:
+  Predicted: south ;  africa ;  manufacturing ;  different ;  Botswana
+  Actual: south; africa; production; industry; boiling; mining; manufacturing
+--------------------
+Sample 893:
+  Predicted: vegas ;  close ;  continue ;  watch ;  many ;  journeys ;  beers ;  lead ;  markets
+  Actual: watch; market; many; lead; keep; thanks; talking
+--------------------
+Sample 894:
+  Predicted: different ;  round ;  standardize ;  solitaire
+  Actual: different; get; wise; brilliant; easier; standardize; solitaire
+--------------------
+Sample 895:
+  Predicted: people ;  campaign ;  quite ;  energetic
+  Actual: people; young; basically; diamond; evening; gabay; fundraising
+--------------------
+Sample 896:
+  Predicted: beautiful ;  would ;  jewelry ;  artist ;  think ;  know ;  distinction
+  Actual: beautiful; think; know; product; distinction; art; would
+--------------------
+Sample 897:
+  Predicted: jewellery ;  feeling ;  children ;  birth ;  course
+  Actual: jewelry; children; jewellery; feeling; today; stones; started
+--------------------
+Sample 898:
+  Predicted: going ;  important ;  above ;  partnership ;  really ;  diamond ;  natural ;  really
+  Actual: going; mythbusting; professionals; campaign; discussed; education; looking
+--------------------
+Sample 899:
+  Predicted: industry ;  mom ;  jewelry ;  independent ;  grew
+  Actual: industry; mom; jewelry; independent; dad; told; grew
+--------------------
+Sample 900:
+  Predicted: year ;  think ;  experience ;  would ;  sum ;  transition ;  new
+  Actual: year; experience; think; purpose; found; transition; lot
+--------------------
+Sample 901:
+  Predicted: buyer ;  want ;  day ;  wants ;  view ;  debate ;  love ;  point ;  personal
+  Actual: retailer; benefit; confidence; day; beautiful; buy; customer
+--------------------
+Sample 902:
+  Predicted: real ;  federal ;  trade ;  whoa
+  Actual: real; whoa; trade; federal; commission
+--------------------
+Sample 903:
+  Predicted: necklace ;  talk ;  intellectual ;  nation ;  capacity ;  black ;  created ;  pearl
+  Actual: necklace; nomis; talk; nation; intellectual; capacity; pearl
+--------------------
+Sample 904:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 905:
+  Predicted: diamond ;  starting ;  really ;  people ;  seen ;  diamond ;  really
+  Actual: diamond; starting; never; sell; seen; really; someone
+--------------------
+Sample 906:
+  Predicted: mind ;  people ;  like ;  finger ;  antrope
+  Actual: mind; people; thing; one; beautiful; antrope; sense
+--------------------
+Sample 907:
+  Predicted: first ;  dealer ;  one ;  australia ;  say ;  lab ;  sells ;  natural ;  sells
+  Actual: one; say; first; lab; australia; dealer; ago
+--------------------
+Sample 908:
+  Predicted: term ;  working ;  people ;  see ;  japan
+  Actual: working; say; term; people; think; means; closely
+--------------------
+Sample 909:
+  Predicted: diamond ;  welcome ;  rappaport ;  host ;  joshua
+  Actual: diamond; kyle; disrupting; husband; friedman; host; joshua
+--------------------
+Sample 910:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 911:
+  Predicted: one ;  correct ;  conference ;  botswana
+  Actual: one; recent; facets; screwed; left; know; holding
+--------------------
+Sample 912:
+  Predicted: part ;  sustainability ;  panel ;  focused ;  know
+  Actual: sustainability; pillars; focused; one; industry; know; panel
+--------------------
+Sample 913:
+  Predicted: tiffany ;  thinking ;  trying ;  customers ;  lot ;  create
+  Actual: trying; think; shopping; lot; experiential; customers; create
+--------------------
+Sample 914:
+  Predicted: world ;  need ;  consistency ;  ensure
+  Actual: world; need; mining; fund; undertaking; deep; cycle
+--------------------
+Sample 915:
+  Predicted: banners ;  different ;  really ;  one ;  fell
+  Actual: banners; different; focusing; one; fell; victim; many
+--------------------
+Sample 916:
+  Predicted: think ;  size ;  love ;  issue ;  popped ;  say ;  interesting
+  Actual: think; really; shoppers; size; seem; say; popped
+--------------------
+Sample 917:
+  Predicted: kind ;  interesting ;  industry ;  sort ;  eccentric ;  job ;  suggested
+  Actual: sort; eccentric; interesting; industry; lagged; wow; remember
+--------------------
+Sample 918:
+  Predicted: think ;  people ;  really ;  jewelry ;  know ;  anything ;  nothing ;  julia
+  Actual: know; jewelry; really; people; think; got; sway
+--------------------
+Sample 919:
+  Predicted: diamond ;  trader ;  broad ;  jewelry ;  joshua
+  Actual: diamond; welcome; podcast; friedman; host; joshua; rappaport
+--------------------
+Sample 920:
+  Predicted: lucce ;  mainly ;  world ;  exhibitors ;  thousands ;  chai
+  Actual: mainly; world; luce; thousands; exhibitors; wan; jewelry
+--------------------
+Sample 921:
+  Predicted: sustainability ;  watch ;  issues ;  much ;  supply
+  Actual: initiative; exclusion; focuses; chain; human; supply; rights
+--------------------
+Sample 922:
+  Predicted: think ;  important ;  requires ;  botswana ;  mid
+  Actual: statute; requires; mining; botswana
+--------------------
+Sample 923:
+  Predicted: know ;  would ;  see ;  move ;  yeah ;  love ;  see
+  Actual: years; new; ago; changed; different; would; see
+--------------------
+Sample 924:
+  Predicted: industry ;  think ;  comparison ;  sometimes ;  anxious
+  Actual: industry; think; yes; people; sometimes; incredible; defensive
+--------------------
+Sample 925:
+  Predicted: sell ;  people ;  pretending ;  noticed
+  Actual: sell; retailers; noticed; lot; selling; unless; someone
+--------------------
+Sample 926:
+  Predicted: russian ;  war ;  us ;  even
+  Actual: us; even; russia; russian; war; enough; good
+--------------------
+Sample 927:
+  Predicted: think ;  around ;  announced ;  company
+  Actual: think; point; last; launch; may; september; announced
+--------------------
+Sample 928:
+  Predicted: wreath ;  design ;  would ;  famous ;  story
+  Actual: wreath; design; story; snow; saw; door; goes
+--------------------
+Sample 929:
+  Predicted: going ;  year ;  past ;  think ;  big ;  buying ;  looking
+  Actual: going; year; people; looking; think; past; holiday
+--------------------
+Sample 930:
+  Predicted: diamond ;  mean ;  synthetic ;  natural ;  rubies ;  freaking ;  market ;  basically ;  basically
+  Actual: synthetic; diamond; mean; rubies; natural; freaking; would
+--------------------
+Sample 931:
+  Predicted: jewelry ;  york ;  based ;  designer ;  famous ;  lucite
+  Actual: jewelry; like; using; really; lucite; york; new
+--------------------
+Sample 932:
+  Predicted: collaboration ;  russia ;  could ;  last ;  crisis ;  companies ;  big ;  companies
+  Actual: russia; year; becoming; big; call; companies; could
+--------------------
+Sample 933:
+  Predicted: continuity ;  much ;  limiting ;  source ;  sit ;  anybody ;  complain
+  Actual: man; listen; source; much; limiting; sit; going
+--------------------
+Sample 934:
+  Predicted: think ;  truly ;  speak ;  factory ;  colors ;  mentioned ;  passion ;  colors
+  Actual: truly; factory; colors; admire; mentioned; passion; speak
+--------------------
+Sample 935:
+  Predicted: world ;  general ;  exhibition ;  hong
+  Actual: world; two; locations; know; forget; kong; wan
+--------------------
+Sample 936:
+  Predicted: years ;  point ;  mining ;  really
+  Actual: years; interesting; businesses; country; formative; impact; research
+--------------------
+Sample 937:
+  Predicted: year ;  gone ;  five ;  curiosity ;  sort
+  Actual: bunch; call; change; sort; curiosity; diamonds; invest
+--------------------
+Sample 938:
+  Predicted: willing ;  spend ;  confident ;  person ;  wearing ;  bit ;  budget
+  Actual: wearing; think; sure; soon; ring; person; might
+--------------------
+Sample 939:
+  Predicted: issue ;  related ;  kind ;  marketing ;  product
+  Actual: issue; consumer; gives; going; help; curious; kind
+--------------------
+Sample 940:
+  Predicted: learn ;  something ;  job ;  type ;  could ;  going ;  different ;  year
+  Actual: job; something; learn; academia; collection; type; year
+--------------------
+Sample 941:
+  Predicted: process ;  kimberley ;  meeting ;  communique ;  final
+  Actual: process; meeting; kimberley; time; end; failed; first
+--------------------
+Sample 942:
+  Predicted: kind ;  see ;  kind ;  digital ;  future ;  sure ;  goes
+  Actual: sure; goes; future; two; might; combination; see
+--------------------
+Sample 943:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 944:
+  Predicted: also ;  authenticity ;  treatment ;  range ;  highly
+  Actual: also; authenticity; test; highly; color; complex; especially
+--------------------
+Sample 945:
+  Predicted: mining ;  think ;  revenue ;  first ;  nine
+  Actual: mining; nine; obviously; show; diamond; different; people
+--------------------
+Sample 946:
+  Predicted: just ;  miserable ;  brother ;  make ;  description ;  mice ;  know
+  Actual: miserable; mice; men; lenny; know; killed; hug
+--------------------
+Sample 947:
+  Predicted: james ;  allen ;  articles ;  news ;  lea ;  reporter ;  interview ;  senior ;  mirovich
+  Actual: allen; james; articles; side; drawers; innovative; signet
+--------------------
+Sample 948:
+  Predicted: international ;  created ;  brands ;  reasons ;  strong
+  Actual: international; work; precious; inspiration; reasons; strong; brands
+--------------------
+Sample 949:
+  Predicted: long ;  thing ;  politically ;  would
+  Actual: would; glamour; glittery; incorrect; like; luxury; orphan
+--------------------
+Sample 950:
+  Predicted: place ;  values ;  different ;  place
+  Actual: values; place; different
+--------------------
+Sample 951:
+  Predicted: wird ;  weird ;  find ;  products ;  kosher ;  buying ;  find
+  Actual: products; kosher; jewish; find; buying
+--------------------
+Sample 952:
+  Predicted: rina ;  history ;  jewelry ;  designer ;  passionate ;  painter ;  professor ;  today
+  Actual: jewelry; history; rina; aluwalia; us; designer; painter
+--------------------
+Sample 953:
+  Predicted: know ;  consumer ;  impact ;  outside ;  seen ;  spending ;  rates ;  perfect
+  Actual: consumer; know; impacted; storm; spending; caused; really
+--------------------
+Sample 954:
+  Predicted: diamonds ;  reports ;  loose ;  report ;  jason ;  jaseph ;  jacob ;  started ;  shows ;  busy
+  Actual: larger; companies; mixed; started; diamonds; friday; reports
+--------------------
+Sample 955:
+  Predicted: origin ;  know ;  diamonds ;  level
+  Actual: origin; know; diamonds; level; sourced; mined; aggregate
+--------------------
+Sample 956:
+  Predicted: early ;  advancement ;  goldsmiths ;  filigree ;  stamping
+  Actual: lion; elephant; earrings; work; wire; stellar; stamping
+--------------------
+Sample 957:
+  Predicted: year ;  rough ;  production ;  say ;  little
+  Actual: year; say; prospecting; rough; production; predict; moment
+--------------------
+Sample 958:
+  Predicted: always ;  hands ;  jeweler ;  leave ;  like ;  like
+  Actual: jeweler; hands; always; like; leave
+--------------------
+Sample 959:
+  Predicted: time ;  confusing ;  public ;  think ;  push ;  mind ;  maybe ;  push
+  Actual: time; confusing; matter; conversation; industry; lot; certainly
+--------------------
+Sample 960:
+  Predicted: way ;  two ;  hours ;  kong ;  further
+  Actual: way; hours; three; india; one; kong; hong
+--------------------
+Sample 961:
+  Predicted: also ;  institution ;  sort ;  government
+  Actual: also; well; sort; smithsonian; private; interesting; instrument
+--------------------
+Sample 962:
+  Predicted: sonja ;  senior ;  analyst
+  Actual: senior; kravitz; avi; analyst; news; joshua; friedman
+--------------------
+Sample 963:
+  Predicted: necklace ;  dsl ;  carat ;  well ;  talking ;  items ;  use ;  like ;  hundred ;  like
+  Actual: necklace; well; use; talking; like; know; items
+--------------------
+Sample 964:
+  Predicted: cost ;  higher ;  purchases ;  debt
+  Actual: taking; purchases; order; make; living; higher; debt
+--------------------
+Sample 965:
+  Predicted: term ;  synthetic ;  shakeout ;  short
+  Actual: term; synthetic; shakeout; sellers; coming; stuff; short
+--------------------
+Sample 966:
+  Predicted: really ;  years ;  teller ;  business
+  Actual: really; think; story; powerful; years; teller; knows
+--------------------
+Sample 967:
+  Predicted: world ;  european ;  customs ;  boarder ;  weight ;  diamond ;  india ;  world ;  indian ;  also
+  Actual: boarder; customs; european; union; world; india; diamond
+--------------------
+Sample 968:
+  Predicted: diamond ;  again ;  recorded ;  tracer ;  really ;  opportunity ;  natural ;  showcase ;  really
+  Actual: diamond; recorded; beauty; tried; opportunity; linked; lifetime
+--------------------
+Sample 969:
+  Predicted: need ;  let ;  know ;  quality ;  stone ;  sit ;  like
+  Actual: quality; like; need; know; stone; sit; requirements
+--------------------
+Sample 970:
+  Predicted: would ;  mean ;  us ;  start ;  obviously ;  market ;  long ;  nicholas
+  Actual: mean; would; think; term; nicholas; markets; start
+--------------------
+Sample 971:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 972:
+  Predicted: going ;  talk ;  enough ;  say ;  deal ;  answer
+  Actual: question; issues; deal; answer; talk; say; got
+--------------------
+Sample 973:
+  Predicted: museum ;  worked ;  various ;  history ;  started
+  Actual: years; cologne; museum; albert; victoria; already; mentioned
+--------------------
+Sample 974:
+  Predicted: really ;  weeks ;  popping ;  like ;  campaigns
+  Actual: really; kept; weeks; popping; wonder; cartier; kind
+--------------------
+Sample 975:
+  Predicted: year ;  well ;  highlights ;  think
+  Actual: year; real; lot; continue; industry; next; recovery
+--------------------
+Sample 976:
+  Predicted: marketing ;  opposite ;  luxury ;  traditional
+  Actual: marketing; luxury; opposite; traditional; research; work; laws
+--------------------
+Sample 977:
+  Predicted: think ;  mostly ;  people ;  gain ;  value ;  think ;  people
+  Actual: value; think; seeking; people; mostly; incredible; gain
+--------------------
+Sample 978:
+  Predicted: lot ;  think ;  one ;  thing ;  see ;  creative ;  whole ;  see
+  Actual: think; thing; takes; side; see; people; one
+--------------------
+Sample 979:
+  Predicted: years ;  prison ;  ex-con ;  would
+  Actual: source; much; limiting; continuation; years; would; three
+--------------------
+Sample 980:
+  Predicted: lot ;  yellow ;  market ;  get
+  Actual: lot; color; market; yellow; get; huge; still
+--------------------
+Sample 981:
+  Predicted: diamonds ;  think ;  education ;  buy ;  still ;  scary ;  thing ;  still
+  Actual: education; would; driven; think; diamonds; buy; thinking
+--------------------
+Sample 982:
+  Predicted: fifth ;  Avenue ;  terms ;  us ;  generations ;  back ;  terms
+  Actual: avenue; fifth; customer; us; terms; generations; five
+--------------------
+Sample 983:
+  Predicted: trash ;  things ;  people ;  think ;  would ;  really ;  make ;  beautiful
+  Actual: things; person; trash; another; treasure; saying; follows
+--------------------
+Sample 984:
+  Predicted: mumbai ;  difficulties ;  intensify ;  company ;  surat
+  Actual: mumbai; kirin; jent; biggest; backers; january; boss
+--------------------
+Sample 985:
+  Predicted: market ;  lockdown ;  china ;  world ;  quiet ;  part ;  opening ;  part
+  Actual: market; china; lockdown; restrictions; related; believe; months
+--------------------
+Sample 986:
+  Predicted: daniel ;  podcast ;  Velina ;  asks ;  working ;  towards
+  Actual: podcast; danielle; working; velina; towards; question; producer
+--------------------
+Sample 987:
+  Predicted: know ;  go ;  something ;  today ;  nice
+  Actual: go; know; well; else; flexibility; going; home
+--------------------
+Sample 988:
+  Predicted: stuff ;  separate ;  good
+  Actual: stuff; separate; real; good; actually
+--------------------
+Sample 989:
+  Predicted: people ;  bigger ;  side ;  brands ;  face ;  ways ;  lot ;  offer
+  Actual: people; got; big; lot; brands; face; side
+--------------------
+Sample 990:
+  Predicted: within ;  kp ;  against ;  never ;  question
+  Actual: kp; means; within; simply; favor; question; ever
+--------------------
+Sample 991:
+  Predicted: engagement ;  category ;  decision ;  pillars ;  entering
+  Actual: category; engagement; based; pillars; making; various; lose
+--------------------
+Sample 992:
+  Predicted: really ;  think ;  shocked ;  yet
+  Actual: industry; really; think; along; beauty; know; job
+--------------------
+Sample 993:
+  Predicted: really ;  sold ;  million ;  price ;  set ;  top ;  color ;  gemstone
+  Actual: sold; million; actually; diamond; part; charities; price
+--------------------
+Sample 994:
+  Predicted: 
+  Actual: 
+--------------------
+Sample 995:
+  Predicted: mumbai ;  trading ;  diamond ;  quite ;  things
+  Actual: mumbai; diamond; trading; vast; know; bdb; behind
+--------------------
+Sample 996:
+  Predicted: type ;  different ;  would ;  depending ;  market ;  guess ;  piece ;  appraiser
+  Actual: main; depending; goal; guess; many; types; different
+--------------------
+Sample 997:
+  Predicted: really ;  brands ;  use ;  new
+  Actual: really; new; use; brands; consumers; solution; see
+--------------------
+Sample 998:
+  Predicted: impact ;  little ;  impact ;  lucara ;  lower ;  margins ;  see ;  synthetix ;  margins
+  Actual: impact; lucara; company; diamonds; lower; synthetix; seeing
+--------------------
+Sample 999:
+  Predicted: way ;  beautiful ;  jury ;  history
+  Actual: way; history; jury; beautiful; buzz; celebrity; bit
+--------------------
+Sample 1000:
+  Predicted: gemological ;  institute ;  gia ;  bringing ;  consumers ;  education ;  supporting ;  since ;  brought ;  podcast
+  Actual: intersessional; meeting; begins; dubai; early; episode; kp
+--------------------
+Sample 1001:
+  Predicted: time ;  talking ;  really ;  always
+  Actual: time; talking; great; thank; much; ari; really
+--------------------
+Sample 1002:
+  Predicted: natural ;  market ;  benefited ;  prices
+  Actual: prices; market; natural; benefited; diamond; weakness; wholesale
+--------------------
+Sample 1003:
+  Predicted: ones ;  times ;  presentations ;  china ;  one
+  Actual: ones; yeah; would; training; team; retailers; important
+--------------------
+Sample 1004:
+  Predicted: like ;  bit ;  fed ;  process ;  much
+  Actual: like; felt; fed; bit; process; point; much
+--------------------
+Sample 1005:
+  Predicted: would ;  roughy ;  say ;  guys ;  want ;  come ;  along ;  come
+  Actual: tell; along; come; real; process; governments; want
+--------------------
+Sample 1006:
+  Predicted: go ;  going ;  sell ;  debt ;  either ;  cheap ;  quickly ;  memo
+  Actual: going; debt; sell; whoever; raise; quickly; think
+--------------------
+Sample 1007:
+  Predicted: know ;  love ;  place ;  kind ;  jewelry
+  Actual: know; love; life; jewelry; kind; brilliant; place
+--------------------
+Sample 1008:
+  Predicted: take ;  somebody ;  lead ;  prefer ;  money
+  Actual: instead; crucial; important; tiny; lead; somebody; bs
+--------------------
+Sample 1009:
+  Predicted: car ;  would ;  information ;  place ;  never
+  Actual: car; would; hit; go; decided; buy; prior
+--------------------
+Sample 1010:
+  Predicted: diamond ;  industry ;  people ;  way ;  think
+  Actual: people; much; diamond; industry; way; think; audience
+--------------------
+Sample 1011:
+  Predicted: would ;  lab ;  take ;  diamond
+  Actual: solve; sense; public; would; lab; diamond; hope
+--------------------
+Sample 1012:
+  Predicted: really ;  find ;  position ;  really ;  russian ;  ban ;  diamond ;  think ;  natural ;  exports
+  Actual: important; diamond; exports; follow; wiped; entirely; mean
+--------------------
+Sample 1013:
+  Predicted: side ;  mining ;  working ;  much ;  mining
+  Actual: sort; midstream; manager; stage; sales; working; side
+--------------------
+Sample 1014:
+  Predicted: diamond ;  really ;  linking ;  yeah ;  thanks
+  Actual: side; diamond; amazing; hard; tracer; beating; showcasing
+--------------------
+Sample 1015:
+  Predicted: really ;  time ;  changed ;  yeah ;  went ;  second ;  really ;  yeah
+  Actual: view; time; changed; glad; organizations; philosophy; think
+--------------------
+Sample 1016:
+  Predicted: technology ;  really ;  things ;  together ;  launched
+  Actual: technology; launched; also; really; one; together; things
+--------------------
+Sample 1017:
+  Predicted: working ;  papers ;  students ;  industry ;  continue
+  Actual: working; talks; still; give; things; industry; hopefully
+--------------------
+Sample 1018:
+  Predicted: organizations ;  civil society ;  kimberley ;  coalition ;  yeah ;  process ;  member ;  think ;  think
+  Actual: society; coalition; civil; african; yeah; organizations; since
+--------------------
+Sample 1019:
+  Predicted: industry ;  industry ;  bring ;  together ;  original ;  partners ;  private ;  startup ;  luxury
+  Actual: original; partners; academic; technology; industry; luxury; together
+--------------------
+Sample 1020:
+  Predicted: understand ;  divorced ;  assets ;  jewelry
+  Actual: understand; really; woman; whose; jewelry; divorced; divorce
+--------------------
+Sample 1021:
+  Predicted: roundtable ;  mentioned ;  recent ;  lausanne ;  Switzerland
+  Actual: roundtable; tell; little; switzerland; recent; mentioned; luxury
+--------------------
+Sample 1022:
+  Predicted: car ;  still ;  bought ;  excuse ;  nobody
+  Actual: car; still; new; bought; would; nobody; loan
+--------------------
+Sample 1023:
+  Predicted: think ;  flexible ;  let ;  game ;  siteholder ;  every ;  generation
+  Actual: think; let; flexible; siteholder; generation; game; every
+--------------------
+Sample 1024:
+  Predicted: women ;  Namisto ;  protective ;  qualities ;  made ;  society ;  believed ;  pieces ;  famous
+  Actual: woman; believed; defined; lunitsa; another; piece; famous
+--------------------
+Sample 1025:
+  Predicted: told ;  something ;  rare ;  value ;  need ;  like ;  mass
+  Actual: told; chemically; value; finite; resource; rarity; rare
+--------------------
+Sample 1026:
+  Predicted: subscribe ;  new ;  notifications ;  videos ;  channel ;  subscribe ;  welcome ;  rappaport ;  market
+  Actual: year; annual; average; caga; growth; already; please
+--------------------
+Sample 1027:
+  Predicted: month ;  together ;  stand ;  antwerp ;  believe ;  much ;  ideal ;  rainy ;  always
+  Actual: month; together; stand; rainy; always; stronger; interwoven
+--------------------
+Sample 1028:
+  Predicted: especially ;  sanctions ;  britain ;  especially ;  united ;  states ;  pressure ;  lot ;  implement ;  united
+  Actual: sanctions; especially; knew; keen; belgian; belgium; government
+--------------------
+Sample 1029:
+  Predicted: young ;  trip ;  highlights ;  joshua
+  Actual: beers; botswana; young; diameter; highlights; recalls; india
+--------------------
+Sample 1030:
+  Predicted: show ;  questions ;  review ;  review
+  Actual: show; come; first; wrote; things; look; may
+--------------------
+Sample 1031:
+  Predicted: anything ;  russia ;  expecting ;  process ;  Kimberley
+  Actual: anything; like; process; expecting; november; exclude; russia
+--------------------
+Sample 1032:
+  Predicted: years ;  college ;  schenker ;  four ;  years ;  like ;  journey ;  kind
+  Actual: started; like; kind; journey; went; spencer; years
+--------------------
+Sample 1033:
+  Predicted: people ;  sure ;  south ;  one
+  Actual: people; sure; love; care; communities; community; balance
+--------------------
+Sample 1034:
+  Predicted: side ;  love ;  access ;  generally ;  transparent
+  Actual: side; access; love; responsible; transparent; industry; generally
+--------------------
+Sample 1035:
+  Predicted: put ;  aside ;  important ;  establish ;  jeweler
+  Actual: value; thing; initial; second; put; important; help
+--------------------
+Sample 1036:
+  Predicted: years ;  market ;  steady
+  Actual: wo; steady; really; go
+--------------------
+Sample 1037:
+  Predicted: year ;  rose ;  market ;  shares
+  Actual: year; sales; loss; price; day; stock; shares
+--------------------
+Sample 1038:
+  Predicted: know ;  think ;  somebody ;  honest
+  Actual: know; tell; think; honest; somebody; better; something
+--------------------
+Sample 1039:
+  Predicted: us ;  inferiority ;  put
+  Actual: us; really; put; position; inferiority
+--------------------
+Sample 1040:
+  Predicted: dared ;  always ;  thing ;  dealers ;  risk
+  Actual: dared; always; really; know; dealers; thing; financial
+--------------------
+Sample 1041:
+  Predicted: luxury ;  think ;  retailers ;  complicated ;  little
+  Actual: right; retailers; luxury; complicated; think; dynamics; bipolarism
+--------------------
+Sample 1042:
+  Predicted: going ;  prices ;  down ;  thank
+  Actual: coming; prices; going; clients; continually; hundreds; thank
+--------------------
+Sample 1043:
+  Predicted: diamond ;  turnover ;  money ;  natural ;  even
+  Actual: diamond; live; money; natural; turnover; even; fast
+--------------------
+Sample 1044:
+  Predicted: think ;  little ;  try ;  convince ;  way ;  people ;  never ;  convince
+  Actual: think; little; bit; looser; maybe; pr; rather
+--------------------
+Sample 1045:
+  Predicted: reused ;  think ;  waste ;  energy ;  term ;  instead ;  use ;  term
+  Actual: think; recycled; waste; energy; use; yeah; like
+--------------------
+Sample 1046:
+  Predicted: lab-grown ;  opportunity ;  working ;  mentioned ;  natural
+  Actual: working; whole; spent; natural; mentioned; life; diamonds
+--------------------
+Sample 1047:
+  Predicted: walked ;  past ;  used ;  shopping ;  store ;  matter ;  shop ;  josh
+  Actual: walked; walk; used; store; shopping; past; window
+--------------------
+Sample 1048:
+  Predicted: russian ;  team ;  analysis ;  wrapperpull.com
+  Actual: team; analysis; rappaport; editorial; written; package; webinar
+--------------------
+Sample 1049:
+  Predicted: conversation ;  really ;  pleasure ;  hope ;  add ;  value ;  really
+  Actual: conversation; value; really; pleasure; hope; good; add
+--------------------
+Sample 1050:
+  Predicted: diamond ;  know ;  separate ;  natural ;  lab
+  Actual: know; diamond; story; different; behind; whole; think
+--------------------
+Sample 1051:
+  Predicted: thank ;  joshua ;  twitter ;  follow ;  wrappperport ;  instagram ;  facebook ;  follow
+  Actual: wrapperport; twitter; linkedin; instagram; group; follow; facebook
+--------------------
+Sample 1052:
+  Predicted: market ;  goods ;  come ;  people ;  actually ;  buy ;  hundreds ;  people
+  Actual: goods; come; market; people; values; recycled; get
+--------------------
+Sample 1053:
+  Predicted: year ;  next ;  shorts ;  want ;  start ;  podcast ;  start
+  Actual: next; really; want; year; shorts; week; going
+--------------------
+Sample 1054:
+  Predicted: wish ;  strong ;  designers ;  best
+  Actual: olga; foundation; grateful; history; jewelry; wish; best
+--------------------
+Sample 1055:
+  Predicted: think ;  mistake ;  really ;  margins
+  Actual: somewhere; may; go; truth; yes; pennies; margins
+--------------------
+Sample 1056:
+  Predicted: year ;  rate ;  done ;  three
+  Actual: inflation; rate; done; job; fed; year; next
+--------------------
+Sample 1057:
+  Predicted: 
+  Actual: wanted; something; say; result; historically; gems; accurate
+--------------------
+Sample 1058:
+  Predicted: lot ;  big ;  chai ;  tai ;  used ;  look ;  china ;  chi ;  chinese ;  used
+  Actual: lot; big; market; coming; see; clarity; trends
+--------------------
+Sample 1059:
+  Predicted: customers ;  newspaper ;  found ;  actually ;  pricing
+  Actual: customers; almost; comes; countries; actually; cornell; reading
+--------------------
+Sample 1060:
+  Predicted: people ;  year ;  see ;  already
+  Actual: people; around; year; see; tell; live; lot
+--------------------
+Sample 1061:
+  Predicted: campaign ;  really ;  think ;  celebrity ;  well ;  kind ;  older ;  beautiful
+  Actual: campaign; well; think; really; celebrity; hit; use
+--------------------
+Sample 1062:
+  Predicted: diamonds ;  lab-grown ;  too ;  one ;  touched ;  companies ;  never ;  touched
+  Actual: diamonds; carat; touched; companies; personally; one; never
+--------------------
+Sample 1063:
+  Predicted: years ;  past ;  notoriety ;  gained ;  couple ;  years ;  talking ;  one ;  good
+  Actual: one; us; put; years; past; couple; features
+--------------------
+Sample 1064:
+  Predicted: nervous ;  world ;  perceived ;  jewelry ;  think
+  Actual: would; nervous; anxious; community; israel; given; think
+--------------------
+Sample 1065:
+  Predicted: industry ;  role ;  diamond ;  start ;  company ;  asking ;  start
+  Actual: role; industry; diamond; start; company; asking
+--------------------
+Sample 1066:
+  Predicted: stone ;  necessarily ;  cut ;  size
+  Actual: stone; think; significance; route; notoriety; need; size
+--------------------
+Sample 1067:
+  Predicted: customer ;  jeweler ;  correct ;  paperwork ;  establishing ;  value ;  providing
+  Actual: jeweler; customer; like; advise; hand; help; well
+--------------------
+Sample 1068:
+  Predicted: value ;  think ;  proposition ;  retailer ;  good ;  come ;  consumer
+  Actual: think; value; proposition; lab; one; grown; imagine
+--------------------
+Sample 1069:
+  Predicted: online ;  reports ;  overall ;  transparency ;  ad hoc ;  put ;  bad ;  online
+  Actual: website; transparency; reports; put; overall; online; ones
+--------------------
+Sample 1070:
+  Predicted: natural ;  see ;  think ;  diamond ;  generally ;  outliers ;  lab
+  Actual: natural; see; diamond; think; like; grown; outliers
+--------------------
+Sample 1071:
+  Predicted: goods ;  way ;  jewelry ;  evil ;  mixers
+  Actual: goods; way; together; mixers; mixed; jewelry; evil
+--------------------
+Sample 1072:
+  Predicted: clients ;  look ;  deal ;  day ;  industry ;  greatest ;  love ;  deal
+  Actual: look; clients; current; deal; always; end; day
+--------------------
+Sample 1073:
+  Predicted: jewelry ;  wide ;  wants ;  results ;  library
+  Actual: jewelry; wide; range; places; results; learn; wonderful
+--------------------
+Sample 1074:
+  Predicted: lab-grown ;  end ;  know ;  going
+  Actual: year; although; analysis; buying; byproduct; convenient; diamonds
+--------------------
+Sample 1075:
+  Predicted: learning ;  really ;  know ;  people ;  want ;  collectors ;  think ;  job
+  Actual: really; learning; know; works; want; think; people
+--------------------
+Sample 1076:
+  Predicted: know ;  really ;  podcast ;  passionate ;  people ;  know ;  source ;  think
+  Actual: well; knowing; important; really; podcast; people; passionate
+--------------------
+Sample 1077:
+  Predicted: see ;  issue ;  way ;  felt ;  asked
+  Actual: issue; see; way; ladbroin; argument; artificial; asked
+--------------------
+Sample 1078:
+  Predicted: think ;  know ;  turned ;  even ;  knew ;  years ;  turned
+  Actual: years; turned; think; old; knew; even
+--------------------
+Sample 1079:
+  Predicted: targeting ;  white ;  space ;  like ;  something ;  unique ;  fair ;  get
+  Actual: unique; truly; stones; specialized; something; price; white
+--------------------
+Sample 1080:
+  Predicted: want ;  choose ;  around ;  traceability ;  provenance ;  focus ;  moment ;  believe ;  sort ;  chain
+  Actual: want; choose; around; keep; share; platform; participant
+--------------------
+Sample 1081:
+  Predicted: go ;  going ;  part ;  partners ;  always ;  set ;  yeah ;  partners
+  Actual: going; anglo; bad; beers; decision; go; yeah
+--------------------
+Sample 1082:
+  Predicted: would ;  appraising ;  know ;  start
+  Actual: would; pieces; important; loved; one; knew; said
+--------------------
+Sample 1083:
+  Predicted: company ;  change ;  structure ;  noticed
+  Actual: company; change; today; means; little; beyond; prospectus
+--------------------
+Sample 1084:
+  Predicted: part ;  jewelry ;  contemporary
+  Actual: really; pleased; involved; part; jewelry; curating; contemporary
+--------------------
+Sample 1085:
+  Predicted: back ;  us ;  started ;  jewelry ;  podcast
+  Actual: back; welcome; podcast; present; past; links; hope
+--------------------
+Sample 1086:
+  Predicted: strong ;  partnerships ;  work ;  reason
+  Actual: strong; relationships; reason; work; today; partnerships; diamond
+--------------------
+Sample 1087:
+  Predicted: consumers ;  size ;  ratio ;  goods ;  want ;  us ;  trend
+  Actual: consumers; big; diamonds; want; economy; high; interest
+--------------------
+Sample 1088:
+  Predicted: one ;  sold ;  blocky ;  model
+  Actual: one; resin; model; like; sold; carat; blocky
+--------------------
+Sample 1089:
+  Predicted: little ;  uncertainty ;  price ;  continue
+  Actual: price; going; drop; continue; yet; reached; bottom
+--------------------
+Sample 1090:
+  Predicted: free ;  state ;  talked ;  diamonds
+  Actual: talked; state; nft; giving; free; emerged; diamonds
+--------------------
+Sample 1091:
+  Predicted: one ;  Valentine ;  lesson ;  important ;  podcast
+  Actual: valentine; one; reinforces; podcast; lesson; jewelry; important
+--------------------
+Sample 1092:
+  Predicted: crime ;  retail ;  terms ;  right ;  seen
+  Actual: crime; aspirational; comes; day; end; upsurge; currently
+--------------------
+Sample 1093:
+  Predicted: shows ;  sort ;  secondhand ;  dealers
+  Actual: name; john; watches; sort; shows; selling; secondhand
+--------------------
+Sample 1094:
+  Predicted: retail ;  media ;  access ;  data ;  make ;  able ;  retail
+  Actual: retail; able; media; make; data; access; two
+--------------------
+Sample 1095:
+  Predicted:  mention ;  afraid ;  know
+  Actual: 
+--------------------
+Sample 1096:
+  Predicted: time ;  explore ;  always ;  platform ;  works
+  Actual: works; thinking; scale; quite; platform; industry; fundamentally
+--------------------
+Sample 1097:
+  Predicted: working ;  things ;  still ;  covid ;  women
+  Actual: hardly; even; ca; years; working; women; things
+--------------------
+Sample 1098:
+  Predicted: way ;  decided ;  focus ;  clearly ;  learnings ;  primarily
+  Actual: way; primarily; learnings; going; focus; digital; decided
+--------------------
+Sample 1099:
+  Predicted: still ;  market ;  remains ;  diamond ;  level
+  Actual: still; sort; said; remains; market; mainstay; like
+--------------------
+Sample 1100:
+  Predicted: would ;  premium ;  diamond ;  get ;  botswana ;  ask ;  way ;  looking
+  Actual: get; diamond; botswana; ask
+--------------------
+Sample 1101:
+  Predicted: customers ;  jewelry ;  need ;  one ;  reacting ;  job ;  start
+  Actual: customers; jewelry; need; another; one; better; job
+--------------------
+Sample 1102:
+  Predicted: maybe ;  dramatized ;  help ;  progress ;  maybe ;  little ;  think ;  yeah
+  Actual: geopolitical; complicated; aspect; yeah; progress; overly; maybe
+--------------------
+Sample 1103:
+  Predicted: lockdowns ;  year ;  recovering ;  really ;  china
+  Actual: last; lockdowns; back; things; reopened; devastating; pretty
+--------------------
+Sample 1104:
+  Predicted: video ;  world ;  trusted ;  wrapnet
+  Actual: subscribe; predictions; comments; know; let; bringing; like
+--------------------
+Sample 1105:
+  Predicted: lab-grown ;  said ;  clarify ;  mentioned
+  Actual: said; mean; clarify
+--------------------
+Sample 1106:
+  Predicted: site holders ;  used ;  meetings ;  london
+  Actual: used; site; holders; meetings; room; people; london
+--------------------
+Sample 1107:
+  Predicted: see ;  bracelets ;  tennis ;  popular ;  years
+  Actual: see; bracelets; tennis; classic; years; think; sure
+--------------------
+Sample 1108:
+  Predicted: tool ;  partners ;  great ;  jeweler ;  using ;  system ;  jewelers ;  terms
+  Actual: try; terms; lot; using; tool; system; partners
+--------------------
+Sample 1109:
+  Predicted: trend ;  reports ;  india ;  bring ;  us
+  Actual: trend; reports; india; bring; trends; terms; continue
+--------------------
+Sample 1110:
+  Predicted: tv ;  people ;  look ;  stream ;  internet ;  less ;  few
+  Actual: people; watch; tv; less; stream; look; live
+--------------------
+Sample 1111:
+  Predicted: would ;  perfect ;  ticket ;  winston
+  Actual: would; winston; ticket; say; perfect; investment; combination
+--------------------
+Sample 1112:
+  Predicted: well ;  embargo ;  support ;  countries ;  political
+  Actual: cer; well; african; support; countries; embargo; lot
+--------------------
+Sample 1113:
+  Predicted: open ;  market ;  retailers ;  propose ;  really ;  groups ;  niche ;  really
+  Actual: probably; opportunity; open; retailers; gaining; propose; people
+--------------------
+Sample 1114:
+  Predicted: increases ;  countries ;  modest ;  line ;  economic ;  broadly ;  globally ;  think ;  line
+  Actual: countries; increases; broadly; decade; growth; line; modest
+--------------------
+Sample 1115:
+  Predicted: really ;  answering ;  clients ;  day ;  house
+  Actual: answering; know; would; really; calls; day; client
+--------------------
+Sample 1116:
+  Predicted: diamonds ;  supply ;  big ;  lot ;  explanatory
+  Actual: diamonds; explanatory; forthcoming; guidance; understand; advice; sure
+--------------------
+Sample 1117:
+  Predicted: well-deserved ;  thing ;  life ;  aside ;  sleep ;  aside
+  Actual: podcast; might; back; thing; sleep; new; life
+--------------------
+Sample 1118:
+  Predicted: canada ;  Namibia ;  care ;  consumer ;  additional ;  pick
+  Actual: consumer; care; additional; namibia; mean; canada
+--------------------
+Sample 1119:
+  Predicted: podcast ;  world ;  wanted ;  start ;  bit ;  hear ;  perspective ;  world
+  Actual: maybe; world; wanted; bit; clear; cut; rappaport
+--------------------
+Sample 1120:
+  Predicted: stone ;  yonker ;  yorker ;  back ;  1935 ;  let ;  go ;  stone ;  right
+  Actual: stone; yonker; let; go; back; today; stones
+--------------------
+Sample 1121:
+  Predicted: week ;  watching ;  enjoy
+  Actual: week; watching; thanks; rest; enjoy
+--------------------
+Sample 1122:
+  Predicted: story ;  fit ;  something ;  ongoing
+  Actual: still; something; ongoing; sure; stories; dealing; story
+--------------------
+Sample 1123:
+  Predicted: store ;  took ;  walked ;  something ;  sidearm
+  Actual: store; woody; decided; done; keep; never; owner
+--------------------
+Sample 1124:
+  Predicted: jewelers ;  margins ;  mean ;  times ;  centurion
+  Actual: jewelers; margins; addicted; times; six; mean; margin
+--------------------
+Sample 1125:
+  Predicted: think ;  really ;  bridal ;  break ;  might ;  sort ;  sort
+  Actual: break; bridal; really; scene; rest; seeds; set
+--------------------
+Sample 1126:
+  Predicted: supply ;  areas ;  many ;  supply ;  enough ;  areas
+  Actual: areas; demand; many; enough; supply; four; usually
+--------------------
+Sample 1127:
+  Predicted: way ;  unnatural ;  way ;  lost ;  industry ;  confidence ;  kind ;  identity
+  Actual: way; unnatural; real; stupid; kind; identity; crisis
+--------------------
+Sample 1128:
+  Predicted: rappaport ;  follow ;  diamond ;  podcast ;  future ;  subscribe
+  Actual: rappaport; follow; discussion; diamond; get; future; subscribe
+--------------------
+Sample 1129:
+  Predicted: women ;  think ;  react ;  wow ;  face
+  Actual: women; wow; like; empowering; young; older; mentioned
+--------------------
+Sample 1130:
+  Predicted: maybe ;  go ;  time ;  know
+  Actual: go; maybe; wear; diamonds; embrace; admit; majority
+--------------------
+Sample 1131:
+  Predicted: think ;  industry ;  change ;  preference ;  shift
+  Actual: think; change; industry; preference; massive; business; put
+--------------------
+Sample 1132:
+  Predicted: strong ;  finance ;  russian ;  sanctions ;  turnover
+  Actual: happened; finance; strong; would; turnover; sanctions; effect
+--------------------
+Sample 1133:
+  Predicted: like ;  shifts ;  mind ;  really
+  Actual: keep; shifts; also; like; think; really; mind
+--------------------
+Sample 1134:
+  Predicted: diamonds ;  antwerp ;  would ;  invest ;  customers
+  Actual: antwerp; diamonds; respect; people; sealed; illusion; would
+--------------------
+Sample 1135:
+  Predicted: bourse ;  remember ;  essence ;  organizations
+  Actual: business; essence; remember; bourse; york; trust; people
+--------------------
+Sample 1136:
+  Predicted: values ;  held ;  progressive ;  training ;  quality
+  Actual: training; skills; quality; produced; pieces; visionary; values
+--------------------
+Sample 1137:
+  Predicted: started ;  people ;  realize ;  place ;  significant ;  buying ;  first ;  realize
+  Actual: help; setting; create; custom; pick; diamond; educate
+--------------------
+Sample 1138:
+  Predicted: sold ;  market ;  second ;  amount ;  fair ;  site ;  seem ;  taken
+  Actual: sold; well; volume; taken; site; seem; second
+--------------------
+Sample 1139:
+  Predicted: would ;  one ;  burling ;  fine
+  Actual: would; say; mean; tenor; one; like; put
+--------------------
+Sample 1140:
+  Predicted: think ;  trade ;  point ;  contention ;  within ;  presenting ;  difference
+  Actual: presenting; option; makes; difference; big; within; trade

@@ -1,20 +1,20 @@
 # CSCI 6518 Deep Speech Project: Diamond Market Analysis
 
-Overview:
+## Overview:
 
 This project focuses on analyzing sentiments and trends in the diamond market by leveraging advanced Natural Language Processing (NLP) techniques. Using podcasts and videos sourced from the Rapaport Community, we explore how recent socio-economic factors influence diamond prices, sales, and trading.
 
-Objectives:
+## Objectives:
 
 Extract and analyze market sentiments from audio-visual content.
 Identify and generate market trends using NLP models.
 Compare the performance of fine-tuned models against baseline models for both sentiment and trend analysis.
 
-Data Collection:
+## Data Collection:
 
 The source data includes videos and podcasts from the Rapaport Community Website, a trusted network offering ethical and transparent insights into diamond and jewelry markets. The content spans the past six months, focusing on socio-economic factors affecting the diamond industry.
 
-Methodology:
+## Methodology:
 
 1. Audio Transcription:
 Tool Used: OpenAI's Whisper (medium) model.
@@ -23,37 +23,37 @@ Each audio file was transcribed into human-readable text, forming the basis for 
 2. Labeled Dataset Creation:
 We prepared a labeled dataset for fine-tuning by:
 
-Sentiment Analysis: 
+### Sentiment Analysis: 
 Using BERT to classify sentiments in the transcriptions.
 
-Keyword Extraction: 
+### Keyword Extraction: 
 Leveraging RAKE (Rapid Automatic Keyword Extraction) to identify relevant keywords.
 
-Trend Analysis: 
+### Trend Analysis: 
 Training an LDA (Latent Dirichlet Allocation) model to extract the top 7 trends from grouped sentences.
 
 3. Model Fine-Tuning
 Two tasks were addressed using fine-tuned models:
 
-Sentiment Analysis: 
+### Sentiment Analysis: 
 Fine-tuned DistilBERT and compared results with RoBERTa (baseline).
 
-Trend Extraction: 
+### Trend Extraction: 
 Fine-tuned KEYBART and compared results with Facebook BART (baseline).
 
-Results:
+## Results:
 
 The fine-tuned DistilBERT model demonstrated significant improvements over the baseline RoBERTa for sentiment analysis.
 Similarly, KEYBART outperformed Facebook BART for trend extraction in terms of coherence and relevance.
 
-Future Work:
+## Future Work:
 
 Enhance trend extraction by integrating multimodal data (text and visuals).
 Extend the labeled dataset with more diverse podcast and video sources.
 Explore the use of RAG (Retrieval-Augmented Generation) for combining trends and sentiments.
 This model can be integrated with historic diamond pricing to understand how diamond prices are fluctuating based on market condition, to predict future diamond pricing.
 
-Repository Contents:
+## Repository Contents:
 
 All data is stored inside Audio/ 
 

@@ -1,0 +1,1963 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Javi Kravitz.",
+            "Asher Diamond Company and Harsh Shah of Pasavajar Gems give their observations about their experiences at Surat Diamond Factories, the Bharat Diamond Bolsa, the new Surat Diamond Bolsa, the differences between Surat and Mumbai, and the role that the young diamond tears are playing in the industry.",
+            "It's a fun and informative episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new surat diamond bolsa",
+            "bharat diamond bolsa",
+            "young diamond tears",
+            "rappaport diamond podcast",
+            "asher diamond company",
+            "pasavajar gems give",
+            "surat diamond factories"
+        ],
+        "trends": [
+            "diamond",
+            "surat",
+            "bolsa",
+            "episode",
+            "fun",
+            "informative",
+            "young"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm sure you'll enjoy it too.",
+            "I've got two friends and colleagues from the Young Diamond Tears group joining us.",
+            "We've just come back from a trip to India with 50 members of the Young Diamond Tears."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond tears group joining us",
+            "young diamond tears",
+            "got two friends",
+            "come back",
+            "50 members",
+            "trip",
+            "sure"
+        ],
+        "trends": [
+            "young",
+            "tears",
+            "diamond",
+            "us",
+            "two",
+            "joining",
+            "group"
+        ]
+    },
+    {
+        "sentence": [
+            "We've got firstly, I'd like to welcome Lita Asher.",
+            "Lita Asher is Co-President of the Royal Asher Diamond Company based in Amsterdam in the Netherlands.",
+            "It's a sixth generation diamond tear and a distinguished member of the diamond industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "royal asher diamond company based",
+            "sixth generation diamond tear",
+            "welcome lita asher",
+            "lita asher",
+            "diamond industry",
+            "got firstly",
+            "distinguished member"
+        ],
+        "trends": [
+            "asher",
+            "diamond",
+            "lita",
+            "welcome",
+            "firstly",
+            "member",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "You were with us on this recent trip to India and welcome to the podcast, Lita.",
+            "Great.",
+            "And we've also got Harsh Shah."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also got harsh shah",
+            "recent trip",
+            "welcome",
+            "us",
+            "podcast",
+            "lita",
+            "india"
+        ],
+        "trends": [
+            "shah",
+            "harsh",
+            "got",
+            "welcome",
+            "us",
+            "trip",
+            "recent"
+        ]
+    },
+    {
+        "sentence": [
+            "Harsh Shah is the Director of Pasarvajah Gems, a diamond manufacturer.",
+            "manufacturing and trading company based in Mumbai in India.",
+            "Harsh is also a member of the Young Diamond Tears and was influential in organizing the recent YD trip to India."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trading company based",
+            "recent yd trip",
+            "young diamond tears",
+            "diamond manufacturer",
+            "pasarvajah gems",
+            "harsh shah",
+            "harsh"
+        ],
+        "trends": [
+            "harsh",
+            "india",
+            "diamond",
+            "shah",
+            "pasarvajah",
+            "manufacturing",
+            "based"
+        ]
+    },
+    {
+        "sentence": [
+            "He's also one of the organization's technological experts and a great contributor to the organization.",
+            "I'm pleased to have you on the podcast with us.",
+            "So just as an introduction, the Young Diamond Tears was founded in 2017 as really part of the World Federation of Diamond Borses."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond tears",
+            "diamond borses",
+            "world federation",
+            "technological experts",
+            "really part",
+            "great contributor",
+            "also one"
+        ],
+        "trends": [
+            "diamond",
+            "organization",
+            "one",
+            "contributor",
+            "experts",
+            "great",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "The idea was that there needs to be something  organized for the future generation to keep people in the industry and to make the industry exciting and appealing for the younger people.",
+            "And it's kind of developed and blossomed from there.",
+            "There are many events, meetings at various trade shows and other events, conferences."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various trade shows",
+            "younger people",
+            "something organized",
+            "keep people",
+            "future generation",
+            "many events",
+            "industry exciting"
+        ],
+        "trends": [
+            "events",
+            "people",
+            "industry",
+            "trade",
+            "shows",
+            "conferences",
+            "meetings"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the great step forward was three years ago when the YDs went on an organized trip to South Africa to see the Venetian mine, the Beers mine in South Africa.",
+            "And that was, I think, 25 people.",
+            "But most recently, the latest highlight was a trip for 50 people, which was  to Surat and Mumbai to go and see the industry, meet with industry, influential industry people and get an idea of the flavor of the industry there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "three years ago",
+            "great step forward",
+            "influential industry people",
+            "50 people",
+            "25 people",
+            "yds went",
+            "venetian mine"
+        ],
+        "trends": [
+            "industry",
+            "mine",
+            "south",
+            "africa",
+            "people",
+            "trip",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "I had a great time and I know you guys do that as well.",
+            "And Lisa, just in general terms, what were your takeaways from that trip?",
+            "Wow, you know, I've got such fond memories of this trip from the very first moment of arriving, getting the chance to really have an inside look in so many different companies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many different companies",
+            "inside look",
+            "great time",
+            "general terms",
+            "fond memories",
+            "first moment",
+            "wow"
+        ],
+        "trends": [
+            "trip",
+            "know",
+            "terms",
+            "takeaways",
+            "lisa",
+            "general",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think I ever would have had the chance to do that if I would have gone there on my own.",
+            "That was my first thing that I really enjoyed, really understanding how these factories work, which means for me, we work with different companies in India to much better understand why things are going right or wrong, which was an eye-opener.",
+            "And then of course, making so many friends."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much better understand",
+            "really understanding",
+            "really enjoyed",
+            "many friends",
+            "going right",
+            "first thing",
+            "different companies"
+        ],
+        "trends": [
+            "would",
+            "work",
+            "really",
+            "companies",
+            "gone",
+            "chance",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Like from the 50 people that were there, there was not one that at the end of the trip I didn't speak to yet and connected with.",
+            "So I think when you talk about the Young New Monterre, it's what I really, really enjoy about it.",
+            "way around."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young new monterre",
+            "way around",
+            "50 people",
+            "really enjoy",
+            "really",
+            "yet",
+            "trip"
+        ],
+        "trends": [
+            "really",
+            "yet",
+            "trip",
+            "speak",
+            "young",
+            "think",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "Like the older generations is difficult to get into.",
+            "This generation is so easy to get into because they're so open for conversations and all just connecting and being there for each other.",
+            "I hold that very deep to my heart and I was very excited and happy that I was there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "older generations",
+            "open",
+            "like",
+            "hold",
+            "heart",
+            "happy",
+            "get"
+        ],
+        "trends": [
+            "get",
+            "older",
+            "like",
+            "generations",
+            "difficult",
+            "hold",
+            "heart"
+        ]
+    },
+    {
+        "sentence": [
+            "So yeah, that was my take on it.",
+            "started for us like, you know, six months back when the organizing committee, you know, started meetings.",
+            "I mean, every week we have, you know, few meetings and we talk about how things are going to happen and what are we going to do."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "six months back",
+            "us like",
+            "organizing committee",
+            "every week",
+            "started meetings",
+            "started",
+            "meetings"
+        ],
+        "trends": [
+            "know",
+            "meetings",
+            "started",
+            "going",
+            "organizing",
+            "mean",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "It was truly an unforgettable experience for me doing it from start to the end.",
+            "And it was a great success to see all my friends, you know, coming to India and enjoying the time here.",
+            "So yeah, it's a good event for me."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "unforgettable experience",
+            "great success",
+            "good event",
+            "yeah",
+            "truly",
+            "time",
+            "start"
+        ],
+        "trends": [
+            "good",
+            "enjoying",
+            "friends",
+            "truly",
+            "end",
+            "start",
+            "experience"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah.",
+            "I think to me that highlight for me was really the Surat.",
+            "We started two days in Surat and three days in Mumbai."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started two days",
+            "three days",
+            "yeah",
+            "think",
+            "surat",
+            "surat",
+            "really"
+        ],
+        "trends": [
+            "days",
+            "surat",
+            "think",
+            "really",
+            "highlight",
+            "two",
+            "three"
+        ]
+    },
+    {
+        "sentence": [
+            "I'd been to Mumbai before I seen about Diamond Boss, the main exchange there in Mumbai, but I'd never been to the factories in Surat and I was just hit by the culture, how warm it was in terms of people's personalities.",
+            "I think I mentioned on the last of Apple Podcasts actually how much I liked the weather in comparison with Mumbai.",
+            "But we saw so many different types of factories and every single factory was different, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every single factory",
+            "apple podcasts actually",
+            "many different types",
+            "main exchange",
+            "diamond boss",
+            "different",
+            "weather"
+        ],
+        "trends": [
+            "mumbai",
+            "different",
+            "factories",
+            "types",
+            "every",
+            "single",
+            "saw"
+        ]
+    },
+    {
+        "sentence": [
+            "It was the business model was different, but also the culture was different.",
+            "We had some factories where people were wearing company uniforms, some of them where they had a number  on their uniform, some of them when they were just in their own clothes, some of them where you could tell that they were kind of being very kind of carefully, closely regimented.",
+            "And then some had a much more open culture."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wearing company uniforms",
+            "could tell",
+            "closely regimented",
+            "business model",
+            "open culture",
+            "culture",
+            "uniform"
+        ],
+        "trends": [
+            "different",
+            "culture",
+            "kind",
+            "carefully",
+            "closely",
+            "clothes",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "And what, Harsh and Letha, what were your experiences of how these companies differed on that kind of the diversity that we saw while we were there?",
+            "When we went to HK and were welcomed by 3000 people clapping, of course, that topped everything.",
+            "I don't know how to do that better ever in my life again."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "3000 people clapping",
+            "topped everything",
+            "companies differed",
+            "better ever",
+            "went",
+            "welcomed",
+            "saw"
+        ],
+        "trends": [
+            "better",
+            "ever",
+            "hk",
+            "clapping",
+            "course",
+            "everything",
+            "welcomed"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think what the real thing is, and it was all  It was also at Venus, it was also at SRK and all the other factories we visited.",
+            "It's like there was a true spirit of the founders, how they felt about how the company should be led and how they thought about how to treat people and to work with them.",
+            "And I think, I don't think one was better than the other or one stood out more."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "true spirit",
+            "treat people",
+            "real thing",
+            "one stood",
+            "think one",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "one",
+            "also",
+            "work",
+            "founders",
+            "true",
+            "treat"
+        ]
+    },
+    {
+        "sentence": [
+            "It was just really interesting to see that in the Indian culture for me, that was something I really didn't realize, that it was really from the mind and the thought  of how do I make the world a better place and also bringing my company forward.",
+            "I mean, the one that stood out for me in the end the most, which actually not one of the diamond polishing factories, was the software company, Lemon Software, because it blew my mind, like what they can do with the software, with colored diamonds, and how to cut it in a way that you get an even better, intense color.",
+            "And of course, harsh like my brother have this passion of figuring out how to get the more intense color."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond polishing factories",
+            "intense color",
+            "intense color",
+            "indian culture",
+            "even better",
+            "company forward",
+            "colored diamonds"
+        ],
+        "trends": [
+            "software",
+            "really",
+            "one",
+            "company",
+            "mind",
+            "better",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "That's a craftsmanship in our industry that is very rare still to see.",
+            "That's why I love speaking to Harsh about it as well.",
+            "But I think what was so impressive at Lemon Software was like, wait, you can make the bluestone even more blue just by using this software and figuring out what degree to cut this on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rare still",
+            "love speaking",
+            "bluestone even",
+            "lemon software",
+            "software",
+            "well",
+            "wait"
+        ],
+        "trends": [
+            "software",
+            "bluestone",
+            "well",
+            "harsh",
+            "speaking",
+            "love",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, most of the people that ever worked with colored diamonds were standing there like, wow, you know, this is insane.",
+            "And on the same time, it's sad because you lose that craftsmanship that we've had for generations.",
+            "So it's like, okay, just make sure we don't only do this based on software anymore."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "software anymore",
+            "make sure",
+            "ever worked",
+            "colored diamonds",
+            "wow",
+            "time",
+            "standing"
+        ],
+        "trends": [
+            "like",
+            "colored",
+            "diamonds",
+            "ever",
+            "lose",
+            "time",
+            "craftsmanship"
+        ]
+    },
+    {
+        "sentence": [
+            "But it was, yeah, I really was excited about it.",
+            "And actually that visit was way too short, which, you know, in the end, I don't know how we survived these days because it was such a packed program, but it was still not enough.",
+            "And that welcome at HK at Hare Krishna, their factory."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "packed program",
+            "hare krishna",
+            "yeah",
+            "welcome",
+            "way",
+            "visit",
+            "survived"
+        ],
+        "trends": [
+            "know",
+            "program",
+            "packed",
+            "factory",
+            "hare",
+            "hk",
+            "welcome"
+        ]
+    },
+    {
+        "sentence": [
+            "And so that was certainly nothing I'd experienced before.",
+            "Our Oscar moment, right?",
+            "Yeah, just for the listeners who weren't there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "oscar moment",
+            "certainly nothing",
+            "yeah",
+            "right",
+            "listeners",
+            "experienced"
+        ],
+        "trends": [
+            "right",
+            "oscar",
+            "moment",
+            "nothing",
+            "experienced",
+            "certainly"
+        ]
+    },
+    {
+        "sentence": [
+            "They prepared a whole introduction  for us where we got off the coach, got off the bus and the entire staff, 3,000 people or something, they all have a purple shirt, uniform, and they were all lining the entrance street going into the factory.",
+            "And they prepared drones and everything.",
+            "And you know, Rami Barron, who was the founder of Young Diamond Heads, who led us and then gave a speech at the end as if he was kind of the president coming to visit."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond heads",
+            "entrance street going",
+            "whole introduction",
+            "rami barron",
+            "purple shirt",
+            "president coming",
+            "entire staff"
+        ],
+        "trends": [
+            "got",
+            "prepared",
+            "us",
+            "young",
+            "coming",
+            "diamond",
+            "end"
+        ]
+    },
+    {
+        "sentence": [
+            "It was really an amazing experience.",
+            "But I think one of the things that you touched on this, Lita, that was a strong theme of the trip was the work that some of the  companies, some of these manufacturers who are doing for the communities.",
+            "Harsh, what was your impression of that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think one",
+            "strong theme",
+            "amazing experience",
+            "work",
+            "trip",
+            "touched",
+            "things"
+        ],
+        "trends": [
+            "work",
+            "trip",
+            "touched",
+            "think",
+            "things",
+            "theme",
+            "strong"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, it was essentially every company we went to was doing something to help the local area in the world.",
+            "Yeah.",
+            "So for me, I'm from India, but I've never been to such places before."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "essentially every company",
+            "local area",
+            "yeah",
+            "world",
+            "went",
+            "something",
+            "places"
+        ],
+        "trends": [
+            "world",
+            "went",
+            "something",
+            "mean",
+            "local",
+            "help",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, even I'm from within the industry.",
+            "So getting access to these places and to understand how people work, how their ecosystem is and how they build up what it is today.",
+            "Talking about the initiatives and things what this company does,  I am completely impressed by what HK has done with the water reservations and stuff."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "water reservations",
+            "people work",
+            "getting access",
+            "completely impressed",
+            "within",
+            "understand",
+            "today"
+        ],
+        "trends": [
+            "initiatives",
+            "completely",
+            "hk",
+            "impressed",
+            "done",
+            "reservations",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just, you know, it's crazy numbers of lakes in the area where the water is needed.",
+            "But talking about the welcoming, it was also one of the, you know, lifetime experience at the HK.",
+            "I mean, I'm sure many of us, you know, got the goosebumps there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sure many",
+            "lifetime experience",
+            "crazy numbers",
+            "also one",
+            "welcoming",
+            "water",
+            "us"
+        ],
+        "trends": [
+            "know",
+            "welcoming",
+            "experience",
+            "hk",
+            "mean",
+            "many",
+            "area"
+        ]
+    },
+    {
+        "sentence": [
+            "I spoke with people and everyone was like, you know, getting the goosebumps while we are entering into the Hare Krishna.",
+            "It was truly a different experience.",
+            "And if I speak about the factory, which I truly admire, and I mentioned here, for me, colors is passion."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hare krishna",
+            "different experience",
+            "truly admire",
+            "truly",
+            "spoke",
+            "speak",
+            "people"
+        ],
+        "trends": [
+            "truly",
+            "factory",
+            "colors",
+            "admire",
+            "mentioned",
+            "passion",
+            "speak"
+        ]
+    },
+    {
+        "sentence": [
+            "And when I went to this software company, this Levin Tech Technonist, I was so amazed to see the technology they were working on.",
+            "I mean, I went to the science lab or maybe, I never thought it's something related to the diamond when I first entered the facility, but it's truly a magical experience being there.",
+            "One of the things I maybe hadn't appreciated before was how, in terms of the manufacturing, was how seriously they take getting the maximum value out of every stone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "levin tech technonist",
+            "take getting",
+            "something related",
+            "software company",
+            "science lab",
+            "never thought",
+            "maximum value"
+        ],
+        "trends": [
+            "went",
+            "maybe",
+            "working",
+            "tech",
+            "company",
+            "levin",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's quite a serious deal when you're dealing with hundreds and thousands of workers.",
+            "And they showed us, one of the factories we went to, they showed us how in the factory you might have one guy whose job is to, or two people whose job is to take a rough diamond, put it through a machine, study it closely, and then estimate the polished value that will come out of it.",
+            "And then you'll get some, he'll, person number one will process it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two people whose job",
+            "one guy whose job",
+            "person number one",
+            "showed us",
+            "showed us",
+            "serious deal",
+            "rough diamond"
+        ],
+        "trends": [
+            "one",
+            "us",
+            "showed",
+            "job",
+            "whose",
+            "hundreds",
+            "quite"
+        ]
+    },
+    {
+        "sentence": [
+            "and then we'll give his kind of report on what the on the value that will come out of it.",
+            "And then somewhere else, person number two, his job is kind of to check him and to do another review of the stone of the rough.",
+            "And if there's a difference between the two, then the one who came with the estimate the lower value basically gets a penalty, he gets kind of points against him in his, in his kind of report card."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lower value basically gets",
+            "person number two",
+            "gets kind",
+            "somewhere else",
+            "another review",
+            "report card",
+            "value"
+        ],
+        "trends": [
+            "kind",
+            "gets",
+            "value",
+            "report",
+            "two",
+            "review",
+            "check"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's intense, but I never felt at any of the places that we went to that there was sort of a culture of people being maybe over pressure, that impression people enjoy what they were doing, but there, there's some  a lot of incentive to do a good job and to get the most out of the value.",
+            "And obviously when we're talking about diamonds and getting the most means it could be a difference of thousands of tens of thousands of dollars.",
+            "Just moving on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "impression people enjoy",
+            "never felt",
+            "good job",
+            "people",
+            "went",
+            "value",
+            "thousands"
+        ],
+        "trends": [
+            "thousands",
+            "people",
+            "could",
+            "tens",
+            "talking",
+            "diamonds",
+            "difference"
+        ]
+    },
+    {
+        "sentence": [
+            "So we finished in Surat and we moved to Mumbai.",
+            "I mean, firstly, that train journey from Mumbai to Surat.",
+            "Anyone who comes to India has to go, has to get a train from Mumbai to Surat."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "train journey",
+            "train",
+            "surat",
+            "surat",
+            "surat",
+            "mumbai",
+            "mumbai"
+        ],
+        "trends": [
+            "surat",
+            "mumbai",
+            "train",
+            "moved",
+            "finished",
+            "india",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "It's trying to get, what was it, 50 suitcases onto one carriage of a train without anyone or anything being left behind.",
+            "There was all our cases put on these kind of carts.",
+            "It was a miracle, I think."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "50 suitcases onto one carriage",
+            "train without anyone",
+            "left behind",
+            "cases put",
+            "trying",
+            "think",
+            "miracle"
+        ],
+        "trends": [
+            "without",
+            "trying",
+            "train",
+            "suitcases",
+            "onto",
+            "one",
+            "put"
+        ]
+    },
+    {
+        "sentence": [
+            "There were more than 100 suitcases to load on the boat, on the train.",
+            "I remember that I requested the guy who takes care of the train timing there, I requested them to just hold on for a few minutes so that we can load all this luggage inside the train.",
+            "It was just a request and it was truly a different experience."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "takes care",
+            "luggage inside",
+            "different experience",
+            "100 suitcases",
+            "train timing",
+            "train",
+            "train"
+        ],
+        "trends": [
+            "train",
+            "load",
+            "requested",
+            "remember",
+            "different",
+            "experience",
+            "truly"
+        ]
+    },
+    {
+        "sentence": [
+            "piece and so did our luggage.",
+            "And we did quite a few things in Mumbai.",
+            "But I think the highlight for me with the Mumbai section was actually we had a real behind the scenes tour of the Bharat diamond boards, the BDB, which obviously this vast complex of trading, you know, there is a trading floor, but it's mostly offices of diamond companies in Mumbai."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bharat diamond boards",
+            "diamond companies",
+            "vast complex",
+            "scenes tour",
+            "real behind",
+            "mostly offices",
+            "trading floor"
+        ],
+        "trends": [
+            "mumbai",
+            "diamond",
+            "trading",
+            "vast",
+            "know",
+            "bdb",
+            "behind"
+        ]
+    },
+    {
+        "sentence": [
+            "And we really, we saw things that I really wasn't expecting to see.",
+            "We really how the security works, how the communication works.",
+            "It was really, that was something special, right, Lita?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something special",
+            "security works",
+            "saw things",
+            "communication works",
+            "see",
+            "right",
+            "really"
+        ],
+        "trends": [
+            "really",
+            "works",
+            "security",
+            "special",
+            "something",
+            "right",
+            "lita"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, that was James Bond.",
+            "It was very cool to be  in the security room with all the TV screens and cameras where you know that whatever you do, they will always know.",
+            "So that was very cool."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tv screens",
+            "security room",
+            "james bond",
+            "always know",
+            "know",
+            "yeah",
+            "whatever"
+        ],
+        "trends": [
+            "know",
+            "yeah",
+            "whatever",
+            "tv",
+            "security",
+            "screens",
+            "room"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's interesting to see the diamond wars first in Surat that wasn't open yet, right?",
+            "And then in Mumbai, it's incredible.",
+            "It's so huge."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond wars first",
+            "open yet",
+            "surat",
+            "see",
+            "right",
+            "mumbai",
+            "interesting"
+        ],
+        "trends": [
+            "yet",
+            "wars",
+            "surat",
+            "see",
+            "right",
+            "open",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "It's, you know, I mean, I think it's like what 95% of the Polish diamonds come through India in the world.",
+            "And when you see what's happening there,  I mean, I lived in New York for several years, which also has a lot of diamond people and companies there.",
+            "So it was great to be there as being part of the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "polish diamonds come",
+            "several years",
+            "new york",
+            "diamond people",
+            "world",
+            "think",
+            "see"
+        ],
+        "trends": [
+            "mean",
+            "york",
+            "companies",
+            "diamond",
+            "happening",
+            "years",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "Amsterdam used to be the city of diamonds, it's been a while, but we're still here.",
+            "But the birth there was amazing.",
+            "Not enough women, I have to say, but it was great to see it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "enough women",
+            "amsterdam used",
+            "still",
+            "see",
+            "say",
+            "great",
+            "diamonds"
+        ],
+        "trends": [
+            "used",
+            "still",
+            "diamonds",
+            "city",
+            "amsterdam",
+            "women",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm sure that will come.",
+            "Right.",
+            "And then we also got to kind of get a taste of some of the differences between Styrratum and BioVision, these two important diamond cities."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two important diamond cities",
+            "also got",
+            "taste",
+            "sure",
+            "styrratum",
+            "right",
+            "kind"
+        ],
+        "trends": [
+            "two",
+            "taste",
+            "styrratum",
+            "kind",
+            "important",
+            "got",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "How would you contrast the two experiences of Surat and Mumbai?",
+            "When you talk about Mumbai, I see Mumbai market is more into the sales offices or more into the marketing or more into the finished products.",
+            "So I believe both these cities are important when it comes to the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see mumbai market",
+            "two experiences",
+            "sales offices",
+            "finished products",
+            "mumbai",
+            "mumbai",
+            "would"
+        ],
+        "trends": [
+            "mumbai",
+            "important",
+            "two",
+            "contrast",
+            "experiences",
+            "would",
+            "believe"
+        ]
+    },
+    {
+        "sentence": [
+            "One of the things that I think I failed to mention about our trip to Surat was we visited the Surat Diamond Bourse, which is... Yeah, how can you forget?",
+            "An open market.",
+            "Yes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "surat diamond bourse",
+            "open market",
+            "... yeah",
+            "surat",
+            "yes",
+            "visited",
+            "trip"
+        ],
+        "trends": [
+            "surat",
+            "yeah",
+            "visited",
+            "trip",
+            "think",
+            "things",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "That's what I was talking about.",
+            "Yeah.",
+            "Oh, goodness."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yeah",
+            "talking",
+            "oh",
+            "goodness"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Yes, that as well.",
+            "So the Surat Diamond Bourse is basically  empty at the moment pretty much, but it's this huge building and complex that Surat wants to do.",
+            "The aim is to make it into a trading center."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "moment pretty much",
+            "surat diamond bourse",
+            "surat wants",
+            "trading center",
+            "huge building",
+            "basically empty",
+            "yes"
+        ],
+        "trends": [
+            "surat",
+            "wants",
+            "pretty",
+            "much",
+            "moment",
+            "huge",
+            "empty"
+        ]
+    },
+    {
+        "sentence": [
+            "And we saw we got an interesting reaction from the BDB in Mumbai that they don't really see this as being a competitor for them.",
+            "They just see it as a complementary element in the industry.",
+            "They're helping each other out."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "interesting reaction",
+            "complementary element",
+            "really see",
+            "see",
+            "saw",
+            "mumbai",
+            "industry"
+        ],
+        "trends": [
+            "see",
+            "industry",
+            "saw",
+            "really",
+            "reaction",
+            "mumbai",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "Harsh, did you, as someone on the ground there, do you get the impression that that's a kind of a future as a bit of a trading center in the way that Mumbai is at the moment?",
+            "What I believe is there are many markets in Surat.",
+            "Like we visited one, there are a few other such markets in Surat which are in different places."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "visited one",
+            "trading center",
+            "different places",
+            "many markets",
+            "markets",
+            "way",
+            "surat"
+        ],
+        "trends": [
+            "markets",
+            "surat",
+            "different",
+            "visited",
+            "like",
+            "one",
+            "places"
+        ]
+    },
+    {
+        "sentence": [
+            "What I feel now is after having a centralized place in Surat, all those markets will merge into the one bigger market.",
+            "Talking about the Mumbai and Surat, both will exist.",
+            "That's what I believe because both have different importance in its ecosystem and the way it operates."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one bigger market",
+            "different importance",
+            "centralized place",
+            "way",
+            "talking",
+            "surat",
+            "surat"
+        ],
+        "trends": [
+            "surat",
+            "mumbai",
+            "way",
+            "importance",
+            "different",
+            "ecosystem",
+            "believe"
+        ]
+    },
+    {
+        "sentence": [
+            "So I believe both will exist.",
+            "will work together.",
+            "But more importantly, all the small markets which are currently in Surat will be merged into the bigger one groups."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bigger one groups",
+            "work together",
+            "small markets",
+            "surat",
+            "merged",
+            "importantly",
+            "exist"
+        ],
+        "trends": [
+            "surat",
+            "small",
+            "one",
+            "merged",
+            "markets",
+            "importantly",
+            "groups"
+        ]
+    },
+    {
+        "sentence": [
+            "That's what I see.",
+            "There was one ring that too, like it's difficult to understand as a foreigner how that would work.",
+            "But like you're explaining it now, Harsh, I think you're right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would work",
+            "one ring",
+            "understand",
+            "think",
+            "see",
+            "right",
+            "like"
+        ],
+        "trends": [
+            "like",
+            "think",
+            "right",
+            "would",
+            "work",
+            "understand",
+            "ring"
+        ]
+    },
+    {
+        "sentence": [
+            "But it was, I have to say that new one in Surat is so big and you sort of wonder like, how are they going to feel this?",
+            "But I mean, everything was already taken, which is crazy to me.",
+            "But it's interesting to see the future of what will happen."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wonder like",
+            "new one",
+            "already taken",
+            "surat",
+            "sort",
+            "see",
+            "say"
+        ],
+        "trends": [
+            "going",
+            "already",
+            "crazy",
+            "everything",
+            "mean",
+            "taken",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "important to the whole diamond world.",
+            "It was really inspiring to see the good that these companies do.",
+            "I think it's an example for us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole diamond world",
+            "really inspiring",
+            "us",
+            "think",
+            "see",
+            "important",
+            "good"
+        ],
+        "trends": [
+            "us",
+            "world",
+            "whole",
+            "important",
+            "diamond",
+            "see",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that the whole world doesn't know how good diamonds do.",
+            "And of course, a part of the diamonds do good board, or at least I was for 12 years still at January.",
+            "But I think the world needs to understand better how great these companies are and what they do."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "12 years still",
+            "world needs",
+            "whole world",
+            "understand better",
+            "good board",
+            "good diamonds",
+            "diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "good",
+            "think",
+            "world",
+            "companies",
+            "great",
+            "better"
+        ]
+    },
+    {
+        "sentence": [
+            "And, you know, I think the philosophy behind all of these are  organizations is incredible.",
+            "And it's very important for us to all understand the Indian culture because otherwise it's very difficult to sort of work together.",
+            "So, yeah, I'm glad I went because it was my only my second time to India and it really changed my view."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "work together",
+            "second time",
+            "really changed",
+            "philosophy behind",
+            "indian culture",
+            "yeah",
+            "went"
+        ],
+        "trends": [
+            "view",
+            "time",
+            "changed",
+            "glad",
+            "organizations",
+            "philosophy",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think whoever is in this industry should become part of the young demon terrace, of course, but understand these different cultures is very important.",
+            "I think that it's not going away.",
+            "India is only going to grow when it comes to the diamond industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young demon terrace",
+            "different cultures",
+            "become part",
+            "think whoever",
+            "going away",
+            "diamond industry",
+            "think"
+        ],
+        "trends": [
+            "going",
+            "important",
+            "whoever",
+            "think",
+            "industry",
+            "india",
+            "comes"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I think on that point,  I think actually one of the other highlights for me of the trip was back in Surat was we got an audience with Govind Dholakia who's the founder of SRK one of the big diamond manufacturers there and he answered questions about his life.",
+            "He's known for being really quite a sort of I guess a grandfather of the industry and having a reputation for obviously his business success but also his morals and his kind of philosophy on life.",
+            "He published a book which we were all given a free copy of called Diamond  diamond  effort by some members of the Young Diamond Tears to try and raise money to expand, to build some key facilities in that school."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "called diamond diamond effort",
+            "young diamond tears",
+            "big diamond manufacturers",
+            "think actually one",
+            "srk one",
+            "really quite",
+            "raise money"
+        ],
+        "trends": [
+            "diamond",
+            "think",
+            "one",
+            "life",
+            "reputation",
+            "industry",
+            "guess"
+        ]
+    },
+    {
+        "sentence": [
+            "That was also something that was kind of emphasized on this trip, with the importance of raising that money and pushing ahead with that project.",
+            "Harsh, I don't know if you're directly involved in that project, but what do you see as being the importance of that?",
+            "involved in the project at the moment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pushing ahead",
+            "also something",
+            "directly involved",
+            "involved",
+            "trip",
+            "see",
+            "raising"
+        ],
+        "trends": [
+            "project",
+            "also",
+            "emphasized",
+            "involved",
+            "importance",
+            "trip",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "If you are part of that evening and you see the energy in those five or ten minutes and the people were so much touched by the message and I think we raised more than $100,000, right?",
+            "It's more than $100,000 we raised in just five minutes.",
+            "I mean, it's insane."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "ten minutes",
+            "much touched",
+            "five minutes",
+            "five",
+            "think",
+            "see",
+            "right"
+        ],
+        "trends": [
+            "touched",
+            "think",
+            "ten",
+            "see",
+            "right",
+            "people",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "Tamar Gabay, who's kind of running that project, was basically made an appeal to people, young diamond test and other people who were there that evening.",
+            "to raise some money.",
+            "And it was quite a frantic, energetic fundraising campaign."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond test",
+            "energetic fundraising campaign",
+            "tamar gabay",
+            "basically made",
+            "running",
+            "raise",
+            "quite"
+        ],
+        "trends": [
+            "people",
+            "young",
+            "basically",
+            "diamond",
+            "evening",
+            "gabay",
+            "fundraising"
+        ]
+    },
+    {
+        "sentence": [
+            "And you say harsh in five minutes, but that 100,000 was raised.",
+            "And I think they're still working on raising more.",
+            "But I think it reflects partly what the development of the Young Diamond is, because it starts, as I mentioned at the beginning, it starts off really as a small group of people at a few events, and it develops into a WhatsApp group."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond",
+            "whatsapp group",
+            "still working",
+            "small group",
+            "say harsh",
+            "reflects partly",
+            "five minutes"
+        ],
+        "trends": [
+            "starts",
+            "group",
+            "young",
+            "think",
+            "say",
+            "five",
+            "raised"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's now really going from strength to strength.",
+            "And I think we're all keen to know what the future is of the Young Diamond is.",
+            "I'm sure there will be more trips of this type."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond",
+            "really going",
+            "type",
+            "trips",
+            "think",
+            "sure",
+            "strength"
+        ],
+        "trends": [
+            "strength",
+            "type",
+            "trips",
+            "sure",
+            "really",
+            "young",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "There's always people always saying that it can become more organized.",
+            "Harsh, can you spill the beans on what's going to happen next?",
+            "What do you know about where the young diamond tears is going next?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "always people always saying",
+            "young diamond tears",
+            "happen next",
+            "going next",
+            "going",
+            "spill",
+            "organized"
+        ],
+        "trends": [
+            "next",
+            "going",
+            "always",
+            "young",
+            "tears",
+            "know",
+            "spill"
+        ]
+    },
+    {
+        "sentence": [
+            "such events and many such trips in the coming years, I'm sure.",
+            "up  world, whether it's Hong Kong, Vegas, you name it, anywhere in the world.",
+            "We come together when you go, you have a glass of wine and you chat with all the people, you meet new people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "meet new people",
+            "hong kong",
+            "coming years",
+            "come together",
+            "people",
+            "world",
+            "world"
+        ],
+        "trends": [
+            "people",
+            "world",
+            "many",
+            "anywhere",
+            "name",
+            "hong",
+            "kong"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a really great way of just meeting other people and speaking to each other.",
+            "I think the next level that has been put out there is these trips and that take it to the next level of the fact that you get the chance to see these worlds, right?",
+            "Much more closely than you could ever do on your own."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really great way",
+            "next level",
+            "next level",
+            "could ever",
+            "worlds",
+            "trips",
+            "think"
+        ],
+        "trends": [
+            "next",
+            "level",
+            "meeting",
+            "speaking",
+            "really",
+            "great",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think.",
+            "that's another level of advantages to have as a young man there.",
+            "And you know that we are capable and able to raise money for the Renaissance school and we need to do a little bit of money."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young man",
+            "renaissance school",
+            "little bit",
+            "another level",
+            "raise money",
+            "money",
+            "think"
+        ],
+        "trends": [
+            "money",
+            "school",
+            "renaissance",
+            "raise",
+            "need",
+            "little",
+            "young"
+        ]
+    },
+    {
+        "sentence": [
+            "So whoever wants to donate to this incredible project should do that.",
+            "But to help a school with a library and a kitchen and some really essential things for kids there to get to the next level, it all brings you back to being a happy person to be working and living in this diamond industry.",
+            "So it gives you a sense of being and being excited to be part of it being proud of being part of it and you know as a sixth generation and you remember when I just Started working here."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really essential things",
+            "whoever wants",
+            "sixth generation",
+            "next level",
+            "incredible project",
+            "happy person",
+            "diamond industry"
+        ],
+        "trends": [
+            "part",
+            "working",
+            "sixth",
+            "remember",
+            "gives",
+            "generation",
+            "donate"
+        ]
+    },
+    {
+        "sentence": [
+            "I said to my dad do I now have to work in the rest of my life?",
+            "And he said, you know, why don't you first see if you like it?",
+            "So today I can say I really like it I still really love it and I think the young demon tears will help a lot of more People be part of this really great industry harsh any any any final words on that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really great industry harsh",
+            "young demon tears",
+            "still really love",
+            "really like",
+            "first see",
+            "final words",
+            "like"
+        ],
+        "trends": [
+            "really",
+            "demon",
+            "said",
+            "like",
+            "first",
+            "see",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "what the Young Day Amateurs means to you?",
+            "lot of women's being in the industry, being in the diamond industry.",
+            "This is the key aspect or key essence I would say we as a group have."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young day amateurs means",
+            "would say",
+            "key essence",
+            "key aspect",
+            "diamond industry",
+            "industry",
+            "women"
+        ],
+        "trends": [
+            "industry",
+            "key",
+            "would",
+            "say",
+            "young",
+            "means",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "That's it.",
+            "Of course, it's networking, but it's more than business to me.",
+            "Great."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "networking",
+            "great",
+            "course",
+            "business"
+        ],
+        "trends": [
+            "networking",
+            "course",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, thank you Harsh and thank you Leeta for joining us on this podcast.",
+            "I think it's been great to reflect on the India trip again and bring back some of the memories.",
+            "Are we there yet?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joining us",
+            "india trip",
+            "bring back",
+            "yet",
+            "well",
+            "think",
+            "thank"
+        ],
+        "trends": [
+            "thank",
+            "well",
+            "us",
+            "trip",
+            "think",
+            "reflect",
+            "memories"
+        ]
+    },
+    {
+        "sentence": [
+            "Are we there yet?",
+            "Not yet.",
+            "The in-jokes too."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "yet",
+            "yet",
+            "jokes"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Yeah.",
+            "And yeah, thank you very much.",
+            "for joining us on this podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joining us",
+            "yeah",
+            "yeah",
+            "thank",
+            "podcast",
+            "much"
+        ],
+        "trends": [
+            "us",
+            "podcast",
+            "joining",
+            "yeah",
+            "thank",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "And thanks to everyone for listening.",
+            "Absolutely.",
+            "Thanks Joshua."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thanks joshua",
+            "thanks",
+            "listening",
+            "everyone",
+            "absolutely"
+        ],
+        "trends": [
+            "thanks",
+            "listening",
+            "everyone"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks, Alex.",
+            "Thanks, Josh.",
+            "Thanks, Lita."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thanks",
+            "thanks",
+            "thanks",
+            "lita",
+            "josh",
+            "alex"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [],
+        "trends": []
+    }
+]

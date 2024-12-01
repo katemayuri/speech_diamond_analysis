@@ -1,0 +1,2528 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Jewelry Connoisseur podcast and now your host Sonia Esther Soltani.",
+            "market value.",
+            "So it's very interesting because an appraiser can be involved at any stage of the jury."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "host sonia esther soltani",
+            "jewelry connoisseur podcast",
+            "market value",
+            "welcome",
+            "stage",
+            "jury",
+            "involved"
+        ],
+        "trends": [
+            "stage",
+            "jury",
+            "welcome",
+            "sonia",
+            "soltani",
+            "podcast",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "Divorce, death, estate valuation.",
+            "And we have an expert with us.",
+            "It's Jennifer Lightman Bailey."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jennifer lightman bailey",
+            "estate valuation",
+            "us",
+            "expert",
+            "divorce",
+            "death"
+        ],
+        "trends": [
+            "lightman",
+            "jennifer",
+            "bailey",
+            "valuation",
+            "estate",
+            "divorce",
+            "death"
+        ]
+    },
+    {
+        "sentence": [
+            "She's based in New York.",
+            "Jennifer used to work at auction houses before and she will tell us about her job, the challenges, but also the big perks of being so involved closely with people's collection.",
+            "I'm so happy to have you on this podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tell us",
+            "new york",
+            "jennifer used",
+            "involved closely",
+            "big perks",
+            "auction houses",
+            "work"
+        ],
+        "trends": [
+            "involved",
+            "auction",
+            "big",
+            "challenges",
+            "closely",
+            "collection",
+            "houses"
+        ]
+    },
+    {
+        "sentence": [
+            "We've discussed it for a while and here we are.",
+            "I'm so happy.",
+            "Thank you so much for having me."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thank",
+            "much",
+            "happy",
+            "discussed"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "I would love for us to know a bit more about what does an appraiser do because I went on your website.",
+            "That's a really long list of roles and offerings that you have for your clients.",
+            "Just tell us a bit more about what is the job of an appraiser?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really long list",
+            "would love",
+            "tell us",
+            "us",
+            "went",
+            "website",
+            "roles"
+        ],
+        "trends": [
+            "us",
+            "bit",
+            "appraiser",
+            "tell",
+            "roles",
+            "really",
+            "offerings"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure.",
+            "Being an appraiser is really a broad term for placing a value on a piece of jewelry.",
+            "So for my clients, I always offer many different  different types of appraisals, whether it's insurance, fair market, matrimonial action, estate planning, donation, liquidation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always offer many different different types",
+            "matrimonial action",
+            "fair market",
+            "estate planning",
+            "broad term",
+            "whether",
+            "value"
+        ],
+        "trends": [
+            "different",
+            "whether",
+            "fair",
+            "term",
+            "really",
+            "placing",
+            "piece"
+        ]
+    },
+    {
+        "sentence": [
+            "There are so many different types.",
+            "So the main goal and purpose of an appraiser is to be an unbiased person who, I guess, would put on a value onto that piece of jewelry, depending on what type of market we are looking for.",
+            "the difference and how do you explain it to your clients?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many different types",
+            "would put",
+            "value onto",
+            "unbiased person",
+            "main goal",
+            "type",
+            "purpose"
+        ],
+        "trends": [
+            "main",
+            "depending",
+            "goal",
+            "guess",
+            "many",
+            "types",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure.",
+            "Mainly, I work with private clients.",
+            "So my practice has become more of private clients, art advisory companies that work with many different clients that need any sort of appraisal."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "art advisory companies",
+            "many different clients",
+            "private clients",
+            "private clients",
+            "work",
+            "work",
+            "sure"
+        ],
+        "trends": [
+            "clients",
+            "sort",
+            "practice",
+            "need",
+            "many",
+            "different",
+            "companies"
+        ]
+    },
+    {
+        "sentence": [
+            "I do work occasionally with the trades to help them, but I don't really value pieces of jewelry that they have.",
+            "Where in the past, I've seen many appraisers come in and try to get a feel for different values if they were to buy something from somebody or place  value on it.",
+            "But for me, I don't really work with the trade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seen many appraisers come",
+            "really value pieces",
+            "really work",
+            "place value",
+            "work occasionally",
+            "different values",
+            "buy something"
+        ],
+        "trends": [
+            "work",
+            "really",
+            "seen",
+            "value",
+            "help",
+            "jewelry",
+            "occasionally"
+        ]
+    },
+    {
+        "sentence": [
+            "I focus mainly on private clients and their collections and really largely with attorneys to do estates and divorce cases, a lot of retail replacement insurance and a lot of estate planning.",
+            "It's a lot of the three D's of life, right?",
+            "Divorce, debt and death."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail replacement insurance",
+            "really largely",
+            "private clients",
+            "focus mainly",
+            "estate planning",
+            "divorce cases",
+            "divorce"
+        ],
+        "trends": [
+            "lot",
+            "divorce",
+            "estates",
+            "cases",
+            "clients",
+            "three",
+            "life"
+        ]
+    },
+    {
+        "sentence": [
+            "It actually is more divorce now than there have been.",
+            "And a lot of people hire me as a neutral appraiser, which means I do both sides.",
+            "A lot of people hire two different appraisers, but the point of any appraiser is to be completely unbiased."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people hire two different appraisers",
+            "people hire",
+            "completely unbiased",
+            "neutral appraiser",
+            "appraiser",
+            "sides",
+            "point"
+        ],
+        "trends": [
+            "people",
+            "lot",
+            "hire",
+            "appraiser",
+            "unbiased",
+            "two",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "You cannot have any bias no matter what.",
+            "And the way that I value each piece of jewelry always is through research and market knowledge, of course, but you can't have bias if it's based on facts.",
+            "And part of being an appraiser, a lot of people don't know is that research and market findings and comparables are, I would say the main part of standing by your  value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say",
+            "market knowledge",
+            "market findings",
+            "jewelry always",
+            "main part",
+            "part",
+            "way"
+        ],
+        "trends": [
+            "part",
+            "value",
+            "research",
+            "market",
+            "knowledge",
+            "way",
+            "based"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's hard for people to understand.",
+            "Where I used to work at auction at Christie's and Doyle, we would put an auction estimate on a piece of jewelry and somewhere figure in the middle.",
+            "But when you actually appraise and you have to prove your point by a market analysis, by comparing comparables that you find from auction and fair market values, you really need the proof."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fair market values",
+            "market analysis",
+            "would put",
+            "somewhere figure",
+            "really need",
+            "comparing comparables",
+            "actually appraise"
+        ],
+        "trends": [
+            "auction",
+            "market",
+            "would",
+            "piece",
+            "doyle",
+            "jewelry",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "So research really backs up your values.",
+            "And I tell every  single client that this way you know there is no bias.",
+            "You mentioned having worked for two auction houses, two big auction houses before."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tell every single client",
+            "two big auction houses",
+            "two auction houses",
+            "research really backs",
+            "worked",
+            "way",
+            "values"
+        ],
+        "trends": [
+            "auction",
+            "houses",
+            "two",
+            "values",
+            "backs",
+            "research",
+            "tell"
+        ]
+    },
+    {
+        "sentence": [
+            "So can you tell us a bit more about how you came to become an appraiser, leave the auction houses and became an appraiser?",
+            "Sure.",
+            "I started my career working jewelry designers then through GIA and then I started at Doyle and then went to Christie's and I had the most wonderful experience."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "career working jewelry designers",
+            "wonderful experience",
+            "tell us",
+            "auction houses",
+            "went",
+            "sure",
+            "started"
+        ],
+        "trends": [
+            "started",
+            "appraiser",
+            "auction",
+            "us",
+            "tell",
+            "became",
+            "leave"
+        ]
+    },
+    {
+        "sentence": [
+            "You cannot find a better way to learn about jewelry.",
+            "and all sorts of jewelry, especially coming from two different auction houses.",
+            "And I loved it so much when I had my first child, I struggled with whether or not I wanted to dedicate my hours finding jewelry and loving it or be with my child."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two different auction houses",
+            "hours finding jewelry",
+            "especially coming",
+            "cannot find",
+            "better way",
+            "first child",
+            "jewelry"
+        ],
+        "trends": [
+            "jewelry",
+            "child",
+            "houses",
+            "coming",
+            "different",
+            "especially",
+            "auction"
+        ]
+    },
+    {
+        "sentence": [
+            "And I said, you know what, I really want to be with my child.",
+            "But at this point, maybe I'll start something on my own.",
+            "And so I did."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "start something",
+            "really want",
+            "said",
+            "point",
+            "maybe",
+            "know",
+            "child"
+        ],
+        "trends": [
+            "start",
+            "something",
+            "point",
+            "maybe",
+            "want",
+            "said",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "I said, you know what, I'm going to start appraising.",
+            "And a colleague of mine at Christie's  used to love when we would have these large appraisals to do and on-site visits and we would bring our snacks and our coffee and we would just sit down and zone out.",
+            "And so for me, I knew that that was one of the most important pieces of the jewelry world that I loved."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "start appraising",
+            "site visits",
+            "large appraisals",
+            "jewelry world",
+            "important pieces",
+            "would bring",
+            "would"
+        ],
+        "trends": [
+            "would",
+            "pieces",
+            "important",
+            "loved",
+            "one",
+            "knew",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I said, you know what, I'm going to go out on my own.",
+            "And I did.",
+            "And it started off slow."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started",
+            "slow",
+            "said",
+            "know",
+            "going",
+            "go"
+        ],
+        "trends": [
+            "said",
+            "know",
+            "going",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "This was back in 2015.",
+            "And I will say that now it's extremely busy and incredible.",
+            "And I love what I do each and every time I see something new and you just never know what you're going to see."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see something new",
+            "never know",
+            "extremely busy",
+            "every time",
+            "see",
+            "say",
+            "love"
+        ],
+        "trends": [
+            "see",
+            "say",
+            "time",
+            "something",
+            "new",
+            "never",
+            "love"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's been a blessing.",
+            "I'm happy to hear it was a great move.",
+            "Work balance."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "work balance",
+            "great move",
+            "hear",
+            "happy",
+            "blessing"
+        ],
+        "trends": [
+            "move",
+            "hear",
+            "happy",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, we always talk about work balance because I'm sure it's not exactly I'm sure it's as demanding as a job at an office once you work with clients.",
+            "It is, you know, it's become originally I actually never thought it would be this busy.",
+            "My kids say to me now, you're too busy, but it is my favorite thing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually never thought",
+            "kids say",
+            "favorite thing",
+            "become originally",
+            "always talk",
+            "work balance",
+            "work"
+        ],
+        "trends": [
+            "busy",
+            "sure",
+            "work",
+            "would",
+            "never",
+            "become",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "I wake up so happy in the morning.",
+            "I know I'm going to be researching and seeing jewels and whatever it is, but I am so happy because I learn something new every single day.",
+            "So it's been incredible."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "learn something new every single day",
+            "seeing jewels",
+            "whatever",
+            "wake",
+            "researching",
+            "morning",
+            "know"
+        ],
+        "trends": [
+            "whatever",
+            "something",
+            "single",
+            "seeing",
+            "researching",
+            "new",
+            "learn"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you have a favorite era or jewelry style that you like to investigate?",
+            "So that's a funny question.",
+            "When I was at the auction houses, I would fall in love with every period piece."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every period piece",
+            "would fall",
+            "jewelry style",
+            "funny question",
+            "favorite era",
+            "auction houses",
+            "love"
+        ],
+        "trends": [
+            "style",
+            "like",
+            "would",
+            "piece",
+            "period",
+            "love",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "I loved Edwardian, the Belle Epoque era, and then I shifted to Art Deco.",
+            "I like Victorian, but I'm not  I'm not as well-averse and Victorian as I am with deco pieces, but right now I'm really into retro.",
+            "There is a gorgeous bracelet coming up for sale in the Christie's auction, and it's a really fabulous old Tiffany piece."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really fabulous old tiffany piece",
+            "gorgeous bracelet coming",
+            "belle epoque era",
+            "loved edwardian",
+            "deco pieces",
+            "art deco",
+            "like victorian"
+        ],
+        "trends": [
+            "really",
+            "victorian",
+            "deco",
+            "fabulous",
+            "auction",
+            "bracelet",
+            "art"
+        ]
+    },
+    {
+        "sentence": [
+            "And the colors, there's green tourmaline and citrine and on this beautiful gold, and it is so well-made.",
+            "So I'm really into gold pieces right now, collectible pieces.",
+            "And as much as I love period jewelry,  interested in the contemporary jewelers as well who are really important right now and collectible."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "love period jewelry",
+            "really important right",
+            "gold pieces right",
+            "beautiful gold",
+            "green tourmaline",
+            "contemporary jewelers",
+            "collectible pieces"
+        ],
+        "trends": [
+            "pieces",
+            "tourmaline",
+            "gold",
+            "right",
+            "really",
+            "collectible",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say my main passion for jewelry and my main focus is collectible and I like to say it's almost like mini real estate and it's funny because I look at my children and I say to them I'm going to invest in a piece like this or this is what I suggest to you and most of the time it's a signed piece, a period piece, an old stone that has  value or character.",
+            "And they ask me why.",
+            "And I say, because it's a place to hold your money, even though it's not an investment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "almost like mini real estate",
+            "piece like",
+            "signed piece",
+            "period piece",
+            "old stone",
+            "main passion",
+            "main focus"
+        ],
+        "trends": [
+            "say",
+            "piece",
+            "like",
+            "main",
+            "estate",
+            "collectible",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a place to hold your money.",
+            "You know, in 10, 15, 20 years, you are going to do well with that piece if you ever went for resale.",
+            "So my brain is trained to think like that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think like",
+            "ever went",
+            "20 years",
+            "well",
+            "trained",
+            "resale",
+            "place"
+        ],
+        "trends": [
+            "place",
+            "money",
+            "years",
+            "went",
+            "well",
+            "trained",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "So while I love every era, I love everything.",
+            "I have no bias.",
+            "This is an interesting question, this question of evaluation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "love every era",
+            "love everything",
+            "interesting question",
+            "question",
+            "evaluation",
+            "bias"
+        ],
+        "trends": [
+            "question",
+            "love",
+            "everything",
+            "every",
+            "era",
+            "interesting",
+            "evaluation"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, this question of the investment  piece that you've seen because now you've been doing that for a few years and from your experience at auction.",
+            "Are there some styles of jewelry that have, actually it's better to sell it when you go through any type of divorce or you decide to resell it?",
+            "Is there something that you tell people, you say signed, gold, natural diamonds, I would assume."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would assume",
+            "tell people",
+            "say signed",
+            "natural diamonds",
+            "investment piece",
+            "years",
+            "type"
+        ],
+        "trends": [
+            "better",
+            "decide",
+            "years",
+            "mean",
+            "auction",
+            "experience",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "Is there some names maybe that you would suggest people to invest in?",
+            "I always, and again, it's my training,  from the past 20 years of working in the jewelry business, but I will always advise clients to go for signed pieces.",
+            "The signed pieces at auction for my evaluations for every single appraisal I do are the pieces that will come out on top."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would suggest people",
+            "past 20 years",
+            "every single appraisal",
+            "always advise clients",
+            "names maybe",
+            "jewelry business",
+            "signed pieces"
+        ],
+        "trends": [
+            "pieces",
+            "always",
+            "signed",
+            "single",
+            "evaluations",
+            "suggest",
+            "invest"
+        ]
+    },
+    {
+        "sentence": [
+            "They will always hold the value.",
+            "It's very important, I think, when you're buying a piece of jewelry and there's nothing wrong with a more contemporary piece of jewelry, a diamond tennis necklace, something like that.",
+            "But when you go to resell,  which is really the people come to me not to resell it, but for me to say, okay, here is your fair market value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond tennis necklace",
+            "fair market value",
+            "something like",
+            "people come",
+            "nothing wrong",
+            "always hold",
+            "contemporary piece"
+        ],
+        "trends": [
+            "value",
+            "jewelry",
+            "piece",
+            "resell",
+            "come",
+            "say",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "This is what it's trading at.",
+            "Today in the open market, the diamond tennis necklace is it, and unless they are a five carat center and a really perfect graduation, you know, larger stones to smaller, really well done, high quality stones, they just don't hold their value as much as a Van Cleef Alhambra necklace in 20 years or an old piece of  of Harry Winston, an incredible saturated emerald from Harry Winston, an emerald and diamond brooch, or a amazing cashmere sapphire or Ceylon or Burmese.",
+            "So when I tell people to invest and not necessarily invest, it's really more of where is a good place to put your money if you're going to buy jewelry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "van cleef alhambra necklace",
+            "five carat center",
+            "diamond tennis necklace",
+            "amazing cashmere sapphire",
+            "high quality stones",
+            "really well done",
+            "really perfect graduation"
+        ],
+        "trends": [
+            "really",
+            "emerald",
+            "necklace",
+            "harry",
+            "stones",
+            "diamond",
+            "winston"
+        ]
+    },
+    {
+        "sentence": [
+            "You might like the trendy jewelry, but can you alter it to be a signed piece of trendy jewelry that will hold  its value because of the name.",
+            "So right now we date periods, you know, but we stop at the 20s, right?",
+            "And in 20, 30, 40 years, it'll keep going."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trendy jewelry",
+            "trendy jewelry",
+            "signed piece",
+            "might like",
+            "keep going",
+            "date periods",
+            "40 years"
+        ],
+        "trends": [
+            "right",
+            "trendy",
+            "jewelry",
+            "like",
+            "hold",
+            "date",
+            "stop"
+        ]
+    },
+    {
+        "sentence": [
+            "So those pieces from that time period will be really important and respected.",
+            "So I try to stay away from jewelry that isn't signed and some people don't like that.",
+            "But if they are asking my opinion based on my market research, what holds its value or signed pieces?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time period",
+            "stay away",
+            "really important",
+            "opinion based",
+            "market research",
+            "signed pieces",
+            "signed"
+        ],
+        "trends": [
+            "pieces",
+            "signed",
+            "people",
+            "stay",
+            "away",
+            "important",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "And natural diamonds, right?",
+            "Natural diamonds, of  course and you know the market fluctuates as we all know in the one to two carats right now.",
+            "But I recently had an incredible client and they had the most incredible collection of old pieces of jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two carats right",
+            "old pieces",
+            "natural diamonds",
+            "natural diamonds",
+            "market fluctuates",
+            "incredible collection",
+            "incredible client"
+        ],
+        "trends": [
+            "natural",
+            "right",
+            "diamonds",
+            "know",
+            "incredible",
+            "old",
+            "two"
+        ]
+    },
+    {
+        "sentence": [
+            "Some period some vintage and incredible diamonds those brown yellowy orange gorgeous saturated intense stones and then this beautiful marquee diamond an old cut.",
+            "You can't replace those old cuts anymore.",
+            "13 carats, just nice and fat and really well proportioned."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "brown yellowy orange gorgeous saturated intense stones",
+            "really well proportioned",
+            "beautiful marquee diamond",
+            "old cuts anymore",
+            "old cut",
+            "incredible diamonds",
+            "13 carats"
+        ],
+        "trends": [
+            "old",
+            "fat",
+            "really",
+            "proportioned",
+            "carats",
+            "nice",
+            "anymore"
+        ]
+    },
+    {
+        "sentence": [
+            "And you just can't replace those stones anymore.",
+            "So diamonds always as long as they're natural.",
+            "And a lot of people are concerned and in the market, everybody's slowly concerned and appraisers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stones anymore",
+            "diamonds always",
+            "slowly concerned",
+            "concerned",
+            "replace",
+            "people",
+            "natural"
+        ],
+        "trends": [
+            "concerned",
+            "slowly",
+            "people",
+            "stones",
+            "replace",
+            "ca",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "And I have my diamond testers in my office and in my travel lab.",
+            "And, you know, now we're all looking at synthetic diamonds and it's creating an issue for appraisers.",
+            "I have yet to come across one, but I have seen many people who think  that their diamonds are natural and they're not."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seen many people",
+            "come across one",
+            "travel lab",
+            "diamond testers",
+            "synthetic diamonds",
+            "diamonds",
+            "yet"
+        ],
+        "trends": [
+            "diamonds",
+            "yet",
+            "come",
+            "many",
+            "testers",
+            "diamond",
+            "office"
+        ]
+    },
+    {
+        "sentence": [
+            "So meaning they are simulants and moissanite and cubic zirconia.",
+            "So natural diamonds, signed pieces, gem quality, colored stones with certification.",
+            "You can't go wrong."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "signed pieces",
+            "natural diamonds",
+            "go wrong",
+            "gem quality",
+            "cubic zirconia",
+            "colored stones",
+            "simulants"
+        ],
+        "trends": [
+            "zirconia",
+            "wrong",
+            "go",
+            "ca",
+            "signed",
+            "quality",
+            "pieces"
+        ]
+    },
+    {
+        "sentence": [
+            "I love the way you describe this collection of gorgeous sounding diamonds.",
+            "It's gorgeous.",
+            "I've seen it all, Sonia."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "gorgeous sounding diamonds",
+            "gorgeous",
+            "way",
+            "sonia",
+            "seen",
+            "love",
+            "describe"
+        ],
+        "trends": [
+            "way",
+            "sounding",
+            "love",
+            "gorgeous",
+            "diamonds",
+            "describe",
+            "collection"
+        ]
+    },
+    {
+        "sentence": [
+            "I have seen 20 carat colored diamonds, incredible 20, 30, 100 carat gemstones,  And I have seen a gold chain that I absolutely fall in love with.",
+            "So you see the highest quality, but then you see the lowest.",
+            "And it's funny with my experience at auction, with my experience seeing so many private collections, pieces that you just whimsical and beautiful, and they make me so happy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seen 20 carat colored diamonds",
+            "100 carat gemstones",
+            "many private collections",
+            "incredible 20",
+            "highest quality",
+            "gold chain",
+            "absolutely fall"
+        ],
+        "trends": [
+            "see",
+            "seen",
+            "carat",
+            "experience",
+            "whimsical",
+            "auction",
+            "beautiful"
+        ]
+    },
+    {
+        "sentence": [
+            "But when you see kind of everything all the time, some of those important pieces are just unattainable for a person like me.",
+            "And then I see these  small gold pieces and little whimsical animals and signed, of course, and I just want them.",
+            "So it's nice to see the really important stuff, but the affordable pieces that everybody could have their hands on are equally as important, in my opinion, equally."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little whimsical animals",
+            "small gold pieces",
+            "really important stuff",
+            "important pieces",
+            "affordable pieces",
+            "person like",
+            "everybody could"
+        ],
+        "trends": [
+            "important",
+            "see",
+            "pieces",
+            "equally",
+            "whimsical",
+            "like",
+            "unattainable"
+        ]
+    },
+    {
+        "sentence": [
+            "That's a very good point.",
+            "I sometimes see things in collections like in Christie's Paris.",
+            "I think Christie's has amazing in Paris, very wearable, lovely pieces."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sometimes see things",
+            "lovely pieces",
+            "good point",
+            "collections like",
+            "think christie",
+            "christie",
+            "wearable"
+        ],
+        "trends": [
+            "paris",
+            "christie",
+            "things",
+            "sometimes",
+            "see",
+            "wearable",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "So this little bois-vin brooch the other day, it's like a little bird.",
+            "It's out of my budget, but it's not crazy out.",
+            "You know, I could just tell my husband to sell the car or something like this to buy it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "vin brooch",
+            "little bois",
+            "little bird",
+            "something like",
+            "like",
+            "tell",
+            "sell"
+        ],
+        "trends": [
+            "like",
+            "little",
+            "day",
+            "tell",
+            "something",
+            "sell",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "And, you know, it's just so beautiful.",
+            "And I get it.",
+            "I get the pleasure of seeing something that's explicitly made and the craftsmanship is fantastic."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seeing something",
+            "explicitly made",
+            "pleasure",
+            "know",
+            "get",
+            "get",
+            "fantastic"
+        ],
+        "trends": [
+            "something",
+            "seeing",
+            "pleasure",
+            "made",
+            "get",
+            "fantastic",
+            "explicitly"
+        ]
+    },
+    {
+        "sentence": [
+            "And everything about it is absolutely delightful.",
+            "And something like that, I agree.",
+            "And that will hold its value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something like",
+            "absolutely delightful",
+            "value",
+            "hold",
+            "everything",
+            "agree"
+        ],
+        "trends": [
+            "something",
+            "like",
+            "agree",
+            "everything",
+            "delightful",
+            "absolutely"
+        ]
+    },
+    {
+        "sentence": [
+            "It might not go up.",
+            "It really won't go down, but it will be steady.",
+            "in the market for years."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "years",
+            "steady",
+            "really",
+            "might",
+            "market",
+            "go",
+            "go"
+        ],
+        "trends": [
+            "wo",
+            "steady",
+            "really",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "You can't find pieces like that anymore.",
+            "So, you know, any Boivin, Belpran, any of these incredible designers, they're just, if you see one and you can do it, I say do it.",
+            "And, you know, it's everybody feels differently about what they spend on."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "find pieces like",
+            "everybody feels differently",
+            "see one",
+            "incredible designers",
+            "spend",
+            "say",
+            "know"
+        ],
+        "trends": [
+            "know",
+            "spend",
+            "feels",
+            "ca",
+            "find",
+            "like",
+            "pieces"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's funny, the past two weeks, I've had a lot of appraisals and large collections, I mean, and one, a total surprise with a large provenance.",
+            "And she had  all vintage Van Cleef, incredible jewelry.",
+            "And she's so funny."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "vintage van cleef",
+            "past two weeks",
+            "total surprise",
+            "large provenance",
+            "large collections",
+            "incredible jewelry",
+            "one"
+        ],
+        "trends": [
+            "large",
+            "weeks",
+            "collections",
+            "funny",
+            "lot",
+            "mean",
+            "vintage"
+        ]
+    },
+    {
+        "sentence": [
+            "She says, I don't wear it.",
+            "And I was like, please put these earrings on and think of me.",
+            "And she said, you know what?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "please put",
+            "wear",
+            "think",
+            "says",
+            "said",
+            "like",
+            "know"
+        ],
+        "trends": [
+            "think",
+            "put",
+            "please",
+            "like",
+            "earrings"
+        ]
+    },
+    {
+        "sentence": [
+            "And she actually recently messaged me and said, I wore my earrings and I thought of you.",
+            "You know, it's people buy this jewelry and they keep it in their collections and then they take it out for an appraisal and they forget they even have it.",
+            "I am a big proponent to wear it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually recently messaged",
+            "people buy",
+            "big proponent",
+            "wore",
+            "wear",
+            "thought",
+            "take"
+        ],
+        "trends": [
+            "wore",
+            "earrings",
+            "messaged",
+            "actually",
+            "recently",
+            "said",
+            "thought"
+        ]
+    },
+    {
+        "sentence": [
+            "Let it make you feel beautiful.",
+            "Enjoy it.",
+            "Each jewel, it's a tiny little piece  of art and it's really the most incredible thing in the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tiny little piece",
+            "incredible thing",
+            "feel beautiful",
+            "world",
+            "really",
+            "make",
+            "let"
+        ],
+        "trends": [
+            "make",
+            "world",
+            "tiny",
+            "thing",
+            "really",
+            "piece",
+            "little"
+        ]
+    },
+    {
+        "sentence": [
+            "We had a few guests that said that before, wear your jewelry, don't leave it in the vault.",
+            "True, it is true.",
+            "Wear it and think of me is what I tell every client."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tell every client",
+            "wear",
+            "wear",
+            "vault",
+            "true",
+            "true",
+            "think"
+        ],
+        "trends": [
+            "wear",
+            "think",
+            "tell",
+            "every",
+            "client",
+            "vault",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "I like that.",
+            "Have you had a really challenging appraisal story, something that was challenging because it was difficult to source, difficult to evaluate, the emotional maybe story around it?",
+            "Do you have some stories you could share with us because you deal with  people's emotions, maybe they go through something personal, which is challenging itself."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "emotional maybe story around",
+            "really challenging appraisal story",
+            "could share",
+            "something personal",
+            "maybe",
+            "challenging",
+            "challenging"
+        ],
+        "trends": [
+            "something",
+            "challenging",
+            "story",
+            "difficult",
+            "maybe",
+            "us",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "You deal with that personal recession, something they might be narrated.",
+            "So everything has sentimental value, financial value, all these coming together.",
+            "And you have to, I guess, to be sometimes the therapist and the big sister on top of being the appraiser."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sentimental value",
+            "personal recession",
+            "financial value",
+            "coming together",
+            "big sister",
+            "top",
+            "therapist"
+        ],
+        "trends": [
+            "value",
+            "narrated",
+            "deal",
+            "might",
+            "top",
+            "big",
+            "guess"
+        ]
+    },
+    {
+        "sentence": [
+            "Always.",
+            "Actually, I just had a client call me the other day and I did an appraisal for her and she's in her late nineties and she has this beautiful collection of jewelry.",
+            "She was  a self-employed woman and she really had a high powerful position and she would buy herself jewelry and lots of diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high powerful position",
+            "would buy",
+            "late nineties",
+            "employed woman",
+            "client call",
+            "beautiful collection",
+            "self"
+        ],
+        "trends": [
+            "jewelry",
+            "buy",
+            "would",
+            "lots",
+            "diamonds",
+            "woman",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "And it turns out that she had trusted somebody and really didn't know what she was buying and trusted somebody.",
+            "And as retailers do, we make money and you know, not me, I'm not a retailer, but people make money and that's their job.",
+            "They have overhead and they have people to pay."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people make money",
+            "make money",
+            "trusted somebody",
+            "trusted somebody",
+            "people",
+            "turns",
+            "retailers"
+        ],
+        "trends": [
+            "people",
+            "know",
+            "money",
+            "make",
+            "trusted",
+            "somebody",
+            "pay"
+        ]
+    },
+    {
+        "sentence": [
+            "And I went and met with her and I appraised her pieces.",
+            "And of course,  She was not happy with my values because she had paid so much.",
+            "And what we did was fair market so she could understand and give her some sort of estate planning."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fair market",
+            "estate planning",
+            "could understand",
+            "went",
+            "values",
+            "sort",
+            "pieces"
+        ],
+        "trends": [
+            "went",
+            "met",
+            "paid",
+            "much",
+            "values",
+            "happy",
+            "course"
+        ]
+    },
+    {
+        "sentence": [
+            "And she really was affected by it.",
+            "It was very challenging.",
+            "You know, she didn't understand and she wanted to speak to the jeweler and she was upset and she felt that she had been taken."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wanted",
+            "upset",
+            "understand",
+            "taken",
+            "speak",
+            "really",
+            "know"
+        ],
+        "trends": [
+            "wanted",
+            "upset",
+            "understand",
+            "taken",
+            "speak",
+            "know",
+            "jeweler"
+        ]
+    },
+    {
+        "sentence": [
+            "And I spent a long time talking with her and walking her through the steps of when you buy something from somebody,  of explaining the process and how the fair market value will always differ from a retail replacement value.",
+            "And the fair market is based on the market today.",
+            "That's the effective valuation date."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail replacement value",
+            "long time talking",
+            "effective valuation date",
+            "fair market value",
+            "fair market",
+            "market today",
+            "buy something"
+        ],
+        "trends": [
+            "market",
+            "value",
+            "walking",
+            "buy",
+            "differ",
+            "fair",
+            "today"
+        ]
+    },
+    {
+        "sentence": [
+            "And she actually called me two days ago, still very upset about it.",
+            "And it was, it's hard.",
+            "So you definitely become a therapist and I love it because I love people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two days ago",
+            "definitely become",
+            "actually called",
+            "love people",
+            "love",
+            "upset",
+            "therapist"
+        ],
+        "trends": [
+            "love",
+            "therapist",
+            "people",
+            "definitely",
+            "upset",
+            "two",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "So I don't mind walking them through them or hearing the stories.",
+            "And I did one collection, which was very big challenge.",
+            "and it was about 95 cameos."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one collection",
+            "mind walking",
+            "big challenge",
+            "95 cameos",
+            "stories",
+            "hearing"
+        ],
+        "trends": [
+            "one",
+            "collection",
+            "challenge",
+            "big",
+            "walking",
+            "stories",
+            "mind"
+        ]
+    },
+    {
+        "sentence": [
+            "And yes, which is difficult because we know cameos can be made from shell, they can be made from agate, they can be made from so many different types of hard stone and differentiating the different stones, the pieces that were older, there was so much to it and that took me a really long time.",
+            "Now the client, I believe it was for an estate, this was a couple years ago,  years ago.",
+            "But emotionally for me and for the client, there was a lot of sentimental value to them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really long time",
+            "many different types",
+            "couple years ago",
+            "years ago",
+            "different stones",
+            "sentimental value",
+            "know cameos"
+        ],
+        "trends": [
+            "made",
+            "ago",
+            "years",
+            "client",
+            "different",
+            "estate",
+            "believe"
+        ]
+    },
+    {
+        "sentence": [
+            "And you have to take that into consideration, but not when you're pricing.",
+            "So it's more about handling the client and making sure that they feel good about it and that their pieces are seen and you understand where they came from.",
+            "But when you're valuing, it's really you have to just be fair and based on what the market is."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "making sure",
+            "feel good",
+            "valuing",
+            "understand",
+            "take",
+            "seen",
+            "really"
+        ],
+        "trends": [
+            "pieces",
+            "valuing",
+            "fair",
+            "market",
+            "based",
+            "really",
+            "understand"
+        ]
+    },
+    {
+        "sentence": [
+            "And it really depends.",
+            "But there have been so many.",
+            "I did have another client who  had a beautiful diamond necklace suspending with oval-shaped rubies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "beautiful diamond necklace suspending",
+            "shaped rubies",
+            "really depends",
+            "another client",
+            "oval",
+            "many"
+        ],
+        "trends": [
+            "suspending",
+            "rubies",
+            "necklace",
+            "diamond",
+            "client",
+            "beautiful",
+            "another"
+        ]
+    },
+    {
+        "sentence": [
+            "He had purchased it for his wife and from a, I would say a reputable jeweler.",
+            "And when I went to appraise it, this was for a divorce.",
+            "I put my value on it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say",
+            "reputable jeweler",
+            "wife",
+            "went",
+            "value",
+            "put",
+            "purchased"
+        ],
+        "trends": [
+            "went",
+            "divorce",
+            "appraise",
+            "would",
+            "wife",
+            "say",
+            "reputable"
+        ]
+    },
+    {
+        "sentence": [
+            "And I did claim that the stones needed to be tested.",
+            "I assumed that they were heated rubies.",
+            "Because as an appraiser, you have to assume they were all very uniform in color."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stones needed",
+            "heated rubies",
+            "uniform",
+            "tested",
+            "color",
+            "claim",
+            "assumed"
+        ],
+        "trends": [
+            "uniform",
+            "color",
+            "assume",
+            "tested",
+            "stones",
+            "needed",
+            "rubies"
+        ]
+    },
+    {
+        "sentence": [
+            "They were very included.",
+            "The inclusions looked synthetic to me, not synthetic, but heated.",
+            "And so in my analysis, I include that and the client was very upset."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "inclusions looked synthetic",
+            "synthetic",
+            "upset",
+            "included",
+            "include",
+            "heated",
+            "client"
+        ],
+        "trends": [
+            "synthetic",
+            "looked",
+            "inclusions",
+            "heated",
+            "upset",
+            "include",
+            "client"
+        ]
+    },
+    {
+        "sentence": [
+            "And I said, I'm sorry, I hear what you're saying.",
+            "But as an appraiser, if they're not tested, I need to assume my opinion is what I'm basing my value off of.",
+            "He then told me that it was sold to him as a very important provenance had owned it and it was brought into the country  during World War II, and it belonged to someone of importance."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "world war ii",
+            "important provenance",
+            "value",
+            "told",
+            "tested",
+            "sorry",
+            "someone"
+        ],
+        "trends": [
+            "opinion",
+            "assume",
+            "basing",
+            "need",
+            "appraiser",
+            "tested",
+            "saying"
+        ]
+    },
+    {
+        "sentence": [
+            "And I said, that's lovely.",
+            "It's a beautiful story.",
+            "And I'm sure that maybe that is possible."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "beautiful story",
+            "sure",
+            "said",
+            "possible",
+            "maybe",
+            "lovely"
+        ],
+        "trends": [
+            "sure",
+            "possible",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "I said, but without any physical provenance, I cannot use that toward my value and toward my valuation.",
+            "And it was very difficult.",
+            "He was very upset and he ended up calling the jeweler and they were not able to provide any provenance."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cannot use",
+            "physical provenance",
+            "provenance",
+            "without",
+            "value",
+            "valuation",
+            "upset"
+        ],
+        "trends": [
+            "provenance",
+            "toward",
+            "upset",
+            "provide",
+            "without",
+            "value",
+            "valuation"
+        ]
+    },
+    {
+        "sentence": [
+            "And I felt really bad for him.",
+            "And we went through and we understood and everything is fine.",
+            "But it's when you buy something and you think that you're buying X and you bring it to somebody who is an appraiser, who is not biased and who has no information on it, unless you can provide the documentation, it becomes a difficult thing for people."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "felt really bad",
+            "difficult thing",
+            "buying x",
+            "buy something",
+            "went",
+            "unless",
+            "understood"
+        ],
+        "trends": [
+            "becomes",
+            "went",
+            "everything",
+            "fine",
+            "understood",
+            "really",
+            "bad"
+        ]
+    },
+    {
+        "sentence": [
+            "So that was very challenging.",
+            "Oh, there are so many stories.",
+            "jewelry doesn't have a certificate because we always talk about the search for the diamonds, how important it is, and especially, you know, most reputable drawers have a working one lab or two labs even."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "working one lab",
+            "two labs even",
+            "reputable drawers",
+            "many stories",
+            "always talk",
+            "search",
+            "oh"
+        ],
+        "trends": [
+            "working",
+            "jewelry",
+            "certificate",
+            "diamonds",
+            "drawers",
+            "especially",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's not something that's kind of now in place that most people buying.",
+            "You're talking about this necklace diamond with rubies, the gentleman assumed provenance, non-heated Burmese that wouldn't have some kind of documentation to go with it.",
+            "If you are an educated buyer, you should ask for it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "gentleman assumed provenance",
+            "people buying",
+            "necklace diamond",
+            "heated burmese",
+            "educated buyer",
+            "talking",
+            "something"
+        ],
+        "trends": [
+            "kind",
+            "documentation",
+            "assumed",
+            "ask",
+            "buyer",
+            "educated",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "that.",
+            "Absolutely.",
+            "And a lot of people will call me just to advise them on what to ask, what to say, what should the price be?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "say",
+            "price",
+            "people",
+            "lot",
+            "call",
+            "ask",
+            "advise"
+        ],
+        "trends": [
+            "say",
+            "price",
+            "people",
+            "lot",
+            "call",
+            "ask",
+            "advise"
+        ]
+    },
+    {
+        "sentence": [
+            "Should I get any documentation?",
+            "But in this situation, he did not.",
+            "And the store and the retailer did not offer anything."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "offer anything",
+            "store",
+            "situation",
+            "retailer",
+            "get",
+            "documentation"
+        ],
+        "trends": [
+            "store",
+            "retailer",
+            "offer",
+            "anything"
+        ]
+    },
+    {
+        "sentence": [
+            "So if they're not offering you anything, then you have to, as the buyer, understand that you are taking the chance that you are buying something that is heated, that might not be Burmese.",
+            "They looked tie to me.",
+            "And you take that risk."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "looked tie",
+            "buying something",
+            "understand",
+            "taking",
+            "take",
+            "risk",
+            "offering"
+        ],
+        "trends": [
+            "understand",
+            "taking",
+            "something",
+            "offering",
+            "might",
+            "heated",
+            "chance"
+        ]
+    },
+    {
+        "sentence": [
+            "But when you're uneducated,  and you're buying for love and you're buying because it's beautiful, you know, you can run into a little bit of an issue there.",
+            "So nowadays a lot of people buy, but they don't always have certificates.",
+            "And, you know, sometimes you buy at auction and there's no certificate, which most of the time there is, but or you buy from a dealer and there's no certificate."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit",
+            "people buy",
+            "buy",
+            "buy",
+            "uneducated",
+            "time",
+            "sometimes"
+        ],
+        "trends": [
+            "buy",
+            "know",
+            "buying",
+            "certificate",
+            "sometimes",
+            "auction",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "To me, that's always a red flag.",
+            "So no matter what I would advise, always a certificate.",
+            "But, you know, as an appraiser, I see a lot of emeralds and sapphires  and rubies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would advise",
+            "red flag",
+            "see",
+            "sapphires",
+            "rubies",
+            "matter",
+            "lot"
+        ],
+        "trends": [
+            "always",
+            "red",
+            "flag",
+            "see",
+            "sapphires",
+            "rubies",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "And I have to include in my disclosures and in my limiting conditions as an appraiser that these pieces were not tested at a gemological lab.",
+            "Therefore, the value is based on my opinion.",
+            "And should we test these stones and they come back different from my opinion, the value is subject to change."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "come back different",
+            "limiting conditions",
+            "gemological lab",
+            "value",
+            "value",
+            "therefore",
+            "tested"
+        ],
+        "trends": [
+            "opinion",
+            "value",
+            "different",
+            "back",
+            "test",
+            "subject",
+            "stones"
+        ]
+    },
+    {
+        "sentence": [
+            "And I have to include that every single time because they should be tested.",
+            "There are so many fillers for emeralds and different heating mechanisms for rubies.",
+            "different origins for rubies and different ratings for the rubies and grades, you know, for colors and sapphires and whatnot."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "every single time",
+            "different heating mechanisms",
+            "different ratings",
+            "different origins",
+            "many fillers",
+            "whatnot",
+            "tested"
+        ],
+        "trends": [
+            "different",
+            "rubies",
+            "many",
+            "emeralds",
+            "mechanisms",
+            "tested",
+            "single"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's dangerous for an appraiser really to just assume that something is cashmere without knowing, you know, and it becomes a little bit of an issue for appraisers.",
+            "So no matter what, I advise people to have a certificate done.",
+            "And if they choose not to, that is that is completely up to them."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cashmere without knowing",
+            "little bit",
+            "certificate done",
+            "appraiser really",
+            "advise people",
+            "something",
+            "matter"
+        ],
+        "trends": [
+            "little",
+            "knowing",
+            "know",
+            "issue",
+            "something",
+            "done",
+            "matter"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's very important, very.",
+            "That's a great advice for collectors.",
+            "So I think that's a very important one to keep in mind."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great advice",
+            "important one",
+            "important",
+            "think",
+            "mind",
+            "keep",
+            "collectors"
+        ],
+        "trends": [
+            "great",
+            "collectors",
+            "advice",
+            "think",
+            "one",
+            "mind",
+            "keep"
+        ]
+    },
+    {
+        "sentence": [
+            "And would you have also an advice for someone who would like to become an appraiser?",
+            "Maybe someone is thinking, wow, Jennifer's job is just so dreamy.",
+            "You're dealing with new full jewelry, the whole scope."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new full jewelry",
+            "whole scope",
+            "would like",
+            "maybe someone",
+            "would",
+            "someone",
+            "wow"
+        ],
+        "trends": [
+            "someone",
+            "would",
+            "scope",
+            "wow",
+            "dreamy",
+            "jennifer",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "One day you can learn about cameos, another day you learn about something else.",
+            "So tell us, what would be your advice to someone who'd be interested in a professional  So, what's the best way to learn how to be an entrepreneur?",
+            "important."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tell us",
+            "something else",
+            "one day",
+            "best way",
+            "another day",
+            "would",
+            "someone"
+        ],
+        "trends": [
+            "learn",
+            "day",
+            "best",
+            "entrepreneur",
+            "would",
+            "another",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "Work for a wholesaler.",
+            "It's really everything your experience and you have to build it up and learn history.",
+            "You know, there are many historians who would make wonderful appraisers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would make wonderful appraisers",
+            "really everything",
+            "many historians",
+            "learn history",
+            "work",
+            "wholesaler",
+            "know"
+        ],
+        "trends": [
+            "really",
+            "learn",
+            "history",
+            "would",
+            "wonderful",
+            "many",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "There are many appraisers that have recently contacted me and saying, oh, I'm starting to do this now and this now.",
+            "How do you do this?",
+            "And you know what?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "recently contacted",
+            "many appraisers",
+            "starting",
+            "saying",
+            "oh",
+            "know"
+        ],
+        "trends": [
+            "starting",
+            "saying",
+            "recently",
+            "oh",
+            "many",
+            "contacted",
+            "appraisers"
+        ]
+    },
+    {
+        "sentence": [
+            "It's based on just learning and getting comfortable, taking ownership over what you believe, trusting your gut, which is so crucial because your gut knows if you know jewelry, you know.",
+            "I can look at a ruby, an emerald, a sapphire, and I can say no matter what, oh, that's it.",
+            "And that color is ingrained in your head."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "taking ownership",
+            "getting comfortable",
+            "know jewelry",
+            "gut knows",
+            "know",
+            "gut",
+            "trusting"
+        ],
+        "trends": [
+            "know",
+            "gut",
+            "say",
+            "sapphire",
+            "ruby",
+            "oh",
+            "matter"
+        ]
+    },
+    {
+        "sentence": [
+            "Same with stones and diamonds and pieces of jewelry like the piece that you saw at Christie's Paris.",
+            "You just know when it's special.",
+            "So trust your gut and just study, study, follow the markets, follow the auctions, everything."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry like",
+            "trust",
+            "study",
+            "study",
+            "stones",
+            "special",
+            "saw"
+        ],
+        "trends": [
+            "study",
+            "follow",
+            "trust",
+            "stones",
+            "saw",
+            "pieces",
+            "piece"
+        ]
+    },
+    {
+        "sentence": [
+            "You learn something new every day.",
+            "You see something beautiful most of the days.",
+            "Everybody has different styles."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "learn something new every day",
+            "see something beautiful",
+            "different styles",
+            "everybody",
+            "days"
+        ],
+        "trends": [
+            "something",
+            "styles",
+            "everybody",
+            "different",
+            "see",
+            "days",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "and taste and you meet lots of people.",
+            "It's wonderful.",
+            "You convinced me maybe to that's it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "meet lots",
+            "wonderful",
+            "taste",
+            "people",
+            "maybe",
+            "convinced"
+        ],
+        "trends": [
+            "taste",
+            "people",
+            "meet",
+            "lots"
+        ]
+    },
+    {
+        "sentence": [
+            "That's the next.",
+            "You should do it.",
+            "So much jewelry to go around."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much jewelry",
+            "go around",
+            "next"
+        ],
+        "trends": [
+            "much",
+            "jewelry",
+            "go",
+            "around"
+        ]
+    },
+    {
+        "sentence": [
+            "We all need help.",
+            "There are very few appraisers in the city right now and I see it and I feel it because I'm getting calls left and right and I don't like to turn down people because I want to help.",
+            "But each time I'm saying, OK, I'm quoting now eight weeks out for a final product and it's the nature of the business, but it's a beautiful business and it's slightly different because many  other people in the business sell and buy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "getting calls left",
+            "slightly different",
+            "final product",
+            "eight weeks",
+            "business sell",
+            "beautiful business",
+            "need help"
+        ],
+        "trends": [
+            "business",
+            "right",
+            "people",
+            "appraisers",
+            "help",
+            "like",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't do any of that.",
+            "So for me, it's strictly seeing the jewelry, falling in love with the jewelry and putting a value on it.",
+            "And that's how my brain thinks."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "strictly seeing",
+            "brain thinks",
+            "value",
+            "putting",
+            "love",
+            "jewelry",
+            "jewelry"
+        ],
+        "trends": [
+            "jewelry",
+            "value",
+            "strictly",
+            "seeing",
+            "putting",
+            "love",
+            "falling"
+        ]
+    },
+    {
+        "sentence": [
+            "Jennifer, it was fascinating.",
+            "I really, really enjoyed learning more about your job of learning about praising jewelry.",
+            "I think, you know, people who are collectors who want to know exactly how it works."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really enjoyed learning",
+            "praising jewelry",
+            "know exactly",
+            "really",
+            "learning",
+            "know",
+            "works"
+        ],
+        "trends": [
+            "really",
+            "learning",
+            "know",
+            "works",
+            "want",
+            "think",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "And you gave so many insights and the thing about paper and knowing where the source is, I think is so important as well.",
+            "but the passion.",
+            "That's why we love this podcast, you know, that we have people who are really passionate about what they do and jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really passionate",
+            "many insights",
+            "well",
+            "think",
+            "thing",
+            "source",
+            "podcast"
+        ],
+        "trends": [
+            "well",
+            "knowing",
+            "important",
+            "really",
+            "podcast",
+            "people",
+            "passionate"
+        ]
+    },
+    {
+        "sentence": [
+            "So when you combine the two, and it's absolutely wonderful.",
+            "Thank you so much.",
+            "This was so wonderful."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "absolutely wonderful",
+            "wonderful",
+            "two",
+            "thank",
+            "much",
+            "combine"
+        ],
+        "trends": [
+            "wonderful",
+            "two",
+            "combine",
+            "absolutely"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm so happy and keep doing your show.",
+            "It makes me very happy.",
+            "We'll try."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "try",
+            "show",
+            "makes",
+            "keep",
+            "happy",
+            "happy"
+        ],
+        "trends": [
+            "show",
+            "keep",
+            "happy"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks, Janice.",
+            "Thank you.",
+            "of the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "world",
+            "thanks",
+            "thank",
+            "janice"
+        ],
+        "trends": []
+    }
+]

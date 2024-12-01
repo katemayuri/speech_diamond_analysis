@@ -1,0 +1,3219 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "company.",
+            "Because of Dustin's role in the insurance industry, he has a unique perspective on jewelry sales, prices and trends."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "unique perspective",
+            "joshua friedman",
+            "jewelry sales",
+            "insurance industry",
+            "welcome",
+            "trends"
+        ],
+        "trends": [
+            "role",
+            "prices",
+            "unique",
+            "welcome",
+            "podcast",
+            "friedman",
+            "host"
+        ]
+    },
+    {
+        "sentence": [
+            "We talked about the problems facing jewelry insurance, consumer demand, lab-grown diamonds, and of course, the holiday season.",
+            "We recorded this conversation on December the 20th while the holiday season was still going on.",
+            "So we didn't have final sales data at the time, but that didn't prevent Dustin from sharing valuable insights into the state of diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "problems facing jewelry insurance",
+            "sharing valuable insights",
+            "final sales data",
+            "still going",
+            "prevent dustin",
+            "holiday season",
+            "holiday season"
+        ],
+        "trends": [
+            "diamonds",
+            "season",
+            "consumer",
+            "insurance",
+            "holiday",
+            "still",
+            "conversation"
+        ]
+    },
+    {
+        "sentence": [
+            "in retail.",
+            "Enjoy the episode.",
+            "Brightcoe itself."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail",
+            "episode",
+            "enjoy",
+            "brightcoe"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "I am a third generation jeweler and my family has retail independent stores right outside of Chicago, which my grandfather started in the 50s.",
+            "And, you know, my father and my brother run that business now.",
+            "One of the things that I was very active in when I was involved in the actual retail business was insurance claim replacements."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail independent stores right outside",
+            "third generation jeweler",
+            "insurance claim replacements",
+            "actual retail business",
+            "grandfather started",
+            "brother run",
+            "business"
+        ],
+        "trends": [
+            "business",
+            "retail",
+            "involved",
+            "actual",
+            "claim",
+            "things",
+            "brother"
+        ]
+    },
+    {
+        "sentence": [
+            "And I realized really quickly at that point, I mean, we're rewinding back to like 2015 to 2017 that there was a lot of issues with insurance.",
+            "issues with claims, insurance and appraisals.",
+            "It's also no secret to pretty much everybody in the industry that appraisals are sort of have been broken."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "realized really quickly",
+            "pretty much everybody",
+            "rewinding back",
+            "like 2015",
+            "sort",
+            "secret",
+            "point"
+        ],
+        "trends": [
+            "appraisals",
+            "insurance",
+            "issues",
+            "sort",
+            "broken",
+            "everybody",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "And so we've set out to sort of fix appraisals and the insurance process, you know, going back to the insurance piece, it was just not working well for jewelers.",
+            "So Brightco was really born out of pain points that I personally felt in the industry from working in the industry.",
+            "We set out to build an insurance  insurance technology company, and we provide technology for our jeweler partners."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "insurance insurance technology company",
+            "provide technology",
+            "insurance process",
+            "insurance piece",
+            "really born",
+            "personally felt",
+            "pain points"
+        ],
+        "trends": [
+            "insurance",
+            "industry",
+            "technology",
+            "set",
+            "working",
+            "pain",
+            "born"
+        ]
+    },
+    {
+        "sentence": [
+            "And what that means is, you know, we provide probably the best in class appraisal system for our jeweler partners.",
+            "That's completely free.",
+            "And we also provide best in class insurance for the end user, for a consumer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "class appraisal system",
+            "also provide best",
+            "provide probably",
+            "class insurance",
+            "jeweler partners",
+            "end user",
+            "completely free"
+        ],
+        "trends": [
+            "provide",
+            "class",
+            "best",
+            "system",
+            "probably",
+            "user",
+            "insurance"
+        ]
+    },
+    {
+        "sentence": [
+            "We work with three different distribution channels.",
+            "You know, of course, like I mentioned, we work with our jeweler partners.",
+            "We also have a direct to consumer business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "three different distribution channels",
+            "jeweler partners",
+            "consumer business",
+            "work",
+            "work",
+            "mentioned",
+            "like"
+        ],
+        "trends": [
+            "work",
+            "partners",
+            "three",
+            "distribution",
+            "different",
+            "mentioned",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And we also work with insurance agents and insurance brokers.",
+            "But we really provide a lot of value back to our jeweler partners.",
+            "We work with over 3000 retailers in the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "value back",
+            "really provide",
+            "jeweler partners",
+            "insurance brokers",
+            "insurance agents",
+            "3000 retailers",
+            "also work"
+        ],
+        "trends": [
+            "work",
+            "insurance",
+            "us",
+            "retailers",
+            "value",
+            "really",
+            "provide"
+        ]
+    },
+    {
+        "sentence": [
+            "But in short, what Bryco is, is an insurance technology company.",
+            "We provide state of the art technology for jewelers and we provide really kind of a best in class insurance product for consumers.",
+            "You say it's known that appraisals are broken."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "class insurance product",
+            "provide really kind",
+            "insurance technology company",
+            "provide state",
+            "art technology",
+            "short",
+            "say"
+        ],
+        "trends": [
+            "provide",
+            "technology",
+            "insurance",
+            "company",
+            "bryco",
+            "short",
+            "known"
+        ]
+    },
+    {
+        "sentence": [
+            "In what way is that the case?",
+            "So appraisals are broken  from my perspective, and I think a lot of jewelers would agree with this.",
+            "First of all, like just the table stakes, they just are inefficient and take a really long time for folks to use."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really long time",
+            "jewelers would agree",
+            "table stakes",
+            "way",
+            "use",
+            "think",
+            "take"
+        ],
+        "trends": [
+            "stakes",
+            "really",
+            "would",
+            "perspective",
+            "appraisals",
+            "broken",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "So stores that do a lot of volume, the current tool set that's available to jewelers is not very good.",
+            "You know, it's pre-Brightco when I started the company, it was, you either had an appraisal system that was built on really old technology that was almost more cumbersome than just like handwriting appraisals.",
+            "By the way, a lot of folks are still handwriting appraisals."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still handwriting appraisals",
+            "really old technology",
+            "like handwriting appraisals",
+            "current tool set",
+            "appraisal system",
+            "way",
+            "volume"
+        ],
+        "trends": [
+            "lot",
+            "appraisals",
+            "stores",
+            "available",
+            "set",
+            "current",
+            "handwriting"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, in today's age, that should not ever really happen, to be honest with you.",
+            "There's just better tools like a Brightco appraisal system.",
+            "We all know time is money, especially like right now when things are so busy and there's so much being thrown out of the jewelry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "ever really happen",
+            "especially like right",
+            "brightco appraisal system",
+            "better tools like",
+            "know time",
+            "know",
+            "today"
+        ],
+        "trends": [
+            "know",
+            "like",
+            "really",
+            "today",
+            "honest",
+            "brightco",
+            "system"
+        ]
+    },
+    {
+        "sentence": [
+            "Like you don't want to spend hours doing appraisals.",
+            "So we wanted to solve the time issue and make it easier, faster, more efficient.",
+            "That's one."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "time issue",
+            "spend hours",
+            "wanted",
+            "want",
+            "solve",
+            "one",
+            "make"
+        ],
+        "trends": [
+            "want",
+            "spend",
+            "wanted",
+            "time",
+            "solve",
+            "make",
+            "issue"
+        ]
+    },
+    {
+        "sentence": [
+            "Two is  The values, and I think a lot of jewelers, anyone who's seen a lot of appraisals totally can understand this.",
+            "The values can be super inflated or just flat out wrong.",
+            "So in Brightco, for instance, we have built algorithms into the appraisal system that give like guidelines for here is what a range of what this item that you're appraising should be."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "give like guidelines",
+            "super inflated",
+            "built algorithms",
+            "appraisals totally",
+            "appraisal system",
+            "wrong",
+            "values"
+        ],
+        "trends": [
+            "values",
+            "lot",
+            "jewelers",
+            "appraisals",
+            "seen",
+            "anyone",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "And we don't dictate the value, but we give ranges and say, here's a backstop  So, you know, just sort of a second opinion, if you will.",
+            "So that's another thing that we're solving for is making sure values are correct.",
+            "It's important for insurance, honestly, because when a consumer goes to an insurance company to get insurance policy, they're using the appraisal or the documents that the jeweler provides."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "making sure values",
+            "get insurance policy",
+            "second opinion",
+            "jeweler provides",
+            "insurance company",
+            "give ranges",
+            "consumer goes"
+        ],
+        "trends": [
+            "insurance",
+            "opinion",
+            "give",
+            "value",
+            "values",
+            "solving",
+            "correct"
+        ]
+    },
+    {
+        "sentence": [
+            "And that value that the jeweler is putting on is establishing the value for replacement.",
+            "If it's super inflated, which we see a lot, not with our system, because we have controls to try to help a jeweler make sure it's a fair value.",
+            "happening is the consumer ends up just paying more money in insurance and it's like not totally fair."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jeweler make sure",
+            "totally fair",
+            "super inflated",
+            "consumer ends",
+            "fair value",
+            "jeweler",
+            "value"
+        ],
+        "trends": [
+            "value",
+            "jeweler",
+            "fair",
+            "like",
+            "ends",
+            "happening",
+            "insurance"
+        ]
+    },
+    {
+        "sentence": [
+            "So those are a couple examples, but it's really like speed efficiency, just a better process for a jeweler and giving them tools to help them better run their business.",
+            "Right.",
+            "Focusing on the issue of insurance."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really like speed efficiency",
+            "couple examples",
+            "better run",
+            "better process",
+            "tools",
+            "right",
+            "jeweler"
+        ],
+        "trends": [
+            "better",
+            "help",
+            "business",
+            "couple",
+            "efficiency",
+            "examples",
+            "giving"
+        ]
+    },
+    {
+        "sentence": [
+            "When we spoke a couple of years ago, I correct me if I'm wrong.",
+            "I think you told me that the way the insurance for lab grown diamonds is done is broadly the same as for natural diamonds.",
+            "Do I remember that correctly?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown diamonds",
+            "natural diamonds",
+            "years ago",
+            "wrong",
+            "way",
+            "told",
+            "think"
+        ],
+        "trends": [
+            "diamonds",
+            "way",
+            "told",
+            "think",
+            "natural",
+            "years",
+            "wrong"
+        ]
+    },
+    {
+        "sentence": [
+            "And also how is the  falling prices of lab-grown diamonds affected the world of insurance for those?",
+            "It's a really interesting question.",
+            "When we spoke last, we were like in the first inning."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really interesting question",
+            "grown diamonds affected",
+            "spoke last",
+            "first inning",
+            "falling prices",
+            "world",
+            "like"
+        ],
+        "trends": [
+            "world",
+            "prices",
+            "really",
+            "question",
+            "interesting",
+            "spoke",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And I remember very clearly trying to articulate with a limited data set at that point because it was relatively new still.",
+            "With insurance, lab-grown specifically, we and I believe most insurance companies, at least any insurance companies that have any specialty knowledge on jewelry,  will ensure lab-grown diamonds the same way they ensure natural diamonds or any other precious or semi-precious stones or pieces of jewelry or watches for that matter.",
+            "It's ensured exactly the same process."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "relatively new still",
+            "limited data set",
+            "ensure natural diamonds",
+            "grown diamonds",
+            "specialty knowledge",
+            "grown specifically",
+            "ensured exactly"
+        ],
+        "trends": [
+            "insurance",
+            "companies",
+            "diamonds",
+            "ensure",
+            "jewelry",
+            "articulate",
+            "limited"
+        ]
+    },
+    {
+        "sentence": [
+            "Now, going back to what I was saying before, establishing value is, like I mentioned, a critical component to the whole insurance process for the consumer.",
+            "Now, once it's off the jeweler's plate, it's sort of in the consumer's hands.",
+            "The way I looked at myself when I was an independent jeweler,  as like a consultant, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole insurance process",
+            "going back",
+            "establishing value",
+            "critical component",
+            "independent jeweler",
+            "jeweler",
+            "way"
+        ],
+        "trends": [
+            "like",
+            "jeweler",
+            "consumer",
+            "sort",
+            "plate",
+            "hands",
+            "whole"
+        ]
+    },
+    {
+        "sentence": [
+            "Like if you're an independent jeweler, you really are a consultant for your customer.",
+            "So you have a hand in it as well, if you're a jeweler, to try to help advise your customer in the right way.",
+            "Some of that is providing accurate paperwork and establishing the correct value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "providing accurate paperwork",
+            "right way",
+            "help advise",
+            "correct value",
+            "independent jeweler",
+            "jeweler",
+            "well"
+        ],
+        "trends": [
+            "jeweler",
+            "customer",
+            "like",
+            "advise",
+            "hand",
+            "help",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "So now we're talking about values for lab drones, and that is a really tricky subject.",
+            "What we're seeing, I could tell you what we're seeing kind of to your question, is we're seeing definitely inflated values for lab drones, very large margins built in.",
+            "in there and I am not here at all to tell anybody how to run a business or how much money to make."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seeing definitely inflated values",
+            "really tricky subject",
+            "large margins built",
+            "seeing kind",
+            "tell anybody",
+            "much money",
+            "lab drones"
+        ],
+        "trends": [
+            "seeing",
+            "values",
+            "drones",
+            "lab",
+            "tell",
+            "business",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "That is not our place, just not for us to get into.",
+            "But I can tell you what we're seeing is we're seeing really healthy margins in a lot of these, at least from the appraisal value.",
+            "What does that mean though for the consumer at the end of the day?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seeing really healthy margins",
+            "mean though",
+            "appraisal value",
+            "seeing",
+            "us",
+            "tell",
+            "place"
+        ],
+        "trends": [
+            "seeing",
+            "place",
+            "value",
+            "healthy",
+            "though",
+            "consumer",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "When you have drastically falling prices, if there is a loss in the future, they could be drastically overinsured.",
+            "We try to educate our partners, our jeweler partners, and make sure that  folks are aware.",
+            "I'm going back to the consulting angle that I was sort of referring to as the jeweler."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "drastically falling prices",
+            "drastically overinsured",
+            "make sure",
+            "going back",
+            "consulting angle",
+            "jeweler partners",
+            "partners"
+        ],
+        "trends": [
+            "jeweler",
+            "partners",
+            "drastically",
+            "back",
+            "overinsured",
+            "loss",
+            "prices"
+        ]
+    },
+    {
+        "sentence": [
+            "I feel like it's really important for a jeweler to sort of give, not saying not to sell lab drones, but to give the information so that the consumer is educated in terms of what they're buying.",
+            "No one could predict the future and jewelers aren't here to be stock brokers to say, hey, this price of a diamond is going to do, but at least giving some, a little bit of education and some data that all factors that I'm kind of going to  That was really my next question was whether it's the insurer would pay out the replacement value or the value that the consumer bought it for.",
+            "Let's say he bought it for five times more five years ago."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sell lab drones",
+            "one could predict",
+            "insurer would pay",
+            "five years ago",
+            "five times",
+            "stock brokers",
+            "next question"
+        ],
+        "trends": [
+            "five",
+            "value",
+            "going",
+            "give",
+            "consumer",
+            "really",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "policies are replacement value policies, which is the right policy for almost every single consumer.",
+            "The idea is if there's a loss, the consumer is made whole is how we detail it out.",
+            "So if there was a loss, they would have exact replacement to what they had."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "almost every single consumer",
+            "replacement value policies",
+            "exact replacement",
+            "right policy",
+            "made whole",
+            "consumer",
+            "policies"
+        ],
+        "trends": [
+            "replacement",
+            "consumer",
+            "loss",
+            "policies",
+            "value",
+            "would",
+            "whole"
+        ]
+    },
+    {
+        "sentence": [
+            "If they had a two carat GSI one natural diamond center with, you know, platinum mounting with a carat amelie, they should get that exact thing back.",
+            "That's a replacement policy.",
+            "That's the vast majority of these policies."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two carat gsi one natural diamond center",
+            "exact thing back",
+            "carat amelie",
+            "vast majority",
+            "replacement policy",
+            "platinum mounting",
+            "policies"
+        ],
+        "trends": [
+            "carat",
+            "know",
+            "back",
+            "center",
+            "diamond",
+            "exact",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "And the reason why it's better, it doesn't have to be a replacement.",
+            "policy, by the way, there's other policies out there.",
+            "They're just not economically viable."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "economically viable",
+            "way",
+            "replacement",
+            "reason",
+            "policy",
+            "policies",
+            "better"
+        ],
+        "trends": [
+            "replacement",
+            "reason",
+            "better",
+            "way",
+            "policy",
+            "policies"
+        ]
+    },
+    {
+        "sentence": [
+            "They are, but they're just much more expensive.",
+            "So an example is that replacement policy that a consumer wants to buy generally, like we charge at Brightco like a half a percent to one and a half percent is really low, like really good value.",
+            "There's other types of policies that will issue like a cash out policy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like really good value",
+            "really low",
+            "issue like",
+            "brightco like",
+            "consumer wants",
+            "buy generally",
+            "replacement policy"
+        ],
+        "trends": [
+            "like",
+            "half",
+            "really",
+            "percent",
+            "good",
+            "buy",
+            "charge"
+        ]
+    },
+    {
+        "sentence": [
+            "So like if you were insured for 20 grand, they will write you a check for 20 grand.",
+            "those policies are significantly more expensive and frankly, it's not what I believe the point of insurance is for most folks.",
+            "Most consumers, you know, a millennial buying an engagement ring, they want protection to know that if the item is lost, that at least they can get it back."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "want protection",
+            "millennial buying",
+            "engagement ring",
+            "20 grand",
+            "20 grand",
+            "write",
+            "significantly"
+        ],
+        "trends": [
+            "grand",
+            "know",
+            "back",
+            "item",
+            "write",
+            "like",
+            "check"
+        ]
+    },
+    {
+        "sentence": [
+            "That's exactly what a replacement policy does.",
+            "So you get into this interesting conundrum with these drastically falling lab-grown prices because if something is insured for 20 grand,  Let's just say like the wholesale today was 10 grand, right?",
+            "And then there's large margins built in and they're insuring it for 20 grand and then a loss happens."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large margins built",
+            "drastically falling lab",
+            "wholesale today",
+            "say like",
+            "replacement policy",
+            "loss happens",
+            "interesting conundrum"
+        ],
+        "trends": [
+            "grand",
+            "large",
+            "loss",
+            "happens",
+            "insuring",
+            "built",
+            "margins"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, the insurance companies, including ourselves on a replacement policy pay the price plus commission.",
+            "So like we always pay our jeweler's commission.",
+            "So it's like wholesale price plus commission plus taxes."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like wholesale price plus commission plus taxes",
+            "price plus commission",
+            "replacement policy pay",
+            "always pay",
+            "like",
+            "insurance companies",
+            "commission"
+        ],
+        "trends": [
+            "plus",
+            "commission",
+            "price",
+            "wholesale",
+            "replacement",
+            "like",
+            "pay"
+        ]
+    },
+    {
+        "sentence": [
+            "And like, that's the total amount of value that would be compensated.",
+            "Now, right.",
+            "That's a fair thing, but with the falling prices, it can get out of whack."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "total amount",
+            "falling prices",
+            "fair thing",
+            "would",
+            "whack",
+            "value",
+            "right"
+        ],
+        "trends": [
+            "whack",
+            "thing",
+            "prices",
+            "get",
+            "would",
+            "value",
+            "total"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's one way we're educating folks to play against this, which is get value updates, update the value of your policy on a somewhat regular basis.",
+            "At Brightco, like I mentioned before, we have algorithms that will actually tell a consumer, like our algorithms will actually move with the market for the most part.",
+            "There's some structure to that and there's, you know, not every scenario fits into that algorithm, but making sure values are updated is important in a lot of ways, whether it's overinsured or underinsured, but it's a tricky situation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "somewhat regular basis",
+            "making sure values",
+            "every scenario fits",
+            "get value updates",
+            "tricky situation",
+            "one way",
+            "educating folks"
+        ],
+        "trends": [
+            "value",
+            "actually",
+            "algorithms",
+            "like",
+            "updates",
+            "update",
+            "basis"
+        ]
+    },
+    {
+        "sentence": [
+            "right now with drops that drastically, it creates some problems.",
+            "How do you assess the value of any diamond, but particularly for a lab-grown diamond, what would be the sources of information on that?",
+            "So we have partnerships and data feeds where we're bringing in real-time data."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time data",
+            "data feeds",
+            "grown diamond",
+            "diamond",
+            "would",
+            "value",
+            "sources"
+        ],
+        "trends": [
+            "data",
+            "diamond",
+            "right",
+            "problems",
+            "drops",
+            "would",
+            "partnerships"
+        ]
+    },
+    {
+        "sentence": [
+            "We've built like pricing algorithms that take the data and actually analyze it and will say based on the inputs.",
+            "So we have the average weight, for instance, of a engagement ring of the actual mounting  is built into the album.",
+            "So we like no average weights."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "built like pricing algorithms",
+            "say based",
+            "engagement ring",
+            "average weights",
+            "average weight",
+            "actually analyze",
+            "actual mounting"
+        ],
+        "trends": [
+            "built",
+            "average",
+            "like",
+            "album",
+            "weight",
+            "instance",
+            "engagement"
+        ]
+    },
+    {
+        "sentence": [
+            "We know what a two carat GSI one round approximately would be priced at today in real time.",
+            "Same thing with the Melly.",
+            "And we basically build a price and then we give a range and it's pretty exact to be honest with you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two carat gsi one round approximately would",
+            "real time",
+            "pretty exact",
+            "basically build",
+            "today",
+            "thing",
+            "range"
+        ],
+        "trends": [
+            "would",
+            "carat",
+            "honest",
+            "basically",
+            "build",
+            "exact",
+            "range"
+        ]
+    },
+    {
+        "sentence": [
+            "It's relatively impressive.",
+            "So it's a great tool for our jeweler partners that are using our appraisal system.",
+            "They get a lot of information in terms of to try to help them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "relatively impressive",
+            "jeweler partners",
+            "great tool",
+            "appraisal system",
+            "using",
+            "try",
+            "terms"
+        ],
+        "trends": [
+            "try",
+            "terms",
+            "lot",
+            "using",
+            "tool",
+            "system",
+            "partners"
+        ]
+    },
+    {
+        "sentence": [
+            "And like the whole point we're trying to do is try to help establish  correct values.",
+            "It's a really important thing.",
+            "When you talk about updating the value for lab grown, is that something that will be done as a sort of long term policy, a long term relationship with the jeweler and therefore that might put the jeweler in an awkward position where he's sort of acknowledging to the consumer that this lab grown diamond is losing value every year, whatever it is."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "help establish correct values",
+            "losing value every year",
+            "really important thing",
+            "long term relationship",
+            "long term policy",
+            "lab grown diamond",
+            "lab grown"
+        ],
+        "trends": [
+            "value",
+            "grown",
+            "jeweler",
+            "term",
+            "lab",
+            "sort",
+            "long"
+        ]
+    },
+    {
+        "sentence": [
+            "Very good question.",
+            "We never do that.",
+            "We always leave it in the jeweler's hands, like always the jeweler's hands."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like always",
+            "good question",
+            "always leave",
+            "never",
+            "jeweler",
+            "jeweler",
+            "hands"
+        ],
+        "trends": [
+            "jeweler",
+            "hands",
+            "always",
+            "like",
+            "leave"
+        ]
+    },
+    {
+        "sentence": [
+            "We just recommend to the jeweler, look, you should  consider doing this.",
+            "Our algorithms help establish the most important thing is establishing the initial value.",
+            "Put lab-grown aside for a second."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "algorithms help establish",
+            "put lab",
+            "initial value",
+            "important thing",
+            "grown aside",
+            "second",
+            "recommend"
+        ],
+        "trends": [
+            "value",
+            "thing",
+            "initial",
+            "second",
+            "put",
+            "important",
+            "help"
+        ]
+    },
+    {
+        "sentence": [
+            "Everything else, it's really important to establish the initial value correctly.",
+            "Then it'll move with the markets.",
+            "And one thing we do because we need to protect our jewelers to your point, we'll never recommend to a consumer to decrease the value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "initial value correctly",
+            "really important",
+            "one thing",
+            "never recommend",
+            "everything else",
+            "value",
+            "protect"
+        ],
+        "trends": [
+            "decrease",
+            "jewelers",
+            "value",
+            "initial",
+            "correctly",
+            "really",
+            "else"
+        ]
+    },
+    {
+        "sentence": [
+            "So we'll only let them know if they're underinsured because of exactly what you just said.",
+            "We don't want to get in a situation like our, one of our main objectives to protect our jeweler.",
+            "We don't want to get in that conversation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "situation like",
+            "main objectives",
+            "want",
+            "want",
+            "underinsured",
+            "said",
+            "protect"
+        ],
+        "trends": [
+            "want",
+            "get",
+            "conversation",
+            "situation",
+            "protect",
+            "underinsured",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "We don't want our jewelers to get in that conversation, but we do want to make sure that we give our jewelers the tools that will really help them to run their business and to hopefully, like I said before, like act in that consulting role is like you're consulting with your customer and you're really trying to help them.",
+            "So yeah, I mean, it's a really good question, but yeah, we stayed far away from that and we don't have any issues with that.",
+            "on the information so they know that they're underinsured rather than right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stayed far away",
+            "really good question",
+            "really trying",
+            "underinsured rather",
+            "make sure",
+            "really help",
+            "consulting role"
+        ],
+        "trends": [
+            "really",
+            "like",
+            "consulting",
+            "help",
+            "jewelers",
+            "want",
+            "yeah"
+        ]
+    },
+    {
+        "sentence": [
+            "And focusing on natural diamonds, have you seen a decrease in consumer prices this year commensurate with the price decline that we've seen in many categories on the wholesale side?",
+            "Yeah, we've seen a little bit.",
+            "It's not nearly as drastic as you're seeing in the wholesale side."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "year commensurate",
+            "wholesale side",
+            "wholesale side",
+            "price decline",
+            "natural diamonds",
+            "many categories",
+            "little bit"
+        ],
+        "trends": [
+            "seen",
+            "wholesale",
+            "side",
+            "decrease",
+            "seeing",
+            "nearly",
+            "drastic"
+        ]
+    },
+    {
+        "sentence": [
+            "I think there's some significant buffer, which is good.",
+            "I have to look at our data, I guess it to be somewhere in like the five to 10 percent range.",
+            "Order values are coming up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "10 percent range",
+            "significant buffer",
+            "order values",
+            "think",
+            "somewhere",
+            "look",
+            "like"
+        ],
+        "trends": [
+            "somewhere",
+            "range",
+            "percent",
+            "values",
+            "order",
+            "look",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "down a little bit too.",
+            "I mean, we're still seeing a lot of lab-grown engagement rings.",
+            "We're seeing a lot of them still, probably close to 50-50, which is drastic."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown engagement rings",
+            "probably close",
+            "little bit",
+            "still seeing",
+            "still",
+            "seeing",
+            "mean"
+        ],
+        "trends": [
+            "still",
+            "seeing",
+            "lot",
+            "probably",
+            "drastic",
+            "close",
+            "rings"
+        ]
+    },
+    {
+        "sentence": [
+            "But I don't consider that to be a healthy balance for the most part.",
+            "Personally, I think everyone has their own opinion on this.",
+            "So I'll just kind of talk on my personal opinion."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think everyone",
+            "healthy balance",
+            "personal opinion",
+            "opinion",
+            "talk",
+            "personally",
+            "part"
+        ],
+        "trends": [
+            "opinion",
+            "part",
+            "healthy",
+            "consider",
+            "talk",
+            "personal",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're going to end up settling more in a healthier balance for natural.",
+            "I think we're in that really weird stage right now where the market has not fully flushed out  To me all comes back down to pricing.",
+            "So the wholesale side of things has definitely flushed out the pricing."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really weird stage right",
+            "wholesale side",
+            "healthier balance",
+            "fully flushed",
+            "definitely flushed",
+            "comes back",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "going",
+            "flushed",
+            "pricing",
+            "comes",
+            "wholesale",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "No question.",
+            "The pricing has been fully flushed out or very close to that.",
+            "It has not trickled all the way through to consumers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fully flushed",
+            "way",
+            "trickled",
+            "question",
+            "pricing",
+            "consumers",
+            "close"
+        ],
+        "trends": [
+            "way",
+            "trickled",
+            "consumers",
+            "pricing",
+            "fully",
+            "flushed",
+            "close"
+        ]
+    },
+    {
+        "sentence": [
+            "So I do think that there's this marketing perception and I think it's an age old thing where there's this perceived value.",
+            "If something's expensive, it's perceived as valuable.",
+            "If something is inexpensive, it's perceived as not valuable."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "age old thing",
+            "marketing perception",
+            "perceived value",
+            "perceived",
+            "perceived",
+            "valuable",
+            "valuable"
+        ],
+        "trends": [
+            "perceived",
+            "valuable",
+            "something",
+            "think",
+            "value",
+            "thing",
+            "perception"
+        ]
+    },
+    {
+        "sentence": [
+            "And I don't think that effect has taken a hold yet.",
+            "on land-grows, but I certainly think it's going to.",
+            "It's obviously a race to the bottom."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hold yet",
+            "certainly think",
+            "think",
+            "taken",
+            "race",
+            "obviously",
+            "land"
+        ],
+        "trends": [
+            "think",
+            "going",
+            "certainly",
+            "race",
+            "obviously",
+            "bottom",
+            "yet"
+        ]
+    },
+    {
+        "sentence": [
+            "That's really clear.",
+            "Once I think consumers start to understand, they're not going to completely go away.",
+            "I think we can all agree on that as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "completely go away",
+            "think consumers start",
+            "really clear",
+            "think",
+            "well",
+            "understand",
+            "going"
+        ],
+        "trends": [
+            "think",
+            "well",
+            "agree",
+            "understand",
+            "start",
+            "going",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "I just think that it hasn't settled into the sweet spot of where it's going to play its role in the market.",
+            "And I think right now it's playing in a higher league than it should be playing.",
+            "I think for a lot of these above one carat center stones, like folks that are opting to either upgrade and go bigger,  whatever, not totally realizing the perception of what they actually are."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one carat center stones",
+            "totally realizing",
+            "sweet spot",
+            "like folks",
+            "higher league",
+            "go bigger",
+            "either upgrade"
+        ],
+        "trends": [
+            "think",
+            "playing",
+            "sweet",
+            "spot",
+            "settled",
+            "role",
+            "play"
+        ]
+    },
+    {
+        "sentence": [
+            "And from my perspective as a consumer, I like to buy things of value, you know, whether it be a car or whether it be a home, not looking to invest in it.",
+            "So I'm not looking at I've heard this discussion as well of like when I buy a diamond or even a house, I'm not looking to make an investment in it.",
+            "It always is an investment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "buy things",
+            "buy",
+            "whether",
+            "whether",
+            "well",
+            "value",
+            "perspective"
+        ],
+        "trends": [
+            "like",
+            "looking",
+            "whether",
+            "buy",
+            "heard",
+            "diamond",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not looking to make money on it.",
+            "Like per se, I'm looking to buy something that will hold  relative value.",
+            "I don't want to go buy a car and know that I drive it off the lot and tomorrow I bought it for 10 grand and tomorrow it's worth zero."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like per se",
+            "hold relative value",
+            "worth zero",
+            "make money",
+            "go buy",
+            "buy something",
+            "10 grand"
+        ],
+        "trends": [
+            "looking",
+            "tomorrow",
+            "buy",
+            "value",
+            "something",
+            "se",
+            "relative"
+        ]
+    },
+    {
+        "sentence": [
+            "We all know that when you drive it off the lot it loses value immediately but I don't want it to lose all value.",
+            "I want to make sure that I'm buying something valuable that at least and I think we're going to see this also by the way which we haven't seen at all with specifically diamonds with trade-ups.",
+            "You know when I was in the retail business that was a huge piece of our business with folks coming in and trading their pendants with a center stone or like you know  Obviously engagement rings and going from, you know, it's a 10 year anniversary and their original diamond was one and a half carat and they want to upgrade to a three carat."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "know obviously engagement rings",
+            "buying something valuable",
+            "10 year anniversary",
+            "loses value immediately",
+            "three carat",
+            "specifically diamonds",
+            "original diamond"
+        ],
+        "trends": [
+            "know",
+            "want",
+            "value",
+            "business",
+            "carat",
+            "going",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "Good luck with lab room.",
+            "Like it's not going to be a good conversation and that's going to be a rude awakening.",
+            "I think so."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rude awakening",
+            "lab room",
+            "good luck",
+            "good conversation",
+            "think",
+            "like",
+            "going"
+        ],
+        "trends": [
+            "going",
+            "good",
+            "room",
+            "luck",
+            "lab",
+            "rude",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "The big retail is still based on what they spent rather than what they what it's worth now.",
+            "If I remember correctly.",
+            "I haven't looked at the data on this."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still based",
+            "spent rather",
+            "remember correctly",
+            "big retail",
+            "worth",
+            "looked",
+            "data"
+        ],
+        "trends": [
+            "worth",
+            "still",
+            "spent",
+            "retail",
+            "rather",
+            "big",
+            "based"
+        ]
+    },
+    {
+        "sentence": [
+            "I can tell you there's probably not enough data on this yet to see like right up.",
+            "But like what's really going to happen when somebody spent 10 grand  But that estimate of 5 to 10% decline in prices that you mentioned before, were you talking there about lab grown?",
+            "No, natural."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "somebody spent 10 grand",
+            "see like right",
+            "really going",
+            "lab grown",
+            "enough data",
+            "10",
+            "like"
+        ],
+        "trends": [
+            "really",
+            "prices",
+            "like",
+            "yet",
+            "right",
+            "enough",
+            "tell"
+        ]
+    },
+    {
+        "sentence": [
+            "That was natural.",
+            "Right.",
+            "What sort of decline have you seen in in consumer prices of lab grown this year?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lab grown",
+            "consumer prices",
+            "year",
+            "sort",
+            "seen",
+            "right",
+            "natural"
+        ],
+        "trends": [
+            "year",
+            "sort",
+            "seen",
+            "prices",
+            "lab",
+            "grown",
+            "decline"
+        ]
+    },
+    {
+        "sentence": [
+            "Massive, like very, very large.",
+            "So, okay, I'm going to caveat it by saying that, you know, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the  prices are still propped up.",
+            "You know, margins are still really strong."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still really strong",
+            "still propped",
+            "saying",
+            "prices",
+            "okay",
+            "massive",
+            "margins"
+        ],
+        "trends": [
+            "still",
+            "know",
+            "saying",
+            "propped",
+            "strong",
+            "really",
+            "prices"
+        ]
+    },
+    {
+        "sentence": [
+            "But from what we were seeing, if you were to take the same exact item that we saw a year ago versus what we're seeing today with the same item from a purchase perspective, you're probably seeing a reduction of 40% minimum, potentially a lot more than that.",
+            "So, I mean, you're seeing pretty drastic drops in the retail side.",
+            "The last maybe month or so, we've seen a bit of a stabilization in some of the trends, negative trends in prices and things like that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seeing pretty drastic drops",
+            "year ago versus",
+            "last maybe month",
+            "seeing today",
+            "probably seeing",
+            "things like",
+            "retail side"
+        ],
+        "trends": [
+            "seeing",
+            "item",
+            "trends",
+            "stabilization",
+            "seen",
+            "things",
+            "pretty"
+        ]
+    },
+    {
+        "sentence": [
+            "And in natural, when we discuss it here, the explanations include what's happened in India with the pause on rough imports and reduction in inventories.",
+            "But also one element of this is that does seem to have been an uptick in demand from US retailers ahead of the holidays.",
+            "Not a dramatic uptick, but there does seem to be some demand for the holidays."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us retailers ahead",
+            "also one element",
+            "rough imports",
+            "explanations include",
+            "dramatic uptick",
+            "uptick",
+            "seem"
+        ],
+        "trends": [
+            "uptick",
+            "seem",
+            "demand",
+            "holidays",
+            "us",
+            "also",
+            "element"
+        ]
+    },
+    {
+        "sentence": [
+            "How have the holidays gone so far from your perspective?",
+            "And just to touch just my final point on sort of the pricing and I'll dovetail that into kind of the holiday purchasing.",
+            "You reference sort of like the stabilization and if you look at the diamond pricing charts specifically for natural, you see a dramatic decline and then you start seeing the uptick."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond pricing charts specifically",
+            "start seeing",
+            "holidays gone",
+            "holiday purchasing",
+            "final point",
+            "dramatic decline",
+            "reference sort"
+        ],
+        "trends": [
+            "pricing",
+            "sort",
+            "far",
+            "holidays",
+            "perspective",
+            "uptick",
+            "decline"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're going to continue to see an uptick and I think we saw a kind of extreme decline and I think a way over correction if you can call it that and I do think we're going to see  As the lab-grown piece starts flushing out fully through the system, I think we are going to see continued upward trend of natural diamonds.",
+            "And I think you'll see a settlement like somewhere 50% above where bottomed out.",
+            "So you're right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "settlement like somewhere 50",
+            "grown piece starts flushing",
+            "see continued upward trend",
+            "natural diamonds",
+            "extreme decline",
+            "see",
+            "see"
+        ],
+        "trends": [
+            "think",
+            "see",
+            "going",
+            "like",
+            "somewhere",
+            "settlement",
+            "bottomed"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're going to keep seeing that trend.",
+            "And then to kind of dovetail that right into the holiday season, most of the folks we talked to and some of the data we looked at showed that the Thanksgiving weekend was really good.",
+            "Like really, really strong shoppers were spending."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really strong shoppers",
+            "really good",
+            "like really",
+            "thanksgiving weekend",
+            "keep seeing",
+            "holiday season",
+            "trend"
+        ],
+        "trends": [
+            "really",
+            "strong",
+            "spending",
+            "shoppers",
+            "like",
+            "keep",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Then it sort of lulled a little bit.",
+            "little bit and it felt like the last handful of days were starting to get out of that lull and pick back up.",
+            "Now we've got, you know, another five days till Christmas and then a lot of people sort of disregard the last week of the year."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "another five days till christmas",
+            "pick back",
+            "little bit",
+            "little bit",
+            "last week",
+            "last handful",
+            "felt like"
+        ],
+        "trends": [
+            "last",
+            "days",
+            "felt",
+            "handful",
+            "like",
+            "lull",
+            "sort"
+        ]
+    },
+    {
+        "sentence": [
+            "But the last week of the year for us has always been really strong.",
+            "And I think there's a bit of unknown still because we're sort of right in the middle of the storm right now.",
+            "From what I'm seeing trending wise, it looks like we had that big bump for Thanksgiving lulled a little bit picking back up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit picking back",
+            "seeing trending wise",
+            "unknown still",
+            "thanksgiving lulled",
+            "really strong",
+            "looks like",
+            "last week"
+        ],
+        "trends": [
+            "right",
+            "bit",
+            "last",
+            "really",
+            "think",
+            "sort",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're going to see it continue to pick back up.",
+            "I think at the end of the day, if I were to guess, we can rule out both extremes.",
+            "Like I think that having a smashing, like amazing holiday season is probably not in the cards."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like amazing holiday season",
+            "pick back",
+            "like",
+            "think",
+            "think",
+            "think",
+            "smashing"
+        ],
+        "trends": [
+            "think",
+            "like",
+            "extremes",
+            "pick",
+            "going",
+            "see",
+            "continue"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think vice versa having like a really, really poor holiday season is also not in the cards.",
+            "So I think we can rule out both extremes.",
+            "And I think you're going to end up settling somewhere around baseline."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "settling somewhere around baseline",
+            "really poor holiday season",
+            "think vice versa",
+            "really",
+            "think",
+            "think",
+            "rule"
+        ],
+        "trends": [
+            "think",
+            "really",
+            "vice",
+            "going",
+            "somewhere",
+            "settling",
+            "around"
+        ]
+    },
+    {
+        "sentence": [
+            "It's going to be plus or minus 3% on either side.",
+            "And I think the next 11 days basically decide how that shakes out.",
+            "we're seeing, and this is not surprising, but it's worth mentioning because it's a potential action item for listeners is the folks that are truly adopting digital."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "next 11 days basically decide",
+            "truly adopting digital",
+            "potential action item",
+            "worth mentioning",
+            "minus 3",
+            "either side",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "shakes",
+            "basically",
+            "days",
+            "next",
+            "side",
+            "plus"
+        ]
+    },
+    {
+        "sentence": [
+            "We're seeing more and more just having more success that are doing it in a meaningful way.",
+            "I mean, I still feel like there's a lot of especially independent jewelers that have adopted digital, but they're not really, it's not functional.",
+            "Anyone who has meaningful e-commerce presence, like, okay, that's great."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "especially independent jewelers",
+            "still feel like",
+            "meaningful way",
+            "meaningful e",
+            "commerce presence",
+            "adopted digital",
+            "like"
+        ],
+        "trends": [
+            "meaningful",
+            "like",
+            "presence",
+            "okay",
+            "great",
+            "anyone",
+            "success"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "I think they're doing well, especially if it's supplemental to  of brick and mortar.",
+            "Anyone who's able to truly leverage and with tact, retargeting campaigns, local campaigns and stuff like that, those folks are doing better from what we're seeing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "truly leverage",
+            "stuff like",
+            "retargeting campaigns",
+            "local campaigns",
+            "well",
+            "think",
+            "tact"
+        ],
+        "trends": [
+            "campaigns",
+            "anyone",
+            "better",
+            "folks",
+            "leverage",
+            "well",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think they're gonna end up doing better in this holiday season.",
+            "But I think it's gonna be a mixed bag.",
+            "I mean, kind of my short answer is that it's gonna be a mixed bag."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "short answer",
+            "mixed bag",
+            "mixed bag",
+            "holiday season",
+            "gonna end",
+            "gonna",
+            "gonna"
+        ],
+        "trends": [
+            "na",
+            "gon",
+            "mixed",
+            "bag",
+            "think",
+            "season",
+            "short"
+        ]
+    },
+    {
+        "sentence": [
+            "We're gonna be somewhere around flat baseline plus or minus 2% either way.",
+            "information on customers preferences, buying patterns so that you can then market to them the right thing.",
+            "Is that an example of the sort of thing that would be successful, good use of digital?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "somewhere around flat baseline plus",
+            "minus 2",
+            "good use",
+            "either way",
+            "customers preferences",
+            "buying patterns",
+            "right thing"
+        ],
+        "trends": [
+            "thing",
+            "good",
+            "digital",
+            "information",
+            "customers",
+            "preferences",
+            "patterns"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, exactly like that.",
+            "It's like really successful retargeting campaigns.",
+            "Like if jewelers aren't doing that, like those are the folks that's where you get those incremental gains."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like really successful retargeting campaigns",
+            "exactly like",
+            "incremental gains",
+            "like",
+            "like",
+            "yeah",
+            "jewelers"
+        ],
+        "trends": [
+            "like",
+            "jewelers",
+            "incremental",
+            "get",
+            "successful",
+            "retargeting",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's how you get those efficiencies is by it doesn't have to be ecom.",
+            "I mean, I mentioned ecom and folks that are able to sell ecom online meaningfully, like that's phenomenal.",
+            "great and they should continue to do that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sell ecom online meaningfully",
+            "mentioned ecom",
+            "ecom",
+            "phenomenal",
+            "mean",
+            "like",
+            "great"
+        ],
+        "trends": [
+            "ecom",
+            "sell",
+            "phenomenal",
+            "online",
+            "mentioned",
+            "meaningfully",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "But we have a lot of jeweler partners that are they don't sell any kind, but they're so good at localized marketing with digital retargeting is the best example I can give, which is somebody walks in your store, and they don't make a purchase, you should be retargeting them on social, you should be using strategy in order to stay top of mind for them.",
+            "And so leveraging digital to do that.",
+            "And those are the jewelers that are, I find that are having real success."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "using strategy",
+            "stay top",
+            "somebody walks",
+            "real success",
+            "localized marketing",
+            "leveraging digital",
+            "jeweler partners"
+        ],
+        "trends": [
+            "retargeting",
+            "walks",
+            "digital",
+            "example",
+            "give",
+            "good",
+            "success"
+        ]
+    },
+    {
+        "sentence": [
+            "promotional season so far, or discounts?",
+            "True answers, I don't know.",
+            "I haven't seen a lot of that, but I could be very wrong."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "true answers",
+            "promotional season",
+            "wrong",
+            "seen",
+            "lot",
+            "know",
+            "far"
+        ],
+        "trends": [
+            "true",
+            "know",
+            "answers",
+            "season",
+            "promotional",
+            "far",
+            "wrong"
+        ]
+    },
+    {
+        "sentence": [
+            "It's really interesting because we're in such a complicated market where it's so difficult to decipher what's going on.",
+            "Because if you look at the macro, all of this fluctuation in diamond, natural and lab-grown diamond pricing, you have this huge shift in lab-grown.",
+            "The US election year coming up, and then you have a US stock market that is raging hot."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us election year coming",
+            "us stock market",
+            "grown diamond pricing",
+            "complicated market",
+            "really interesting",
+            "raging hot",
+            "huge shift"
+        ],
+        "trends": [
+            "market",
+            "diamond",
+            "us",
+            "hot",
+            "election",
+            "year",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "There's so many different conflicting elements there.",
+            "And that's why ultimately I say it's like we're gonna end up near baseline because there's these polarizing forces and it's a bit bipolar ish And so I think it's hard for folks to figure out so it's very much to me a case-by-case basis I think some jewelers have done really well and I think some are not gonna do so great at the end of the day you're gonna end up with a balancing effect where you're gonna end up with Somewhere in the middle.",
+            "So what do you think would be behind the Thanksgiving surge then if it's not discount why?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many different conflicting elements",
+            "done really well",
+            "bit bipolar ish",
+            "thanksgiving surge",
+            "polarizing forces",
+            "near baseline",
+            "balancing effect"
+        ],
+        "trends": [
+            "think",
+            "gon",
+            "na",
+            "end",
+            "different",
+            "elements",
+            "many"
+        ]
+    },
+    {
+        "sentence": [
+            "Why specifically then I think consumer demand is still strong  I really do.",
+            "I think the consumer preferences and purchasing habits are shifting and have always been shifting and they always will shift.",
+            "But I think you're seeing bigger shifts happening right now just because there's bigger elements happening in the actual both macro and micro environment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seeing bigger shifts happening right",
+            "bigger elements happening",
+            "think consumer demand",
+            "consumer preferences",
+            "still strong",
+            "purchasing habits",
+            "micro environment"
+        ],
+        "trends": [
+            "think",
+            "consumer",
+            "bigger",
+            "happening",
+            "always",
+            "shifting",
+            "habits"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's just creating a lot of shifting.",
+            "But I still think consumer demand is strong.",
+            "We have seen a reduction in engagement ring purchases."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still think consumer demand",
+            "engagement ring purchases",
+            "strong",
+            "shifting",
+            "seen",
+            "reduction",
+            "lot"
+        ],
+        "trends": [
+            "think",
+            "strong",
+            "seen",
+            "ring",
+            "shifting",
+            "lot",
+            "creating"
+        ]
+    },
+    {
+        "sentence": [
+            "Not dramatic, but there's been some reduction there.",
+            "I believe that  it's consumer preferences and purchasing behavior.",
+            "I think millennial and specifically Gen Z's buy things differently."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "specifically gen z",
+            "buy things differently",
+            "think millennial",
+            "purchasing behavior",
+            "consumer preferences",
+            "reduction",
+            "dramatic"
+        ],
+        "trends": [
+            "purchasing",
+            "preferences",
+            "consumer",
+            "think",
+            "things",
+            "specifically",
+            "millennial"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that they cohabitate, but marriages are, I think, going to be down.",
+            "And I think engagements are down.",
+            "It doesn't mean folks aren't cohabitating, coupling."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mean folks",
+            "think engagements",
+            "think",
+            "think",
+            "marriages",
+            "going",
+            "coupling"
+        ],
+        "trends": [
+            "think",
+            "mean",
+            "folks",
+            "coupling",
+            "cohabitating",
+            "marriages",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "I just think that the slight change in consumer preference, I don't think it's some massive shift.",
+            "And I think there's a lot of dramatic effect, I think, in our industry, but in every industry in terms of like, not everything has to lab grown is extreme.",
+            "put that aside for a second, because that is a real significant change in the business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real significant change",
+            "slight change",
+            "massive shift",
+            "lab grown",
+            "dramatic effect",
+            "consumer preference",
+            "every industry"
+        ],
+        "trends": [
+            "think",
+            "change",
+            "industry",
+            "preference",
+            "massive",
+            "business",
+            "put"
+        ]
+    },
+    {
+        "sentence": [
+            "But everything else, a lot of folks have a tendency to just go really extreme one way or the other.",
+            "Some of these are subtle shifts.",
+            "Like I think the behavior of a millennial buying engagement rings, like these are subtle shifts."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "go really extreme one way",
+            "millennial buying engagement rings",
+            "subtle shifts",
+            "subtle shifts",
+            "everything else",
+            "think",
+            "tendency"
+        ],
+        "trends": [
+            "like",
+            "extreme",
+            "way",
+            "one",
+            "else",
+            "everything",
+            "folks"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not full like market shifts.",
+            "So I think it's really important to keep that in mind.",
+            "You want to be able to capitalize on those shifts, but also like keep a level  had to understand these things can be very subtle."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "full like market shifts",
+            "also like keep",
+            "really important",
+            "shifts",
+            "keep",
+            "want",
+            "understand"
+        ],
+        "trends": [
+            "keep",
+            "shifts",
+            "also",
+            "like",
+            "think",
+            "really",
+            "mind"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that that's important to keep in mind.",
+            "Right.",
+            "What do you think of the theory that particularly signet has signet jewelers has promoted?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "signet jewelers",
+            "particularly signet",
+            "think",
+            "think",
+            "theory",
+            "right",
+            "promoted"
+        ],
+        "trends": [
+            "signet",
+            "think",
+            "mind",
+            "keep",
+            "important",
+            "theory",
+            "promoted"
+        ]
+    },
+    {
+        "sentence": [
+            "I also heard it from the CEO of the beers yesterday that there was a lull in dating during COVID.",
+            "And that now we're seeing the effects of that because there's fewer engagements.",
+            "I partially buy into it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "partially buy",
+            "fewer engagements",
+            "beers yesterday",
+            "also heard",
+            "seeing",
+            "lull",
+            "effects"
+        ],
+        "trends": [
+            "seeing",
+            "fewer",
+            "yesterday",
+            "lull",
+            "heard",
+            "dating",
+            "covid"
+        ]
+    },
+    {
+        "sentence": [
+            "I fully buy into the fact that there was a lull and that you  who can't have lockdowns like what we experienced without having some effect and probably a very substantial effect, which we saw.",
+            "The real question, this is why I partially buy into it, is how long does that take to filter through the market?",
+            "You know, you can't say in 2030, well, we had a COVID shutdown and we're still feeling the effects of that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still feeling",
+            "real question",
+            "partially buy",
+            "lockdowns like",
+            "fully buy",
+            "experienced without",
+            "covid shutdown"
+        ],
+        "trends": [
+            "ca",
+            "effect",
+            "buy",
+            "real",
+            "filter",
+            "market",
+            "partially"
+        ]
+    },
+    {
+        "sentence": [
+            "Like you can't, so the question is how long  does that period last for and are we still in it now?",
+            "And those are the questions we have to ask is like, is it still affecting today?",
+            "And I think a little bit, like I think it's being dramatized and I think Cigna is probably overstating it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still affecting today",
+            "probably overstating",
+            "period last",
+            "little bit",
+            "think cigna",
+            "still",
+            "think"
+        ],
+        "trends": [
+            "like",
+            "think",
+            "question",
+            "period",
+            "still",
+            "little",
+            "bit"
+        ]
+    },
+    {
+        "sentence": [
+            "How long does the after effect take hold?",
+            "I think we're sort of in like the last endings here of that.",
+            "So what we're seeing right now is a little bit of a combination of that, but more actual subtle shift in purchasing behavior."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "effect take hold",
+            "actual subtle shift",
+            "seeing right",
+            "purchasing behavior",
+            "little bit",
+            "last endings",
+            "think"
+        ],
+        "trends": [
+            "behavior",
+            "think",
+            "sort",
+            "endings",
+            "like",
+            "last",
+            "hold"
+        ]
+    },
+    {
+        "sentence": [
+            "Also with, in addition to  fewer engagements because of social changes.",
+            "Are you also seeing that those who are getting engaged are more likely to choose something other than a diamond engagement ring, such as a gemstone or something completely different?",
+            "Not really."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond engagement ring",
+            "something completely different",
+            "choose something",
+            "social changes",
+            "getting engaged",
+            "fewer engagements",
+            "also seeing"
+        ],
+        "trends": [
+            "something",
+            "choose",
+            "completely",
+            "diamond",
+            "different",
+            "also",
+            "addition"
+        ]
+    },
+    {
+        "sentence": [
+            "It's generally lab grown or natural diamond, but they're outliers.",
+            "I mean, 98% are still diamond in some fashion.",
+            "I think we see, like I've mentioned before, I do think we see a lot of re-stabilization  of natural in engaging rings and you're gonna see a healthier balance for natural."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "generally lab grown",
+            "still diamond",
+            "healthier balance",
+            "engaging rings",
+            "natural diamond",
+            "gonna see",
+            "see"
+        ],
+        "trends": [
+            "natural",
+            "see",
+            "diamond",
+            "think",
+            "like",
+            "grown",
+            "outliers"
+        ]
+    },
+    {
+        "sentence": [
+            "Let's just say we're at 50-50 right now, which is really probably too high, maybe 60-40.",
+            "I think that goes back to like 80-20, something like that in terms of a split between natural and lab.",
+            "I'm really interested to see what happens with things like studs and things like diamond tennis bracelets, which I think could have a bit more impact long-term, speaking long-term,  and the effect that we're going to see in engagement rings."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "things like diamond tennis bracelets",
+            "things like studs",
+            "something like",
+            "like 80",
+            "speaking long",
+            "really probably",
+            "really interested"
+        ],
+        "trends": [
+            "like",
+            "see",
+            "things",
+            "really",
+            "think",
+            "goes",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "value purchases.",
+            "of a point rate cut next year, you know, probably three rate cuts.",
+            "Inflation, if it's not completely 100% wrangled up and under control, like if they haven't done their job, the Fed hasn't done their job with inflation right now, we could see a rebound of inflation next year."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "point rate cut next year",
+            "probably three rate cuts",
+            "inflation next year",
+            "value purchases",
+            "inflation right",
+            "could see",
+            "completely 100"
+        ],
+        "trends": [
+            "inflation",
+            "rate",
+            "done",
+            "job",
+            "fed",
+            "year",
+            "next"
+        ]
+    },
+    {
+        "sentence": [
+            "And not to be like a doomsday guy, but like I'm just saying a potential outcome is I don't know if we're totally out of the woods with inflation.",
+            "Now, going back to the actual question that you asked,  Is it still impacting consumers and is it still impacting purchases?",
+            "Yeah, I think that consumers are still feeling price increases everywhere."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still feeling price increases everywhere",
+            "still impacting purchases",
+            "still impacting consumers",
+            "potential outcome",
+            "going back",
+            "doomsday guy",
+            "actual question"
+        ],
+        "trends": [
+            "still",
+            "consumers",
+            "like",
+            "impacting",
+            "asked",
+            "back",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "Like the target inflation rate is 2%.",
+            "We're still at 4% inflation in the US.",
+            "So things are still priced really high."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still priced really high",
+            "target inflation rate",
+            "2 %.",
+            "still",
+            "inflation",
+            "us",
+            "things"
+        ],
+        "trends": [
+            "inflation",
+            "still",
+            "us",
+            "things",
+            "really",
+            "priced",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, if you look at credit card usage and credit card balances, they're like skyrocketed.",
+            "So people are leveraging credit really highly.",
+            "And I think it definitely still impacts folks, but people are spending money."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "definitely still impacts folks",
+            "leveraging credit really highly",
+            "credit card usage",
+            "credit card balances",
+            "spending money",
+            "like skyrocketed",
+            "think"
+        ],
+        "trends": [
+            "credit",
+            "people",
+            "card",
+            "still",
+            "spending",
+            "money",
+            "definitely"
+        ]
+    },
+    {
+        "sentence": [
+            "spending money for sure.",
+            "That's why I said, like, I think the demand is still there.",
+            "What happens are folks overspending?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "spending money",
+            "folks overspending",
+            "think",
+            "sure",
+            "still",
+            "said",
+            "like"
+        ],
+        "trends": [
+            "sure",
+            "spending",
+            "money",
+            "overspending",
+            "happens",
+            "think",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "Going to see what happens next year.",
+            "You know, I'm holding my breath and keeping my fingers crossed that the inflation is under control and that if inflation is under control and rate cuts happen next year, we're going to see a really good year next year.",
+            "You know, we'll see a really strong 2024."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rate cuts happen next year",
+            "really good year next year",
+            "happens next year",
+            "really strong 2024",
+            "fingers crossed",
+            "see",
+            "see"
+        ],
+        "trends": [
+            "year",
+            "next",
+            "see",
+            "control",
+            "inflation",
+            "good",
+            "crossed"
+        ]
+    },
+    {
+        "sentence": [
+            "I believe.",
+            "Now, if that doesn't happen and inflation is not under control and the Fed can't cut rates,  we're going to see a whole potential different outcome.",
+            "But for this particular season, in terms of inflation, I do think it's affecting people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole potential different outcome",
+            "particular season",
+            "cut rates",
+            "affecting people",
+            "think",
+            "terms",
+            "see"
+        ],
+        "trends": [
+            "fed",
+            "ca",
+            "control",
+            "inflation",
+            "affecting",
+            "terms",
+            "season"
+        ]
+    },
+    {
+        "sentence": [
+            "I actually don't think it's affecting consumers purchasing that much though.",
+            "I think people are still purchasing.",
+            "They're just leveraging up debt like crazy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "debt like crazy",
+            "affecting consumers purchasing",
+            "still purchasing",
+            "much though",
+            "think people",
+            "think",
+            "leveraging"
+        ],
+        "trends": [
+            "think",
+            "purchasing",
+            "still",
+            "people",
+            "like",
+            "though",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "They're purchasing.",
+            "I got this right.",
+            "Because of the higher cost of living, they're taking on more debt in order to make those purchases."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "higher cost",
+            "taking",
+            "right",
+            "purchasing",
+            "purchases",
+            "order",
+            "make"
+        ],
+        "trends": [
+            "taking",
+            "purchases",
+            "order",
+            "make",
+            "living",
+            "higher",
+            "debt"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that what you're saying?",
+            "Yeah, it's like they haven't adjusted to saying, we're going to start spending less.",
+            "It's they've adjusted to  going to continue to spend, we're going to leverage debt, whether it's like buy now pay later, which is huge, huge, or credit cards or whatever other types of debt."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "start spending less",
+            "pay later",
+            "credit cards",
+            "like buy",
+            "leverage debt",
+            "like",
+            "debt"
+        ],
+        "trends": [
+            "going",
+            "like",
+            "adjusted",
+            "debt",
+            "huge",
+            "later",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I think that's right.",
+            "And retailers are facilitating that through sort of store credit cards.",
+            "So what's the most common way of actually facilitating this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "store credit cards",
+            "common way",
+            "actually facilitating",
+            "facilitating",
+            "yeah",
+            "think",
+            "sort"
+        ],
+        "trends": [
+            "facilitating",
+            "yeah",
+            "think",
+            "right",
+            "way",
+            "store",
+            "sort"
+        ]
+    },
+    {
+        "sentence": [
+            "So a lot of jewelers offer like store financing and store financing, traditional credit card debt.",
+            "I mean, that those were the numbers that I was referring to as looking at is just like credit card debts and like  really, really high buy now pay later, especially online, like e commerce buy now pay later.",
+            "I think the biggest weekend they've ever had those businesses did really, really well for Black Friday Thanksgiving weekend."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jewelers offer like store financing",
+            "traditional credit card debt",
+            "like credit card debts",
+            "like e commerce buy",
+            "black friday thanksgiving weekend",
+            "really high buy",
+            "store financing"
+        ],
+        "trends": [
+            "really",
+            "like",
+            "later",
+            "buy",
+            "pay",
+            "weekend",
+            "store"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, I'm thinking how does that reality that a lot of increasing amount of sales, let's say of jewelry are on a basis like this on buy now pen data with credit?",
+            "How does that affect the way that the retailer markets and sells?",
+            "I mean, would it be the same way as before?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "retailer markets",
+            "pen data",
+            "increasing amount",
+            "basis like",
+            "would",
+            "well",
+            "way"
+        ],
+        "trends": [
+            "way",
+            "jewelry",
+            "retailer",
+            "markets",
+            "affect",
+            "sells",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Just you market  than what they want, irrespective of whether they can afford it right now.",
+            "Would there still be a step to lower price points because they know they're buying on debt or how does all this work?",
+            "to spend money."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lower price points",
+            "spend money",
+            "would",
+            "work",
+            "whether",
+            "want",
+            "still"
+        ],
+        "trends": [
+            "would",
+            "work",
+            "still",
+            "step",
+            "whether",
+            "want",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "Two ways.",
+            "One is potentially those they'll up buy, you can upsell them and they'll spend more money.",
+            "So they were always going to spend, but it's just like, Hey, you can get interest free financing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get interest free financing",
+            "two ways",
+            "always going",
+            "upsell",
+            "spend",
+            "spend",
+            "potentially"
+        ],
+        "trends": [
+            "spend",
+            "upsell",
+            "like",
+            "interest",
+            "hey",
+            "going",
+            "potentially"
+        ]
+    },
+    {
+        "sentence": [
+            "Here you go.",
+            "That's one way.",
+            "The second way is that person maybe was actually not going to make a purchase at all, but like you've reduced an e-comm some sophisticated e-comm companies are really, really good at this getting you to pull the trigger when you're sorting  of on the fence of buying or not buying when it's sort of a binary decision sometimes really reducing the friction a lot, which this buy now pay later really helps reduce the friction and says, look, it's easy to buy this."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pay later really helps reduce",
+            "binary decision sometimes really reducing",
+            "really good",
+            "second way",
+            "person maybe",
+            "one way",
+            "sophisticated e"
+        ],
+        "trends": [
+            "really",
+            "friction",
+            "buy",
+            "buying",
+            "getting",
+            "going",
+            "good"
+        ]
+    },
+    {
+        "sentence": [
+            "Here you go.",
+            "Like you don't even need any money.",
+            "So those are the two ways that really and jewelers should honestly should be using this to their advantage."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two ways",
+            "even need",
+            "using",
+            "really",
+            "money",
+            "like",
+            "jewelers"
+        ],
+        "trends": [
+            "need",
+            "money",
+            "like",
+            "ways",
+            "using",
+            "two",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "Like these are tools.",
+            "Most of the sophisticated jewelers are using it.",
+            "Ecom definitely are using it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sophisticated jewelers",
+            "ecom definitely",
+            "using",
+            "using",
+            "tools",
+            "like"
+        ],
+        "trends": [
+            "using",
+            "ecom",
+            "definitely",
+            "sophisticated",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "So those are things that I would recommend using.",
+            "But I also like to say to those spending habits that I was like I was  referencing specifically the credit, that's not specific to jewelry.",
+            "That's just at large."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would recommend using",
+            "spending habits",
+            "referencing specifically",
+            "also like",
+            "like",
+            "things",
+            "specific"
+        ],
+        "trends": [
+            "like",
+            "spending",
+            "specifically",
+            "specific",
+            "say",
+            "referencing",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "So I still think like we're competing heavily with like the travel industry.",
+            "You know, folks are traveling a lot.",
+            "So we still have our challenges."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still think like",
+            "travel industry",
+            "competing heavily",
+            "still",
+            "like",
+            "traveling",
+            "lot"
+        ],
+        "trends": [
+            "like",
+            "traveling",
+            "lot",
+            "know",
+            "travel",
+            "think",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "Like I do think that there's been like we've talked a lot on this podcast, like there's the whole micro industry specific environment of prices dropping and certain like we've talked about changing consumer preferences and all that stuff.",
+            "But then there's also sort of the  is macro tools, buy now, pay later, debt.",
+            "And these are all things that are really important to pay attention to, not just what's happening in our industry, but also there's something else I'll mention too, not to veer too far off topic, but if you look at some of the luxury, again, going outside of our industry, other luxury goods are struggling."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole micro industry specific environment",
+            "changing consumer preferences",
+            "something else",
+            "really important",
+            "prices dropping",
+            "pay later",
+            "pay attention"
+        ],
+        "trends": [
+            "like",
+            "industry",
+            "luxury",
+            "talked",
+            "pay",
+            "also",
+            "look"
+        ]
+    },
+    {
+        "sentence": [
+            "So there was just a report that said, I forget which luxury retailers, it was not jewelry specific, but there were luxury, I think, clothing retailers that were signaling some downward pressure.",
+            "and I think it probably comes through, is there's very complicated dynamics and there's a little bit of bipolarism happening in terms of the data that we're getting because there's such a complicated market right now.",
+            "All right, we better leave it there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "complicated market right",
+            "complicated dynamics",
+            "probably comes",
+            "little bit",
+            "jewelry specific",
+            "downward pressure",
+            "clothing retailers"
+        ],
+        "trends": [
+            "right",
+            "retailers",
+            "luxury",
+            "complicated",
+            "think",
+            "dynamics",
+            "bipolarism"
+        ]
+    },
+    {
+        "sentence": [
+            "Dustin Lemmick of Brightco, it's been really a pleasure to learn about your business and your views on the jewelry business.",
+            "I really enjoyed this conversation and I'm very grateful that you've joined us on this podcast.",
+            "Joshua, thank you so much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joined us",
+            "dustin lemmick",
+            "really enjoyed",
+            "jewelry business",
+            "really",
+            "business",
+            "views"
+        ],
+        "trends": [
+            "really",
+            "business",
+            "much",
+            "grateful",
+            "podcast",
+            "conversation",
+            "enjoyed"
+        ]
+    },
+    {
+        "sentence": [
+            "I really appreciate it.",
+            "It's a great conversation.",
+            "Thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really appreciate",
+            "great conversation",
+            "thank"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "episode of the Rappaport Diamond Podcast.",
+            "Don't forget to subscribe to get future episodes.",
+            "For more discussion, news and analysis about the diamond industry, you can visit Rappaport.com, follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "rappaport diamond podcast",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit rappaport",
+            "diamond industry",
+            "twitter"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "discussion",
+            "diamond",
+            "get",
+            "future",
+            "subscribe"
+        ]
+    },
+    {
+        "sentence": [
+            "We also invite you to watch our weekly market comment videos on our YouTube channel.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly market comment videos",
+            "youtube channel",
+            "also invite",
+            "watch"
+        ],
+        "trends": [
+            "youtube",
+            "weekly",
+            "watch",
+            "videos",
+            "market",
+            "invite",
+            "comment"
+        ]
+    }
+]

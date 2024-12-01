@@ -1,0 +1,2626 @@
+[
+    {
+        "sentence": [
+            " This podcast is brought to you by GIA, the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "Welcome to the Rappaport Diamond Podcast.",
+            "I'm Joshua Friedman, Senior Analyst at Rappaport."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "rappaport diamond podcast",
+            "senior analyst",
+            "protecting consumers",
+            "laboratory services",
+            "joshua friedman",
+            "global gem"
+        ],
+        "trends": [
+            "rappaport",
+            "gia",
+            "brought",
+            "podcast",
+            "analyst",
+            "senior",
+            "friedman"
+        ]
+    },
+    {
+        "sentence": [
+            "My guest on this episode was Ari Jain, Chief Financial Officer at House of Diamonds, a diamond manufacturer and dealer based in New York.",
+            "Ari was involved in his family's diamond business from an early age and even created a diamond pricing algorithm while a sophomore at Cornell University.",
+            "On this podcast, he and I discussed this pricing mechanism, the US market, and why Indian diamond companies are opening offices in New York."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "chief financial officer",
+            "indian diamond companies",
+            "diamond pricing algorithm",
+            "pricing mechanism",
+            "diamond manufacturer",
+            "diamond business",
+            "us market"
+        ],
+        "trends": [
+            "diamond",
+            "york",
+            "new",
+            "pricing",
+            "ari",
+            "mechanism",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "in New York.",
+            "Enjoy the episode.",
+            "out, you put out so much and you put it out very well, very ethically, very honestly and diligently."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york",
+            "well",
+            "put",
+            "put",
+            "much",
+            "honestly",
+            "ethically"
+        ],
+        "trends": [
+            "put",
+            "well",
+            "much",
+            "honestly",
+            "ethically",
+            "diligently"
+        ]
+    },
+    {
+        "sentence": [
+            "And I truly enjoy reading and watching all the content you produce.",
+            "Thank you.",
+            "Very kind of you to say that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "truly enjoy reading",
+            "watching",
+            "thank",
+            "say",
+            "produce",
+            "kind",
+            "content"
+        ],
+        "trends": [
+            "watching",
+            "truly",
+            "reading",
+            "produce",
+            "enjoy",
+            "content"
+        ]
+    },
+    {
+        "sentence": [
+            "So House of Diamonds is the world's leading only natural diamond and jewelry manufacturer.",
+            "We boast offices in key global locations such as New York, Mumbai, Surat and Hong Kong.",
+            "So our specialization lies in larger diamonds, particularly 2Kar plus GIA certified diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "particularly 2kar plus gia certified diamonds",
+            "key global locations",
+            "larger diamonds",
+            "specialization lies",
+            "new york",
+            "natural diamond",
+            "jewelry manufacturer"
+        ],
+        "trends": [
+            "diamonds",
+            "particularly",
+            "plus",
+            "leading",
+            "world",
+            "diamond",
+            "manufacturer"
+        ]
+    },
+    {
+        "sentence": [
+            "in both round and fancy shapes, as well as diamond, Mellie and jewelry across all shapes and qualities.",
+            "And the GIA certified goods, we do a very good job in pricing them.",
+            "So our prices are updated bi-weekly using our pricing algorithms."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "gia certified goods",
+            "weekly using",
+            "updated bi",
+            "jewelry across",
+            "good job",
+            "pricing algorithms",
+            "fancy shapes"
+        ],
+        "trends": [
+            "pricing",
+            "shapes",
+            "job",
+            "good",
+            "certified",
+            "gia",
+            "goods"
+        ]
+    },
+    {
+        "sentence": [
+            "And we make sure to provide customers with diamonds that are better than the certificates.",
+            "Right now, we've seen a trend with companies kind of going for good certs, but the diamonds aren't as great.",
+            "But we prioritize  and showing our customers diamonds that are even better than the certificate implies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "provide customers",
+            "make sure",
+            "good certs",
+            "companies kind",
+            "certificate implies",
+            "even better",
+            "customers diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "better",
+            "customers",
+            "showing",
+            "certificate",
+            "prioritize",
+            "certificates"
+        ]
+    },
+    {
+        "sentence": [
+            "I want to ask a little bit about that pricing algorithm in a few minutes.",
+            "But first, I just want to hear about how you got into family business.",
+            "So I went to Cornell University for my undergrad."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pricing algorithm",
+            "little bit",
+            "family business",
+            "cornell university",
+            "went",
+            "want",
+            "want"
+        ],
+        "trends": [
+            "want",
+            "went",
+            "university",
+            "undergrad",
+            "hear",
+            "got",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "And at Dyson Business School, I wanted to try out and explore a bunch of different careers.",
+            "So I gained tremendous experience through my time as founder and president of Cornell Marketing Organization.",
+            "I also joined many finance and venture  capital clubs."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also joined many finance",
+            "venture capital clubs",
+            "gained tremendous experience",
+            "dyson business school",
+            "cornell marketing organization",
+            "different careers",
+            "wanted"
+        ],
+        "trends": [
+            "finance",
+            "bunch",
+            "business",
+            "careers",
+            "also",
+            "capital",
+            "clubs"
+        ]
+    },
+    {
+        "sentence": [
+            "But at the end of the day, I spent a few summers at our family business office in New York.",
+            "And I believe that the family business was the best way for me to express my personal creativity and leadership skills.",
+            "And what isn't said enough is that our business, like the jewelry and diamond business, especially in a family business, it's a very fun profession."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "family business office",
+            "family business",
+            "family business",
+            "said enough",
+            "personal creativity",
+            "new york",
+            "leadership skills"
+        ],
+        "trends": [
+            "business",
+            "family",
+            "best",
+            "york",
+            "summers",
+            "spent",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "There's a lot of interaction with amazing people.",
+            "customers, you get to see your family every day.",
+            "And managing your own business, personally for me, is very enjoyable and it's like growing your own baby."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "family every day",
+            "like growing",
+            "amazing people",
+            "see",
+            "personally",
+            "managing",
+            "lot"
+        ],
+        "trends": [
+            "amazing",
+            "people",
+            "lot",
+            "family",
+            "customers",
+            "day",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "I've always been very growth oriented and I love to see things grow.",
+            "I'm talking about Cornell.",
+            "When I was researching this, I stumbled across a very interesting interview with you in Cornell Daily Sun."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see things grow",
+            "cornell daily sun",
+            "stumbled across",
+            "interesting interview",
+            "growth oriented",
+            "cornell",
+            "talking"
+        ],
+        "trends": [
+            "things",
+            "see",
+            "sun",
+            "stumbled",
+            "researching",
+            "oriented",
+            "love"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a student newspaper that actually gave me a few ideas for things to ask you about.",
+            "But a couple of things I wanted to focus on.",
+            "How would you describe the business model of House of Diamonds?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "student newspaper",
+            "business model",
+            "actually gave",
+            "would",
+            "wanted",
+            "things",
+            "things"
+        ],
+        "trends": [
+            "things",
+            "wanted",
+            "focus",
+            "couple",
+            "would",
+            "model",
+            "house"
+        ]
+    },
+    {
+        "sentence": [
+            "Our business model is from rough to polish.",
+            "We have manufacturing units in Surat and Mumbai.",
+            "In Surat, we cut and polish our rough diamonds, and in Mumbai, we assemble our natural diamond jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond jewelry",
+            "manufacturing units",
+            "business model",
+            "rough diamonds",
+            "rough",
+            "surat",
+            "surat"
+        ],
+        "trends": [
+            "rough",
+            "polish",
+            "surat",
+            "mumbai",
+            "natural",
+            "jewelry",
+            "units"
+        ]
+    },
+    {
+        "sentence": [
+            "From Surat and Mumbai, almost all of the inventory comes to our New York or Hong Kong office, and from there, we help our customers through direct sales and or memo, and we are proud to say we serve customers in over 60 countries of the world.",
+            "actually found out from reading in that piece in the Cornell newspaper.",
+            "What is your pricing algorithm?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hong kong office",
+            "pricing algorithm",
+            "new york",
+            "inventory comes",
+            "direct sales",
+            "cornell newspaper",
+            "actually found"
+        ],
+        "trends": [
+            "customers",
+            "almost",
+            "comes",
+            "countries",
+            "actually",
+            "cornell",
+            "reading"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's a very intricate and refined system that we rely on to give our customers the best market prices every day.",
+            "It makes suggestions to us daily, but at the end of the day, there is a human that has to approve the price changes.",
+            "And it relies on many factors such as our past sales history, various market factors, diamond attributes, such as cut, color, clarity, florentine,  Does your pricing algorithm enable you to sell on average at a lower price than competitors?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "best market prices every day",
+            "various market factors",
+            "pricing algorithm enable",
+            "past sales history",
+            "many factors",
+            "us daily",
+            "refined system"
+        ],
+        "trends": [
+            "factors",
+            "market",
+            "day",
+            "price",
+            "daily",
+            "end",
+            "suggestions"
+        ]
+    },
+    {
+        "sentence": [
+            "I forgive you if you mentioned this already.",
+            "Your customers are mostly retailers, right?",
+            "You're just selling directly to retailers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "selling directly",
+            "mostly retailers",
+            "retailers",
+            "right",
+            "mentioned",
+            "forgive",
+            "customers"
+        ],
+        "trends": [
+            "retailers",
+            "mentioned",
+            "forgive",
+            "already",
+            "selling",
+            "directly",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "other dealers?",
+            "Yes, we sell to wholesalers and retailers, but our priority has always been helping retailers, but sometimes our prices are really good and other dealers will also buy from us.",
+            "Okay, and how did that pricing algorithm come about?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pricing algorithm come",
+            "really good",
+            "also buy",
+            "helping retailers",
+            "retailers",
+            "yes",
+            "wholesalers"
+        ],
+        "trends": [
+            "retailers",
+            "also",
+            "always",
+            "buy",
+            "dealers",
+            "good",
+            "helping"
+        ]
+    },
+    {
+        "sentence": [
+            "How was that a kind of an in-house invention, so to speak?",
+            "Exactly, so we had a team of artificial intelligence engineers and computer science engineers who spent around two, three years developing and refining this model using  are 25 years of data and current day data and it's still a work in progress, the algorithm, but I do think it has helped us tremendously, especially in this downward trending market.",
+            "It's helped us navigate the process much more smoothly."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spent around two",
+            "helped us tremendously",
+            "helped us navigate",
+            "downward trending market",
+            "computer science engineers",
+            "artificial intelligence engineers",
+            "three years developing"
+        ],
+        "trends": [
+            "years",
+            "data",
+            "engineers",
+            "us",
+            "helped",
+            "much",
+            "navigate"
+        ]
+    },
+    {
+        "sentence": [
+            "When did you start work on this?",
+            "So I started work on this sophomore year of Cornell very early.",
+            "I started coming to the shows in high school and every summer almost I'd be working with the family business."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "every summer almost",
+            "started work",
+            "started coming",
+            "start work",
+            "sophomore year",
+            "high school",
+            "family business"
+        ],
+        "trends": [
+            "working",
+            "summer",
+            "shows",
+            "school",
+            "started",
+            "year",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "So while you were still in  student that you started working on this algorithm.",
+            "Exactly, yes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started working",
+            "yes",
+            "student",
+            "still",
+            "right",
+            "exactly",
+            "algorithm"
+        ],
+        "trends": [
+            "working",
+            "student",
+            "still",
+            "started",
+            "algorithm"
+        ]
+    },
+    {
+        "sentence": [
+            "And what stage was AI at at the time?",
+            "AI was quite developed.",
+            "This isn't, I wouldn't say it's the most advanced AI algorithm because for diamond prices you don't necessarily need the most advanced AI, but it has elements of AI and it incorporates a lot of different characteristics to make pricing decisions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "make pricing decisions",
+            "advanced ai algorithm",
+            "advanced ai",
+            "quite developed",
+            "necessarily need",
+            "different characteristics",
+            "diamond prices"
+        ],
+        "trends": [
+            "ai",
+            "advanced",
+            "algorithm",
+            "characteristics",
+            "decisions",
+            "elements",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Right, and how unique would you say, how does this differ from what other companies have?",
+            "I think it's very unique  because it's a big automation.",
+            "Before the process was we would have to manually look at each diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "manually look",
+            "big automation",
+            "unique would",
+            "would",
+            "unique",
+            "think",
+            "say"
+        ],
+        "trends": [
+            "would",
+            "unique",
+            "say",
+            "think",
+            "big",
+            "automation",
+            "process"
+        ]
+    },
+    {
+        "sentence": [
+            "So one person would have to keep analyzing its characteristics and see how the price is compared to the quality of the diamond.",
+            "But now we have an automation that helps us look at 3,500 diamonds every day.",
+            "And it makes suggestions to us whether we should lower or increase the price of something depending on the market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "500 diamonds every day",
+            "one person would",
+            "helps us look",
+            "us whether",
+            "something depending",
+            "makes suggestions",
+            "keep analyzing"
+        ],
+        "trends": [
+            "us",
+            "price",
+            "market",
+            "makes",
+            "look",
+            "every",
+            "helps"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's become a really game changer for us because it allows us to adjust very quickly.",
+            "In the past,  three years, I think there's been tremendous market changes.",
+            "Prices drop a lot and then sometimes prices went up a lot and then they went down."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tremendous market changes",
+            "really game changer",
+            "sometimes prices went",
+            "prices drop",
+            "three years",
+            "allows us",
+            "went"
+        ],
+        "trends": [
+            "us",
+            "prices",
+            "lot",
+            "went",
+            "market",
+            "changes",
+            "drop"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's been extremely helpful for us.",
+            "I know that it's not been the easiest market in the last few months.",
+            "Although as we discussed before, it seems like the dealers in the US seem to be a little bit happier than what we're hearing from the manufacturers in India."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit happier",
+            "seems like",
+            "extremely helpful",
+            "easiest market",
+            "us seem",
+            "us",
+            "months"
+        ],
+        "trends": [
+            "us",
+            "happier",
+            "bit",
+            "months",
+            "market",
+            "easiest",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "How is the retail side at the moment?",
+            "So at the right prices, US retail demand is still very much there, but it's very important to stay on top  of your prices, adjust them constantly, and really service your customers well.",
+            "So the retailers are still buying, but just at lower price points due to price pressures from various factors such as a delay in engagements that CigNet continuously cites and a high interest rate environment which limits consumer credit and therefore consumer spending."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high interest rate environment",
+            "lower price points due",
+            "therefore consumer spending",
+            "limits consumer credit",
+            "cignet continuously cites",
+            "us retail demand",
+            "price pressures"
+        ],
+        "trends": [
+            "retail",
+            "price",
+            "consumer",
+            "prices",
+            "still",
+            "constantly",
+            "customers"
+        ]
+    },
+    {
+        "sentence": [
+            "But retailers are still buying.",
+            "You just have to give them the correct product at the right price.",
+            "And I do see a big shift  shift back to natural diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "big shift shift back",
+            "still buying",
+            "right price",
+            "natural diamonds",
+            "correct product",
+            "see",
+            "retailers"
+        ],
+        "trends": [
+            "shift",
+            "still",
+            "retailers",
+            "buying",
+            "see",
+            "natural",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "That's something that has been mentioned by a few people over the last five months, I guess, since maybe January, February this year.",
+            "Do you believe that that return to natural diamonds has been significant enough to really kind of satisfy the trade to really calm the trades nerves?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "since maybe january",
+            "last five months",
+            "trades nerves",
+            "significant enough",
+            "really kind",
+            "really calm",
+            "natural diamonds"
+        ],
+        "trends": [
+            "really",
+            "year",
+            "people",
+            "february",
+            "five",
+            "guess",
+            "january"
+        ]
+    },
+    {
+        "sentence": [
+            "No, definitely not.",
+            "So basically, this is how the labrador diamond market share went up like this.",
+            "But I think now it's reached the pinnacle already."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "labrador diamond market share went",
+            "pinnacle already",
+            "think",
+            "reached",
+            "like",
+            "definitely",
+            "basically"
+        ],
+        "trends": [
+            "think",
+            "reached",
+            "pinnacle",
+            "went",
+            "share",
+            "market",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And now it's slightly going down.",
+            "going to go down dramatically as we approach the end of 2024 and we go into 2025.",
+            "That being said, I do not think natural diamond dealers or retailers should be nervous at all because if you look at economics and history, the future for lab-grown diamonds is not very bright."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think natural diamond dealers",
+            "grown diamonds",
+            "slightly going",
+            "going",
+            "said",
+            "retailers",
+            "nervous"
+        ],
+        "trends": [
+            "go",
+            "bright",
+            "dealers",
+            "diamond",
+            "diamonds",
+            "economics",
+            "approach"
+        ]
+    },
+    {
+        "sentence": [
+            "And I have friends that deal in lab-grown diamonds.",
+            "We personally are one of the only companies that have never even touched lab-grown diamonds.",
+            "We only do natural, but I've been telling them too that the future is very grim because  As you know, the lab-grown color stones created a big impact too when they entered the market, but their prices now are some of them sell for less than a dollar a carat."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown color stones created",
+            "never even touched lab",
+            "grown diamonds",
+            "grown diamonds",
+            "big impact",
+            "lab",
+            "lab"
+        ],
+        "trends": [
+            "diamonds",
+            "carat",
+            "touched",
+            "companies",
+            "personally",
+            "one",
+            "never"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's what happens when you create something that's mass produced.",
+            "You can't sell something that's mass produced as luxury.",
+            "And all the retailers are getting away with it because the problem is that I feel bad for end consumers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sell something",
+            "mass produced",
+            "mass produced",
+            "getting away",
+            "feel bad",
+            "end consumers",
+            "create something"
+        ],
+        "trends": [
+            "something",
+            "produced",
+            "mass",
+            "retailers",
+            "problem",
+            "sell",
+            "luxury"
+        ]
+    },
+    {
+        "sentence": [
+            "They don't know the real price of lab-grown diamonds.",
+            "They don't know the real cost.",
+            "of wholesale lab-grown diamonds, which I assume is $25 per carat, maybe even lower."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "maybe even lower",
+            "25 per carat",
+            "real price",
+            "real cost",
+            "grown diamonds",
+            "grown diamonds",
+            "wholesale lab"
+        ],
+        "trends": [
+            "real",
+            "know",
+            "diamonds",
+            "wholesale",
+            "per",
+            "maybe",
+            "lower"
+        ]
+    },
+    {
+        "sentence": [
+            "At a recent show in Las Vegas, they were selling five carat plus each lab-grown diamonds for $99 a carat.",
+            "And that was just what they were offering to sell it at.",
+            "I'm sure you can negotiate with them too."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "selling five carat plus",
+            "recent show",
+            "las vegas",
+            "grown diamonds",
+            "carat",
+            "sure",
+            "sell"
+        ],
+        "trends": [
+            "carat",
+            "vegas",
+            "show",
+            "selling",
+            "recent",
+            "plus",
+            "las"
+        ]
+    },
+    {
+        "sentence": [
+            "So it just goes to show you how low is the price.",
+            "I know retailers are selling the lab-grown diamonds for still very expensive amounts, but consumers can't be ignorant for so long.",
+            "They will figure out the actual price."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "know retailers",
+            "grown diamonds",
+            "expensive amounts",
+            "actual price",
+            "price",
+            "still",
+            "show"
+        ],
+        "trends": [
+            "price",
+            "expensive",
+            "amounts",
+            "ca",
+            "consumers",
+            "low",
+            "show"
+        ]
+    },
+    {
+        "sentence": [
+            "figure out that the lab-grown diamond engagement ring they're looking to gift their wife, it's not worth even more than $25.",
+            "There's going to be no romanticism left about this.",
+            "And I personally think selling lab-grown diamonds at such exponential margins is very unethical because the rate of margin retailers and wholesalers are charging for lab-grown diamonds is exponential."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown diamond engagement ring",
+            "personally think selling lab",
+            "grown diamonds",
+            "grown diamonds",
+            "worth even",
+            "romanticism left",
+            "margin retailers"
+        ],
+        "trends": [
+            "diamonds",
+            "exponential",
+            "worth",
+            "wife",
+            "diamond",
+            "engagement",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "Whereas in natural diamonds, wholesalers might be charging from two to maybe maximum 10%.",
+            "What are you hearing from your customers about expectations for the holiday season?",
+            "I think the downward price pressures are impacting the wholesalers more than the retailers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "maybe maximum 10 %.",
+            "downward price pressures",
+            "natural diamonds",
+            "holiday season",
+            "wholesalers might",
+            "wholesalers",
+            "whereas"
+        ],
+        "trends": [
+            "wholesalers",
+            "season",
+            "think",
+            "retailers",
+            "price",
+            "pressures",
+            "holiday"
+        ]
+    },
+    {
+        "sentence": [
+            "So the retailers are still selling quite well, at least in the US, they are selling well.",
+            "They might be selling different products like lab grown or color stones, but they are selling quite well.",
+            "And I personally think that the holiday season is going to be a positive surprise."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "selling different products like lab grown",
+            "still selling quite well",
+            "selling quite well",
+            "selling well",
+            "positive surprise",
+            "personally think",
+            "holiday season"
+        ],
+        "trends": [
+            "selling",
+            "well",
+            "quite",
+            "different",
+            "grown",
+            "lab",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "I think right now it's a summertime, so it's very slow.",
+            "And many people in the industry tend to live in extremes.",
+            "So I think that's a positive surprise."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "positive surprise",
+            "many people",
+            "industry tend",
+            "think right",
+            "think",
+            "summertime",
+            "slow"
+        ],
+        "trends": [
+            "think",
+            "tend",
+            "people",
+            "many",
+            "live",
+            "summertime",
+            "slow"
+        ]
+    },
+    {
+        "sentence": [
+            "the market is bad, they believe it's going to be a doomsday scenario.",
+            "And if the market is good, as we saw two, three years ago, people think the prices will never stop going up and they'll refuse to sell diamonds because they think the prices are going to keep rising every week and week.",
+            "So I personally believe the market has overcorrected recently and the natural diamond prices right now are extremely low."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "keep rising every week",
+            "natural diamond prices right",
+            "three years ago",
+            "never stop going",
+            "sell diamonds",
+            "saw two",
+            "overcorrected recently"
+        ],
+        "trends": [
+            "going",
+            "prices",
+            "market",
+            "believe",
+            "think",
+            "week",
+            "overcorrected"
+        ]
+    },
+    {
+        "sentence": [
+            "Like there's one carat nice quality diamonds like JKSI2, which are nice to the naked eye  I  shortages.",
+            "So that's a very, very good question.",
+            "On the lab-grown side, even though the prices on the wholesale side have plummeted, they have gone down so, so much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one carat nice quality diamonds like jksi2",
+            "wholesale side",
+            "nice",
+            "naked eye",
+            "like",
+            "grown side",
+            "good question"
+        ],
+        "trends": [
+            "nice",
+            "like",
+            "side",
+            "plummeted",
+            "diamonds",
+            "eye",
+            "wholesale"
+        ]
+    },
+    {
+        "sentence": [
+            "Like I couldn't have even imagined how much they've gone down.",
+            "The retailers are still selling them expensive.",
+            "The retailers are still selling lab-grown diamonds as expensive."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still selling lab",
+            "still selling",
+            "grown diamonds",
+            "even imagined",
+            "retailers",
+            "retailers",
+            "much"
+        ],
+        "trends": [
+            "still",
+            "selling",
+            "retailers",
+            "expensive",
+            "much",
+            "like",
+            "imagined"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that's partially because they know if they sell it too cheap, they will destroy the whole value of lab-grown diamonds.",
+            "Whereas on the natural diamond side, I think when natural diamonds are expensive,  natural diamonds go down in price, the retailers kind of pass the bargain down to their customers because it's higher amounts.",
+            "And for natural diamonds, for example, if someone's selling a $30,000 diamond, a retailer might put like a 10 to 20% markup on it and then sell it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "retailer might put like",
+            "natural diamond side",
+            "natural diamonds go",
+            "natural diamonds",
+            "natural diamonds",
+            "000 diamond",
+            "grown diamonds"
+        ],
+        "trends": [
+            "natural",
+            "diamonds",
+            "think",
+            "sell",
+            "diamond",
+            "might",
+            "markup"
+        ]
+    },
+    {
+        "sentence": [
+            "But as far as lab grown diamonds go, I think the retailers are just getting a better wholesale price for it, but they're not passing the savings down to their consumers.",
+            "There are a few places like, for example, Walmart that are selling lab grown diamonds  at really good prices compared to other retailers, but because of the perception of Walmart, they're not selling as well, but it's the same thing they're selling.",
+            "Very high quality lab-grown diamonds for a very low price."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really good prices compared",
+            "lab grown diamonds go",
+            "selling lab grown diamonds",
+            "high quality lab",
+            "better wholesale price",
+            "grown diamonds",
+            "low price"
+        ],
+        "trends": [
+            "selling",
+            "walmart",
+            "retailers",
+            "grown",
+            "lab",
+            "wholesale",
+            "consumers"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think if anyone's buying a lab-grown diamond, why not buy it at the same price from Walmart?",
+            "Right.",
+            "So I want to ask about something that we touched on before, which was that the general mood in the US dealer market has kind of been okay, whereas colleagues in India seem to be struggling a lot."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us dealer market",
+            "whereas colleagues",
+            "india seem",
+            "grown diamond",
+            "general mood",
+            "want",
+            "walmart"
+        ],
+        "trends": [
+            "kind",
+            "ask",
+            "colleagues",
+            "anyone",
+            "walmart",
+            "buy",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you agree with that?",
+            "that presentation of the situation and what's your explanation for that?",
+            "the  sell on memo as well because they need to pay their debt obligations, whereas US dealers don't have any debt obligations."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whereas us dealers",
+            "debt obligations",
+            "debt obligations",
+            "well",
+            "situation",
+            "sell",
+            "presentation"
+        ],
+        "trends": [
+            "obligations",
+            "debt",
+            "whereas",
+            "well",
+            "us",
+            "sell",
+            "pay"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "So the US dealers really have the luxury of being able to nimble about what and how much they buy.",
+            "US dealers are much better to work with for US retailers because they aren't as time sensitive as Indian manufacturers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us dealers really",
+            "us dealers",
+            "us retailers",
+            "time sensitive",
+            "indian manufacturers",
+            "much better",
+            "much"
+        ],
+        "trends": [
+            "us",
+            "much",
+            "dealers",
+            "work",
+            "time",
+            "sensitive",
+            "retailers"
+        ]
+    },
+    {
+        "sentence": [
+            "So we, for example, will let customers take their time on stones they have on memo, which if anyone's dealt with an end consumer,  takes time.",
+            "You really need to be patient for a retailer to sell a $20,000 plus diamond.",
+            "The customer is going to think about it for a couple of weeks and then they might make their decision."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "let customers take",
+            "000 plus diamond",
+            "really need",
+            "might make",
+            "end consumer",
+            "takes time",
+            "time"
+        ],
+        "trends": [
+            "time",
+            "memo",
+            "let",
+            "consumer",
+            "weeks",
+            "customer",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's where the US dealers really come into play because the US dealers have that type of patience because they generally don't have debt.",
+            "And that's why I think they're much easier to work with.",
+            "And that's why the US dealers are doing better right now."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us dealers really come",
+            "us dealers",
+            "us dealers",
+            "much easier",
+            "better right",
+            "work",
+            "type"
+        ],
+        "trends": [
+            "us",
+            "dealers",
+            "right",
+            "type",
+            "really",
+            "work",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Is it correct to frame this as a US versus India thing?",
+            "Or is it more accurate that it's dealers  versus manufacturers.",
+            "I know there aren't that many manufacturers now in the US, but is it really about geographical differences or is it just two different types of businesses?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us versus india thing",
+            "two different types",
+            "dealers versus manufacturers",
+            "many manufacturers",
+            "geographical differences",
+            "us",
+            "really"
+        ],
+        "trends": [
+            "us",
+            "versus",
+            "manufacturers",
+            "india",
+            "correct",
+            "frame",
+            "thing"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's two different types of businesses.",
+            "It's dealers versus manufacturers.",
+            "And more important, it's not even dealers versus manufacturers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "even dealers versus manufacturers",
+            "dealers versus manufacturers",
+            "two different types",
+            "think",
+            "important",
+            "businesses"
+        ],
+        "trends": [
+            "versus",
+            "manufacturers",
+            "dealers",
+            "types",
+            "two",
+            "think",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "I think the biggest difference is debt.",
+            "Whoever has debt and the prices are going down, they are either going to have to sell very cheap to raise liquidity and they're going to have to sell very quickly.",
+            "They simply can't do memo."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "raise liquidity",
+            "biggest difference",
+            "either going",
+            "going",
+            "going",
+            "whoever",
+            "think"
+        ],
+        "trends": [
+            "going",
+            "debt",
+            "sell",
+            "whoever",
+            "raise",
+            "quickly",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "If you need money, you need to sell on the table.",
+            "and you need the money in your bank.",
+            "Where does House of Diamonds stand in this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamonds stand",
+            "need money",
+            "money",
+            "need",
+            "need",
+            "table",
+            "sell"
+        ],
+        "trends": [
+            "need",
+            "money",
+            "stand",
+            "house",
+            "diamonds",
+            "table",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "I know you do you view yourself as more of a dealer and more of a manufacturer?",
+            "We're a manufacturer and dealer, but we have no debt obligations.",
+            "So we kind of pride ourselves on that because we give our customers the best prices, but we will also be very patient with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "debt obligations",
+            "best prices",
+            "view",
+            "pride",
+            "patient",
+            "manufacturer",
+            "manufacturer"
+        ],
+        "trends": [
+            "manufacturer",
+            "dealer",
+            "pride",
+            "prices",
+            "patient",
+            "kind",
+            "obligations"
+        ]
+    },
+    {
+        "sentence": [
+            "Like if they need more time on their memo, we won't rush them.",
+            "We'll tell them to take their time and we value the customer relationship much more than whether the diamond sells or not.",
+            "We want to provide them  the best service so they keep coming back to us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "keep coming back",
+            "customer relationship much",
+            "diamond sells",
+            "best service",
+            "whether",
+            "want",
+            "value"
+        ],
+        "trends": [
+            "time",
+            "best",
+            "coming",
+            "keep",
+            "provide",
+            "like",
+            "wo"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And going back to the issue of lab-grown diamonds, you mentioned that the sharp decline in prices of synthetics, but still whenever I speak to people in the industry, they say that there's a great need to market natural diamonds and distinguish it from synthetics.",
+            "Do you think the industry is doing that well enough now?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "market natural diamonds",
+            "grown diamonds",
+            "well enough",
+            "still whenever",
+            "sharp decline",
+            "great need",
+            "going back"
+        ],
+        "trends": [
+            "synthetics",
+            "diamonds",
+            "whenever",
+            "mentioned",
+            "decline",
+            "distinguish",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "And do you think there's more that it needs to do?",
+            "I think the best way to market natural diamonds is by saying the truth about lab-grown diamonds.",
+            "Until we make the cost of lab-grown diamonds public,  to the end consumer, which I assume is $25 per carat, maybe less."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "25 per carat",
+            "market natural diamonds",
+            "grown diamonds public",
+            "grown diamonds",
+            "maybe less",
+            "end consumer",
+            "best way"
+        ],
+        "trends": [
+            "diamonds",
+            "carat",
+            "consumer",
+            "way",
+            "think",
+            "saying",
+            "best"
+        ]
+    },
+    {
+        "sentence": [
+            "That's the best way to get natural diamonds back on track because it's simply not romantic to give to your wife a $25 engagement ring.",
+            "Just by basic economics, we can assume the cost and price of wholesale lab-grown diamonds will continue to fall further.",
+            "Eventually, it will become $5 a carat."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get natural diamonds back",
+            "25 engagement ring",
+            "grown diamonds",
+            "wholesale lab",
+            "best way",
+            "basic economics",
+            "wife"
+        ],
+        "trends": [
+            "diamonds",
+            "fall",
+            "basic",
+            "continue",
+            "cost",
+            "economics",
+            "wholesale"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, if we look at history as a guide to predict lab-grown diamond prices, the lab-grown colorstone market is a great area to study.",
+            "And these products, again, are being sold  for pennies per carat, less than a dollar per carat.",
+            "Lab-grown diamonds are going to follow the same trend, but the main thing that I've talked to many people about is until the end consumer finds out that the value of what they're gifting their wife or spouse is so low that they wouldn't even bother to lose it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pennies per carat",
+            "end consumer finds",
+            "dollar per carat",
+            "grown diamond prices",
+            "grown colorstone market",
+            "grown diamonds",
+            "many people"
+        ],
+        "trends": [
+            "carat",
+            "per",
+            "market",
+            "history",
+            "predict",
+            "prices",
+            "area"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think how anyone can buy lab-grown diamonds.",
+            "And if they know about the exponential margins they're buying it, I think they would be very turned off.",
+            "If they're buying something that's worth $25 a carat wholesale for around $2,000,  I think that type of margin is unethical and I don't know how any consumer can digest that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown diamonds",
+            "exponential margins",
+            "carat wholesale",
+            "buy lab",
+            "buying something",
+            "buying",
+            "would"
+        ],
+        "trends": [
+            "think",
+            "know",
+            "buying",
+            "turned",
+            "margins",
+            "exponential",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "And I don't know what the point is to buy something that's worth $25 a carrot and gift it to your wife.",
+            "There's no significance of that.",
+            "And me personally, I still would rather between a lab-grown diamond or mosa night for my wife, I would pick mosa night because it's still rare."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would pick mosa night",
+            "still would rather",
+            "mosa night",
+            "still rare",
+            "grown diamond",
+            "buy something",
+            "worth"
+        ],
+        "trends": [
+            "wife",
+            "would",
+            "still",
+            "mosa",
+            "night",
+            "diamond",
+            "pick"
+        ]
+    },
+    {
+        "sentence": [
+            "Lab-grown diamond prices, we don't know the end of how cheap it will become.",
+            "The technology keeps getting better.",
+            "So the cost for carrot keeps going down."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "technology keeps getting better",
+            "carrot keeps going",
+            "grown diamond prices",
+            "lab",
+            "know",
+            "end",
+            "cost"
+        ],
+        "trends": [
+            "keeps",
+            "prices",
+            "know",
+            "end",
+            "going",
+            "technology",
+            "getting"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's no rarity to it.",
+            "no scarcity to it.",
+            "I still don't understand how it's still being marketed."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "understand",
+            "still",
+            "still",
+            "scarcity",
+            "rarity",
+            "marketed"
+        ],
+        "trends": [
+            "still",
+            "understand",
+            "marketed"
+        ]
+    },
+    {
+        "sentence": [
+            "I think at the end of the day, it's just the fact that the consumer just doesn't know.",
+            "They don't know the price, but I'm not bothered by that.",
+            "I'm sure time will tell them the price."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sure time",
+            "think",
+            "tell",
+            "price",
+            "price",
+            "know",
+            "know"
+        ],
+        "trends": [
+            "price",
+            "know",
+            "think",
+            "fact",
+            "end",
+            "day",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "When they go back to the retail stores and try to sell or upgrade, they will figure out that these retailers are giving me zero dollars back for this lab grown diamond ring.",
+            "And I spent a couple thousand dollars on it.",
+            "And I think that's when  they return back to the retail store is also a big point."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown diamond ring",
+            "couple thousand dollars",
+            "zero dollars back",
+            "return back",
+            "go back",
+            "retail stores",
+            "retail store"
+        ],
+        "trends": [
+            "back",
+            "retail",
+            "dollars",
+            "spent",
+            "couple",
+            "retailers",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "They'll pivot to natural because even if they buy something small, it retains its value very well.",
+            "Even if they are paying 25% more than the wholesale price, at least you can pass down value that way.",
+            "If someone buys a $30,000 natural diamond, it's something significant to pass down to your children."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "buy something small",
+            "000 natural diamond",
+            "something significant",
+            "wholesale price",
+            "someone buys",
+            "paying 25",
+            "natural"
+        ],
+        "trends": [
+            "pass",
+            "even",
+            "value",
+            "something",
+            "natural",
+            "wholesale",
+            "way"
+        ]
+    },
+    {
+        "sentence": [
+            "And if they bought for 30,000, they'll have something worth $28,000 wholesale that they can pass down for generations and generations  No one is ever going to pass down Lapron Diamond and Reins and I bet people won't even be worried if they lose it.",
+            "So where is the significance of a product if people aren't worried about losing it?",
+            "If there's no actual value about it because of the such a low price, then I honestly don't see how people are still buying it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still buying",
+            "something worth",
+            "low price",
+            "lapron diamond",
+            "ever going",
+            "actual value",
+            "000 wholesale"
+        ],
+        "trends": [
+            "people",
+            "pass",
+            "generations",
+            "worried",
+            "actual",
+            "value",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's just because the retailers are still charging very high amounts for it.",
+            "They're not charging close to the wholesale price for it.",
+            "But in the same time, when you have a US mid-market that is on a tight budget, you can  understand why something that's selling for 10% of the price of a natural diamond is doing well at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us mid",
+            "tight budget",
+            "still charging",
+            "natural diamond",
+            "high amounts",
+            "charging close",
+            "wholesale price"
+        ],
+        "trends": [
+            "charging",
+            "price",
+            "still",
+            "high",
+            "retailers",
+            "think",
+            "amounts"
+        ]
+    },
+    {
+        "sentence": [
+            "I do, but I would suggest consumers to buy something like colorstone instead.",
+            "We also deal in colorstones through our sister company called Thigh Gems and that market has been booming.",
+            "And when it comes to rubies, sapphires, green emeralds, this market is really booming because I think customers still want something rare."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think customers still want something rare",
+            "buy something like colorstone instead",
+            "sister company called thigh gems",
+            "would suggest consumers",
+            "green emeralds",
+            "also deal",
+            "really booming"
+        ],
+        "trends": [
+            "booming",
+            "market",
+            "something",
+            "would",
+            "buy",
+            "colorstone",
+            "consumers"
+        ]
+    },
+    {
+        "sentence": [
+            "And a lot of customers have started to understand lab grown diamonds  and simply aren't rare.",
+            "So if you have a lower price point budget, why not buy something that's actually precious rather than buy something that has zero value as soon as you step out of the door?",
+            "You give them the money."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "understand lab grown diamonds",
+            "lower price point budget",
+            "actually precious rather",
+            "zero value",
+            "buy something",
+            "buy something",
+            "step"
+        ],
+        "trends": [
+            "buy",
+            "something",
+            "zero",
+            "understand",
+            "started",
+            "customers",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Signed has warnings on all their lab grown diamond invoices now that beware, this product does not hold its value.",
+            "So why not rather buy something that actually holds its value?",
+            "I do think people should spend their money wisely."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lab grown diamond invoices",
+            "rather buy something",
+            "think people",
+            "money wisely",
+            "actually holds",
+            "warnings",
+            "value"
+        ],
+        "trends": [
+            "value",
+            "something",
+            "rather",
+            "holds",
+            "buy",
+            "wisely",
+            "spend"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think they should pay thousands of dollars for something that's worth only 25  I think that's shooting themselves in the foot.",
+            "I think the biggest change is also retailers.",
+            "Their cash flow is severely limited right now."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "severely limited right",
+            "pay thousands",
+            "cash flow",
+            "biggest change",
+            "also retailers",
+            "worth",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "change",
+            "retailers",
+            "thousands",
+            "dollars",
+            "foot",
+            "worth"
+        ]
+    },
+    {
+        "sentence": [
+            "They're making really exponential margins, but the total amount of money that's coming into their cash flow is being severely limited.",
+            "They still have super high rents.",
+            "They're not going to be able to survive just selling lab-ro."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "making really exponential margins",
+            "super high rents",
+            "total amount",
+            "severely limited",
+            "selling lab",
+            "cash flow",
+            "survive"
+        ],
+        "trends": [
+            "amount",
+            "cash",
+            "able",
+            "going",
+            "selling",
+            "survive",
+            "super"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think it kills the whole story of romanticism if you're selling something that's worth so little.",
+            "for Indian companies to open offices in the US to get closer to the customer.",
+            "That's been going on for quite a while now, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole story",
+            "selling something",
+            "open offices",
+            "indian companies",
+            "get closer",
+            "worth",
+            "us"
+        ],
+        "trends": [
+            "companies",
+            "right",
+            "quite",
+            "going",
+            "worth",
+            "kills",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah.",
+            "That trend.",
+            "Two, three years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "three years",
+            "yeah",
+            "two",
+            "trend"
+        ],
+        "trends": [
+            "years",
+            "two",
+            "three"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that the reason that it gives an opportunity to compete with other dealers on when selling to the retailer?",
+            "Yeah, that's a big reason.",
+            "Also a big reason is due to the slowness of China and Hong Kong."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hong kong",
+            "big reason",
+            "big reason",
+            "reason",
+            "yeah",
+            "slowness",
+            "selling"
+        ],
+        "trends": [
+            "reason",
+            "big",
+            "yeah",
+            "selling",
+            "slowness",
+            "retailer",
+            "opportunity"
+        ]
+    },
+    {
+        "sentence": [
+            "Before a lot of Indian manufacturers would have their key offices in Hong Kong.",
+            "And Hong Kong used to be a very important market because Hong Kong  has a lot of COD buyers.",
+            "Cash on delivery, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "indian manufacturers would",
+            "hong kong used",
+            "hong kong",
+            "hong kong",
+            "key offices",
+            "important market",
+            "cod buyers"
+        ],
+        "trends": [
+            "kong",
+            "hong",
+            "lot",
+            "would",
+            "offices",
+            "used",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "Exactly.",
+            "So instead of memo the Hong Kong and China buyers, they would see a diamond they like and they would buy it.",
+            "They would take the risk and they would buy it rather than the US dealer mentality where they memo it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us dealer mentality",
+            "would take",
+            "would see",
+            "would buy",
+            "would buy",
+            "hong kong",
+            "china buyers"
+        ],
+        "trends": [
+            "would",
+            "memo",
+            "see",
+            "buy",
+            "risk",
+            "rather",
+            "mentality"
+        ]
+    },
+    {
+        "sentence": [
+            "And if their customer buys it, then they buy it.",
+            "So this used to be a key market.",
+            "It used to provide a lot of good cashflow to the Indian manufacturers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "key market",
+            "indian manufacturers",
+            "good cashflow",
+            "customer buys",
+            "used",
+            "used",
+            "provide"
+        ],
+        "trends": [
+            "used",
+            "market",
+            "key",
+            "customer",
+            "provide",
+            "manufacturers",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "But now the Hong Kong China sales have gone down dramatically.",
+            "So a lot of Indian manufacturers  which had their bases in Hong Kong and China have moved to either Dubai, Antwerp or New York because they need a base to generate revenue.",
+            "While the market is bad, they need a base to generate revenue."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hong kong china sales",
+            "hong kong",
+            "new york",
+            "indian manufacturers",
+            "generate revenue",
+            "generate revenue",
+            "either dubai"
+        ],
+        "trends": [
+            "revenue",
+            "need",
+            "base",
+            "generate",
+            "hong",
+            "china",
+            "kong"
+        ]
+    },
+    {
+        "sentence": [
+            "And thankfully, the US is one of the key markets that despite a troubling global economy, it's continuous to do well.",
+            "sentiment?",
+            "I know the manufacturer talking about they're a very respected and good people, but I don't think that's a common sentiment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "troubling global economy",
+            "manufacturer talking",
+            "key markets",
+            "good people",
+            "common sentiment",
+            "sentiment",
+            "well"
+        ],
+        "trends": [
+            "continuous",
+            "common",
+            "good",
+            "think",
+            "talking",
+            "sentiment",
+            "respected"
+        ]
+    },
+    {
+        "sentence": [
+            "I think they're rare in that mentality.",
+            "And I think the way they deal with it is they sell at better prices.",
+            "So they don't have to compete in the US."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "better prices",
+            "way",
+            "us",
+            "think",
+            "think",
+            "sell",
+            "rare"
+        ],
+        "trends": [
+            "think",
+            "rare",
+            "mentality",
+            "way",
+            "sell",
+            "prices",
+            "deal"
+        ]
+    },
+    {
+        "sentence": [
+            "So a lot of the Indian manufacturers that are opening offices in New York, their prices tend to be higher than the Indian manufacturers that don't have offices in New York.",
+            "So it's really just a strategic decision or like a game theory decision.",
+            "So the manufacturer you talked about, their strategy is, hey, we're just going to sell a bit cheaper and we're not going to have to pay the expenses of a New York office and deal with memo and all these difficulties that come with the U.S. market as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "game theory decision",
+            "new york office",
+            "new york",
+            "new york",
+            "strategic decision",
+            "prices tend",
+            "indian manufacturers"
+        ],
+        "trends": [
+            "york",
+            "new",
+            "decision",
+            "going",
+            "offices",
+            "manufacturers",
+            "indian"
+        ]
+    },
+    {
+        "sentence": [
+            "We'll just sell cheaper.",
+            "Whereas a lot of the Indian manufacturers, they have to recoup their cost of running and opening a U.S. office and dealing with memo so they will charge higher prices.",
+            "And that's generally the case if an Indian manufacturer has a New York office as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "charge higher prices",
+            "new york office",
+            "sell cheaper",
+            "indian manufacturers",
+            "indian manufacturer",
+            "office",
+            "whereas"
+        ],
+        "trends": [
+            "opening",
+            "prices",
+            "office",
+            "indian",
+            "york",
+            "generally",
+            "manufacturer"
+        ]
+    },
+    {
+        "sentence": [
+            "Price won't be as good as someone who only has Indian office.",
+            "Right.",
+            "And to clarify, the companies that do have open offices in the US are able to sell at the higher prices because being there enables them to offer a service to the retailer that they wouldn't be able to offer."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "open offices",
+            "indian office",
+            "higher prices",
+            "us",
+            "someone",
+            "service",
+            "sell"
+        ],
+        "trends": [
+            "able",
+            "offer",
+            "would",
+            "clarify",
+            "companies",
+            "enables",
+            "office"
+        ]
+    },
+    {
+        "sentence": [
+            "So the memos and just having the goods nearby, I guess.",
+            "What exactly is that added value?",
+            "Exactly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "goods nearby",
+            "added value",
+            "memos",
+            "guess",
+            "exactly",
+            "exactly"
+        ],
+        "trends": [
+            "value",
+            "exactly",
+            "added",
+            "nearby",
+            "memos",
+            "guess",
+            "goods"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's a proximity to the customer.",
+            "So whether a dealer or a broker can come see their diamond,  at their office and actually analyze them and make the decision in person after seeing the diamond on their hand.",
+            "That makes it much easier for a dealer or wholesaler to decide whether to buy it or not."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much easier",
+            "come see",
+            "actually analyze",
+            "decide whether",
+            "whether",
+            "wholesaler",
+            "think"
+        ],
+        "trends": [
+            "whether",
+            "diamond",
+            "dealer",
+            "think",
+            "proximity",
+            "customer",
+            "hand"
+        ]
+    },
+    {
+        "sentence": [
+            "And the biggest reason again is memo.",
+            "So a lot of retailers are tending to rely exclusively on memo now, especially for larger zones like 2K plus.",
+            "So yeah, these Indian manufacturers that have opened offices here, they are offering that service, which retailers are happy to pay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "larger zones like 2k plus",
+            "rely exclusively",
+            "opened offices",
+            "indian manufacturers",
+            "biggest reason",
+            "yeah",
+            "tending"
+        ],
+        "trends": [
+            "retailers",
+            "memo",
+            "biggest",
+            "reason",
+            "zones",
+            "tending",
+            "especially"
+        ]
+    },
+    {
+        "sentence": [
+            "They will pay  a couple extra points to safeguard them.",
+            "So if the customer buys it, they buy it.",
+            "And if the customer doesn't buy it, they don't buy it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "couple extra points",
+            "customer buys",
+            "customer",
+            "safeguard",
+            "pay",
+            "buy",
+            "buy"
+        ],
+        "trends": [
+            "buy",
+            "customer",
+            "buys",
+            "safeguard",
+            "points",
+            "pay",
+            "extra"
+        ]
+    },
+    {
+        "sentence": [
+            "And just before we finish, just two very final and short points.",
+            "Firstly, one of the trends we've seen this year is that the SIs and lower clarity diamonds have been performing better than the VS and higher.",
+            "So my question is whether you still see that being the case at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lower clarity diamonds",
+            "still see",
+            "short points",
+            "performing better",
+            "year",
+            "whether",
+            "vs"
+        ],
+        "trends": [
+            "case",
+            "still",
+            "see",
+            "question",
+            "whether",
+            "two",
+            "short"
+        ]
+    },
+    {
+        "sentence": [
+            "And secondly, how have the sanctions on Russian diamonds affected your business?",
+            "SIs are doing very well, even in the recent price  I don't think you guys touched SIs too much.",
+            "And this is because SIs are very affordable right now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian diamonds affected",
+            "guys touched sis",
+            "recent price",
+            "affordable right",
+            "sis",
+            "sis",
+            "well"
+        ],
+        "trends": [
+            "sis",
+            "guys",
+            "right",
+            "well",
+            "price",
+            "even",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "And in the high interest rate economy, consumers are very price sensitive.",
+            "And Si goods are beautiful to the naked eye and they provide a very good size to value ratio for consumers.",
+            "And that's the trend we've seen in the US where consumers want big diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high interest rate economy",
+            "consumers want big diamonds",
+            "value ratio",
+            "si goods",
+            "price sensitive",
+            "naked eye",
+            "good size"
+        ],
+        "trends": [
+            "consumers",
+            "big",
+            "diamonds",
+            "want",
+            "economy",
+            "high",
+            "interest"
+        ]
+    },
+    {
+        "sentence": [
+            "And the best way to get big diamonds that are also rare and natural is to go for Si goods.",
+            "quality because a lot of these SI1s, SI2s, they will be 100% eye clean and consumers are more than happy to invest their money in them to get a bigger size.",
+            "As far as the Russian sanctions go, I think a big reason for why, if you remember a couple of years ago, the market was doing really well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian sanctions go",
+            "get big diamonds",
+            "big reason",
+            "years ago",
+            "si goods",
+            "really well",
+            "eye clean"
+        ],
+        "trends": [
+            "get",
+            "big",
+            "go",
+            "goods",
+            "diamonds",
+            "natural",
+            "rare"
+        ]
+    },
+    {
+        "sentence": [
+            "Then all of a sudden the Russian-Ukraine war happened.",
+            "And I think the market truly pivoted at that time and the prices started going down because I believe  Alrosa started overproducing once the war started to provide maybe financing for the war and that created a lot of excess supply in the market and as far as the sanctions go, it's impacted us because it severely limits the rough that we have access to.",
+            "But that being said, I think there are signs that the sanctions aren't being implemented well because as we see Alrosa is producing more than ever and America and Europe together are one of the biggest markets in the world."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "believe alrosa started overproducing",
+            "provide maybe financing",
+            "prices started going",
+            "ukraine war happened",
+            "market truly pivoted",
+            "war started",
+            "see alrosa"
+        ],
+        "trends": [
+            "war",
+            "started",
+            "market",
+            "alrosa",
+            "think",
+            "sanctions",
+            "world"
+        ]
+    },
+    {
+        "sentence": [
+            "So where is all this overproduction from Alrosa going?",
+            "Where is it going?",
+            "If it was truly not getting into the US, I think the market would be way healthier."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "way healthier",
+            "market would",
+            "alrosa going",
+            "going",
+            "us",
+            "truly",
+            "think"
+        ],
+        "trends": [
+            "overproduction",
+            "going",
+            "would",
+            "way",
+            "us",
+            "truly",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "It just doesn't make logical sense to me.",
+            "If Alrosa is producing more than ever, then how is it so that the goods aren't getting into the biggest market in the world?",
+            "I have the same question myself."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make logical sense",
+            "biggest market",
+            "world",
+            "question",
+            "producing",
+            "goods",
+            "getting"
+        ],
+        "trends": [
+            "sense",
+            "make",
+            "world",
+            "producing",
+            "market",
+            "goods",
+            "getting"
+        ]
+    },
+    {
+        "sentence": [
+            "It can't all be going to China because China's not buying very much.",
+            "It can't all be going to India because that market's not big enough yet.",
+            "For me, I still unanswered the question."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big enough yet",
+            "still unanswered",
+            "question",
+            "much",
+            "market",
+            "india",
+            "going"
+        ],
+        "trends": [
+            "going",
+            "ca",
+            "china",
+            "yet",
+            "market",
+            "unanswered",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "Ari, on that note, I just wanted to thank you for joining us on this podcast.",
+            "It's been a very fascinating discussion.",
+            "I've learned a lot about a few issues I hadn't quite thought about closely enough, particularly that issue of Indian companies, why and what benefits it brings for them to have offices in the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quite thought",
+            "indian companies",
+            "fascinating discussion",
+            "closely enough",
+            "joining us",
+            "us",
+            "wanted"
+        ],
+        "trends": [
+            "particularly",
+            "offices",
+            "quite",
+            "us",
+            "wanted",
+            "podcast",
+            "joining"
+        ]
+    },
+    {
+        "sentence": [
+            "So, Ari, thank you very much.",
+            "It's been great to have you on the podcast.",
+            "I really had a great time talking to you and I always have a great time talking to you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great time talking",
+            "great time talking",
+            "great",
+            "thank",
+            "really",
+            "podcast",
+            "much"
+        ],
+        "trends": [
+            "time",
+            "talking",
+            "great",
+            "thank",
+            "much",
+            "ari",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think you're fabulous at what you do.",
+            "Thank you so much.",
+            "Thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think",
+            "thank",
+            "thank",
+            "much",
+            "fabulous"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Very kind of you.",
+            "the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "on our YouTube channel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "youtube channel",
+            "protecting consumers",
+            "laboratory services",
+            "global gem",
+            "gemological institute",
+            "supporting"
+        ],
+        "trends": [
+            "trade",
+            "supporting",
+            "since",
+            "services",
+            "research",
+            "protecting",
+            "laboratory"
+        ]
+    }
+]

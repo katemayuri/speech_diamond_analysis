@@ -1,0 +1,2080 @@
+[
+    {
+        "sentence": [
+            " This podcast is brought to you by GIA, the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "Welcome to the Rappaport Diamond Podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "rappaport diamond podcast",
+            "rappaport diamond podcast",
+            "protecting consumers",
+            "laboratory services",
+            "joshua friedman",
+            "global gem"
+        ],
+        "trends": [
+            "podcast",
+            "welcome",
+            "diamond",
+            "rappaport",
+            "brought",
+            "consumers",
+            "trade"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm Joshua Friedman, Senior Analyst at Rappaport.",
+            "On this episode I was joined by Robert Wake Walker, a diamond industry consultant at WWW International Diamond Consultants in London, where he advises governments, mining companies and financial institutions on many aspects of the trade.",
+            "Affluent Russian speaker, Robert grew up in Moscow and has been familiar with the Russian diamond industry from a young age, as we will hear."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "www international diamond consultants",
+            "russian diamond industry",
+            "diamond industry consultant",
+            "affluent russian speaker",
+            "robert wake walker",
+            "robert grew",
+            "young age"
+        ],
+        "trends": [
+            "diamond",
+            "russian",
+            "industry",
+            "robert",
+            "familiar",
+            "grew",
+            "friedman"
+        ]
+    },
+    {
+        "sentence": [
+            "He later developed a career as a corporate lawyer, but returned to the  diamonds in 2022 in the consultancy role.",
+            "We spoke about Russian sanctions, consumer demand for diamonds and the general state of the market.",
+            "Enjoy the episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian sanctions",
+            "later developed",
+            "general state",
+            "corporate lawyer",
+            "consumer demand",
+            "consultancy role",
+            "spoke"
+        ],
+        "trends": [
+            "diamonds",
+            "consultancy",
+            "market",
+            "later",
+            "lawyer",
+            "corporate",
+            "developed"
+        ]
+    },
+    {
+        "sentence": [
+            "is centered primarily around providing consultancy and strategic services to mining companies, governments, and financial institutions who are connected with the diamond trade.",
+            "Our organization is WWW International Diamond Consultants.",
+            "In short, we are a broad-based, independent, rough, and polished diamond valuation and consultancy company."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "centered primarily around providing consultancy",
+            "www international diamond consultants",
+            "polished diamond valuation",
+            "consultancy company",
+            "diamond trade",
+            "strategic services",
+            "mining companies"
+        ],
+        "trends": [
+            "diamond",
+            "consultancy",
+            "around",
+            "centered",
+            "providing",
+            "valuation",
+            "company"
+        ]
+    },
+    {
+        "sentence": [
+            "Backed by a large group of diamond industry experts, we've been primarily delivering rough diamond valuation services to various  Canadian government departments over the past 25 years, but also to a wide range of prospecting and actual diamond mining companies, as well as banking institutions.",
+            "I guess from my personal standpoint, my own route into the diamond industry is probably not a natural one.",
+            "Before I joined the business, I was actually a lawyer, New York headquartered law firm in London for seven to eight years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "primarily delivering rough diamond valuation services",
+            "new york headquartered law firm",
+            "various canadian government departments",
+            "actual diamond mining companies",
+            "diamond industry experts",
+            "past 25 years",
+            "diamond industry"
+        ],
+        "trends": [
+            "diamond",
+            "years",
+            "industry",
+            "route",
+            "one",
+            "personal",
+            "standpoint"
+        ]
+    },
+    {
+        "sentence": [
+            "My primary focus was on  So I was going to ask, how did you get into diamonds?",
+            "first diamond office in Moscow, obviously, just after the fall of the Soviet Union was a time where Western companies were looking to cement relationships with a no longer communist really fledgling economy at the time.",
+            "So we were as a family living out there for four years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "longer communist really fledgling economy",
+            "first diamond office",
+            "western companies",
+            "soviet union",
+            "primary focus",
+            "four years",
+            "family living"
+        ],
+        "trends": [
+            "time",
+            "diamonds",
+            "focus",
+            "get",
+            "going",
+            "ask",
+            "primary"
+        ]
+    },
+    {
+        "sentence": [
+            "And ever since then, I've, despite being young, had a very close connection with Russian industry and Russian business, and also the language and culture.",
+            "I studied Russian at university and then have lived since out in Moscow for  long periods of time, both studying and working in different businesses.",
+            "So I hold some close connections and interest with Russian industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "studied russian",
+            "russian industry",
+            "russian industry",
+            "russian business",
+            "long periods",
+            "lived since",
+            "ever since"
+        ],
+        "trends": [
+            "russian",
+            "since",
+            "close",
+            "industry",
+            "lived",
+            "different",
+            "businesses"
+        ]
+    },
+    {
+        "sentence": [
+            "And as we will, I'm sure, come to discuss, it's a very salient topic in our diamond trade at the moment.",
+            "It is.",
+            "It is."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "salient topic",
+            "diamond trade",
+            "sure",
+            "moment",
+            "discuss",
+            "come"
+        ],
+        "trends": [
+            "trade",
+            "topic",
+            "sure",
+            "salient",
+            "moment",
+            "discuss",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "Before everything that's going on now, did you have any connections?",
+            "Did you follow what was going on in the Russian diamond industry and the development of our rose, the development of Russia's mining industry?",
+            "Yeah, absolutely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian diamond industry",
+            "mining industry",
+            "yeah",
+            "russia",
+            "rose",
+            "going",
+            "going"
+        ],
+        "trends": [
+            "industry",
+            "going",
+            "development",
+            "everything",
+            "russian",
+            "russia",
+            "rose"
+        ]
+    },
+    {
+        "sentence": [
+            "It's always been well known that  Russia is the biggest diamond producer in terms of carrot volume.",
+            "It's the biggest producing country in terms of rough diamonds in the world.",
+            "So it has always held a very prominent place in terms of the upstream and midstream markets."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "biggest producing country",
+            "biggest diamond producer",
+            "well known",
+            "rough diamonds",
+            "prominent place",
+            "midstream markets",
+            "carrot volume"
+        ],
+        "trends": [
+            "terms",
+            "always",
+            "markets",
+            "biggest",
+            "diamond",
+            "volume",
+            "world"
+        ]
+    },
+    {
+        "sentence": [
+            "And in particular, its diamonds have been extremely well marketed across the globe and in particular into jewelry companies.",
+            "So we've been very aware and we've worked closely going back into the early 2010s with bringing online Russia's only recent mine,  the Grib mine deposit in the Arhangelsk region.",
+            "So, you know, as an organization, our team are very familiar with the diamond product that comes out of Russia."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "worked closely going back",
+            "extremely well marketed across",
+            "grib mine deposit",
+            "bringing online russia",
+            "recent mine",
+            "jewelry companies",
+            "early 2010s"
+        ],
+        "trends": [
+            "mine",
+            "particular",
+            "russia",
+            "jewelry",
+            "diamonds",
+            "diamond",
+            "team"
+        ]
+    },
+    {
+        "sentence": [
+            "We were supporting the preliminary shareholders and mine management team on bringing the Grib diamond mine into production, which is the only major and recent diamond deposit found in Russia, but also is one of the non-state owned diamond mines in existence in Russia.",
+            "Fast forward 10 years or so, clearly, our organization's knowledge of the diamond industry in Russia  Russia, given recent geopolitical events, the political decision made to restrict not only the circulation of Russian diamonds across the jewelry trade, but also restrict revenues back into the Russian state has been extremely important.",
+            "So a lot of our advice at the moment with various clients is really guiding them through the various legal restrictions that are very live in terms of their implementation, but also how they potentially could affect both supply into the trade in the futures."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "given recent geopolitical events",
+            "fast forward 10 years",
+            "recent diamond deposit found",
+            "state owned diamond mines",
+            "also restrict revenues back",
+            "grib diamond mine",
+            "potentially could affect"
+        ],
+        "trends": [
+            "russia",
+            "diamond",
+            "also",
+            "restrict",
+            "russian",
+            "mine",
+            "various"
+        ]
+    },
+    {
+        "sentence": [
+            "I had the impression that even before the Russian war in Ukraine began, the relationships between the West and Russia were already getting a little bit frosty.",
+            "And I know that, let's say before the war, Alrosa was trying to promote Russian diamonds in the US, etc.",
+            "But still there was a sense that the US and Russia weren't quite on good enough terms for that to be successful, even at that time."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit frosty",
+            "good enough terms",
+            "promote russian diamonds",
+            "ukraine began",
+            "russian war",
+            "already getting",
+            "war"
+        ],
+        "trends": [
+            "us",
+            "even",
+            "russia",
+            "russian",
+            "war",
+            "enough",
+            "good"
+        ]
+    },
+    {
+        "sentence": [
+            "Did you also get that impression even before the war?",
+            "So thinking about the sort of early 2000s and 2010s, yes, is the answer that  there certainly was a concerted push by the Russian state to try and piggyback off quite a lot of branding exercises that rough diamond producers had sought to implement.",
+            "And that was clearly with De Beers' Forevermark and other branding opportunities that diamond miners sought to really build a connection between mined diamonds and the consumer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rough diamond producers",
+            "diamond miners sought",
+            "russian state",
+            "really build",
+            "mined diamonds",
+            "impression even",
+            "early 2000s"
+        ],
+        "trends": [
+            "sought",
+            "branding",
+            "diamond",
+            "build",
+            "diamonds",
+            "yes",
+            "producers"
+        ]
+    },
+    {
+        "sentence": [
+            "Russia sought to do the same.",
+            "And really that connection was always a difficult one for them to, given the sort of sales processes which had been in place since 1959,  sort of having that close bond as a sort of large state-owned organization with the and marrying up their products with sort of concerns and wishes of a European or US consumer was always a challenging exercise, but they certainly did build relationships with a number of key diamond traders and, you know, being a member of the Alrosso Alliance and sort of contract partner of theirs was always a positive thing in the trade, you know, given the supply implications, but clearly it will come on to as well.",
+            "we approached February 2022, all of those efforts sort of fell by the wayside as the political and geopolitical circumstances altered very drastically."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "place since 1959",
+            "key diamond traders",
+            "geopolitical circumstances altered",
+            "approached february 2022",
+            "us consumer",
+            "supply implications",
+            "sales processes"
+        ],
+        "trends": [
+            "sort",
+            "always",
+            "know",
+            "given",
+            "efforts",
+            "geopolitical",
+            "circumstances"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "So in February 2022, the war began and there were immediate reactions from the West.",
+            "US sanctions, UK sanctions took a bit longer in Europe, but it became clear quite quickly that the US sanctions, at least on a legal technical level, weren't really sufficient to keep Russian diamonds out because of this loophole."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "became clear quite quickly",
+            "legal technical level",
+            "keep russian diamonds",
+            "uk sanctions took",
+            "us sanctions",
+            "us sanctions",
+            "war began"
+        ],
+        "trends": [
+            "sanctions",
+            "us",
+            "bit",
+            "clear",
+            "diamonds",
+            "west",
+            "began"
+        ]
+    },
+    {
+        "sentence": [
+            "of substantial transformation.",
+            "Was your impression that this was an oversight or was there something intentional there?",
+            "I wouldn't say it was an oversight and I think it's worth just setting a bit of the context as you alluded to there, Joshua."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "substantial transformation",
+            "something intentional",
+            "worth",
+            "think",
+            "setting",
+            "say",
+            "oversight"
+        ],
+        "trends": [
+            "oversight",
+            "would",
+            "worth",
+            "think",
+            "setting",
+            "say",
+            "joshua"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we should remember that the United States imposed sanctions on Arosa, the state-owned mining company in Russia that accounts for diamond production from all but one of Russia's diamond mines.",
+            "And Arosa as an entity is economically and majority  controlled by the Russian federal state and also the state of Yakutia in the northeast of the country.",
+            "So once clearly that link had been identified politically, the revenues from Russian diamond sales are essentially going straight back into the Russian state."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "united states imposed sanctions",
+            "essentially going straight back",
+            "owned mining company",
+            "russian diamond sales",
+            "russian federal state",
+            "russian state",
+            "diamond production"
+        ],
+        "trends": [
+            "state",
+            "russian",
+            "diamond",
+            "russia",
+            "arosa",
+            "yakutia",
+            "northeast"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, the United States did move very quickly and in April 22 did set out a series of sanctions.",
+            "But these were sanctions, product sanctions really written into law and on paper.",
+            "There was no physical way in which  diamond imports could be checked."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "product sanctions really written",
+            "diamond imports could",
+            "united states",
+            "physical way",
+            "april 22",
+            "sanctions",
+            "sanctions"
+        ],
+        "trends": [
+            "sanctions",
+            "checked",
+            "law",
+            "paper",
+            "written",
+            "could",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "So what we've seen over the last 18 months really has been a very concerted effort by the G7 and a group of seven countries backed by a proposition by the European Union to spearhead and coalesce around a single unified ban that can really restrict revenues.",
+            "And this ban has been marketed as one which looks to  to use provenance and traceability as the key manner in which diamond exports from Russia can be stopped.",
+            "We've seen actually a number of product bands already in place, and I think it's worth bringing diamonds a little bit into context as an export from Russia, given Russia also has major natural resource and hydrocarbon exports in the name of crude oil, in gas, in base metals, and also in gold."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last 18 months really",
+            "really restrict revenues",
+            "worth bringing diamonds",
+            "seven countries backed",
+            "product bands already",
+            "major natural resource",
+            "single unified ban"
+        ],
+        "trends": [
+            "russia",
+            "also",
+            "really",
+            "exports",
+            "ban",
+            "seen",
+            "provenance"
+        ]
+    },
+    {
+        "sentence": [
+            "These are all products which far, far outweigh  terms, the amount of revenue that the Russian state brings in from diamond sales.",
+            "So in principle, sanctions have appeared to restrict the exports by Russia.",
+            "And there's tangible evidence that shows that oil and gas exports from Russia have decreased."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "russian state brings",
+            "far outweigh terms",
+            "tangible evidence",
+            "diamond sales",
+            "gas exports",
+            "far",
+            "exports"
+        ],
+        "trends": [
+            "russia",
+            "exports",
+            "far",
+            "gas",
+            "shows",
+            "decreased",
+            "evidence"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, they haven't been wiped out entirely.",
+            "That's really the position where we find ourselves.",
+            "And I think a Russian diamond ban, in summary, has had to follow the strategically more important natural resource exports."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "important natural resource exports",
+            "russian diamond ban",
+            "wiped",
+            "think",
+            "summary",
+            "strategically",
+            "really"
+        ],
+        "trends": [
+            "important",
+            "diamond",
+            "exports",
+            "follow",
+            "wiped",
+            "entirely",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "It seems that the G7 is extremely focused with the buy-in from the European Union around a single unified process.",
+            "identifying the origin of the stone.",
+            "What do you know about this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single unified process",
+            "european union around",
+            "extremely focused",
+            "stone",
+            "seems",
+            "origin",
+            "know"
+        ],
+        "trends": [
+            "stone",
+            "union",
+            "unified",
+            "single",
+            "seems",
+            "process",
+            "focused"
+        ]
+    },
+    {
+        "sentence": [
+            "I think at the time of recording, it's the 23rd of January today.",
+            "The actual detail that surrounds how the product sanction will be actually enforced is very limited.",
+            "And that's problematic for a number of reasons."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "product sanction",
+            "january today",
+            "actually enforced",
+            "actual detail",
+            "time",
+            "think",
+            "surrounds"
+        ],
+        "trends": [
+            "reasons",
+            "problematic",
+            "surrounds",
+            "sanction",
+            "today",
+            "time",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm sure we'll touch on those.",
+            "But taking the US as a primary example, I think towards the end of December, various nation states that are members of the Group of Seven and also the European Union began to implement fairly broad  the  technology to really ascertain where diamonds are coming from.",
+            "And that really is the beginning of the uncertainty that the industry currently faces."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various nation states",
+            "industry currently faces",
+            "implement fairly broad",
+            "european union began",
+            "think towards",
+            "primary example",
+            "really ascertain"
+        ],
+        "trends": [
+            "began",
+            "broad",
+            "coming",
+            "really",
+            "currently",
+            "beginning",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "So just taking the European Union ban for a second, what they are saying is that from the 1st of March of this year, so in around five weeks time, there will be a restriction on Russian diamonds, which are processed in third party countries.",
+            "So if you export your diamonds from say Russia into India or Israel and you have them manufactured, then there is a  technical ban on importing those diamonds if they weigh one carat or more.",
+            "And that process will then be sort of implemented as a sort of trial for six months."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "around five weeks time",
+            "weigh one carat",
+            "third party countries",
+            "european union ban",
+            "technical ban",
+            "six months",
+            "say russia"
+        ],
+        "trends": [
+            "diamonds",
+            "sort",
+            "ban",
+            "technical",
+            "process",
+            "implemented",
+            "six"
+        ]
+    },
+    {
+        "sentence": [
+            "And then on the 1st of September of this year, that ban will continue, but the weight threshold will be reduced down to 0.5 carats and up.",
+            "So what the European Union has stated, and they are the political union that provided the most information, albeit limited, is that they will look to make use of a single  blockchain technology.",
+            "The details are thin on the ground, but we understand it will be a preliminary digital twin will be created of a rough diamond when it's imported, for example, into Antwerp."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single blockchain technology",
+            "preliminary digital twin",
+            "weight threshold",
+            "rough diamond",
+            "political union",
+            "make use",
+            "european union"
+        ],
+        "trends": [
+            "union",
+            "thin",
+            "twin",
+            "year",
+            "threshold",
+            "weight",
+            "reduced"
+        ]
+    },
+    {
+        "sentence": [
+            "The diamonds will pass through the Antwerp diamond office from whichever country they've been exported from.",
+            "And then when that diamond is then traded in Antwerp or taken out for manufacturing in another country, then the European Union will say, right, when that diamond gets back into the G7 economies,  there will be that same technology available to check the resultant polished stone of one carat or more or half a carat or more that will allow us to say, yeah, yes, that diamond came from Sierra Leone or that diamond originated in South Africa because of the work that they would have done on the verification.",
+            "I should say that's really what they're trying to implement."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "resultant polished stone",
+            "diamond gets back",
+            "antwerp diamond office",
+            "diamond originated",
+            "diamond came",
+            "whichever country",
+            "technology available"
+        ],
+        "trends": [
+            "diamond",
+            "say",
+            "carat",
+            "country",
+            "antwerp",
+            "office",
+            "whichever"
+        ]
+    },
+    {
+        "sentence": [
+            "But that's the EU, right?",
+            "And that's we haven't seen.",
+            "Am I right that we haven't seen anything of that detail from the US yet?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us yet",
+            "seen anything",
+            "seen",
+            "right",
+            "right",
+            "eu",
+            "detail"
+        ],
+        "trends": [
+            "yet",
+            "us",
+            "seen",
+            "right",
+            "detail",
+            "anything"
+        ]
+    },
+    {
+        "sentence": [
+            "No, we haven't seen anything from the US, but we should remember that the US is a net importer of  and it imports very little, if any rough diamonds.",
+            "As far as I'm aware, very little, if any manufacturing going on in the United States.",
+            "So the United States will, again, the details are very unclear as to how this will actually work in practice."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "united states",
+            "united states",
+            "seen anything",
+            "rough diamonds",
+            "net importer",
+            "manufacturing going",
+            "actually work"
+        ],
+        "trends": [
+            "little",
+            "united",
+            "states",
+            "us",
+            "details",
+            "work",
+            "practice"
+        ]
+    },
+    {
+        "sentence": [
+            "But from what we understand is that if a rough diamond has been verified in, say, Antwerp, then the resultant polished should and could be able to be checked at the customs board of the United States.",
+            "But we have absolutely no clarity at all onto what the United States plan to do and certainly how  they plan to mitigate against some of the risks that we see in this process.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "united states plan",
+            "united states",
+            "rough diamond",
+            "resultant polished",
+            "customs board",
+            "plan",
+            "verified"
+        ],
+        "trends": [
+            "plan",
+            "states",
+            "united",
+            "onto",
+            "absolutely",
+            "see",
+            "risks"
+        ]
+    },
+    {
+        "sentence": [
+            "And one of the questions that everyone has in industry is what if you, you don't want to send your rough to Antwerp, you want to ship it from, let's say, Botswana to India and publish it in India and then send it straight to the US.",
+            "So do you expect that there will be some sort of requirement to get it verified first or to get it certified first in Antwerp before it goes to the US?",
+            "That's not what we understand based on the information we've seen to date."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "verified first",
+            "understand based",
+            "certified first",
+            "want",
+            "want",
+            "us",
+            "us"
+        ],
+        "trends": [
+            "want",
+            "india",
+            "send",
+            "get",
+            "first",
+            "antwerp",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "There is no single legal  requirement that requires any diamond producer to export to Antwerp ahead of another trading center.",
+            "Diamond countries are free to export as they see fit.",
+            "You're absolutely right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "single legal requirement",
+            "another trading center",
+            "see fit",
+            "diamond producer",
+            "diamond countries",
+            "antwerp ahead",
+            "absolutely right"
+        ],
+        "trends": [
+            "trading",
+            "single",
+            "requires",
+            "requirement",
+            "export",
+            "diamond",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "70% of the world's diamond jewelry is consumed in G7 and European Union linked economies, and 30% obviously sits outside in primarily India and China, but also in the Middle East and other economies.",
+            "But as the current situation stands, yes, there is nothing  preventing if you in April sent a diamond from anywhere in the world for manufacturing in India or in Israel and the resultant polished was under one carat, then there would be no requirement to have any form of verification carried out, whether it's the European Union Customs Boarder or as we understand it, the US Customs Boarder because of the weight thresholds.",
+            "But it's, I guess I'm thinking about stones that are above the weight threshold."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "european union customs boarder",
+            "european union linked economies",
+            "us customs boarder",
+            "obviously sits outside",
+            "current situation stands",
+            "weight thresholds",
+            "weight threshold"
+        ],
+        "trends": [
+            "boarder",
+            "customs",
+            "european",
+            "union",
+            "world",
+            "india",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "Do we have any clarity on how that's going to work for the US?",
+            "No, we don't.",
+            "There is no, they have not made available any information  We do not know if the US system is being done in Antwerp and then being shipped on."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "made available",
+            "us system",
+            "us",
+            "work",
+            "shipped",
+            "know",
+            "information"
+        ],
+        "trends": [
+            "us",
+            "work",
+            "system",
+            "shipped",
+            "made",
+            "know",
+            "information"
+        ]
+    },
+    {
+        "sentence": [
+            "So as you can see, it's a very unclear message at the moment.",
+            "As I say, only five weeks out from implementation.",
+            "So maybe we can extrapolate from what's in the EU proposal to what might be implemented in the US, or is that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "unclear message",
+            "five weeks",
+            "eu proposal",
+            "us",
+            "see",
+            "say",
+            "moment"
+        ],
+        "trends": [
+            "weeks",
+            "say",
+            "implementation",
+            "us",
+            "proposal",
+            "unclear",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "this.",
+            "Without clarification, then obviously there is nervousness as to how trade will flow in the coming months.",
+            "And so, yeah, we await further details and I hope that's forthcoming."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "without clarification",
+            "coming months",
+            "yeah",
+            "trade",
+            "obviously",
+            "nervousness",
+            "hope"
+        ],
+        "trends": [
+            "yeah",
+            "hope",
+            "without",
+            "trade",
+            "obviously",
+            "nervousness",
+            "months"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And in terms of the risks, the obvious thing that comes to mind that has been discussed at length by many parties, including by Rackaport actually, is the potential impact on artisanal miners, the informal mining sector, which don't have access to the infrastructures that De Beerskoes has.",
+            "Would you say that's the number one risk to the general wellbeing of the industry?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "number one risk",
+            "informal mining sector",
+            "rackaport actually",
+            "potential impact",
+            "obvious thing",
+            "many parties",
+            "general wellbeing"
+        ],
+        "trends": [
+            "including",
+            "impact",
+            "would",
+            "general",
+            "wellbeing",
+            "industry",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure.",
+            "I think the general well-being of the industry really hinges on an understanding by the people who are politically implementing these sanctions in understanding the sort of multi-continent, multi-national state of the global diamond trade from a multitude of different producing countries through to the various manufacturing centers and the amount of jobs that rely on those types of work and then ultimately the amount of different consumers all over the globe that essentially buy diamond products.",
+            "So one of the key  The key things that we're trying to understand in this sanctions package is if you have a piece of technology set up in Antwerp to monitor the rough diamonds that are coming in and using Antwerp as a hub, could that same technology not be made available in, for example, the Sierra Leone government offices or the South African government offices or any diamond producing country?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "south african government offices",
+            "sierra leone government offices",
+            "essentially buy diamond products",
+            "global diamond trade",
+            "diamond producing country",
+            "various manufacturing centers",
+            "industry really hinges"
+        ],
+        "trends": [
+            "diamond",
+            "amount",
+            "understanding",
+            "different",
+            "key",
+            "antwerp",
+            "offices"
+        ]
+    },
+    {
+        "sentence": [
+            "I would have to see exactly what the technology looks like and the costing implications, but it feels to me that  You bring the technology and verification closer to the source of the diamonds.",
+            "And essentially you're narrowing the supply chain a bit to really from when the diamond comes out the ground and before those diamonds get exported, they can be sent to a central office where the technology as signed off by the G7 could be used.",
+            "And therefore you don't have that risk of then a longer gap before the diamonds get sent up to Antwerp geographically much further away, delay in a procedure and really funneling all of that data."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "antwerp geographically much",
+            "diamonds get exported",
+            "technology looks like",
+            "diamonds get sent",
+            "verification closer",
+            "supply chain",
+            "see exactly"
+        ],
+        "trends": [
+            "diamonds",
+            "technology",
+            "get",
+            "sent",
+            "really",
+            "would",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "the world's diamond production from various countries into one.",
+            "We think that for keeping business and trade flowing, which is really our goal as much as anyone, we really want to see a continuation and a really healthy trade over the coming years, given the geopolitical climate.",
+            "That is one of the solutions that we think could help support the verification process and make the pipeline more fluid."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think could help support",
+            "really healthy trade",
+            "trade flowing",
+            "verification process",
+            "various countries",
+            "really want",
+            "keeping business"
+        ],
+        "trends": [
+            "really",
+            "trade",
+            "think",
+            "process",
+            "help",
+            "could",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "So if I was a graph dealer in or a manufacturer in India and I  My business, my livelihood is from buying secondhand rough from, let's say, De Beers' sideholders and then manufacturing and selling it.",
+            "This now makes my life harder."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "buying secondhand rough",
+            "life harder",
+            "graph dealer",
+            "de beers",
+            "sideholders",
+            "selling",
+            "say"
+        ],
+        "trends": [
+            "let",
+            "business",
+            "buying",
+            "de",
+            "dealer",
+            "graph",
+            "india"
+        ]
+    },
+    {
+        "sentence": [
+            "Assuming that it's over the size threshold, if I want to send that to the seller to the US or another member of the G7, I'm going to have to not just buy the rough and manufacture it, but kind of somehow tap into this chain of technology, this chain of information.",
+            "That is our understanding.",
+            "There has been talk around how, for example, all of De Beers'  is  that if you're buying a large stone that when manufactured, produce a stone of either half a carat or a carat or above, you then have a pathway to sell that into a G7 market."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "talk around",
+            "somehow tap",
+            "size threshold",
+            "either half",
+            "de beers",
+            "another member",
+            "large stone"
+        ],
+        "trends": [
+            "chain",
+            "stone",
+            "carat",
+            "manufactured",
+            "market",
+            "half",
+            "pathway"
+        ]
+    },
+    {
+        "sentence": [
+            "Because as the rule states currently, to bring a diamond product of those weight thresholds into the G7 markets, you will need to go through the relevant customs checks.",
+            "this is even going to be effective if there could be a continued flow of Russian melee into the US or into the G7.",
+            "That's correct, Joshua."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rule states currently",
+            "relevant customs checks",
+            "weight thresholds",
+            "russian melee",
+            "even going",
+            "diamond product",
+            "continued flow"
+        ],
+        "trends": [
+            "checks",
+            "going",
+            "flow",
+            "continued",
+            "russian",
+            "could",
+            "melee"
+        ]
+    },
+    {
+        "sentence": [
+            "And we don't feel our role here is to stop picking holes in political decisions.",
+            "And certainly the officials that have taken a long time in coming up with these proposals are representing their electorate.",
+            "So I want to be careful about explaining the sanctions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stop picking holes",
+            "political decisions",
+            "long time",
+            "want",
+            "taken",
+            "sanctions",
+            "role"
+        ],
+        "trends": [
+            "explaining",
+            "representing",
+            "proposals",
+            "time",
+            "long",
+            "taken",
+            "electorate"
+        ]
+    },
+    {
+        "sentence": [
+            "But no, I mean, yeah, from our objective experience and independent analyses of Russian diamond production over  going over really 30 years, we can with a degree of accuracy state that only 10% of Russian rough diamonds by weight and around 30% by value produce polished diamonds or will result in polished diamonds of one carat or above and then a relatively incremental percentage more than that that would result in polish of 0.5 carats or above.",
+            "So really our conclusion is, as you correctly pointed out here, is if more  than 50% of Russia's annual rough production is not caught by the restrictions, then what impacts are we really looking at here?",
+            "Because for a country that on average brings in around $3.8 to $5 billion of revenue from Russian rough diamond exports, if less than half of that is actually restricted from the G7 economies, then an argument could be made, how much restriction is actually going on, which is why we focus quite carefully on  the situation with African artisanal miners on all diamond producing countries, I include the African continent, Canada and Brazil, in really hoping that the way this restriction develops doesn't affect diamond exports from non-Russian countries because they do so much to bring in tax revenue, to support local areas, to create a lot of jobs."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "value produce polished diamonds",
+            "russian rough diamond exports",
+            "affect diamond exports",
+            "russian rough diamonds",
+            "annual rough production",
+            "russian diamond production",
+            "support local areas"
+        ],
+        "trends": [
+            "diamond",
+            "diamonds",
+            "really",
+            "russian",
+            "revenue",
+            "exports",
+            "restriction"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's something that we will always try and defend and look to protect.",
+            "Do you have clients with an expression of concern about the impact of these plans?",
+            "And they keep thinking that they're missing something or there's a sort of very helpful explanatory piece that will guide them into explaining exactly how they can actually sell that rough."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "helpful explanatory piece",
+            "keep thinking",
+            "explaining exactly",
+            "always try",
+            "actually sell",
+            "missing something",
+            "something"
+        ],
+        "trends": [
+            "something",
+            "try",
+            "look",
+            "always",
+            "defend",
+            "clients",
+            "concern"
+        ]
+    },
+    {
+        "sentence": [
+            "Will they have to make sudden changes in clients or will they have to move operations?",
+            "Some potentially knock-on operational effects that they're thinking about.",
+            "But unfortunately, without the exact clarity and knowledge as to how this will happen, they're slightly in the lurch."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make sudden changes",
+            "potentially knock",
+            "operational effects",
+            "move operations",
+            "exact clarity",
+            "without",
+            "unfortunately"
+        ],
+        "trends": [
+            "thinking",
+            "potentially",
+            "make",
+            "clients",
+            "move",
+            "changes",
+            "operations"
+        ]
+    },
+    {
+        "sentence": [
+            "But I'm sure the advice and the explanatory guidance will be forthcoming, as I understand it is.",
+            "things  their clients for many months now.",
+            "A lot of the big jewelry brands in particular since the outbreak of conflict in 2020-22, they have some very robust safeguards with decade-long wholesalers and diamonteurs who've been supplying them with diamonds to ensure that no Russian diamonds of any size or any kind reach their supply chain."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "big jewelry brands",
+            "supply chain",
+            "robust safeguards",
+            "particular since",
+            "many months",
+            "long wholesalers",
+            "kind reach"
+        ],
+        "trends": [
+            "diamonds",
+            "explanatory",
+            "forthcoming",
+            "guidance",
+            "understand",
+            "advice",
+            "sure"
+        ]
+    },
+    {
+        "sentence": [
+            "We feel that the downstream sector has also played a very important role in helping eliminate this.",
+            "But one thing that has been on my mind is what would happen if the situation in the Ukraine gets quieter in a few years time?",
+            "There isn't a war between Russia and Ukraine going on."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "ukraine gets quieter",
+            "ukraine going",
+            "years time",
+            "would happen",
+            "one thing",
+            "important role",
+            "helping eliminate"
+        ],
+        "trends": [
+            "ukraine",
+            "played",
+            "downstream",
+            "eliminate",
+            "feel",
+            "helping",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you think everything would go back to normal or is this going to leave a permanent impact on the market?",
+            "Very good question.",
+            "I think there certainly won't be a quick return to normal."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think everything would go back",
+            "quick return",
+            "permanent impact",
+            "good question",
+            "think",
+            "normal",
+            "normal"
+        ],
+        "trends": [
+            "think",
+            "normal",
+            "would",
+            "permanent",
+            "market",
+            "leave",
+            "impact"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we can only really look at historical guidance where sanctions, perhaps led by the United States, have been implemented against aggressor countries or labeled aggressor countries, how they've dealt with them.",
+            "Typically, sanctions  are quite slow to unwind.",
+            "I don't want to foresee anything."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "labeled aggressor countries",
+            "aggressor countries",
+            "united states",
+            "really look",
+            "quite slow",
+            "perhaps led",
+            "historical guidance"
+        ],
+        "trends": [
+            "aggressor",
+            "countries",
+            "labeled",
+            "dealt",
+            "sanctions",
+            "typically",
+            "slow"
+        ]
+    },
+    {
+        "sentence": [
+            "And I know that there will be a lot of pressure by a lot of countries who are major stakeholders in international diamond trade to discuss this issue where that scenario to happen.",
+            "But as we've seen, typically with oil-based sanctions, maybe, for example, from Iraq following the 2003 war, those sanctions, some get unwound, some remain in place.",
+            "It's very much a moving thing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "international diamond trade",
+            "moving thing",
+            "major stakeholders",
+            "iraq following",
+            "get unwound",
+            "2003 war",
+            "based sanctions"
+        ],
+        "trends": [
+            "lot",
+            "sanctions",
+            "war",
+            "place",
+            "example",
+            "following",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "But no, typically they're not quick to get rid of them as soon as a conflict finishes or ceases.",
+            "because they look to use them as a preventative measures in the future.",
+            "People feel that they can't get away with it another time."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "preventative measures",
+            "people feel",
+            "get rid",
+            "get away",
+            "conflict finishes",
+            "another time",
+            "use"
+        ],
+        "trends": [
+            "get",
+            "future",
+            "use",
+            "time",
+            "ca",
+            "feel",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "Looking more broadly at the diamond market, obviously last year was one of the most challenging years for the industry for many years.",
+            "What would you say was behind that?",
+            "Yeah, really what happened in 2023 was the context in which consumer businesses of all different prices suffered more than predicted."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "obviously last year",
+            "different prices suffered",
+            "many years",
+            "diamond market",
+            "consumer businesses",
+            "challenging years",
+            "yeah"
+        ],
+        "trends": [
+            "years",
+            "market",
+            "broadly",
+            "challenging",
+            "diamond",
+            "industry",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "Looking at the diamond industry itself, the first three months of any calendar year are always typically the strongest rough buying months.",
+            "the  after two to three years of closure and people were really looking at the Hong Kong Mark Show last year as a period when diamond demand would take off again.",
+            "But unfortunately, that never materialized."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hong kong mark show last year",
+            "strongest rough buying months",
+            "diamond demand would take",
+            "first three months",
+            "calendar year",
+            "diamond industry",
+            "three years"
+        ],
+        "trends": [
+            "months",
+            "looking",
+            "year",
+            "three",
+            "diamond",
+            "rough",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "So what we saw was quite a lot of speculation on the rough and manufacturing side.",
+            "When the demand didn't materialize, there was a stockpiling of inventory and dealers were really pressured for the next sort of eight, nine months of the year into managing that inventory quite carefully and trying not to write off too many losses as prices went down.",
+            "the  and monetary policy tightening."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "monetary policy tightening",
+            "inventory quite carefully",
+            "really pressured",
+            "prices went",
+            "nine months",
+            "next sort",
+            "many losses"
+        ],
+        "trends": [
+            "inventory",
+            "quite",
+            "speculation",
+            "side",
+            "rough",
+            "lot",
+            "manufacturing"
+        ]
+    },
+    {
+        "sentence": [
+            "So the increase in interest rates really caused a perfect storm, which impacted consumer spending.",
+            "And that impact was seen across all forms of discretionary consumer businesses outside of energy and food.",
+            "If you look at most European clothing brands where, you know, say garments don't cost more than 10 or $20, you know, they were booking two, $300 million losses at the end of year earnings."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "interest rates really caused",
+            "discretionary consumer businesses outside",
+            "impacted consumer spending",
+            "european clothing brands",
+            "300 million losses",
+            "year earnings",
+            "seen across"
+        ],
+        "trends": [
+            "consumer",
+            "know",
+            "impacted",
+            "storm",
+            "spending",
+            "caused",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "So diamonds weren't just the only industry where  prices and fundamentals of the trade were affected.",
+            "We actually saw this across a multitude of consumer businesses, which, yeah, I guess really feeds into the fact that interest rates and inflation were, you know, a perfect storm that impacted the consumer.",
+            "And as a byproduct of that, we saw the rise of lab-grown diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "guess really feeds",
+            "perfect storm",
+            "interest rates",
+            "grown diamonds",
+            "consumer businesses",
+            "actually saw",
+            "saw"
+        ],
+        "trends": [
+            "saw",
+            "diamonds",
+            "consumer",
+            "guess",
+            "industry",
+            "affected",
+            "prices"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "I think that's a good analysis because firstly, lab-grown was at least partly byproduct of the weak US economy, although the timing was convenient because 2023 was also the year when lab-grown  the  and people are still not buying natural diamonds.",
+            "And I don't know when that's going to end."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "weak us economy",
+            "least partly byproduct",
+            "buying natural diamonds",
+            "good analysis",
+            "year",
+            "timing",
+            "think"
+        ],
+        "trends": [
+            "year",
+            "although",
+            "analysis",
+            "buying",
+            "byproduct",
+            "convenient",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "around makes up for around 45 to 50 percent of global diamond retail purchases.",
+            "You know, one of the most interesting statistics that we always discuss with clients is going through the Bureau of Economic Analysis.",
+            "So they are a sort of US state-run statistical company that has shown that the personal savings rate of the US consumer currently sits around 4 percent or just under 4 percent."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us consumer currently sits around 4 percent",
+            "global diamond retail purchases",
+            "run statistical company",
+            "personal savings rate",
+            "4 percent",
+            "us state",
+            "around makes"
+        ],
+        "trends": [
+            "percent",
+            "around",
+            "us",
+            "know",
+            "interesting",
+            "analysis",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "And that statistic is half of what it was in 2019.",
+            "So the personal savings rate percentages is essentially what's left for the consumer  to  gradual improvement, not a quick fix, as we see central banks probably taking a pretty careful and cautious approach to bringing down interest rates.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "see central banks probably taking",
+            "personal savings rate percentages",
+            "quick fix",
+            "pretty careful",
+            "interest rates",
+            "gradual improvement",
+            "cautious approach"
+        ],
+        "trends": [
+            "taking",
+            "improvement",
+            "banks",
+            "bringing",
+            "careful",
+            "cautious",
+            "central"
+        ]
+    },
+    {
+        "sentence": [
+            "So we reported that De Beers had reduced RAF prices by about 10 to 15% at its site in January, and that's numbers are a bit higher than that, and a bit lower than that in certain categories.",
+            "Do you think that's going to impact the market?",
+            "Difficult to say, because I saw this in one of your pieces, Joshua, that some siteholders and clients of De Beers have said that the cuts didn't nearly go far enough."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "nearly go far enough",
+            "reduced raf prices",
+            "de beers",
+            "de beers",
+            "certain categories",
+            "bit lower",
+            "bit higher"
+        ],
+        "trends": [
+            "bit",
+            "beers",
+            "de",
+            "reported",
+            "categories",
+            "certain",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "It's important to look historically at how De Beers have controlled their pricing.",
+            "They used to, for many decades actually, in a weak market, they would just reduce the amount of sales and accumulate stock rather than reducing prices.",
+            "But of course, they could do that as an organization, primarily because they controlled 75%, 80% of global rough diamond production."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "global rough diamond production",
+            "controlled 75 %, 80",
+            "many decades actually",
+            "accumulate stock rather",
+            "weak market",
+            "reducing prices",
+            "look historically"
+        ],
+        "trends": [
+            "controlled",
+            "primarily",
+            "diamond",
+            "organization",
+            "de",
+            "historically",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "That figure is now half that or maybe a bit more.",
+            "So they don't have that same flexibility of selling the accumulators.",
+            "stock back into the trade when the market booms or the market gets stronger."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "market gets stronger",
+            "market booms",
+            "stock back",
+            "trade",
+            "selling",
+            "maybe",
+            "half"
+        ],
+        "trends": [
+            "market",
+            "selling",
+            "flexibility",
+            "accumulators",
+            "trade",
+            "stronger",
+            "stock"
+        ]
+    },
+    {
+        "sentence": [
+            "So the prices that we saw were probably, in our view, a little bit behind actual rough time and trading conditions.",
+            "I mean, broadly speaking, our independent price book has seen a 5% to 10% increase from the beginning of December up until now, a full rough.",
+            "So we feel that this is either a sort of late decision based on market conditions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit behind actual rough time",
+            "late decision based",
+            "independent price book",
+            "full rough",
+            "trading conditions",
+            "market conditions",
+            "broadly speaking"
+        ],
+        "trends": [
+            "rough",
+            "view",
+            "conditions",
+            "late",
+            "based",
+            "sort",
+            "decision"
+        ]
+    },
+    {
+        "sentence": [
+            "But as we understand it, some of these cuts probably didn't go far enough.",
+            "very least it would impact sentiment in the polished market, even if it wouldn't impact prices because of what we've said that the reductions went deep enough to actually match polished prices.",
+            "Do you think there has been any impact on sentiment, maybe even in the other direction because manufacturers can make more profit now?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "reductions went deep enough",
+            "actually match polished prices",
+            "go far enough",
+            "would impact sentiment",
+            "polished market",
+            "impact prices",
+            "cuts probably"
+        ],
+        "trends": [
+            "impact",
+            "would",
+            "prices",
+            "polished",
+            "enough",
+            "sentiment",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "of polished prices, we're seeing at the moment a little bit more volatility in the rough diamond prices as opposed to polished, which has had a steadier increase in the curve as the years begun.",
+            "And I think that's really a function of wholesalers and also jewelry companies just taking a bit of caution based on what happened 12 months ago, trying to sort of maintain a steady flow of orders, just seeing how demand materializes given the economic conditions.",
+            "So I think on the polished side, we're not seeing a drastic  impact, either positively or negatively, I think we're seeing a more considered approach to their pricing, the considered more cautious approach to their orders."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "happened 12 months ago",
+            "demand materializes given",
+            "also jewelry companies",
+            "rough diamond prices",
+            "polished prices",
+            "years begun",
+            "steady flow"
+        ],
+        "trends": [
+            "seeing",
+            "polished",
+            "think",
+            "approach",
+            "considered",
+            "prices",
+            "orders"
+        ]
+    },
+    {
+        "sentence": [
+            "But in the rough side, as we've discussed, it does feel a little bit more volatile.",
+            "And the peaks and troughs, if we just take the last three or four months, have been much larger than the changes in bullish prices.",
+            "What's your view on the long term supply outlook?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "long term supply outlook",
+            "rough side",
+            "much larger",
+            "little bit",
+            "last three",
+            "four months",
+            "bullish prices"
+        ],
+        "trends": [
+            "volatile",
+            "discussed",
+            "feel",
+            "little",
+            "bit",
+            "outlook",
+            "supply"
+        ]
+    },
+    {
+        "sentence": [
+            "And there's continued discussion about how there have been very few new economically viable  coming on stream.",
+            "Other than some stuff in Angola, there's not really much plans for anything else to come on stream.",
+            "Where do you see this going over the next few years and maybe even decades?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new economically viable coming",
+            "really much plans",
+            "maybe even decades",
+            "continued discussion",
+            "anything else",
+            "years",
+            "stuff"
+        ],
+        "trends": [
+            "stream",
+            "new",
+            "years",
+            "decades",
+            "even",
+            "viable",
+            "coming"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, absolutely.",
+            "I mean, as you say, Joshua, there's very little prospecting going on at the moment.",
+            "Rough diamond production, we predict, will fall year on year over the next decade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rough diamond production",
+            "little prospecting going",
+            "next decade",
+            "fall year",
+            "year",
+            "yeah",
+            "say"
+        ],
+        "trends": [
+            "year",
+            "say",
+            "prospecting",
+            "rough",
+            "production",
+            "predict",
+            "moment"
+        ]
+    },
+    {
+        "sentence": [
+            "We see a small peak next year in 2025.",
+            "You know, and our figures at the moment see that in around 10 years time, rough diamond production will dip just below 100 million  rights in around 2032, 2033.",
+            "And these figures, actually, I should add, as you mentioned, do include the gradual ramping up of sales from the new Luele concession in Angola."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "small peak next year",
+            "around 10 years time",
+            "rough diamond production",
+            "new luele concession",
+            "100 million rights",
+            "around 2032",
+            "gradual ramping"
+        ],
+        "trends": [
+            "around",
+            "figures",
+            "actually",
+            "luele",
+            "mentioned",
+            "new",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "But even, as you say, if a sizeable mine was discovered tomorrow, we'd be looking at six to 10 years to bring that mine into production.",
+            "And even then, with the cost of energy and another increase, inflationary pressures, the appetite for prospectors in the diamond industry is much reduced from what it was  in the mid and late 2000s when they're across Canada and Africa, there was a huge amount of investment across the capital markets into potential diamond projects.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "potential diamond projects",
+            "diamond industry",
+            "much reduced",
+            "late 2000s",
+            "investment across",
+            "inflationary pressures",
+            "huge amount"
+        ],
+        "trends": [
+            "across",
+            "diamond",
+            "mine",
+            "even",
+            "production",
+            "tomorrow",
+            "discovered"
+        ]
+    },
+    {
+        "sentence": [
+            "And do you think the actions on Russia could have a long time impact on global supply?",
+            "Or could we see a situation where basically Russian supply ends up in China and India, African supply ends up in the US?",
+            "Yeah, I mean, we'll need a few months, I think, to consider all the data and see how, if any Russian sales continue and, you know, and how the product sanctions really work in practice."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "product sanctions really work",
+            "basically russian supply ends",
+            "russian sales continue",
+            "african supply ends",
+            "long time impact",
+            "global supply",
+            "russia could"
+        ],
+        "trends": [
+            "supply",
+            "ends",
+            "see",
+            "think",
+            "could",
+            "russian",
+            "russia"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, we have seen  example, that even oil and gas sanctions, products that are extremely difficult to move around the world, have been subject to some circumnavigation, oil and gas slipping through, you know, oil and gas are logistically a really hard product to move around the world.",
+            "It's very obvious when you're doing it through pipelines and slow oil tankers.",
+            "So Russian diamonds, I mean, it'd be fascinating to see how much actually gets into the trade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really hard product",
+            "much actually gets",
+            "slow oil tankers",
+            "seen example",
+            "russian diamonds",
+            "move around",
+            "move around"
+        ],
+        "trends": [
+            "oil",
+            "gas",
+            "world",
+            "around",
+            "move",
+            "mean",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "How will countries be manufacturing in India or even could, for example, Russian diamond production be sold through, mixed with other countries and send  that way.",
+            "There are lots of unknowns at this stage, but in terms of the supply element, we're not pricing in any strong material increases in both rough and polished.",
+            "I think we see modest increases for the remainder of this decade, broadly in line with economic growth globally."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "strong material increases",
+            "see modest increases",
+            "russian diamond production",
+            "economic growth globally",
+            "supply element",
+            "even could",
+            "way"
+        ],
+        "trends": [
+            "countries",
+            "increases",
+            "broadly",
+            "decade",
+            "growth",
+            "line",
+            "modest"
+        ]
+    },
+    {
+        "sentence": [
+            "Perhaps then, as I've just touched on the supply element, with a steepening increase in prices from 2030, we really, I think, will start to feel the natural diamond supply reduce based on the expiration of a number of major  diamond producing mines.",
+            "But what happens to Russian sales is a bit unknown because whether they start stockpiling in the Gokhran, which is part of the Ministry of Finance, they could build up maybe dangerously high quantities of rough, which when there's that illusion of rough overhanging the market, then that can also have a negative influence on prices as well.",
+            "So we'll need to see not just the empirical data, but just what the feeling is in the market as to how much supply is not only coming out of countries, but how quickly  supply can move through the supply chain based on these new verification posts that are being set up, as we understand it, in Antwerp and potentially beyond."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural diamond supply reduce based",
+            "major diamond producing mines",
+            "maybe dangerously high quantities",
+            "supply chain based",
+            "new verification posts",
+            "supply element",
+            "quickly supply"
+        ],
+        "trends": [
+            "supply",
+            "rough",
+            "diamond",
+            "prices",
+            "start",
+            "market",
+            "based"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, on that note, Robert, thank you very much for your insights.",
+            "It's been a pleasure speaking with you.",
+            "I particularly enjoyed hearing about your knowledge of Russia and diamonds and how those two things connect."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two things connect",
+            "particularly enjoyed hearing",
+            "pleasure speaking",
+            "well",
+            "thank",
+            "russia",
+            "robert"
+        ],
+        "trends": [
+            "well",
+            "two",
+            "things",
+            "russia",
+            "particularly",
+            "thank",
+            "robert"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's quite rare to be able to have someone with the combined competence on our podcast.",
+            "So I'm very grateful to you, Robert.",
+            "And it's been nice to have this conversation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quite rare",
+            "combined competence",
+            "someone",
+            "robert",
+            "podcast",
+            "nice",
+            "grateful"
+        ],
+        "trends": [
+            "someone",
+            "rare",
+            "quite",
+            "podcast",
+            "competence",
+            "combined",
+            "able"
+        ]
+    },
+    {
+        "sentence": [
+            "Toshio, thank you very much.",
+            "Really great to have been invited on and  Thanks again for your time.",
+            "supporting the global gem and jewelry trade since 1931 through research, education and laboratory services."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "really great",
+            "laboratory services",
+            "global gem",
+            "toshio",
+            "time",
+            "thanks"
+        ],
+        "trends": [
+            "jewelry",
+            "gem",
+            "really",
+            "time",
+            "thanks",
+            "great",
+            "invited"
+        ]
+    }
+]

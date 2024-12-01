@@ -1,0 +1,3201 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "and De Beers siteholder, Hasenfelsstein.",
+            "The company focuses on proprietary diamond cuts such as its Fire Christian and Fire Princess."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "proprietary diamond cuts",
+            "de beers siteholder",
+            "joshua friedman",
+            "fire princess",
+            "fire christian",
+            "company focuses"
+        ],
+        "trends": [
+            "diamond",
+            "fire",
+            "de",
+            "welcome",
+            "podcast",
+            "host",
+            "joshua"
+        ]
+    },
+    {
+        "sentence": [
+            "Hertz has been in the business for almost 50 years.",
+            "Few other people have his knowledge and insights into the diamond industry.",
+            "I invited him to come on the podcast so we could all hear his stories about the foundation of his company by his father, how the sector has changed, and how the business has dealt with multiple market crashes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "multiple market crashes",
+            "almost 50 years",
+            "diamond industry",
+            "stories",
+            "sector",
+            "podcast",
+            "people"
+        ],
+        "trends": [
+            "business",
+            "dealt",
+            "people",
+            "knowledge",
+            "insights",
+            "industry",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "There are a few Yiddish or Hebrew expressions in this podcast, so here's a quick  glossary.",
+            "Mazel means luck, Sechel means intelligence, and Halacha is Jewish law.",
+            "And also, Satmar is a town in modern-day Romania where the Satmar Hasidic dynasty was founded."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sechel means intelligence",
+            "mazel means luck",
+            "satmar hasidic dynasty",
+            "quick glossary",
+            "jewish law",
+            "hebrew expressions",
+            "day romania"
+        ],
+        "trends": [
+            "means",
+            "satmar",
+            "expressions",
+            "glossary",
+            "town",
+            "dynasty",
+            "founded"
+        ]
+    },
+    {
+        "sentence": [
+            "Please note that this episode was recorded in March and much has happened in the news since then.",
+            "and there's a little intro, please.",
+            "body, but not in spirit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "news since",
+            "little intro",
+            "please note",
+            "please",
+            "spirit",
+            "recorded",
+            "much"
+        ],
+        "trends": [
+            "please",
+            "little",
+            "since",
+            "recorded",
+            "note",
+            "news",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "He came to America, he started working in a tie factory, pressing ties, and he married, he had two children, and then he became very sick and he needed a back surgery.",
+            "And he went to the Denver hospital.",
+            "He was there for six months, laying on his back, several surgeries."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two children",
+            "tie factory",
+            "started working",
+            "six months",
+            "several surgeries",
+            "pressing ties",
+            "denver hospital"
+        ],
+        "trends": [
+            "back",
+            "working",
+            "sick",
+            "became",
+            "came",
+            "children",
+            "factory"
+        ]
+    },
+    {
+        "sentence": [
+            "While he was laying on his back in the hospital, he wanted to do something.",
+            "He found yellow pages, which existed in those days.",
+            "And he saw names of jewelers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "found yellow pages",
+            "saw names",
+            "wanted",
+            "something",
+            "laying",
+            "jewelers",
+            "hospital"
+        ],
+        "trends": [
+            "saw",
+            "names",
+            "jewelers",
+            "wanted",
+            "something",
+            "yellow",
+            "pages"
+        ]
+    },
+    {
+        "sentence": [
+            "And his broken English, he started calling jewelers in the Denver area.",
+            "He said,  a Holocaust survivor, have family in the diamond business, would you like to buy some diamonds?",
+            "My mother, who had relatives in the diamond business, would send goods to my father on memo, and he turned his hospital tray into a diamond office."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started calling jewelers",
+            "would send goods",
+            "hospital tray",
+            "holocaust survivor",
+            "diamond office",
+            "diamond business",
+            "diamond business"
+        ],
+        "trends": [
+            "diamond",
+            "would",
+            "business",
+            "jewelers",
+            "broken",
+            "calling",
+            "denver"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually, a journalist from Denver, even as far as Salt Lake City, came to visit my father in the hospital, and that's how he started his business, selling diamonds from the hospital bed.",
+            "In 1960, he traveled to Hong Kong, and that was the turning point of the business.",
+            "The Hong Kong business was in very, very  young, he developed some wonderful relationships with some Hong Kong dealers, with the major people in Hong Kong that loved him very much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "salt lake city",
+            "hong kong dealers",
+            "hong kong business",
+            "hong kong",
+            "hong kong",
+            "wonderful relationships",
+            "turning point"
+        ],
+        "trends": [
+            "kong",
+            "hong",
+            "hospital",
+            "dealers",
+            "developed",
+            "wonderful",
+            "major"
+        ]
+    },
+    {
+        "sentence": [
+            "When I went to visit later, they called my father their Jewish brother.",
+            "They were very close to him and he had a very steady business in Hong Kong.",
+            "In fact, I remember every morning, four o'clock in the morning, my father would go to the basement to make the phone calls to deal with them and he would wake up the entire block."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "remember every morning",
+            "father would go",
+            "would wake",
+            "visit later",
+            "steady business",
+            "phone calls",
+            "jewish brother"
+        ],
+        "trends": [
+            "would",
+            "morning",
+            "father",
+            "went",
+            "visit",
+            "brother",
+            "called"
+        ]
+    },
+    {
+        "sentence": [
+            "So he was very close to him.",
+            "He traveled there several times a year and every four o'clock in the morning, he'd call up his Hong Kong people.",
+            "business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hong kong people",
+            "several times",
+            "every four",
+            "year",
+            "traveled",
+            "morning",
+            "close"
+        ],
+        "trends": [
+            "year",
+            "traveled",
+            "times",
+            "several",
+            "people",
+            "morning",
+            "kong"
+        ]
+    },
+    {
+        "sentence": [
+            "He didn't do much in the American market because he enjoyed the Chinese market.",
+            "They paid quicker and he understood their business better.",
+            "They also bought cleaner goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "also bought cleaner goods",
+            "paid quicker",
+            "chinese market",
+            "business better",
+            "american market",
+            "understood",
+            "much"
+        ],
+        "trends": [
+            "market",
+            "goods",
+            "cleaner",
+            "bought",
+            "also",
+            "understood",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "My father had a talent of looking at stones with PKs and making them into VVSs and VSs.",
+            "He was able to improve clarity a lot, which helped him more with the Chinese market than the American market.",
+            "That's something I want to ask about."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "improve clarity",
+            "chinese market",
+            "american market",
+            "want",
+            "vvss",
+            "vss",
+            "talent"
+        ],
+        "trends": [
+            "market",
+            "something",
+            "improve",
+            "american",
+            "chinese",
+            "clarity",
+            "helped"
+        ]
+    },
+    {
+        "sentence": [
+            "I know that one of the unique selling points of the company was that your father's ability to recut diamonds and improve the clarity.",
+            "Is that something that remained  focus of the company?",
+            "Sometimes we'd buy a stone from a customer, like a DSI-1, and sell it back to him as a defluolus without the customer even knowing that he's the one who sold us the DSI-1 that became a defluolus."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "unique selling points",
+            "customer even knowing",
+            "sold us",
+            "remained focus",
+            "recut diamonds",
+            "defluolus without",
+            "customer"
+        ],
+        "trends": [
+            "customer",
+            "defluolus",
+            "one",
+            "recut",
+            "improve",
+            "know",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Those things don't happen nowadays, but that was in the early days that happened a lot.",
+            "My father was also a very early adopter of JAU Reports.",
+            "When I joined the businesses in 74, we took reports only of defluoluses, occasionally a DVV-1 or an E-Fluolus."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "took reports",
+            "jau reports",
+            "happen nowadays",
+            "early days",
+            "early adopter",
+            "things",
+            "occasionally"
+        ],
+        "trends": [
+            "reports",
+            "adopter",
+            "also",
+            "father",
+            "early",
+            "businesses",
+            "defluoluses"
+        ]
+    },
+    {
+        "sentence": [
+            "That was it.",
+            "And I remember my father started to take certificates of  down to VS1 and down to HVS1.",
+            "And at the time the trade was actually angry at him."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take certificates",
+            "father started",
+            "actually angry",
+            "vs1",
+            "trade",
+            "time",
+            "remember"
+        ],
+        "trends": [
+            "trade",
+            "time",
+            "angry",
+            "actually",
+            "take",
+            "started",
+            "remember"
+        ]
+    },
+    {
+        "sentence": [
+            "He said, you're destroying the business.",
+            "Everything's going to need a cert.",
+            "You're getting too many certs."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many certs",
+            "said",
+            "need",
+            "going",
+            "getting",
+            "everything",
+            "destroying"
+        ],
+        "trends": [
+            "said",
+            "destroying",
+            "business",
+            "many",
+            "getting",
+            "certs",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're going to have to get a cert and a 50 pointer.",
+            "And it would actually came to me, but he started going in that direction.",
+            "So we started sort of our inventory."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would actually came",
+            "started sort",
+            "50 pointer",
+            "started going",
+            "going",
+            "inventory",
+            "get"
+        ],
+        "trends": [
+            "started",
+            "going",
+            "pointer",
+            "get",
+            "would",
+            "direction",
+            "came"
+        ]
+    },
+    {
+        "sentence": [
+            "And when, you know, the business started booming in 78 and 79, we were very well prepared to the large inventory of certified goods.",
+            "That was another advantage.",
+            "And then when the boom came in, you know, 78 to 80, that's when we really rode that boom for all  was worth."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "business started booming",
+            "well prepared",
+            "really rode",
+            "large inventory",
+            "certified goods",
+            "another advantage",
+            "boom came"
+        ],
+        "trends": [
+            "know",
+            "boom",
+            "well",
+            "started",
+            "prepared",
+            "large",
+            "worth"
+        ]
+    },
+    {
+        "sentence": [
+            "I joined the business and I owned the American market.",
+            "My brother, Lasse Stein, he joined the business in 72.",
+            "He was French born, his first language was French."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lasse stein",
+            "first language",
+            "american market",
+            "french born",
+            "french",
+            "owned",
+            "joined"
+        ],
+        "trends": [
+            "joined",
+            "business",
+            "french",
+            "owned",
+            "stein",
+            "lasse",
+            "brother"
+        ]
+    },
+    {
+        "sentence": [
+            "And he did a lot of business in France and Europe.",
+            "So he took care of the Europe and I was in America.",
+            "My father was the Far East."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "took care",
+            "far east",
+            "lot",
+            "france",
+            "father",
+            "europe",
+            "europe"
+        ],
+        "trends": [
+            "europe",
+            "father",
+            "far",
+            "east",
+            "lot",
+            "france",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "And those were the heydays of our business because we had a very wide customer base and it grew very rapidly until mid 1980.",
+            "And then there was a major crash, which I think has never been repeated since the size of the crash in 1980.  was that myself and my brother-in-law were both MBAs.",
+            "And I recall vividly, my father coming in in January of 1980, we had eight digit debt at the time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wide customer base",
+            "eight digit debt",
+            "repeated since",
+            "recall vividly",
+            "father coming",
+            "major crash",
+            "mid 1980"
+        ],
+        "trends": [
+            "crash",
+            "recall",
+            "mbas",
+            "debt",
+            "wide",
+            "rapidly",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "And my father came in in January of 1980, said, I know you both have MBAs and you explained to me the power of leverage and how great it is to buy now with goods going up.",
+            "But from this point forward until we're out of debt, no buying.",
+            "And I remember me and my brother-in-law resisted that very much, but he put his foot down."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "point forward",
+            "law resisted",
+            "goods going",
+            "father came",
+            "said",
+            "remember",
+            "put"
+        ],
+        "trends": [
+            "said",
+            "forward",
+            "buying",
+            "point",
+            "debt",
+            "know",
+            "came"
+        ]
+    },
+    {
+        "sentence": [
+            "And in January of 1980, we did nothing but sell.",
+            "We did not do any buying.",
+            "And by some miracle, I think it's part brains, part mausoleum, maybe more mausoleum than brains, by March of 1980, we were debt free."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "debt free",
+            "part mausoleum",
+            "part brains",
+            "mausoleum",
+            "brains",
+            "think",
+            "sell"
+        ],
+        "trends": [
+            "part",
+            "mausoleum",
+            "brains",
+            "sell",
+            "think",
+            "miracle",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "And by April of 1980, the market crashed.",
+            "So at that time, by June of 1980, a lot of very big names in Antwerp, in America, Israel had gone bankrupt because of tremendous debt and the diamond values fell so rapidly.",
+            "There was no way of paying back that debt."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond values fell",
+            "paying back",
+            "market crashed",
+            "gone bankrupt",
+            "big names",
+            "tremendous debt",
+            "debt"
+        ],
+        "trends": [
+            "debt",
+            "antwerp",
+            "bankrupt",
+            "fell",
+            "way",
+            "back",
+            "paying"
+        ]
+    },
+    {
+        "sentence": [
+            "And many people went bankrupt.",
+            "And that's actually, I would say if it is in one event,  Our company's history that saved us was that event.",
+            "We went debt free in March of 1980."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many people went bankrupt",
+            "went debt free",
+            "would say",
+            "saved us",
+            "one event",
+            "event",
+            "march"
+        ],
+        "trends": [
+            "went",
+            "event",
+            "would",
+            "us",
+            "say",
+            "march",
+            "free"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't know what prompted my father to do it, but that's what he did.",
+            "And that remains the company's policy?",
+            "Business is weak."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "weak",
+            "remains",
+            "prompted",
+            "policy",
+            "know",
+            "father",
+            "company"
+        ],
+        "trends": [
+            "remains",
+            "policy",
+            "company",
+            "prompted",
+            "know",
+            "father"
+        ]
+    },
+    {
+        "sentence": [
+            "We never go into debt.",
+            "The business is doing phenomenally well like it did in 2022.",
+            "We did go into debt for short term just to fill orders, but it's basically a company policy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "phenomenally well like",
+            "short term",
+            "fill orders",
+            "company policy",
+            "never go",
+            "go",
+            "debt"
+        ],
+        "trends": [
+            "go",
+            "debt",
+            "never",
+            "term",
+            "short",
+            "policy",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "Diamonds do not produce income.",
+            "It's not like real estate, which covers the debt.",
+            "Diamonds pay their debt only through sales."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like real estate",
+            "produce income",
+            "diamonds pay",
+            "diamonds",
+            "sales",
+            "debt",
+            "debt"
+        ],
+        "trends": [
+            "debt",
+            "diamonds",
+            "produce",
+            "income",
+            "sales",
+            "pay",
+            "real"
+        ]
+    },
+    {
+        "sentence": [
+            "Quite volatile.",
+            "So that's been the company policy since March of 1980.",
+            "Now another area where I understand, please correct me if I'm wrong, that the company was relatively pioneering was getting into the Japanese market before others."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "company policy since march",
+            "relatively pioneering",
+            "quite volatile",
+            "please correct",
+            "japanese market",
+            "another area",
+            "company"
+        ],
+        "trends": [
+            "wrong",
+            "understand",
+            "relatively",
+            "please",
+            "pioneering",
+            "others",
+            "company"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that correct?",
+            "Again in the 60s.",
+            "In the 60s right now we're not active, neither Japan or China."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "neither japan",
+            "60s right",
+            "60s",
+            "correct",
+            "china",
+            "active"
+        ],
+        "trends": [
+            "right",
+            "neither",
+            "japan",
+            "china",
+            "active"
+        ]
+    },
+    {
+        "sentence": [
+            "Japan, we're not active.",
+            "China, we were very active up to a short while ago, but just became so quiet that currently as we speak, we're not very active there.",
+            "We still have our clients in China, but the business there I think is far worse than the business here."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "far worse",
+            "think",
+            "still",
+            "speak",
+            "short",
+            "quiet",
+            "japan"
+        ],
+        "trends": [
+            "china",
+            "active",
+            "business",
+            "worse",
+            "think",
+            "speak",
+            "short"
+        ]
+    },
+    {
+        "sentence": [
+            "your father started dealing with Hong Kong.",
+            "How did that come about?",
+            "found a very intelligent Korean man who spoke fluent English, Korean, Japanese, a scholar."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spoke fluent english",
+            "father started dealing",
+            "intelligent korean man",
+            "hong kong",
+            "korean",
+            "scholar",
+            "japanese"
+        ],
+        "trends": [
+            "korean",
+            "started",
+            "spoke",
+            "scholar",
+            "man",
+            "japanese",
+            "intelligent"
+        ]
+    },
+    {
+        "sentence": [
+            "He actually wrote several books.",
+            "He freelanced as an interpreter.",
+            "And this fellow was a very intelligent man and he helped my father very much open up the Japanese business to the point he became a salesman in Japan."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually wrote several books",
+            "much open",
+            "japanese business",
+            "intelligent man",
+            "salesman",
+            "point",
+            "japan"
+        ],
+        "trends": [
+            "open",
+            "much",
+            "man",
+            "japanese",
+            "point",
+            "intelligent",
+            "wrote"
+        ]
+    },
+    {
+        "sentence": [
+            "And he did well, my father did well, my father all accredits it to the fact that he took a male interpreter, the Falodehalacha.",
+            "That's how he started in Japan.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "male interpreter",
+            "well",
+            "well",
+            "took",
+            "started",
+            "right",
+            "japan"
+        ],
+        "trends": [
+            "well",
+            "father",
+            "took",
+            "male",
+            "interpreter",
+            "falodehalacha",
+            "fact"
+        ]
+    },
+    {
+        "sentence": [
+            "And another story with the company is, I believe that you gave up your side.",
+            "and then regained it?",
+            "At your De Beers site?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "de beers site",
+            "another story",
+            "side",
+            "regained",
+            "gave",
+            "company",
+            "believe"
+        ],
+        "trends": [
+            "story",
+            "side",
+            "gave",
+            "company",
+            "believe",
+            "another",
+            "site"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that correct?",
+            "those sentences going to crash.",
+            "You can't have a 15% spike from one day to the next."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sentences going",
+            "one day",
+            "spike",
+            "next",
+            "crash",
+            "correct",
+            "15"
+        ],
+        "trends": [
+            "sentences",
+            "going",
+            "crash",
+            "spike",
+            "one",
+            "next",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "And he told us, you're in the show now, tell everyone you're using the old list.",
+            "And we sent out an email, put out the word to all our clients, we're selling from the old list.",
+            "And we had an amazing show."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "told us",
+            "tell everyone",
+            "old list",
+            "old list",
+            "amazing show",
+            "show",
+            "word"
+        ],
+        "trends": [
+            "old",
+            "list",
+            "using",
+            "us",
+            "word",
+            "sent",
+            "told"
+        ]
+    },
+    {
+        "sentence": [
+            "We sold almost everything we brought because everyone jumped onto the list 15%.",
+            "And we sold from the old list.",
+            "And sure enough, about a month later, there was a tremendous correction downwards."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tremendous correction downwards",
+            "everyone jumped onto",
+            "list 15 %.",
+            "sold almost everything",
+            "old list",
+            "sure enough",
+            "month later"
+        ],
+        "trends": [
+            "sold",
+            "list",
+            "old",
+            "tremendous",
+            "sure",
+            "month",
+            "later"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was a very, very good call.",
+            "And then we lost our site, which at the time was a very big blow  to our ego, but that's what it was very good for our pocketbook because then came the financial crash of 2008.",
+            "September was a financial crash of 2008."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "financial crash",
+            "financial crash",
+            "big blow",
+            "good call",
+            "good",
+            "time",
+            "site"
+        ],
+        "trends": [
+            "financial",
+            "time",
+            "site",
+            "pocketbook",
+            "lost",
+            "good",
+            "ego"
+        ]
+    },
+    {
+        "sentence": [
+            "The side goods were overpriced by 15, 20%.",
+            "If you bought goods, you were losing hand or fist.",
+            "Then people dropped the sides."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "side goods",
+            "people dropped",
+            "losing hand",
+            "bought goods",
+            "20 %.",
+            "sides",
+            "overpriced"
+        ],
+        "trends": [
+            "goods",
+            "sides",
+            "people",
+            "dropped",
+            "side",
+            "overpriced",
+            "losing"
+        ]
+    },
+    {
+        "sentence": [
+            "There were all kinds of issues.",
+            "We had no site.",
+            "We were buying polished at incredibly low prices with liquid and just China started opening and we started doing business in China."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "incredibly low prices",
+            "china started opening",
+            "buying polished",
+            "started",
+            "china",
+            "site",
+            "liquid"
+        ],
+        "trends": [
+            "started",
+            "china",
+            "prices",
+            "polished",
+            "opening",
+            "low",
+            "liquid"
+        ]
+    },
+    {
+        "sentence": [
+            "We made very good margins on the polished because the  The  that's most of the things that happened in our business was one mazel dan seichel.",
+            "So that's another example of that.",
+            "How is being a site holder now different from being a site holder was 20 years ago?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one mazel dan seichel",
+            "20 years ago",
+            "site holder",
+            "site holder",
+            "good margins",
+            "another example",
+            "things"
+        ],
+        "trends": [
+            "site",
+            "holder",
+            "things",
+            "seichel",
+            "polished",
+            "one",
+            "mazel"
+        ]
+    },
+    {
+        "sentence": [
+            "We became site holders in 1990.",
+            "When we were site holders in 1990, I used to go to the meetings in London, used to have American meetings, there were 20 people in the room, 20 companies.",
+            "So there were 20 site holders."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "became site holders",
+            "20 site holders",
+            "site holders",
+            "20 people",
+            "20 companies",
+            "american meetings",
+            "meetings"
+        ],
+        "trends": [
+            "used",
+            "site",
+            "holders",
+            "meetings",
+            "room",
+            "people",
+            "london"
+        ]
+    },
+    {
+        "sentence": [
+            "We had sort of a voice.",
+            "There was a very nice group of people from Louis Glick, Bill Goldberg and you know, Shook.",
+            "I don't know if you know these names, but these were a pretty powerful group of people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pretty powerful group",
+            "nice group",
+            "louis glick",
+            "bill goldberg",
+            "voice",
+            "sort",
+            "shook"
+        ],
+        "trends": [
+            "know",
+            "people",
+            "group",
+            "pretty",
+            "shook",
+            "nice",
+            "louis"
+        ]
+    },
+    {
+        "sentence": [
+            "And DTC used to listen to us.",
+            "It was a different relationship.",
+            "And now we're down to three."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "dtc used",
+            "different relationship",
+            "us",
+            "three",
+            "listen"
+        ],
+        "trends": [
+            "used",
+            "us",
+            "listen",
+            "dtc"
+        ]
+    },
+    {
+        "sentence": [
+            "So I don't think we have much of a voice anymore.",
+            "But it's still very worthwhile to be a side holder.",
+            "It's a cyclical business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "voice anymore",
+            "side holder",
+            "cyclical business",
+            "worthwhile",
+            "think",
+            "still",
+            "much"
+        ],
+        "trends": [
+            "worthwhile",
+            "still",
+            "side",
+            "holder",
+            "voice",
+            "think",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "Diamonds are very cyclical.",
+            "And over the last couple of years, those cycles are very compressed.",
+            "It began from the cycle to a roller coaster."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "roller coaster",
+            "last couple",
+            "years",
+            "diamonds",
+            "cyclical",
+            "cycles",
+            "cycle"
+        ],
+        "trends": [
+            "roller",
+            "cycle",
+            "coaster",
+            "began",
+            "years",
+            "last",
+            "cycles"
+        ]
+    },
+    {
+        "sentence": [
+            "Having said that, the last couple of years, I think the beers has been sensitive and has reacted better than in the past.",
+            "in COVID, they reacted well.",
+            "Post-COVID, they reacted well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "reacted well",
+            "reacted well",
+            "reacted better",
+            "last couple",
+            "years",
+            "think",
+            "sensitive"
+        ],
+        "trends": [
+            "reacted",
+            "years",
+            "think",
+            "sensitive",
+            "said",
+            "past",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "Right now, this past year, they reacted well at the end of the year.",
+            "So I think they are more sensitive and also they have more competition, which forces them to react more sensitive to their clients because there are a lot of alternatives now.",
+            "One powerful alternative now is Okavanka, their own partner who's competing with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one powerful alternative",
+            "reacted well",
+            "past year",
+            "year",
+            "think",
+            "sensitive",
+            "sensitive"
+        ],
+        "trends": [
+            "year",
+            "sensitive",
+            "lot",
+            "alternatives",
+            "clients",
+            "competition",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think they have to be more responsive to client needs.",
+            "Our policy has been, if we see a one or two percent loss, I'll take the box anyhow.",
+            "But if I see a 10% loss and there have been such occasions, I just walk away."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two percent loss",
+            "walk away",
+            "client needs",
+            "box anyhow",
+            "loss",
+            "think",
+            "take"
+        ],
+        "trends": [
+            "see",
+            "loss",
+            "think",
+            "two",
+            "walk",
+            "occasions",
+            "away"
+        ]
+    },
+    {
+        "sentence": [
+            "started that.",
+            "If it doesn't make sense to buy, we don't buy.",
+            "We have to protect our bottom line."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make sense",
+            "bottom line",
+            "started",
+            "protect",
+            "buy",
+            "buy"
+        ],
+        "trends": [
+            "buy",
+            "protect",
+            "line",
+            "bottom",
+            "sense",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "That's the first thing we have to protect.",
+            "Is there an issue of competing with other manufacturers in India who have a lower cost base?",
+            "How did that whole issue, and we know I'm sitting here in Israel, that significantly impacted the Israeli industry?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lower cost base",
+            "significantly impacted",
+            "israeli industry",
+            "first thing",
+            "whole issue",
+            "issue",
+            "sitting"
+        ],
+        "trends": [
+            "issue",
+            "thing",
+            "base",
+            "india",
+            "competing",
+            "cost",
+            "manufacturers"
+        ]
+    },
+    {
+        "sentence": [
+            "How has the shift to India impacted the New York manufacturing sector and companies like yours?",
+            "It changed my business completely.",
+            "The site will let you make a few dollars if you're a manufacturer efficiently."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york manufacturing sector",
+            "manufacturer efficiently",
+            "india impacted",
+            "companies like",
+            "business completely",
+            "site",
+            "shift"
+        ],
+        "trends": [
+            "changed",
+            "like",
+            "make",
+            "dollars",
+            "efficiently",
+            "site",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "You're just doing generic goods.",
+            "Generally, you're going to make between three and five percent profit, which doesn't pay.",
+            "It's not worth your money."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "five percent profit",
+            "generic goods",
+            "worth",
+            "three",
+            "pay",
+            "money",
+            "make"
+        ],
+        "trends": [
+            "three",
+            "profit",
+            "percent",
+            "pay",
+            "make",
+            "going",
+            "generally"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not worth your effort.",
+            "It's not worth the risk.",
+            "The way we survive today is we do branded stones."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "survive today",
+            "branded stones",
+            "worth",
+            "worth",
+            "way",
+            "risk",
+            "effort"
+        ],
+        "trends": [
+            "way",
+            "today",
+            "survive",
+            "stones",
+            "branded"
+        ]
+    },
+    {
+        "sentence": [
+            "My business right now, in order for me to survive, I have to have at least 70% of my bucks into value added stones.",
+            "I can make 30% generic stones, but just put them on wrap to sell or whatever.",
+            "But at least 70% of my stones have to be value added."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "value added stones",
+            "value added",
+            "make 30",
+            "least 70",
+            "least 70",
+            "generic stones",
+            "business right"
+        ],
+        "trends": [
+            "stones",
+            "value",
+            "least",
+            "added",
+            "wrap",
+            "whatever",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "Which means I'm cutting it specifically for a certain retailer or a certain program.",
+            "I'm cutting it for my program.",
+            "fire cushion, fire princess."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fire princess",
+            "fire cushion",
+            "certain retailer",
+            "certain program",
+            "program",
+            "specifically",
+            "means"
+        ],
+        "trends": [
+            "fire",
+            "certain",
+            "princess",
+            "cushion",
+            "specifically",
+            "retailer",
+            "program"
+        ]
+    },
+    {
+        "sentence": [
+            "These are stones where I can make significantly above market and people pay above market because it's something unique.",
+            "It's special.",
+            "They can make more margin."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something unique",
+            "people pay",
+            "make significantly",
+            "make",
+            "stones",
+            "special",
+            "market"
+        ],
+        "trends": [
+            "market",
+            "unique",
+            "stones",
+            "something",
+            "significantly",
+            "people",
+            "pay"
+        ]
+    },
+    {
+        "sentence": [
+            "So I've walked away from the generic business to compete with India.",
+            "There's no way I can't compete.",
+            "My couple of boxes that I get a month cannot compete with someone getting 20 boxes."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "someone getting 20 boxes",
+            "month cannot compete",
+            "walked away",
+            "generic business",
+            "boxes",
+            "compete",
+            "compete"
+        ],
+        "trends": [
+            "compete",
+            "boxes",
+            "way",
+            "ca",
+            "walked",
+            "someone",
+            "month"
+        ]
+    },
+    {
+        "sentence": [
+            "I manufacture in a factory of 30, 40 people and they're manufacturing a 4,000.",
+            "So it's not a level playing field.",
+            "So the answer to that is basically making unique products, being very specific, having  close relationship with certain retailers and cutting specifically for them."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "basically making unique products",
+            "level playing field",
+            "cutting specifically",
+            "close relationship",
+            "certain retailers",
+            "40 people",
+            "specific"
+        ],
+        "trends": [
+            "basically",
+            "certain",
+            "close",
+            "manufacture",
+            "people",
+            "manufacturing",
+            "factory"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "We spoke about this issue of proprietary cuts and three or four years ago I was working on an article about it and what you told me was similar to what I heard from others in the same sector which is it's a very it's still a very difficult market to make money out of branded cuts.",
+            "I remember that correctly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "four years ago",
+            "proprietary cuts",
+            "make money",
+            "difficult market",
+            "branded cuts",
+            "working",
+            "told"
+        ],
+        "trends": [
+            "cuts",
+            "years",
+            "article",
+            "branded",
+            "difficult",
+            "four",
+            "heard"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's easy.",
+            "I don't know if there's anything in easy but it's certainly easier to make a proprietary cut than a generic stone.",
+            "I think the generic business has been decimated especially now there's a lot of  If I go to the market and say, I have a four-grain HVS-2 for sale, go and wrap that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "proprietary cut",
+            "grain hvs",
+            "generic stone",
+            "generic business",
+            "decimated especially",
+            "certainly easier",
+            "wrap"
+        ],
+        "trends": [
+            "go",
+            "generic",
+            "anything",
+            "easy",
+            "stone",
+            "certainly",
+            "proprietary"
+        ]
+    },
+    {
+        "sentence": [
+            "You'll find hundreds of them.",
+            "Why can I offer this jeweler more than my competitor?",
+            "And this jeweler, when he has his HVS-2, what is he offering to his client?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "find hundreds",
+            "offering",
+            "offer",
+            "jeweler",
+            "jeweler",
+            "hvs",
+            "competitor"
+        ],
+        "trends": [
+            "jeweler",
+            "offer",
+            "competitor",
+            "offering",
+            "client"
+        ]
+    },
+    {
+        "sentence": [
+            "It's on Blue Nile, it's on James Allen, it's on 30 other websites, it's on the next door neighbor.",
+            "What does he have to offer more than the next guy?",
+            "So if I can tell him, well, here's a one-carat fire cushion, which is unique stone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "carat fire cushion",
+            "next door neighbor",
+            "next guy",
+            "unique stone",
+            "james allen",
+            "blue nile",
+            "well"
+        ],
+        "trends": [
+            "next",
+            "websites",
+            "offer",
+            "guy",
+            "nile",
+            "neighbor",
+            "james"
+        ]
+    },
+    {
+        "sentence": [
+            "It has the same brilliance as a round stone.",
+            "It's a brilliant, not a model.",
+            "Modify Brilliant like other cushions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "modify brilliant like",
+            "round stone",
+            "brilliant",
+            "model",
+            "cushions",
+            "brilliance"
+        ],
+        "trends": [
+            "stone",
+            "round",
+            "brilliance",
+            "modify",
+            "like",
+            "cushions",
+            "brilliant"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a great alternative to the round.",
+            "He has something to talk about.",
+            "He has something to sell."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great alternative",
+            "talk",
+            "something",
+            "something",
+            "sell",
+            "round"
+        ],
+        "trends": [
+            "round",
+            "great",
+            "alternative"
+        ]
+    },
+    {
+        "sentence": [
+            "I can make my margin.",
+            "He can make his margin.",
+            "And the proprietary cut for my company is the only way to go."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "proprietary cut",
+            "way",
+            "margin",
+            "margin",
+            "make",
+            "make",
+            "go"
+        ],
+        "trends": [
+            "way",
+            "proprietary",
+            "go",
+            "cut",
+            "company"
+        ]
+    },
+    {
+        "sentence": [
+            "Either my proprietary cut or if the jeweler has a proprietary cut.",
+            "Again, he has something that no one else has.",
+            "And he says, listen, this, I want you to make it, make this stone for me specifically and I'll do it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "proprietary cut",
+            "proprietary cut",
+            "one else",
+            "want",
+            "stone",
+            "specifically",
+            "something"
+        ],
+        "trends": [
+            "make",
+            "proprietary",
+            "cut",
+            "something",
+            "one",
+            "else",
+            "jeweler"
+        ]
+    },
+    {
+        "sentence": [
+            "We have to arrive at a price that I can survive at and I can make money on.",
+            "And we have quite a number of jewelers that we make specific cuts just for them, which again, avoids the generic stone.",
+            "and allows me to make money, allows him to make money."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "make specific cuts",
+            "make money",
+            "make money",
+            "make money",
+            "generic stone",
+            "survive",
+            "quite"
+        ],
+        "trends": [
+            "make",
+            "money",
+            "allows",
+            "stone",
+            "specific",
+            "quite",
+            "number"
+        ]
+    },
+    {
+        "sentence": [
+            "Can you tell me a bit about what the company has done to go to retailers and train them?",
+            "I understand that the company has been engaged in a lot of sales training for jewelry retailers.",
+            "The sales training actually was when we introduced the Fire Princess in 2008 and the Fire Cushion in 2012."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sales training actually",
+            "sales training",
+            "fire princess",
+            "fire cushion",
+            "jewelry retailers",
+            "retailers",
+            "understand"
+        ],
+        "trends": [
+            "retailers",
+            "company",
+            "sales",
+            "training",
+            "fire",
+            "understand",
+            "train"
+        ]
+    },
+    {
+        "sentence": [
+            "During that period from 2008 till about 2015-16, we did go and train jewelers.",
+            "We created a number of CDs that we sent out.",
+            "Those times we used the CDs."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "train jewelers",
+            "2008 till",
+            "used",
+            "times",
+            "sent",
+            "period",
+            "number"
+        ],
+        "trends": [
+            "cds",
+            "used",
+            "times",
+            "sent",
+            "number",
+            "train",
+            "till"
+        ]
+    },
+    {
+        "sentence": [
+            "Obviously, I'm dating my  I  sales manager went around to major stores and put on those PowerPoints and explained we had some major clients in Indonesia and China.",
+            "And I would go around and do the training.",
+            "I went to Indonesia several times."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sales manager went around",
+            "would go around",
+            "indonesia several times",
+            "major stores",
+            "major clients",
+            "went",
+            "indonesia"
+        ],
+        "trends": [
+            "major",
+            "went",
+            "indonesia",
+            "around",
+            "go",
+            "would",
+            "training"
+        ]
+    },
+    {
+        "sentence": [
+            "I was in China many times doing presentations.",
+            "I did one in Korea.",
+            "So yeah, the important clients, the ones who had chains, I would do the training and for the retailers in America, the bigger ones, I had a team that did it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "china many times",
+            "important clients",
+            "bigger ones",
+            "ones",
+            "yeah",
+            "would",
+            "training"
+        ],
+        "trends": [
+            "ones",
+            "yeah",
+            "would",
+            "training",
+            "team",
+            "retailers",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "And otherwise we would send the material.",
+            "I have to admit we haven't done much for the last decade.",
+            "because the ones who are selling it know already have the training and we haven't introduced anything new in the last decade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "introduced anything new",
+            "would send",
+            "last decade",
+            "last decade",
+            "know already",
+            "done much",
+            "training"
+        ],
+        "trends": [
+            "decade",
+            "last",
+            "admit",
+            "much",
+            "done",
+            "would",
+            "otherwise"
+        ]
+    },
+    {
+        "sentence": [
+            "But I'm happy to share with you the first place that I'm saying it so you have an exclusive.",
+            "After 10 years research, we're introducing the Fire Oval in JCK Las Vegas this year.",
+            "So we're going to do a major release about that and we'll start training what's special about the Fire Oval."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jck las vegas",
+            "10 years research",
+            "start training",
+            "major release",
+            "first place",
+            "fire oval",
+            "fire oval"
+        ],
+        "trends": [
+            "fire",
+            "oval",
+            "years",
+            "vegas",
+            "research",
+            "year",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "So now we have three shapes, the Fire Princess, Fire Cushion and Fire Oval.",
+            "And the reason we brought in the Fire Oval is because it's a very hot shape and it took us a long time to come up with something unique about it.",
+            "it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "took us",
+            "three shapes",
+            "something unique",
+            "long time",
+            "hot shape",
+            "fire princess",
+            "fire oval"
+        ],
+        "trends": [
+            "fire",
+            "us",
+            "come",
+            "hot",
+            "long",
+            "oval",
+            "cushion"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're going to introduce it this year in Vegas and I'll start training again.",
+            "Wish you much success with that.",
+            "Thank you very much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "start training",
+            "much success",
+            "much",
+            "year",
+            "wish",
+            "vegas",
+            "thank"
+        ],
+        "trends": [
+            "wish",
+            "success",
+            "much",
+            "year",
+            "vegas",
+            "training",
+            "start"
+        ]
+    },
+    {
+        "sentence": [
+            "I wanted to ask about market crises because you've mentioned the crisis of 1980 and obviously there's been a few in the last, probably count three in the last six years, although as you mentioned before, probably not on the same scale as the 1981.",
+            "How has your company managed to deal with that?",
+            "What did you learn from your father about how to deal with crises like this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "probably count three",
+            "last six years",
+            "market crises",
+            "crises like",
+            "company managed",
+            "probably",
+            "last"
+        ],
+        "trends": [
+            "crises",
+            "deal",
+            "probably",
+            "mentioned",
+            "last",
+            "ask",
+            "count"
+        ]
+    },
+    {
+        "sentence": [
+            "The only thing I really learned from my father is it doesn't last forever.",
+            "He said, listen, you got to hold out.",
+            "The number one lesson is you have to  be liquid, you can't be in debt, debt will kill you in a crisis."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "number one lesson",
+            "really learned",
+            "last forever",
+            "thing",
+            "said",
+            "listen",
+            "liquid"
+        ],
+        "trends": [
+            "debt",
+            "listen",
+            "said",
+            "thing",
+            "learned",
+            "father",
+            "forever"
+        ]
+    },
+    {
+        "sentence": [
+            "You try to just keep talking to your clients and you power your way through it.",
+            "It is cyclical.",
+            "Diamonds have become highly cyclical."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "become highly cyclical",
+            "keep talking",
+            "cyclical",
+            "way",
+            "try",
+            "power",
+            "diamonds"
+        ],
+        "trends": [
+            "highly",
+            "diamonds",
+            "cyclical",
+            "become",
+            "way",
+            "try",
+            "talking"
+        ]
+    },
+    {
+        "sentence": [
+            "And I don't think we're out of the crisis that we had in 23 is not over.",
+            "I think we're still seeing the tail end of that crisis.",
+            "There are many different factors coming together, but I would call this crisis the lab grown crisis."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many different factors coming together",
+            "lab grown crisis",
+            "would call",
+            "tail end",
+            "still seeing",
+            "crisis",
+            "crisis"
+        ],
+        "trends": [
+            "crisis",
+            "would",
+            "together",
+            "many",
+            "lab",
+            "think",
+            "tail"
+        ]
+    },
+    {
+        "sentence": [
+            "This crisis is the number one culprit is lab grown.",
+            "It caught us all by surprise.",
+            "I think we were so drunk with the success of 22, we didn't see the problems  of lab growth creeping up on us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "number one culprit",
+            "lab growth creeping",
+            "lab grown",
+            "caught us",
+            "us",
+            "think",
+            "surprise"
+        ],
+        "trends": [
+            "us",
+            "lab",
+            "surprise",
+            "think",
+            "one",
+            "number",
+            "grown"
+        ]
+    },
+    {
+        "sentence": [
+            "In fact, during 22, which was our best year ever, I think it was everyone's best year ever, a lot of Jews told me I'm getting into lab growth and I totally ignored that.",
+            "Come on, look how good diamonds are doing.",
+            "And I was totally blindsided as I think almost every industry leader and player was blindsided."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think almost every industry leader",
+            "best year ever",
+            "best year ever",
+            "totally ignored",
+            "lab growth",
+            "jews told",
+            "good diamonds"
+        ],
+        "trends": [
+            "year",
+            "best",
+            "ever",
+            "blindsided",
+            "think",
+            "totally",
+            "almost"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're still in the lab growth crisis.",
+            "So every crisis is different.",
+            "The crisis of 1980, which was basically the Tula mania just went nuts."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab growth crisis",
+            "went nuts",
+            "tula mania",
+            "every crisis",
+            "crisis",
+            "still",
+            "different"
+        ],
+        "trends": [
+            "crisis",
+            "still",
+            "lab",
+            "went",
+            "tula",
+            "nuts",
+            "mania"
+        ]
+    },
+    {
+        "sentence": [
+            "Diamonds went up in one year, six times, seven times it was unsustainable.",
+            "we all knew it, we refused to face reality.",
+            "Then there was the financial crisis in 2008 when the whole world came to us."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole world came",
+            "six times",
+            "seven times",
+            "one year",
+            "financial crisis",
+            "face reality",
+            "diamonds went"
+        ],
+        "trends": [
+            "times",
+            "face",
+            "knew",
+            "world",
+            "crisis",
+            "financial",
+            "came"
+        ]
+    },
+    {
+        "sentence": [
+            "Then we had the COVID crisis and stuff.",
+            "Each one is unique in its own way.",
+            "The good news is that I think diamonds are here to stay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think diamonds",
+            "good news",
+            "covid crisis",
+            "way",
+            "unique",
+            "stuff",
+            "stay"
+        ],
+        "trends": [
+            "stuff",
+            "crisis",
+            "think",
+            "stay",
+            "news",
+            "good",
+            "way"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think women will stop to covet diamonds.",
+            "I think women will always like diamonds.",
+            "I think this lab-grown crisis will end."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always like diamonds",
+            "covet diamonds",
+            "grown crisis",
+            "think women",
+            "think women",
+            "think",
+            "stop"
+        ],
+        "trends": [
+            "think",
+            "women",
+            "diamonds",
+            "end",
+            "crisis",
+            "like",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "Hard to predict when.",
+            "Jewelers are very addicted to the margins.",
+            "I mean, I was just in Centurion and the jewelers are making six times margin."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "making six times margin",
+            "predict",
+            "mean",
+            "margins",
+            "jewelers",
+            "jewelers",
+            "hard"
+        ],
+        "trends": [
+            "jewelers",
+            "margins",
+            "addicted",
+            "times",
+            "six",
+            "mean",
+            "margin"
+        ]
+    },
+    {
+        "sentence": [
+            "It's hard  to get people off a six-time margin.",
+            "But that's going to collapse because somebody's going to go online and sell stuff for less.",
+            "And people will realize that the stone they're paying $2,000 for, they can get for $400 or $350."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time margin",
+            "sell stuff",
+            "go online",
+            "get people",
+            "people",
+            "get",
+            "stone"
+        ],
+        "trends": [
+            "people",
+            "get",
+            "going",
+            "stuff",
+            "somebody",
+            "sell",
+            "margin"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's going to bring it all down.",
+            "I hope it happens sooner rather than later.",
+            "And at that point, there'll be some backlash against jewelers and the diamond industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "happens sooner rather",
+            "diamond industry",
+            "point",
+            "later",
+            "jewelers",
+            "hope",
+            "going"
+        ],
+        "trends": [
+            "sooner",
+            "rather",
+            "later",
+            "hope",
+            "happens",
+            "point",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're not going to walk away on skates from this because when the lab-grown crisis comes down, people in their minds will not celebrate, well, natural diamonds are good and lab-grown diamonds are bad.",
+            "They'll say,  you're fooled by this whole lab growth story and it'll have a lingering effect.",
+            "It will not be good to the jewelry industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole lab growth story",
+            "grown crisis comes",
+            "grown diamonds",
+            "walk away",
+            "natural diamonds",
+            "lingering effect",
+            "jewelry industry"
+        ],
+        "trends": [
+            "good",
+            "diamonds",
+            "lingering",
+            "effect",
+            "fooled",
+            "growth",
+            "lab"
+        ]
+    },
+    {
+        "sentence": [
+            "I think the margins that jewelers are making today on lab growths is, lack of a better word, it's wrong.",
+            "I think it's just wrong and it's going to come back to haunt us.",
+            "But the dust will settle and natural diamonds will come back and there'll be another cycle."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural diamonds",
+            "making today",
+            "lab growths",
+            "haunt us",
+            "come back",
+            "come back",
+            "better word"
+        ],
+        "trends": [
+            "back",
+            "come",
+            "wrong",
+            "think",
+            "cycle",
+            "diamonds",
+            "dust"
+        ]
+    },
+    {
+        "sentence": [
+            "And then there'll be another crisis that we didn't think of yet and it's going to come up again.",
+            "We've survived all these crises, we'll survive this one too.",
+            "And the business changes every time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "business changes every time",
+            "another crisis",
+            "yet",
+            "think",
+            "survived",
+            "survive",
+            "one"
+        ],
+        "trends": [
+            "time",
+            "every",
+            "changes",
+            "business",
+            "yet",
+            "think",
+            "survived"
+        ]
+    },
+    {
+        "sentence": [
+            "The business is changing.",
+            "I mean, there was a time that you just  just made phone calls, you send goods and memo, and then came emails, and then came internet, and now you have all kinds of other new ways of marketing.",
+            "So the market will evolve just like everything evolves."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "made phone calls",
+            "like everything evolves",
+            "send goods",
+            "new ways",
+            "came internet",
+            "came emails",
+            "time"
+        ],
+        "trends": [
+            "came",
+            "time",
+            "emails",
+            "goods",
+            "internet",
+            "kinds",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the business will survive in some form or another and basically try to ride the waves.",
+            "And we have seen some stabilizing trends since approximately November of 2023.",
+            "We're recording this on the 5th of March."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stabilizing trends since approximately november",
+            "basically try",
+            "waves",
+            "think",
+            "survive",
+            "seen",
+            "ride"
+        ],
+        "trends": [
+            "trends",
+            "waves",
+            "try",
+            "think",
+            "survive",
+            "stabilizing",
+            "since"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you agree with that?",
+            "And secondly, what do you think is behind that stabilization?",
+            "I read today's press release, Ramaport."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "read today",
+            "press release",
+            "think",
+            "stabilization",
+            "secondly",
+            "ramaport",
+            "behind"
+        ],
+        "trends": [
+            "think",
+            "stabilization",
+            "secondly",
+            "behind",
+            "today",
+            "release",
+            "read"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not very encouraging.",
+            "It shows ups and downs and I don't always agree with Rappaport but this, I do agree completely with today's press release.",
+            "It's up and down."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "shows ups",
+            "press release",
+            "always agree",
+            "agree completely",
+            "today",
+            "rappaport",
+            "encouraging"
+        ],
+        "trends": [
+            "agree",
+            "ups",
+            "today",
+            "shows",
+            "release",
+            "rappaport",
+            "press"
+        ]
+    },
+    {
+        "sentence": [
+            "Lucky you're talking to the person who wrote it.",
+            "Okay, fine.",
+            "Kudos to you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wrote",
+            "talking",
+            "person",
+            "okay",
+            "lucky",
+            "kudos",
+            "fine"
+        ],
+        "trends": [
+            "wrote",
+            "talking",
+            "person",
+            "lucky"
+        ]
+    },
+    {
+        "sentence": [
+            "I agree with everything that's written there.",
+            "I think we're hanging on to the prices with our fingernails.",
+            "I really hope things improve quickly."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really hope things improve quickly",
+            "written",
+            "think",
+            "prices",
+            "hanging",
+            "fingernails",
+            "everything"
+        ],
+        "trends": [
+            "think",
+            "prices",
+            "written",
+            "everything",
+            "agree",
+            "things",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "There isn't that much strength in the market.",
+            "It's being held up pretty much by shortages in some areas.",
+            "The last site was under 400 million, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pretty much",
+            "much strength",
+            "last site",
+            "400 million",
+            "shortages",
+            "right",
+            "market"
+        ],
+        "trends": [
+            "much",
+            "strength",
+            "market",
+            "site",
+            "right",
+            "million",
+            "shortages"
+        ]
+    },
+    {
+        "sentence": [
+            "The site before that was also under 400 million dollars.",
+            "I think 400 million dollars is a ceiling right now.",
+            "I really hope people don't go above that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think 400 million dollars",
+            "400 million dollars",
+            "really hope people",
+            "ceiling right",
+            "site",
+            "go",
+            "also"
+        ],
+        "trends": [
+            "million",
+            "dollars",
+            "site",
+            "also",
+            "really",
+            "people",
+            "hope"
+        ]
+    },
+    {
+        "sentence": [
+            "I hope it stays well below 400 million.",
+            "As long as the sites are at 400 million dollars and doesn't really go above that, I think prices will be stable because demand supply will be at equilibrium.",
+            "If any event comes in that new supply comes on or people for some reason make a mistake without buying too much, I don't think there's enough demand to support the prices."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mistake without buying",
+            "new supply comes",
+            "400 million dollars",
+            "400 million",
+            "event comes",
+            "demand supply",
+            "stays well"
+        ],
+        "trends": [
+            "comes",
+            "think",
+            "demand",
+            "supply",
+            "prices",
+            "really",
+            "equilibrium"
+        ]
+    },
+    {
+        "sentence": [
+            "So right now, I think we have an equilibrium of supply and demand, barely.",
+            "You talk about this as kind of crisis of lab-grown diamonds and that was the main factor behind the downturn we saw last year.",
+            "other major factor, which we've touched on already a little bit of China, that China was like the second US for many years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "saw last year",
+            "main factor behind",
+            "major factor",
+            "second us",
+            "many years",
+            "little bit",
+            "grown diamonds"
+        ],
+        "trends": [
+            "china",
+            "factor",
+            "talk",
+            "saw",
+            "downturn",
+            "right",
+            "supply"
+        ]
+    },
+    {
+        "sentence": [
+            "And obviously not quite as big, but still a very important market and big market.",
+            "When China was good, it was great.",
+            "In 2022, China drove the market up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "important market",
+            "china drove",
+            "big market",
+            "market",
+            "china",
+            "big",
+            "still"
+        ],
+        "trends": [
+            "market",
+            "big",
+            "china",
+            "drove",
+            "great",
+            "good",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "And you go back before that, starting in 2008, China drove the market up.",
+            "China was a very important factor.",
+            "And sales are sorely missing from the market today."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sorely missing",
+            "important factor",
+            "go back",
+            "market today",
+            "china drove",
+            "market",
+            "china"
+        ],
+        "trends": [
+            "china",
+            "market",
+            "starting",
+            "go",
+            "important",
+            "factor",
+            "today"
+        ]
+    },
+    {
+        "sentence": [
+            "Very sorely missing.",
+            "Right.",
+            "That doesn't really look like it's coming back anytime soon."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "coming back anytime soon",
+            "really look like",
+            "sorely missing",
+            "right"
+        ],
+        "trends": [
+            "soon",
+            "really",
+            "look",
+            "like",
+            "coming",
+            "back",
+            "anytime"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, it's been going on like this for a long time.",
+            "Chinese consumers, except for maybe they're very wealthy, are not really showing much interest in diamonds.",
+            "They're buying gold and they're maybe buying other stones, but they're not buying diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really showing much interest",
+            "long time",
+            "chinese consumers",
+            "buying gold",
+            "maybe buying",
+            "buying diamonds",
+            "maybe"
+        ],
+        "trends": [
+            "buying",
+            "maybe",
+            "diamonds",
+            "chinese",
+            "consumers",
+            "except",
+            "interest"
+        ]
+    },
+    {
+        "sentence": [
+            "I think China has a financial crisis.",
+            "I used to have a factory in China.",
+            "I closed it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "financial crisis",
+            "think china",
+            "china",
+            "used",
+            "factory",
+            "closed"
+        ],
+        "trends": [
+            "china",
+            "used",
+            "factory",
+            "think",
+            "financial",
+            "crisis"
+        ]
+    },
+    {
+        "sentence": [
+            "I opened up in Botswana instead.",
+            "But I used to have a factory in China.",
+            "I'm still in touch with the manager on a personal level, not on a business level."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "personal level",
+            "business level",
+            "botswana instead",
+            "used",
+            "touch",
+            "still",
+            "opened"
+        ],
+        "trends": [
+            "level",
+            "used",
+            "factory",
+            "china",
+            "opened",
+            "touch",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm still in touch with them.",
+            "And again, this is not a newspaper figure, but she tells me, manager, that the unemployment that she sees in China is far greater than the official numbers.",
+            "Today are having a very hard time finding a job."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hard time finding",
+            "official numbers",
+            "newspaper figure",
+            "far greater",
+            "unemployment",
+            "touch",
+            "today"
+        ],
+        "trends": [
+            "unemployment",
+            "tells",
+            "sees",
+            "official",
+            "numbers",
+            "today",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "And the real unemployment might be as high as 20%.",
+            "So if there's 20% unemployment, they're not getting married.",
+            "And if they are getting married, they're not buying a real diamond, they're buying a lab grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "real unemployment might",
+            "real diamond",
+            "lab grown",
+            "getting married",
+            "getting married",
+            "20 %.",
+            "unemployment"
+        ],
+        "trends": [
+            "married",
+            "getting",
+            "buying",
+            "real",
+            "unemployment",
+            "might",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's some significant issues there.",
+            "The economy has to come back, employment has to come back.",
+            "But I think China is cyclical like the rest of the world."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think china",
+            "significant issues",
+            "cyclical like",
+            "come back",
+            "come back",
+            "world",
+            "rest"
+        ],
+        "trends": [
+            "come",
+            "back",
+            "world",
+            "think",
+            "rest",
+            "like",
+            "cyclical"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, they have to make some major changes.",
+            "There's already geopolitical issues, which is not my forte, but I wouldn't count China out, but there's some significant issues.",
+            "It's not turning around quickly."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "turning around quickly",
+            "already geopolitical issues",
+            "significant issues",
+            "major changes",
+            "count china",
+            "mean",
+            "make"
+        ],
+        "trends": [
+            "issues",
+            "would",
+            "significant",
+            "geopolitical",
+            "turning",
+            "quickly",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not turning around for 24.",
+            "And with China's slow, we've heard of some companies increasing their focus on the domestic Indian market, which has been a bit of a support for those trades in the last six months or so.",
+            "Did you sell to India at all?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last six months",
+            "domestic indian market",
+            "turning around",
+            "companies increasing",
+            "trades",
+            "support",
+            "slow"
+        ],
+        "trends": [
+            "trades",
+            "support",
+            "slow",
+            "six",
+            "months",
+            "market",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "I have no presence in India.",
+            "I wouldn't know that.",
+            "But it's very good for me as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "well",
+            "presence",
+            "know",
+            "india",
+            "good"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "It's good for everyone.",
+            "If India is buying, at least someone's buying diamonds.",
+            "It's an area that I'm totally not involved in."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "least someone",
+            "buying diamonds",
+            "buying",
+            "totally",
+            "involved",
+            "india",
+            "good"
+        ],
+        "trends": [
+            "buying",
+            "totally",
+            "involved",
+            "area",
+            "someone",
+            "least",
+            "india"
+        ]
+    },
+    {
+        "sentence": [
+            "And just looking, finally, just looking ahead to this year and the coming years, how do you see things going?",
+            "But also, what are you doing to adapt to all the changes that are going on?",
+            "social changes, economic changes, geopolitical changes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see things going",
+            "coming years",
+            "social changes",
+            "geopolitical changes",
+            "economic changes",
+            "looking ahead",
+            "going"
+        ],
+        "trends": [
+            "changes",
+            "going",
+            "looking",
+            "years",
+            "year",
+            "things",
+            "social"
+        ]
+    },
+    {
+        "sentence": [
+            "How do you make sure that the company stays relevant with all this going on?",
+            "over the past couple of years, the diamond cutting business, I'm sure you've covered it, there's the Optimus machine and other machines that have revolutionized diamond cutting.",
+            "The DaVinci is an older machine, we use that, but the Optimus machine, we use almost all of our stones, which is a relatively inexpensive machine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "revolutionized diamond cutting",
+            "diamond cutting business",
+            "company stays relevant",
+            "relatively inexpensive machine",
+            "optimus machine",
+            "optimus machine",
+            "older machine"
+        ],
+        "trends": [
+            "machine",
+            "optimus",
+            "cutting",
+            "diamond",
+            "use",
+            "sure",
+            "older"
+        ]
+    },
+    {
+        "sentence": [
+            "So that has revolutionized diamond cutting.",
+            "It allows us to do proprietary cuts, it allows us to do more specific cutting for specific clients.",
+            "We can sit here in New York and design the stone, send it over the file to what's  and they make that stone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "revolutionized diamond cutting",
+            "specific cutting",
+            "specific clients",
+            "proprietary cuts",
+            "new york",
+            "allows us",
+            "allows us"
+        ],
+        "trends": [
+            "allows",
+            "specific",
+            "us",
+            "cutting",
+            "stone",
+            "design",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "So we run the complete manufacturing process from here and we tweak the stones from here and we make exactly what the customer wants.",
+            "There's a GIA in Botswana by the way.",
+            "So they give it, and we get it back from Botswana GIA with an inscription of the client and everything's done."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "complete manufacturing process",
+            "make exactly",
+            "customer wants",
+            "botswana gia",
+            "gia",
+            "botswana",
+            "way"
+        ],
+        "trends": [
+            "gia",
+            "botswana",
+            "get",
+            "give",
+            "client",
+            "done",
+            "everything"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're doing this remote.",
+            "It's obviously a lot cheaper doing everything there than here in New York.",
+            "It also gives me access to certain goods because of beneficiation, having a company in Botswana."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york",
+            "lot cheaper",
+            "certain goods",
+            "also gives",
+            "remote",
+            "obviously",
+            "everything"
+        ],
+        "trends": [
+            "york",
+            "obviously",
+            "goods",
+            "gives",
+            "company",
+            "certain",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "So that amount of specific manufacturing,  on time, specific manufacturing for the client, being a boutique company, that's the future of the company.",
+            "I don't see ourselves becoming an answer to every client out there, but I see myself increasing our specific and unique cuts and service for very specific clients.",
+            "That's where I see the company going."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "unique cuts",
+            "specific manufacturing",
+            "specific manufacturing",
+            "specific clients",
+            "company going",
+            "boutique company",
+            "every client"
+        ],
+        "trends": [
+            "specific",
+            "see",
+            "company",
+            "manufacturing",
+            "client",
+            "amount",
+            "future"
+        ]
+    },
+    {
+        "sentence": [
+            "enlightening for the listeners too.",
+            "And so I just wanted to say how grateful I am and how honored I am that you've joined us on this podcast.",
+            "It's all mine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joined us",
+            "wanted",
+            "say",
+            "podcast",
+            "mine",
+            "listeners",
+            "honored"
+        ],
+        "trends": [
+            "wanted",
+            "us",
+            "say",
+            "podcast",
+            "joined",
+            "honored",
+            "grateful"
+        ]
+    },
+    {
+        "sentence": [
+            "I thank you very much.",
+            "I appreciate it.",
+            "This is a unique opportunity and I wish you all lots of luck and above all, stay safe."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "unique opportunity",
+            "stay safe",
+            "wish",
+            "thank",
+            "much",
+            "luck",
+            "lots"
+        ],
+        "trends": [
+            "wish",
+            "unique",
+            "stay",
+            "safe",
+            "opportunity",
+            "luck",
+            "lots"
+        ]
+    },
+    {
+        "sentence": [
+            "subscribe to get future episodes."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get future episodes",
+            "subscribe"
+        ],
+        "trends": [
+            "subscribe",
+            "get",
+            "future",
+            "episodes"
+        ]
+    }
+]

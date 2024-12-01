@@ -1,0 +1,2662 @@
+[
+    {
+        "sentence": [
+            " This is the Rappaport Diamond podcast and now your host, Sonia Astor-Soltani.",
+            "Rachel and I are going to say who we think did the best campaign for diamonds in 2023.",
+            "We're also going to question whether celebrities bring something special to diamond jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "question whether celebrities bring something special",
+            "rappaport diamond podcast",
+            "diamond jewelry",
+            "sonia astor",
+            "best campaign",
+            "also going",
+            "going"
+        ],
+        "trends": [
+            "going",
+            "rachel",
+            "diamond",
+            "whether",
+            "bring",
+            "sonia",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "And finally, we have plenty of insights from Rachel on how to market diamond jewelry successfully.",
+            "Enjoy.",
+            "And today we are back to discussing dazzling diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "market diamond jewelry successfully",
+            "discussing dazzling diamonds",
+            "today",
+            "rachel",
+            "plenty",
+            "insights",
+            "finally"
+        ],
+        "trends": [
+            "today",
+            "discussing",
+            "successfully",
+            "rachel",
+            "plenty",
+            "market",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "So hi, Rachel.",
+            "Thank you so much for having me, Sonia.",
+            "It's really nice to be back and to see you and to do another podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really nice",
+            "another podcast",
+            "thank",
+            "sonia",
+            "see",
+            "rachel",
+            "much"
+        ],
+        "trends": [
+            "thank",
+            "sonia",
+            "much",
+            "see",
+            "really",
+            "podcast",
+            "nice"
+        ]
+    },
+    {
+        "sentence": [
+            "So thanks.",
+            "That's great.",
+            "So let's start."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thanks",
+            "start",
+            "let",
+            "great"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Award season is over.",
+            "I've been thinking of all the publicists having this massive sigh of relief.",
+            "This is it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "massive sigh",
+            "award season",
+            "thinking",
+            "relief",
+            "publicists"
+        ],
+        "trends": [
+            "thinking",
+            "sigh",
+            "relief",
+            "publicists",
+            "massive"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm done for this year.",
+            "I am also having a sigh of relief.",
+            "You know, because you're on all the same list, but your inbox, as soon as there's been any kind of red carpet or awards, it's like, I just know I really dread opening  it the next day."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really dread opening",
+            "red carpet",
+            "next day",
+            "year",
+            "soon",
+            "sigh",
+            "relief"
+        ],
+        "trends": [
+            "know",
+            "kind",
+            "awards",
+            "carpet",
+            "day",
+            "dread",
+            "inbox"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just about, I don't know, a thousand emails of who was wearing which jewels, which is really interesting and good to know, but also it's a lot.",
+            "But yeah, I think thinking about the publicists as well, because they're obviously having to stay up a lot of them through the night because they don't know.",
+            "I think often how it works, or what I've been told is they'll submit jewelry, but they don't actually know until they watch the red carpet themselves and then they have to react really quickly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "react really quickly",
+            "really interesting",
+            "thousand emails",
+            "think thinking",
+            "think often",
+            "submit jewelry",
+            "red carpet"
+        ],
+        "trends": [
+            "know",
+            "lot",
+            "think",
+            "really",
+            "night",
+            "obviously",
+            "publicists"
+        ]
+    },
+    {
+        "sentence": [
+            "So it must be so stressful.",
+            "It must be.",
+            "Yeah, don't do that job."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "yeah",
+            "stressful",
+            "must",
+            "must",
+            "job"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "It's a bit easier if you're on the main list of the celebrities  that have contracts with the big, big names like Tiffany & Co, Harry Winster and Bulgari because you know that they're going to wear the jewelry, especially for the biggest award ceremonies.",
+            "We had Francesca Simon on an interview, a famous publicist in New York, and she says, you see celebrities wearing more smaller designers on less well-known or less costly on TV shows or interviews, but for the big events, you know they're going to wear the brands that they have a contract with, which I found not very inspiring.",
+            "Even if the jewelry is beautiful, it's not a criticism of the actual jewelry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big names like tiffany",
+            "biggest award ceremonies",
+            "see celebrities wearing",
+            "big events",
+            "tv shows",
+            "smaller designers",
+            "new york"
+        ],
+        "trends": [
+            "jewelry",
+            "big",
+            "less",
+            "know",
+            "celebrities",
+            "going",
+            "wear"
+        ]
+    },
+    {
+        "sentence": [
+            "at all.",
+            "You know, I love seeing Tiffany jewelry, but I just found it very predictable and a bit commercial.",
+            "Because part of it is the surprise, isn't it?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "love seeing tiffany jewelry",
+            "bit commercial",
+            "surprise",
+            "predictable",
+            "part",
+            "know",
+            "found"
+        ],
+        "trends": [
+            "tiffany",
+            "seeing",
+            "predictable",
+            "love",
+            "know",
+            "jewelry",
+            "found"
+        ]
+    },
+    {
+        "sentence": [
+            "You want to see what people are wearing.",
+            "And when it is a big brand, they might create something amazing.",
+            "You know, when Lady Gaga wore the Tiffany diamond, you know, that was really special moment because obviously only a few women in history have worn it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "might create something amazing",
+            "really special moment",
+            "lady gaga wore",
+            "tiffany diamond",
+            "big brand",
+            "worn",
+            "women"
+        ],
+        "trends": [
+            "know",
+            "amazing",
+            "big",
+            "brand",
+            "create",
+            "something",
+            "might"
+        ]
+    },
+    {
+        "sentence": [
+            "But in reality, it's mostly, you know, brands, I think, aren't necessarily creating these sort of really incredible pieces specifically for the red carpet tends to be, I don't know, pieces from high jewelry collections.",
+            "slightly less exciting.",
+            "Is that a single look that you enjoyed this past season?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really incredible pieces specifically",
+            "slightly less exciting",
+            "red carpet tends",
+            "high jewelry collections",
+            "single look",
+            "past season",
+            "necessarily creating"
+        ],
+        "trends": [
+            "know",
+            "pieces",
+            "think",
+            "carpet",
+            "less",
+            "slightly",
+            "exciting"
+        ]
+    },
+    {
+        "sentence": [
+            "Not just the Oscars but everything we've seen, the Golden Globes, the SAG, I mean there's so many I just lost track at some stage.",
+            "Do you know what I'm having absolute blindness when you're asking me that.",
+            "I think it's just been like a sea of diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lost track",
+            "golden globes",
+            "absolute blindness",
+            "think",
+            "stage",
+            "seen",
+            "sea"
+        ],
+        "trends": [
+            "everything",
+            "globes",
+            "absolute",
+            "know",
+            "asking",
+            "blindness",
+            "sea"
+        ]
+    },
+    {
+        "sentence": [
+            "There's been some beautiful looks but I wouldn't say for me and I'm sure people would love to contradict this but each season or each awards ceremony there's often like a really iconic look that everybody's talking about.",
+            "I kind of feel like that's been missing this season.",
+            "I don't feel there's been  in one look that everybody's really kind of lost their minds over."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sure people would love",
+            "really iconic look",
+            "one look",
+            "really kind",
+            "often like",
+            "beautiful looks",
+            "awards ceremony"
+        ],
+        "trends": [
+            "really",
+            "everybody",
+            "look",
+            "would",
+            "feel",
+            "kind",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "You might think otherwise, maybe there was one that you really liked.",
+            "I agree.",
+            "And I wasn't even excited."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "might think otherwise",
+            "really liked",
+            "even excited",
+            "one",
+            "maybe",
+            "agree"
+        ],
+        "trends": [
+            "think",
+            "really",
+            "otherwise",
+            "one",
+            "might",
+            "maybe",
+            "liked"
+        ]
+    },
+    {
+        "sentence": [
+            "I just checked out of professional duty in the morning after that happened.",
+            "Just I go on Instagram and check who wore what.",
+            "Am I seeing something?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seeing something",
+            "professional duty",
+            "wore",
+            "morning",
+            "instagram",
+            "happened",
+            "go"
+        ],
+        "trends": [
+            "wore",
+            "instagram",
+            "go",
+            "check",
+            "professional",
+            "morning",
+            "happened"
+        ]
+    },
+    {
+        "sentence": [
+            "Actually, I saw Michelle Yeoh was wearing a Cindy Chao brooch at the Oscars.",
+            "And I thought that was really, really beautiful because there's all jewelry coming on the Oscars.",
+            "It was so perfect."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "saw michelle yeoh",
+            "cindy chao brooch",
+            "jewelry coming",
+            "really beautiful",
+            "really",
+            "wearing",
+            "thought"
+        ],
+        "trends": [
+            "oscars",
+            "really",
+            "thought",
+            "yeoh",
+            "wearing",
+            "saw",
+            "michelle"
+        ]
+    },
+    {
+        "sentence": [
+            "with her.",
+            "So that's actually one of the looks I enjoyed discovering.",
+            "to the whole contract idea and actually are they being paid to wear the newest pieces rather than the experiment with something in the archives?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole contract idea",
+            "newest pieces rather",
+            "enjoyed discovering",
+            "actually one",
+            "actually",
+            "wear",
+            "something"
+        ],
+        "trends": [
+            "whole",
+            "wear",
+            "something",
+            "rather",
+            "pieces",
+            "actually",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "That's such a good point.",
+            "I like to see, we saw a lot of Fred Leighton jewelry, so you know, vintage jewelry from New York.",
+            "I saw it on Margot Robbie, she had the Oscar."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fred leighton jewelry",
+            "vintage jewelry",
+            "new york",
+            "margot robbie",
+            "good point",
+            "see",
+            "saw"
+        ],
+        "trends": [
+            "jewelry",
+            "york",
+            "vintage",
+            "see",
+            "new",
+            "lot",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "So she had a black dress, a strapless dress, and she had this really nice cut from Fred Leighton.",
+            "So, you know, I like estate jewelry, so I was excited, especially on the Barbie actress.",
+            "And we saw Ren\u00e9e Boivin's piece as well on one of the other ceremonies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "saw ren\u00e9e boivin",
+            "really nice cut",
+            "like estate jewelry",
+            "strapless dress",
+            "fred leighton",
+            "black dress",
+            "barbie actress"
+        ],
+        "trends": [
+            "dress",
+            "excited",
+            "barbie",
+            "especially",
+            "piece",
+            "one",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "I forgot which one, I'm sorry.",
+            "Beautiful necklace by Boivin.",
+            "Caramelian, if I'm not mistaken."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "beautiful necklace",
+            "sorry",
+            "one",
+            "mistaken",
+            "forgot",
+            "caramelian",
+            "boivin"
+        ],
+        "trends": [
+            "necklace",
+            "boivin",
+            "beautiful",
+            "sorry",
+            "one",
+            "forgot"
+        ]
+    },
+    {
+        "sentence": [
+            "And she wore it very nicely.",
+            "But yeah, I agree with you.",
+            "That would be the biggest sustainable statement they could make."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "biggest sustainable statement",
+            "could make",
+            "yeah",
+            "would",
+            "wore",
+            "nicely",
+            "agree"
+        ],
+        "trends": [
+            "would",
+            "sustainable",
+            "statement",
+            "make",
+            "could",
+            "biggest"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, completely.",
+            "Every jewel would have a story as well.",
+            "So there'd be more to talk about rather than... Because I feel that way about the dresses when suddenly you can connect it to a show from 1994."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "every jewel would",
+            "yeah",
+            "well",
+            "way",
+            "talk",
+            "suddenly",
+            "story"
+        ],
+        "trends": [
+            "would",
+            "well",
+            "way",
+            "talk",
+            "suddenly",
+            "show",
+            "rather"
+        ]
+    },
+    {
+        "sentence": [
+            "It kind of takes you back and makes you think about what the influences were at that time.",
+            "And yeah, jewelry could be the same.",
+            "And then hopefully that would get people speaking about more than the fact that it's just X amount of carrots and diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would get people speaking",
+            "x amount",
+            "jewelry could",
+            "yeah",
+            "time",
+            "think",
+            "takes"
+        ],
+        "trends": [
+            "could",
+            "influences",
+            "time",
+            "think",
+            "takes",
+            "back",
+            "makes"
+        ]
+    },
+    {
+        "sentence": [
+            "and really blingy, but actually talk about the craft and the storytelling.",
+            "Absolutely, I agree with you.",
+            "And that's the question, actually, I would love to open to all our listeners, you know, and to hear back."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would love",
+            "really blingy",
+            "hear back",
+            "actually talk",
+            "actually",
+            "storytelling",
+            "question"
+        ],
+        "trends": [
+            "actually",
+            "talk",
+            "would",
+            "question",
+            "open",
+            "love",
+            "storytelling"
+        ]
+    },
+    {
+        "sentence": [
+            "And I'm going to ask, obviously, to you first, but that's really something that I would love to know what people are thinking from the industry.",
+            "Do you think celebrities help the diamond industry by wearing diamonds on the red carpet, in TV shows, you know, in places where they're being snapped by paparazzi?",
+            "I don't know."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think celebrities help",
+            "would love",
+            "wearing diamonds",
+            "tv shows",
+            "red carpet",
+            "really something",
+            "diamond industry"
+        ],
+        "trends": [
+            "industry",
+            "know",
+            "would",
+            "really",
+            "first",
+            "going",
+            "love"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, I've been mulling this over.",
+            "I think celebrities definitely keep diamonds in jewelry.",
+            "I don't know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think celebrities definitely keep diamonds",
+            "mulling",
+            "know",
+            "know",
+            "jewelry"
+        ],
+        "trends": [
+            "think",
+            "keep",
+            "jewelry",
+            "diamonds",
+            "definitely",
+            "celebrities"
+        ]
+    },
+    {
+        "sentence": [
+            "We were talking before about the idea that everyone's hooked up to a different brand and there's an expectation that they're going to wear something.",
+            "So actually, I don't know, it'd be more interesting to see a red carpet that had no jewelry.",
+            "That might get people talking."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "might get people talking",
+            "wear something",
+            "red carpet",
+            "different brand",
+            "talking",
+            "see",
+            "know"
+        ],
+        "trends": [
+            "talking",
+            "actually",
+            "see",
+            "red",
+            "know",
+            "jewelry",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "I think people assume there's going to be big diamonds.",
+            "So I don't know if that necessarily translates into sales.",
+            "But then you do have kind of younger celebrities, I suppose, like Zendaya, who is an ambassador for the Red Carpet, who's been a big fan of the Red Carpet for a long time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think people assume",
+            "younger celebrities",
+            "red carpet",
+            "red carpet",
+            "necessarily translates",
+            "long time",
+            "like zendaya"
+        ],
+        "trends": [
+            "big",
+            "carpet",
+            "red",
+            "going",
+            "assume",
+            "think",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "And then there's also the Red Carpet, who's been a big fan of the Red Carpet for a long time.",
+            "from Bvlgari, who I think is a really genuinely good ambassador.",
+            "And sometimes she'll wear pieces from the more accessible ranges, like she'll take the Serpenti kind of like single smaller bracelets, but she'll stack them up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really genuinely good ambassador",
+            "like single smaller bracelets",
+            "wear pieces",
+            "serpenti kind",
+            "red carpet",
+            "red carpet",
+            "long time"
+        ],
+        "trends": [
+            "like",
+            "carpet",
+            "red",
+            "long",
+            "also",
+            "big",
+            "fan"
+        ]
+    },
+    {
+        "sentence": [
+            "And I can imagine somebody looking at that being like, Oh, I would love to buy one of those.",
+            "You know, obviously a red carpet look is 10 going up the arm, but you know, there's ways that, but a lot of it is so inaccessible.",
+            "You know, when we're talking about 10 carat diamond earrings, I don't imagine anyone looks at the red carpet and the next day is like, I'm going to go and buy myself some 10 carat diamond earrings."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "10 carat diamond earrings",
+            "10 carat diamond earrings",
+            "imagine somebody looking",
+            "imagine anyone looks",
+            "red carpet look",
+            "red carpet",
+            "10 going"
+        ],
+        "trends": [
+            "red",
+            "know",
+            "carat",
+            "diamond",
+            "earrings",
+            "carpet",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't know.",
+            "I think they're good hype people for diamonds and jewelry, but whether it translates to sales, I don't know.",
+            "I'm also wondering, sometimes I'll even think is it important to have a celebrity in your marketing campaign?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "good hype people",
+            "marketing campaign",
+            "also wondering",
+            "even think",
+            "think",
+            "whether",
+            "translates"
+        ],
+        "trends": [
+            "think",
+            "know",
+            "wondering",
+            "marketing",
+            "campaign",
+            "celebrity",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "Does it make an actual difference?",
+            "You know, it's like you see a lot of big houses that working with K-pop celebrities, especially on the Asian market, they seem to be doing very well.",
+            "But I'm just wondering for the US market, the European market, does it actually work?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us market",
+            "pop celebrities",
+            "european market",
+            "big houses",
+            "asian market",
+            "actually work",
+            "actual difference"
+        ],
+        "trends": [
+            "market",
+            "asian",
+            "actual",
+            "make",
+            "difference",
+            "working",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "Did you see a campaign when you felt like, wow, this is great.",
+            "This is really your market.",
+            "have the right celebrity, it's a line on your brow, and the campaign is super sleek."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "super sleek",
+            "right celebrity",
+            "felt like",
+            "wow",
+            "see",
+            "really",
+            "market"
+        ],
+        "trends": [
+            "campaign",
+            "wow",
+            "see",
+            "like",
+            "super",
+            "sleek",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "Again, it's very controversial, but I think the best one really from the last year was Pandora's campaign with Pamela Anderson.",
+            "That was for the Lab Grown Diamond collection, which I think was a brilliant slogan, which was diamonds for all.",
+            "Pamela Anderson, at the time, is having a real moment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown diamond collection",
+            "best one really",
+            "real moment",
+            "pamela anderson",
+            "pamela anderson",
+            "last year",
+            "brilliant slogan"
+        ],
+        "trends": [
+            "pamela",
+            "think",
+            "anderson",
+            "collection",
+            "slogan",
+            "brilliant",
+            "lab"
+        ]
+    },
+    {
+        "sentence": [
+            "She's going through this phase where she's not wearing makeup, she's kind of turning up looking really natural to all these events.",
+            "And she also did that for the campaign.",
+            "You know, she wasn't heavily made up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "looking really natural",
+            "wearing makeup",
+            "heavily made",
+            "turning",
+            "phase",
+            "know",
+            "kind"
+        ],
+        "trends": [
+            "wearing",
+            "turning",
+            "really",
+            "phase",
+            "natural",
+            "makeup",
+            "looking"
+        ]
+    },
+    {
+        "sentence": [
+            "And also you had Grace Coddington in that campaign as well, who's kind of an older, beautiful, stylish woman.",
+            "I think that for me, that really hit and I thought that was a good use of celebrity power.",
+            "I think having a celebrity associated with your brand and in your ad campaign just because everyone else does and just because they're pretty and just because they're an A-lister, I'm not really sure how much that brings to a campaign because people expect it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stylish woman",
+            "really sure",
+            "really hit",
+            "people expect",
+            "grace coddington",
+            "good use",
+            "everyone else"
+        ],
+        "trends": [
+            "campaign",
+            "well",
+            "think",
+            "really",
+            "celebrity",
+            "hit",
+            "use"
+        ]
+    },
+    {
+        "sentence": [
+            "And they know that it's a transactional relationship.",
+            "If a different brand pays that star next year, they'll switch.",
+            "Whereas with Pamela Anderson, she's also done a lot of,  We know that not all lab drones are sustainable, but you know, Pamela Anderson has done a lot of campaigning around ethics and sustainability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "star next year",
+            "different brand pays",
+            "campaigning around ethics",
+            "transactional relationship",
+            "pamela anderson",
+            "pamela anderson",
+            "lab drones"
+        ],
+        "trends": [
+            "know",
+            "lot",
+            "anderson",
+            "done",
+            "pamela",
+            "year",
+            "switch"
+        ]
+    },
+    {
+        "sentence": [
+            "So there was kind of that tie.",
+            "There's also this tie of her going through this evolution.",
+            "So it was a perfect moment for her as well, coming out and feeling beautiful and being there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "perfect moment",
+            "feeling beautiful",
+            "well",
+            "tie",
+            "tie",
+            "kind",
+            "going"
+        ],
+        "trends": [
+            "tie",
+            "going",
+            "evolution",
+            "also",
+            "well",
+            "perfect",
+            "moment"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think that was, I think that was genius.",
+            "I also loved that campaign.",
+            "I thought that was fantastic."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also loved",
+            "thought",
+            "think",
+            "think",
+            "genius",
+            "fantastic",
+            "campaign"
+        ],
+        "trends": [
+            "think",
+            "genius",
+            "loved",
+            "campaign",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "As you say, she's an activist.",
+            "She crosses generations as well, because if you grew up 20 years ago, you remember her from Baywatch.",
+            "But for people who know her later, she's been  activist for PETA, against animal fur."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "20 years ago",
+            "crosses generations",
+            "animal fur",
+            "well",
+            "say",
+            "remember",
+            "peta"
+        ],
+        "trends": [
+            "peta",
+            "people",
+            "years",
+            "well",
+            "remember",
+            "later",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "She's been an activist now for older women not to have to have their face made up, as you mentioned.",
+            "And the young women, I think, react to that.",
+            "They're like, wow, this is very empowering."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young women",
+            "older women",
+            "face made",
+            "wow",
+            "think",
+            "react",
+            "mentioned"
+        ],
+        "trends": [
+            "women",
+            "wow",
+            "like",
+            "empowering",
+            "young",
+            "older",
+            "mentioned"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the campaign was very, very clever.",
+            "The marketing team behind it, very impressive.",
+            "We had this conversation before."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "marketing team behind",
+            "think",
+            "impressive",
+            "conversation",
+            "clever",
+            "campaign"
+        ],
+        "trends": [
+            "think",
+            "clever",
+            "campaign",
+            "team",
+            "marketing",
+            "impressive",
+            "behind"
+        ]
+    },
+    {
+        "sentence": [
+            "We tried to remember campaigns from last year, and I couldn't remember anything really impactful.",
+            "I love the campaign David Yeherman is doing because I think he depicts actresses or celebrities that have this kind of New York chic about them.",
+            "And it's cool to see  but the others I haven't seen anything."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "remember anything really impactful",
+            "new york chic",
+            "campaign david yeherman",
+            "seen anything",
+            "remember campaigns",
+            "last year",
+            "depicts actresses"
+        ],
+        "trends": [
+            "anything",
+            "remember",
+            "last",
+            "year",
+            "tried",
+            "really",
+            "campaigns"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you think there's something that we're missing or maybe there's something we could learn from other jewelry designers, maybe not in the high end?",
+            "There's only been one, I mean, I like the Pandora campaign and I will say I did, you know, De Beers obviously launched that massive $20 million campaign and I love one line that they used which was nature's mic drop.",
+            "I really love that, so I will say that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "de beers obviously launched",
+            "20 million campaign",
+            "love one line",
+            "really love",
+            "pandora campaign",
+            "mic drop",
+            "jewelry designers"
+        ],
+        "trends": [
+            "campaign",
+            "one",
+            "something",
+            "maybe",
+            "love",
+            "say",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, without celebrities that was very interesting, right?",
+            "They let the diamond shine.",
+            "Really, it was just all about the diamond and they had, I'm not going to say boring, but very simple jewelry to promote it, let's put it that way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "without celebrities",
+            "simple jewelry",
+            "say boring",
+            "diamond shine",
+            "diamond",
+            "yeah",
+            "way"
+        ],
+        "trends": [
+            "let",
+            "going",
+            "jewelry",
+            "diamond",
+            "yeah",
+            "celebrities",
+            "right"
+        ]
+    },
+    {
+        "sentence": [
+            "I could have definitely designed that on Canva.",
+            "Do you know what I mean?",
+            "It wasn't a particularly complex campaign."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "particularly complex campaign",
+            "definitely designed",
+            "mean",
+            "know",
+            "could",
+            "canva"
+        ],
+        "trends": [
+            "particularly",
+            "complex",
+            "campaign",
+            "designed",
+            "definitely",
+            "could",
+            "canva"
+        ]
+    },
+    {
+        "sentence": [
+            "I suppose the impact maybe was in the fact that it was quite minimalist.",
+            "So that was great.",
+            "But there is one campaign I have been absolutely obsessing over for months and it's not in luxury jewelry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "quite minimalist",
+            "one campaign",
+            "luxury jewelry",
+            "impact maybe",
+            "absolutely obsessing",
+            "suppose",
+            "months"
+        ],
+        "trends": [
+            "suppose",
+            "quite",
+            "minimalist",
+            "one",
+            "obsessing",
+            "months",
+            "luxury"
+        ]
+    },
+    {
+        "sentence": [
+            "It's more in kind of fashion jewelry and like demuffine, which is Alexis Bittar.",
+            "So he's a jewelry designer based in New York.",
+            "He's really famous for using lucite."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry designer based",
+            "fashion jewelry",
+            "using lucite",
+            "really famous",
+            "new york",
+            "like demuffine",
+            "alexis bittar"
+        ],
+        "trends": [
+            "jewelry",
+            "like",
+            "using",
+            "really",
+            "lucite",
+            "york",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "So he kind of used to make these, well, he still does make them,  these lucite bangles, you know, that are really collectible and does really cool jewelry.",
+            "But what he's been doing is he's created like a mockumentary style campaign on Instagram.",
+            "So it's turned into like this, it's almost a series, you know, of short films really that he's putting out on Instagram."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mockumentary style campaign",
+            "short films really",
+            "really cool jewelry",
+            "really collectible",
+            "lucite bangles",
+            "created like",
+            "like"
+        ],
+        "trends": [
+            "really",
+            "like",
+            "instagram",
+            "make",
+            "know",
+            "films",
+            "almost"
+        ]
+    },
+    {
+        "sentence": [
+            "And he's created these characters.",
+            "Margot, who is this Upper East Side, I'll say woman for the sake of being polite on the podcast, but he uses a different word.",
+            "And she kind of has this assistant who she calls Jules, but whose real name is Hazel, who's like really downtrodden."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whose real name",
+            "upper east side",
+            "like really downtrodden",
+            "say woman",
+            "different word",
+            "calls jules",
+            "uses"
+        ],
+        "trends": [
+            "assistant",
+            "like",
+            "whose",
+            "calls",
+            "downtrodden",
+            "hazel",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "and you know, having to keep up with her and all her crazy antics.",
+            "And it's brilliant.",
+            "And it's kind of, I think it started coming out, I think it was last year in Little Snippets, you know, you kind of see the interaction between these two characters, instantly engaging, super exciting, never really a hard sell."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two characters",
+            "super exciting",
+            "started coming",
+            "never really",
+            "little snippets",
+            "last year",
+            "instantly engaging"
+        ],
+        "trends": [
+            "think",
+            "kind",
+            "characters",
+            "exciting",
+            "know",
+            "keep",
+            "crazy"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, they have a couple of funny moments where, you know, Margot's like trying to call up the boutique she wants to see the latest, like Alexis Bittar, like bags and jewels.",
+            "But the rest of it is just everybody in the video is wearing the jewelry.",
+            "And now they started bringing in celebrities to the series as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like alexis bittar",
+            "like trying",
+            "like bags",
+            "started bringing",
+            "funny moments",
+            "well",
+            "wearing"
+        ],
+        "trends": [
+            "like",
+            "well",
+            "started",
+            "series",
+            "bringing",
+            "celebrities",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's almost, it's become like a bit real  housewives type vibe where they're kind of, you know, it's all these kind of like side interviews and it's really developed into this show.",
+            "And whenever a new video is dropped on Instagram, I will sit and watch it like it is a TV show.",
+            "I get really excited and I absolutely love it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bit real housewives type vibe",
+            "get really excited",
+            "like side interviews",
+            "really developed",
+            "new video",
+            "become like",
+            "absolutely love"
+        ],
+        "trends": [
+            "like",
+            "really",
+            "kind",
+            "show",
+            "side",
+            "almost",
+            "whenever"
+        ]
+    },
+    {
+        "sentence": [
+            "And I just think it's really engaging, really funny, really brings personality to the brand, but also just clever product placement, you know?",
+            "And I actually went and bought two of Alexis' bags off the back of this, which I'd always loved the jewelry, but then I started looking at the bags and I was like, I need those.",
+            "And so I got a couple of his bags, which, you know, I'm literally living proof, an example that that works and translates into sales."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "literally living proof",
+            "clever product placement",
+            "really brings personality",
+            "really funny",
+            "really engaging",
+            "started looking",
+            "bought two"
+        ],
+        "trends": [
+            "really",
+            "bags",
+            "know",
+            "engaging",
+            "think",
+            "also",
+            "funny"
+        ]
+    },
+    {
+        "sentence": [
+            "And now he's kind of got merch coming off the back of it.",
+            "But it's the real sort of blend of because it looks quite luxe and it's definitely marketing, but it's also film and it's also social media.",
+            "It's this amazing blend."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "looks quite luxe",
+            "got merch coming",
+            "also social media",
+            "also film",
+            "real sort",
+            "definitely marketing",
+            "amazing blend"
+        ],
+        "trends": [
+            "also",
+            "blend",
+            "definitely",
+            "film",
+            "sort",
+            "kind",
+            "back"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think maybe the bigger brands could learn something from that.",
+            "It doesn't have to be a glossy celebrity kind of posing.",
+            "It can be something real and fun and completely made up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bigger brands could learn something",
+            "glossy celebrity kind",
+            "something real",
+            "think maybe",
+            "completely made",
+            "posing",
+            "fun"
+        ],
+        "trends": [
+            "something",
+            "posing",
+            "kind",
+            "glossy",
+            "think",
+            "real",
+            "made"
+        ]
+    },
+    {
+        "sentence": [
+            "And, yeah, just really super creative.",
+            "It's a great campaign.",
+            "If people haven't checked it, I think it's definitely, it's fun."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really super creative",
+            "great campaign",
+            "yeah",
+            "think",
+            "people",
+            "fun",
+            "definitely"
+        ],
+        "trends": [
+            "yeah",
+            "super",
+            "really",
+            "creative",
+            "think",
+            "people",
+            "fun"
+        ]
+    },
+    {
+        "sentence": [
+            "It's fun to watch.",
+            "And as you said, what's amazing is actually it has an impact on the bottom line, which is what we want.",
+            "It sells, you can identify."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bottom line",
+            "watch",
+            "want",
+            "sells",
+            "said",
+            "impact",
+            "identify"
+        ],
+        "trends": [
+            "want",
+            "said",
+            "line",
+            "impact",
+            "bottom",
+            "amazing",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "And even if you don't identify, because you're entertained and you like the brand of authenticity and you know, and Alexis Bittar is always featured in magazines for long, long time.",
+            "You know, like fashion editors love him.",
+            "Brooke Shield was wearing one of his amazing cups."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like fashion editors love",
+            "wearing one",
+            "brooke shield",
+            "amazing cups",
+            "always featured",
+            "alexis bittar",
+            "long time"
+        ],
+        "trends": [
+            "know",
+            "long",
+            "like",
+            "amazing",
+            "brooke",
+            "cups",
+            "wearing"
+        ]
+    },
+    {
+        "sentence": [
+            "Glamour Magazine a few months ago, and you just notice it, you know?",
+            "It's like it has this impact, same way as when an actress would wear Elsa Paraiti,  cuff, the bone cuff.",
+            "This is cool."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actress would wear elsa paraiti",
+            "months ago",
+            "glamour magazine",
+            "bone cuff",
+            "cuff",
+            "way",
+            "notice"
+        ],
+        "trends": [
+            "cuff",
+            "would",
+            "wear",
+            "way",
+            "paraiti",
+            "notice",
+            "months"
+        ]
+    },
+    {
+        "sentence": [
+            "This is state majority and it's more affordable than the Tiffany and co cuff as well.",
+            "Because the people that you use now, you mentioned that they introduce celebrities, but do you think influencers actually today are more impactful than the A-list Hollywood celebrities?",
+            "I think so."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think influencers actually today",
+            "list hollywood celebrities",
+            "introduce celebrities",
+            "state majority",
+            "co cuff",
+            "think",
+            "well"
+        ],
+        "trends": [
+            "celebrities",
+            "influencers",
+            "hollywood",
+            "impactful",
+            "well",
+            "affordable",
+            "tiffany"
+        ]
+    },
+    {
+        "sentence": [
+            "And there's actually somebody that I wanted to talk about in this podcast.",
+            "She's actually in the industry, but I would definitely class as an influencer.",
+            "Julia Chaffee, I apologize for doing your, you brought me a lesser mom, but she, she works for intercolors."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would definitely class",
+            "lesser mom",
+            "julia chaffee",
+            "actually somebody",
+            "actually",
+            "works",
+            "wanted"
+        ],
+        "trends": [
+            "actually",
+            "podcast",
+            "influencer",
+            "class",
+            "definitely",
+            "industry",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "So she's a gem dealer, but she started creating these really amazing videos under the name Jewels with Jewels.",
+            "Really fun videos, high energy, looking at celebrity jewelry, but her talking about it and her take on it.",
+            "Also, but giving people an insight into the industry, you know, day in the life, what she's doing, going to trade shows."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really fun videos",
+            "really amazing videos",
+            "trade shows",
+            "started creating",
+            "high energy",
+            "giving people",
+            "gem dealer"
+        ],
+        "trends": [
+            "videos",
+            "really",
+            "jewels",
+            "high",
+            "celebrity",
+            "fun",
+            "energy"
+        ]
+    },
+    {
+        "sentence": [
+            "She went to the gem awards in New York on the red carpet and interviewed people.",
+            "And I just, I love her.",
+            "I think she's brilliant."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "red carpet",
+            "new york",
+            "interviewed people",
+            "gem awards",
+            "went",
+            "think",
+            "love"
+        ],
+        "trends": [
+            "york",
+            "went",
+            "red",
+            "people",
+            "new",
+            "interviewed",
+            "gem"
+        ]
+    },
+    {
+        "sentence": [
+            "And she just brings this energy.",
+            "Do you know, I'd be more likely to cover or want to buy some diamonds off the back of her excitement.",
+            "about celebrities rather than just seeing a celebrity."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "celebrities rather",
+            "want",
+            "seeing",
+            "likely",
+            "know",
+            "excitement",
+            "energy"
+        ],
+        "trends": [
+            "seeing",
+            "rather",
+            "want",
+            "likely",
+            "know",
+            "excitement",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think maybe that's, I think this is kind of a new, it almost feels like this is an emerging area, kind of almost like industry influencers, you know, insiders.",
+            "I think that's, I feel like we haven't really had a lot of that before.",
+            "And that's kind of starting to come out now a little bit, which is brilliant because before it was often influencers, it might be fashion influencers talking about jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "almost like industry influencers",
+            "almost feels like",
+            "fashion influencers talking",
+            "often influencers",
+            "feel like",
+            "little bit",
+            "emerging area"
+        ],
+        "trends": [
+            "think",
+            "like",
+            "influencers",
+            "kind",
+            "almost",
+            "bit",
+            "brilliant"
+        ]
+    },
+    {
+        "sentence": [
+            "You know nothing about jewelry, you know, they don't know anything.",
+            "Whereas if we have these insiders now who are kind of creating that really fun content, but also have the knowledge  she likes, Julia does, I think that's really exciting.",
+            "And that's got the potential to, I think, maybe sway people or get people interested in jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "maybe sway people",
+            "get people interested",
+            "really fun content",
+            "really exciting",
+            "know nothing",
+            "know anything",
+            "know"
+        ],
+        "trends": [
+            "know",
+            "jewelry",
+            "really",
+            "people",
+            "think",
+            "got",
+            "sway"
+        ]
+    },
+    {
+        "sentence": [
+            "And when you see the number of likes she's getting, it's clearly not the trade dress liking of videos.",
+            "She's reaching this amazing consumer base.",
+            "And I agree with you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trade dress liking",
+            "amazing consumer base",
+            "videos",
+            "see",
+            "reaching",
+            "number",
+            "likes"
+        ],
+        "trends": [
+            "reaching",
+            "videos",
+            "trade",
+            "see",
+            "number",
+            "liking",
+            "likes"
+        ]
+    },
+    {
+        "sentence": [
+            "It's educational.",
+            "It's fun.",
+            "It's informative."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "informative",
+            "fun",
+            "educational"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "It's full of energy and full of personality.",
+            "And that's what you want.",
+            "You want to watch because of this match and she has great pictures."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great pictures",
+            "watch",
+            "want",
+            "want",
+            "personality",
+            "match",
+            "full"
+        ],
+        "trends": [
+            "full",
+            "personality",
+            "energy",
+            "watch",
+            "want",
+            "pictures",
+            "match"
+        ]
+    },
+    {
+        "sentence": [
+            "And I love it.",
+            "I think she's such a great example.",
+            "I'm happy you mentioned her."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great example",
+            "think",
+            "mentioned",
+            "love",
+            "happy"
+        ],
+        "trends": [
+            "think",
+            "great",
+            "example"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm sure you saw it at Watches and Wonders.",
+            "And I think it was sold out within a few months after being released.",
+            "And it wasn't because of celebrities wearing them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "celebrities wearing",
+            "wonders",
+            "within",
+            "watches",
+            "think",
+            "sure",
+            "sold"
+        ],
+        "trends": [
+            "within",
+            "think",
+            "sold",
+            "released",
+            "months",
+            "wonders",
+            "watches"
+        ]
+    },
+    {
+        "sentence": [
+            "It was, I guess, a few influencers obviously wore it on Instagram.",
+            "But people got mad for this watch.",
+            "It has a diamond version, the plain gold."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people got mad",
+            "influencers obviously wore",
+            "plain gold",
+            "diamond version",
+            "watch",
+            "instagram",
+            "guess"
+        ],
+        "trends": [
+            "watch",
+            "version",
+            "plain",
+            "gold",
+            "diamond",
+            "wore",
+            "obviously"
+        ]
+    },
+    {
+        "sentence": [
+            "And they have the diamond set.",
+            "So it's a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very,  version as well.",
+            "So what did you think was so good in that campaign or is just the product being fantastic and that's it?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond set",
+            "well",
+            "version",
+            "think",
+            "product",
+            "good",
+            "fantastic"
+        ],
+        "trends": [
+            "think",
+            "product",
+            "good",
+            "fantastic",
+            "campaign"
+        ]
+    },
+    {
+        "sentence": [
+            "Sometimes it's strong enough.",
+            "Do you know, I think it was the product and you're right, it was kind of, it became a running joke after Watches and Wonders because that watch was on everybody's feed.",
+            "You know, like everyone that I follow who'd gone and had an appointment at Watches and Wonders was posting this watch."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "strong enough",
+            "running joke",
+            "like everyone",
+            "wonders",
+            "wonders",
+            "watches",
+            "watches"
+        ],
+        "trends": [
+            "wonders",
+            "watches",
+            "know",
+            "watch",
+            "posting",
+            "like",
+            "appointment"
+        ]
+    },
+    {
+        "sentence": [
+            "So just for weeks, it just kept popping up.",
+            "I wonder if that's kind of the power as well, you know, because I don't really, I mean, obviously I saw it on Cartier's website.",
+            "I don't really remember seeing any big campaigns about it, but that was almost like a watch  that went viral in a way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really remember seeing",
+            "went viral",
+            "kept popping",
+            "big campaigns",
+            "almost like",
+            "really",
+            "wonder"
+        ],
+        "trends": [
+            "really",
+            "kept",
+            "weeks",
+            "popping",
+            "wonder",
+            "cartier",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "And I had posted something about it.",
+            "I had loads of messages about it.",
+            "People wanting to know more, where could they get it?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "posted something",
+            "people wanting",
+            "messages",
+            "loads",
+            "know",
+            "get",
+            "could"
+        ],
+        "trends": [
+            "wanting",
+            "people",
+            "know",
+            "get",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's interesting.",
+            "You can tell by the kind of interactions that you get.",
+            "And I spoke to lots of people who'd also been posting about it and said exactly the same."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "said exactly",
+            "tell",
+            "spoke",
+            "posting",
+            "people",
+            "lots",
+            "kind"
+        ],
+        "trends": [
+            "tell",
+            "kind",
+            "interactions",
+            "spoke",
+            "said",
+            "posting",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "People had just gone wild for it.",
+            "But then again, I think that's the power of multiple people posting.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "multiple people posting",
+            "gone wild",
+            "people",
+            "think",
+            "right",
+            "power"
+        ],
+        "trends": [
+            "people",
+            "wild",
+            "gone",
+            "think",
+            "power",
+            "posting",
+            "multiple"
+        ]
+    },
+    {
+        "sentence": [
+            "And I don't remember a piece of jewelry going viral the same way as this watch went last year.",
+            "And the fact that there was a waiting list, it was sold out, and new people were trying to get someone to buy it for them somehow or pushing it.",
+            "I thought that was really, really interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watch went last year",
+            "jewelry going viral",
+            "waiting list",
+            "new people",
+            "get someone",
+            "really interesting",
+            "really"
+        ],
+        "trends": [
+            "really",
+            "remember",
+            "going",
+            "jewelry",
+            "last",
+            "piece",
+            "went"
+        ]
+    },
+    {
+        "sentence": [
+            "strategy.",
+            "I mean, that seems so much more powerful now than having an A-list celebrity, you know, in a glossy campaign.",
+            "And tell me, I mean, now we're going to ask you for free advice as a consultant."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "list celebrity",
+            "glossy campaign",
+            "free advice",
+            "tell",
+            "strategy",
+            "seems",
+            "powerful"
+        ],
+        "trends": [
+            "mean",
+            "tell",
+            "going",
+            "seems",
+            "powerful",
+            "much",
+            "free"
+        ]
+    },
+    {
+        "sentence": [
+            "So people listening, if you were to recommend, let's say an independent jewelry retailer or a young designer starting, how would you tell them to promote that diamond jewelry?",
+            "And I'm saying diamond as lab-grown and mined, but just in terms of visual or in terms of story, what would you think is the most important to them for someone to promote diamond jewelry?",
+            "visuals I think it's important to show it on the hand or in the body but I think unless you have some huge diamonds that doesn't always come across especially if you're a designer starting out so it's really important to maybe have these kind of campaign images but also I think what's really important to have close crops you know take a nice shoot but zoom in and I find this more engaging I don't know somebody standing doing a really awkward hand hose trying to get the ring and the earrings of a necklace all in one shot but yeah I think that's obviously the support to have it on but I don't know just there's interesting ways of doing it I  I think quality underpins everything and I think jewelry is incredibly hard and diamonds are incredibly hard to take images of."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really awkward hand hose trying",
+            "always come across especially",
+            "think quality underpins everything",
+            "independent jewelry retailer",
+            "young designer starting",
+            "know somebody standing",
+            "promote diamond jewelry"
+        ],
+        "trends": [
+            "think",
+            "important",
+            "jewelry",
+            "know",
+            "really",
+            "diamond",
+            "take"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think if you have to invest in working with a professional, I would just because you can have the nicest campaign in the world.",
+            "But if that diamond looks a bit cloudier, but it's just not sharp enough, it's really hard to get that across.",
+            "What's really important as well is just make it authentic to your brand and your clients that you're trying to reach."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sharp enough",
+            "really important",
+            "really hard",
+            "nicest campaign",
+            "diamond looks",
+            "bit cloudier",
+            "would"
+        ],
+        "trends": [
+            "really",
+            "clients",
+            "would",
+            "professional",
+            "campaign",
+            "world",
+            "nicest"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, this is an example I probably use too much, but if you're  independent designer maker who is selling to women in their 20s and 30s buying their first pieces of diamond jewelry.",
+            "Don't shoot it on a boat in Monaco, you know, shoot it on somebody who looks like them, who's, you know, wearing jeans because iron jewelry is intimidating.",
+            "And I think anything we can do to make it less intimidating is important."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "independent designer maker",
+            "wearing jeans",
+            "think anything",
+            "probably use",
+            "looks like",
+            "iron jewelry",
+            "first pieces"
+        ],
+        "trends": [
+            "know",
+            "jewelry",
+            "shoot",
+            "intimidating",
+            "women",
+            "less",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "And that could be something really simple, like introducing fun, you know, shoot it on a colored background.",
+            "It doesn't have to be massively complicated, but I think just keeping it fun, keeping it contemporary, but at the same time, never letting that quality of  image drop.",
+            "I think that's so important, whether you get an amazing retoucher in or whether you get and work with an amazing photographer, or you can do it yourself, but it just has to, especially if you're selling online, you know, because something like beautiful in real life."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something really simple",
+            "something like beautiful",
+            "like introducing fun",
+            "selling online",
+            "real life",
+            "never letting",
+            "massively complicated"
+        ],
+        "trends": [
+            "amazing",
+            "get",
+            "whether",
+            "keeping",
+            "like",
+            "something",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "And then you look on somebody's website and you've seen it in real life and you know it's amazing.",
+            "And then you look at the image that they're putting out, you're like, that's never going to sell.",
+            "No."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real life",
+            "never going",
+            "website",
+            "somebody",
+            "sell",
+            "seen",
+            "putting"
+        ],
+        "trends": [
+            "look",
+            "sell",
+            "putting",
+            "website",
+            "somebody",
+            "seen",
+            "never"
+        ]
+    },
+    {
+        "sentence": [
+            "So yeah, I think that's the quality above all is important.",
+            "Thank you so much.",
+            "That's a great advice."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great advice",
+            "yeah",
+            "think",
+            "thank",
+            "quality",
+            "much",
+            "important"
+        ],
+        "trends": [
+            "yeah",
+            "think",
+            "quality",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "And to close this podcast, I would like to think together, where do you see marketing for  What do you see also because of all the people you meet and all the different conversations that we're having and the people coming from different backgrounds?",
+            "Where do you see this is going?",
+            "What can we expect?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would like",
+            "think together",
+            "different conversations",
+            "different backgrounds",
+            "see marketing",
+            "see also",
+            "people coming"
+        ],
+        "trends": [
+            "see",
+            "people",
+            "different",
+            "would",
+            "together",
+            "think",
+            "podcast"
+        ]
+    },
+    {
+        "sentence": [
+            "How can we really market diamonds and celebrate them and honor the stone?",
+            "I think it's almost going to become more bespoken away.",
+            "I think people are really trying to drill down into who they're trying to speak to."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really market diamonds",
+            "really trying",
+            "bespoken away",
+            "almost going",
+            "think people",
+            "trying",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "really",
+            "trying",
+            "stone",
+            "market",
+            "honor",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we're moving away from this general luxury conversation of aspirational, investment-driven, wealth-driven.",
+            "I think we're moving away from this general luxury conversation of aspirational, investment-driven, wealth-driven.",
+            "moving away to that and we're really thinking about who's buying them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "general luxury conversation",
+            "general luxury conversation",
+            "really thinking",
+            "moving away",
+            "moving away",
+            "moving away",
+            "wealth"
+        ],
+        "trends": [
+            "moving",
+            "away",
+            "think",
+            "luxury",
+            "general",
+            "conversation",
+            "aspirational"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think what we might see is actually split campaigns.",
+            "And I think that's why I don't think celebrity marketing is ever going to go away with diamonds and jewelry.",
+            "I think we do need that next step because it's a prestige product."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "actually split campaigns",
+            "think celebrity marketing",
+            "prestige product",
+            "next step",
+            "might see",
+            "go away",
+            "ever going"
+        ],
+        "trends": [
+            "think",
+            "step",
+            "actually",
+            "might",
+            "see",
+            "campaigns",
+            "next"
+        ]
+    },
+    {
+        "sentence": [
+            "It has an incredible legacy with the red carpet and a history.",
+            "And I can't imagine that ever going away.",
+            "You know, that's always going to be one element and that's going to be prestige."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ever going away",
+            "red carpet",
+            "one element",
+            "incredible legacy",
+            "always going",
+            "going",
+            "prestige"
+        ],
+        "trends": [
+            "going",
+            "imagine",
+            "ever",
+            "ca",
+            "away",
+            "red",
+            "legacy"
+        ]
+    },
+    {
+        "sentence": [
+            "But in reality, I think we're going to see a lot more kind of groundwork on more authentic marketing to people who are actually buying and thinking about what they want, thinking about how they shop.",
+            "and think about how to talk to them.",
+            "And I think naturally that's going to become, so for younger clients, that's going to become more casual, more conversational."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "younger clients",
+            "authentic marketing",
+            "actually buying",
+            "think naturally",
+            "think",
+            "think",
+            "want"
+        ],
+        "trends": [
+            "going",
+            "thinking",
+            "become",
+            "authentic",
+            "think",
+            "younger",
+            "casual"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say more education driven.",
+            "I think diamonds are still a scary thing to buy.",
+            "And I think that needs to, any education that you can offer, but also just thinking about how women actually buy and wear diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "women actually buy",
+            "would say",
+            "wear diamonds",
+            "scary thing",
+            "think diamonds",
+            "education driven",
+            "buy"
+        ],
+        "trends": [
+            "education",
+            "would",
+            "driven",
+            "think",
+            "diamonds",
+            "buy",
+            "thinking"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, it's majority of time, maybe it's not to go to a gala.",
+            "It's maybe just to wear every day with a pair of jeans to go meet friends for coffee.",
+            "And I think it's okay to embrace that and to admit that's how we wear diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wear every day",
+            "go meet friends",
+            "wear diamonds",
+            "go",
+            "time",
+            "think",
+            "pair"
+        ],
+        "trends": [
+            "go",
+            "maybe",
+            "wear",
+            "diamonds",
+            "embrace",
+            "admit",
+            "majority"
+        ]
+    },
+    {
+        "sentence": [
+            "We don't all have to pretend  we're on the red carpet with a ball gown.",
+            "It's real life.",
+            "It's running around with the kids."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "running around",
+            "red carpet",
+            "real life",
+            "ball gown",
+            "pretend",
+            "kids"
+        ],
+        "trends": [
+            "running",
+            "kids",
+            "around",
+            "red",
+            "pretend",
+            "gown",
+            "carpet"
+        ]
+    },
+    {
+        "sentence": [
+            "You still want to have that kind of everyday luxury.",
+            "And I think it's going to be, I think the conversation is going to change.",
+            "And I think the conversation is going to be more inclusive with the client rather than projecting an image of what you think they want."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "everyday luxury",
+            "client rather",
+            "still want",
+            "want",
+            "think",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "going",
+            "want",
+            "conversation",
+            "still",
+            "rather",
+            "change"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's going to be getting down with them and really engaging in a meaningful way.",
+            "That's fantastic.",
+            "I like this vision as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really engaging",
+            "meaningful way",
+            "well",
+            "vision",
+            "think",
+            "like",
+            "going"
+        ],
+        "trends": [
+            "well",
+            "vision",
+            "like",
+            "way",
+            "think",
+            "really",
+            "meaningful"
+        ]
+    },
+    {
+        "sentence": [
+            "The more inclusive and more real is so important.",
+            "And if the industry heads there, I think we can capture the young generation.",
+            "So that would be great because it's  seems like Pandora is a great example."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seems like pandora",
+            "young generation",
+            "industry heads",
+            "great example",
+            "great",
+            "would",
+            "think"
+        ],
+        "trends": [
+            "great",
+            "real",
+            "inclusive",
+            "important",
+            "young",
+            "would",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that's the equivalent to be achieved in the natural diamond industry as well.",
+            "So thank you so much, Rachel.",
+            "It was so interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond industry",
+            "well",
+            "think",
+            "thank",
+            "rachel",
+            "much",
+            "interesting"
+        ],
+        "trends": [
+            "thank",
+            "rachel",
+            "much",
+            "well",
+            "think",
+            "natural",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "Always love having you on the podcast.",
+            "We might make you a regular.",
+            "Definitely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "might make",
+            "always love",
+            "regular",
+            "podcast",
+            "definitely"
+        ],
+        "trends": [
+            "podcast",
+            "love",
+            "always",
+            "regular",
+            "might",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "I'd love that.",
+            "No, it's always good to chat to all of you.",
+            "I could do all day long."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "day long",
+            "always good",
+            "love",
+            "could",
+            "chat"
+        ],
+        "trends": [
+            "good",
+            "chat",
+            "always",
+            "long",
+            "day",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you so much, Rachel.",
+            "And as I said, please, please, please, if you listen to this podcast, we'd love to hear from you.",
+            "Send us comments and news at wrapapple.com about what you think about marketing, marketing natural diamonds, working with celebrities,  How do you see it as an impact on the bottom line?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "send us comments",
+            "marketing natural diamonds",
+            "bottom line",
+            "marketing",
+            "wrapapple",
+            "working",
+            "think"
+        ],
+        "trends": [
+            "please",
+            "marketing",
+            "working",
+            "love",
+            "said",
+            "podcast",
+            "hear"
+        ]
+    },
+    {
+        "sentence": [
+            "We would love to have people from the industry telling us what they think.",
+            "So please tell us.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "please tell us",
+            "industry telling us",
+            "would love",
+            "think",
+            "people"
+        ],
+        "trends": [
+            "us",
+            "tell",
+            "please",
+            "would",
+            "think",
+            "telling",
+            "people"
+        ]
+    }
+]

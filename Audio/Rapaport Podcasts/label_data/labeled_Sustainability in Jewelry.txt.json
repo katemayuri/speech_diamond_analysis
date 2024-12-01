@@ -1,0 +1,3116 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "firm for the jewelry industry.",
+            "We spoke about circularity and recycling in the jewelry sector, life in Berlin, where Danielle lives, and what the industry must do to achieve genuine sustainability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "achieve genuine sustainability",
+            "joshua friedman",
+            "jewelry sector",
+            "jewelry industry",
+            "industry must",
+            "danielle lives"
+        ],
+        "trends": [
+            "jewelry",
+            "industry",
+            "joshua",
+            "diamond",
+            "friedman",
+            "host",
+            "welcome"
+        ]
+    },
+    {
+        "sentence": [
+            "Towards the end, you'll also hear our podcast producer, Velina Pickhulk, who asked Danielle a question about how she manages as a working mother.",
+            "Enjoy the episode.",
+            "Danielle, great to have you on this podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "working mother",
+            "velina pickhulk",
+            "also hear",
+            "podcast producer",
+            "asked danielle",
+            "podcast",
+            "danielle"
+        ],
+        "trends": [
+            "podcast",
+            "danielle",
+            "working",
+            "velina",
+            "towards",
+            "question",
+            "producer"
+        ]
+    },
+    {
+        "sentence": [
+            "Just to begin with, I know you're based in Berlin, so can you tell me a little bit about your  journey around the world and how you ended up in Germany.",
+            "from a different perspective.",
+            "We moved to Berlin, me and my partner and our dog, seven and a half years ago."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "half years ago",
+            "little bit",
+            "journey around",
+            "different perspective",
+            "world",
+            "tell",
+            "seven"
+        ],
+        "trends": [
+            "little",
+            "know",
+            "berlin",
+            "years",
+            "moved",
+            "dog",
+            "half"
+        ]
+    },
+    {
+        "sentence": [
+            "And I did hear an MA that was focused on sustainability and fashion.",
+            "And our plan wasn't to be here so long, but life.",
+            "So for now, we are here."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sustainability",
+            "plan",
+            "long",
+            "life",
+            "hear",
+            "focused",
+            "fashion"
+        ],
+        "trends": [
+            "plan",
+            "long",
+            "life",
+            "sustainability",
+            "hear",
+            "focused",
+            "fashion"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm looking forward to hearing of your approach to sustainability in the jewelry industry.",
+            "But just to begin with, what is it about Berlin that attracts so many Israelis?",
+            "That's a tough question to say."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tough question",
+            "many israelis",
+            "looking forward",
+            "jewelry industry",
+            "sustainability",
+            "say",
+            "hearing"
+        ],
+        "trends": [
+            "sustainability",
+            "looking",
+            "tough",
+            "say",
+            "question",
+            "jewelry",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not sure it attracts  the  Germany are connected somehow.",
+            "So I think probably there is something there.",
+            "And now I don't know if it attracts as many Israelis as it used to be."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think probably",
+            "many israelis",
+            "connected somehow",
+            "used",
+            "sure",
+            "something",
+            "know"
+        ],
+        "trends": [
+            "attracts",
+            "think",
+            "something",
+            "probably",
+            "used",
+            "many",
+            "sure"
+        ]
+    },
+    {
+        "sentence": [
+            "I actually spent a year in Frankfurt when I was at university.",
+            "But I have to admit my German is very rusty these days.",
+            "How's your German?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "actually spent",
+            "year",
+            "university",
+            "rusty",
+            "german",
+            "german",
+            "frankfurt"
+        ],
+        "trends": [
+            "rusty",
+            "german",
+            "days",
+            "admit",
+            "year",
+            "university",
+            "spent"
+        ]
+    },
+    {
+        "sentence": [
+            "Could be better.",
+            "My older son, who is three and a half years old, speaks better than me already.",
+            "Sure, I understand that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "half years old",
+            "older son",
+            "speaks better",
+            "better",
+            "understand",
+            "three",
+            "sure"
+        ],
+        "trends": [
+            "years",
+            "three",
+            "speaks",
+            "son",
+            "older",
+            "old",
+            "half"
+        ]
+    },
+    {
+        "sentence": [
+            "Can you tell me also a bit about your background in jewelry design?",
+            "How did you become a jewelry designer?",
+            "After my army service,  I traveled like most Israelis do."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traveled like",
+            "jewelry designer",
+            "jewelry design",
+            "army service",
+            "tell",
+            "israelis",
+            "bit"
+        ],
+        "trends": [
+            "jewelry",
+            "designer",
+            "become",
+            "traveled",
+            "service",
+            "tell",
+            "design"
+        ]
+    },
+    {
+        "sentence": [
+            "I went to East Africa, Uganda, Ethiopia and Kenya.",
+            "And I remember that, you know, most other backpackers were like really amazed by the scenery, the people.",
+            "It was also really interesting for me, but I remembered that I used to walk around like markets and things like this, obsessed with the different crafts and things that were made by hand."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "walk around like markets",
+            "like really amazed",
+            "also really interesting",
+            "things like",
+            "east africa",
+            "different crafts",
+            "things"
+        ],
+        "trends": [
+            "like",
+            "things",
+            "really",
+            "east",
+            "ethiopia",
+            "scenery",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "There were a few markets that they sold like these really beautiful  I was like, I could spend like days in these markets.",
+            "Then I started talking to other backpackers and I understood that maybe I see this experience a bit differently than other people.",
+            "And then when I came back, I applied to do a BA in Schenker in the jewelry and accessories department there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could spend like days",
+            "sold like",
+            "started talking",
+            "really beautiful",
+            "came back",
+            "bit differently",
+            "accessories department"
+        ],
+        "trends": [
+            "like",
+            "markets",
+            "days",
+            "beautiful",
+            "jewelry",
+            "department",
+            "understood"
+        ]
+    },
+    {
+        "sentence": [
+            "And then this is kind of like how my journey started.",
+            "I did four years in Schenker through the college.",
+            "I went to do an internship in Marks and Spencer in London for a few months."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "journey started",
+            "four years",
+            "went",
+            "spencer",
+            "schenker",
+            "months",
+            "marks"
+        ],
+        "trends": [
+            "started",
+            "like",
+            "kind",
+            "journey",
+            "went",
+            "spencer",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "So I worked in their accessories department.",
+            "This is kind of like how it all started.",
+            "What changes have you seen in jewelry design since you've been involved?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry design since",
+            "accessories department",
+            "worked",
+            "started",
+            "seen",
+            "like",
+            "kind"
+        ],
+        "trends": [
+            "started",
+            "like",
+            "kind",
+            "worked",
+            "since",
+            "seen",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "Wow, many things I think.",
+            "There are kind of like few parallel worlds in jewelry.",
+            "So there is like the more artistic stream that might be even not wearable."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "parallel worlds",
+            "many things",
+            "artistic stream",
+            "wow",
+            "wearable",
+            "think",
+            "might"
+        ],
+        "trends": [
+            "like",
+            "wow",
+            "think",
+            "things",
+            "many",
+            "wearable",
+            "worlds"
+        ]
+    },
+    {
+        "sentence": [
+            "So you can see it in galleries, in exhibitions, and you can see a lot of really amazing crafts and like the attention to details using materials that might not be worn.",
+            "wearable and all of these kinds of things.",
+            "So a lot of this has changed using more materials, more technologies, but also going more towards roots and old techniques."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really amazing crafts",
+            "details using materials",
+            "changed using",
+            "towards roots",
+            "old techniques",
+            "also going",
+            "materials"
+        ],
+        "trends": [
+            "see",
+            "materials",
+            "using",
+            "lot",
+            "old",
+            "changed",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "So there are like parallel processes.",
+            "So on one hand, going more technological, but using technology in trying to be as detailed as possible at the same time, like reviving old craft using a lot of techniques that haven't been used in the last decades or things like this.",
+            "this is one."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like reviving old craft using",
+            "like parallel processes",
+            "using technology",
+            "things like",
+            "last decades",
+            "one hand",
+            "one"
+        ],
+        "trends": [
+            "like",
+            "using",
+            "decades",
+            "detailed",
+            "going",
+            "hand",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "On the other hand, I saw a massive trend towards commercialization.",
+            "Having things more massively produced, faster, bigger, more, I think you see it a lot in the connection with fashion collections, big necklaces or big earrings or big jewelry items that really attracts the eye.",
+            "Creating this massive big impression, but at the same time using simpler techniques, trying to make the  process of creating a jewelry item cheaper and faster to produce."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "time using simpler techniques",
+            "massive trend towards commercialization",
+            "massive big impression",
+            "jewelry item cheaper",
+            "big jewelry items",
+            "big necklaces",
+            "big earrings"
+        ],
+        "trends": [
+            "big",
+            "creating",
+            "faster",
+            "jewelry",
+            "using",
+            "massive",
+            "trend"
+        ]
+    },
+    {
+        "sentence": [
+            "And on top of that, you see like fine jewelry that is also really changing, like new technologies that are also entering this space, 3D printing that is becoming more and more common.",
+            "And I think like if you look 20 years ago, it wasn't that common to use this kind of process in jewelry production.",
+            "So yeah, I think at the same time, maybe things become also in fine jewelry  more commercialized."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "look 20 years ago",
+            "maybe things become also",
+            "see like fine jewelry",
+            "like new technologies",
+            "also really changing",
+            "fine jewelry",
+            "also entering"
+        ],
+        "trends": [
+            "also",
+            "jewelry",
+            "think",
+            "like",
+            "fine",
+            "common",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "So more and more brands are thinking about what would be sold and not necessarily about like a story or an agenda.",
+            "Right.",
+            "I mean, you used to make and sell jewelry on Etsy, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sell jewelry",
+            "would",
+            "used",
+            "thinking",
+            "story",
+            "sold",
+            "right"
+        ],
+        "trends": [
+            "used",
+            "sell",
+            "would",
+            "thinking",
+            "story",
+            "right",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah.",
+            "Now you moved away from that, correct?",
+            "Yeah."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "moved away",
+            "yeah",
+            "yeah",
+            "correct"
+        ],
+        "trends": [
+            "moved",
+            "correct",
+            "away"
+        ]
+    },
+    {
+        "sentence": [
+            "Can you tell me about what you did do?",
+            "I was mainly making silver and gold jewelry.",
+            "Of course, I used like technologies like casting and things like this, but was really trying to put an emphasis on like handmade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "used like technologies like casting",
+            "mainly making silver",
+            "things like",
+            "like handmade",
+            "really trying",
+            "gold jewelry",
+            "tell"
+        ],
+        "trends": [
+            "like",
+            "used",
+            "trying",
+            "things",
+            "technologies",
+            "really",
+            "silver"
+        ]
+    },
+    {
+        "sentence": [
+            "So I would cast maybe  elements, but then attach or combine everything together by hand.",
+            "So even though things would be like massively produced, there would still be like a hand touch because I thought that this is something special about jewelry that you would want to have, or that people would want to be part of a story of an element, a product that they know that someone actually touched it and they can see because in my opinion, people purchase, especially finer jewelry,  because usually it's attached to some memory, a moment in life, and I think that it makes sense that it would also be connected to the maker somehow.",
+            "And what prompted you to stop doing that and shift your focus to consultancy business?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would cast maybe elements",
+            "even though things would",
+            "someone actually touched",
+            "combine everything together",
+            "like massively produced",
+            "especially finer jewelry",
+            "people would want"
+        ],
+        "trends": [
+            "would",
+            "like",
+            "people",
+            "want",
+            "jewelry",
+            "hand",
+            "everything"
+        ]
+    },
+    {
+        "sentence": [
+            "So, there were a few reasons.",
+            "The last few months in Israel were extremely hectic and busy for me.",
+            "I was teaching in Chanka while doing my jewelry, while operating in my studio and everything."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "extremely hectic",
+            "teaching",
+            "studio",
+            "reasons",
+            "operating",
+            "months",
+            "last"
+        ],
+        "trends": [
+            "months",
+            "last",
+            "israel",
+            "hectic",
+            "teaching",
+            "studio",
+            "operating"
+        ]
+    },
+    {
+        "sentence": [
+            "I felt like at some point it was just too much for me and I didn't enjoy anymore the process of creation.",
+            "I felt like I was a lot in like duplicating things and doing the same and the same and the same.",
+            "And I felt like I was a bit fed up with that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like duplicating things",
+            "felt like",
+            "felt like",
+            "felt like",
+            "enjoy anymore",
+            "bit fed",
+            "process"
+        ],
+        "trends": [
+            "like",
+            "felt",
+            "fed",
+            "bit",
+            "process",
+            "point",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think also when we moved here, I understood that if I would want to continue my business of making and selling jewelry, it means that I kind of need to start from scratch because I would need to look for new suppliers, for new clients.",
+            "science, it's a completely different market, I will need to learn how the market behaves.",
+            "And it meant kind of like going backwards in a sense."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like going backwards",
+            "completely different market",
+            "market behaves",
+            "would want",
+            "think also",
+            "selling jewelry",
+            "new suppliers"
+        ],
+        "trends": [
+            "need",
+            "would",
+            "new",
+            "market",
+            "kind",
+            "learn",
+            "behaves"
+        ]
+    },
+    {
+        "sentence": [
+            "And I just felt like it's not the right thing for me.",
+            "And I think on top of that, the studies like the MA made me realize that I really like making jewelry.",
+            "I'm definitely not the best person in creating jewelry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really like making jewelry",
+            "creating jewelry",
+            "studies like",
+            "felt like",
+            "right thing",
+            "best person",
+            "top"
+        ],
+        "trends": [
+            "like",
+            "top",
+            "thing",
+            "right",
+            "jewelry",
+            "think",
+            "studies"
+        ]
+    },
+    {
+        "sentence": [
+            "There are people that are more skilled in that and that there are enough products out there.",
+            "So maybe for now it's just not the right thing for me to continue doing.",
+            "Tell me now about your consultancy business."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right thing",
+            "enough products",
+            "consultancy business",
+            "tell",
+            "skilled",
+            "people",
+            "maybe"
+        ],
+        "trends": [
+            "tell",
+            "consultancy",
+            "business",
+            "skilled",
+            "products",
+            "people",
+            "thing"
+        ]
+    },
+    {
+        "sentence": [
+            "How did you get into providing advice on sustainability in jewelry?",
+            "Again, like it wasn't my plan to be an independent consultant.",
+            "I finished my studies and was actually looking for a job."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "providing advice",
+            "independent consultant",
+            "actually looking",
+            "sustainability",
+            "studies",
+            "plan",
+            "like"
+        ],
+        "trends": [
+            "studies",
+            "plan",
+            "like",
+            "independent",
+            "consultant",
+            "sustainability",
+            "providing"
+        ]
+    },
+    {
+        "sentence": [
+            "It was more than six years ago.",
+            "So the sustainability scene, especially in jewelry, looked completely different.",
+            "I think now the conversation is much more open, more companies talk about it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "six years ago",
+            "looked completely different",
+            "sustainability scene",
+            "companies talk",
+            "think",
+            "open",
+            "much"
+        ],
+        "trends": [
+            "years",
+            "six",
+            "ago",
+            "sustainability",
+            "think",
+            "talk",
+            "open"
+        ]
+    },
+    {
+        "sentence": [
+            "it, there are more actions, the performance, the research, everything is a bit more developed.",
+            "And then I got a few offers to do like freelance things.",
+            "I did a few projects for the Dragonfly Initiative, a sustainability consultancy based in the UK."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sustainability consultancy based",
+            "like freelance things",
+            "dragonfly initiative",
+            "uk",
+            "research",
+            "projects",
+            "performance"
+        ],
+        "trends": [
+            "things",
+            "freelance",
+            "got",
+            "actions",
+            "bit",
+            "developed",
+            "performance"
+        ]
+    },
+    {
+        "sentence": [
+            "And they were doing a few projects that were jewelry focused.",
+            "So I worked with them for a few months and then got in contact with Fairmind and they needed some help to build more detailed guidance for their jewelry.",
+            "and brands that they are working with, with how to incorporate the Fairmind standard into their workshop."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "detailed guidance",
+            "jewelry focused",
+            "fairmind standard",
+            "jewelry",
+            "fairmind",
+            "workshop",
+            "working"
+        ],
+        "trends": [
+            "fairmind",
+            "jewelry",
+            "workshop",
+            "working",
+            "incorporate",
+            "brands",
+            "standard"
+        ]
+    },
+    {
+        "sentence": [
+            "And then I think things started kind of like rolling.",
+            "So I understood that maybe there is a need for something like this.",
+            "So it wasn't like a decision that I made."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think things started kind",
+            "something like",
+            "like rolling",
+            "like",
+            "understood",
+            "need",
+            "maybe"
+        ],
+        "trends": [
+            "like",
+            "made",
+            "decision",
+            "understood",
+            "something",
+            "think",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "Like now I'm sure in that, but back then it wasn't like a fully conscious decision.",
+            "And I think also maybe now there are a bit more people like me, but back then there weren't a lot.",
+            "There was Christina  based in the US."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think also maybe",
+            "fully conscious decision",
+            "christina based",
+            "people like",
+            "like",
+            "like",
+            "us"
+        ],
+        "trends": [
+            "like",
+            "back",
+            "us",
+            "christina",
+            "think",
+            "sure",
+            "fully"
+        ]
+    },
+    {
+        "sentence": [
+            "There was the Dragonfly Initiative, Estelle Levin, but they were a bigger consultancy, so they were working with bigger companies and clients and providing them wider services.",
+            "But I think there was a need for people like me.",
+            "I think there still is because a lot of companies might not be able to hire a sustainability expert, but they still need help in addressing this topic."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still need help",
+            "wider services",
+            "sustainability expert",
+            "people like",
+            "estelle levin",
+            "dragonfly initiative",
+            "companies might"
+        ],
+        "trends": [
+            "still",
+            "bigger",
+            "companies",
+            "need",
+            "think",
+            "working",
+            "clients"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "So what services do you offer your clients?",
+            "So it's still in comparison  to regular business consulting where things are a bit more constructed and it's clear what path or journey you need to pass through."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "regular business consulting",
+            "things",
+            "still",
+            "services",
+            "right",
+            "path",
+            "pass"
+        ],
+        "trends": [
+            "things",
+            "still",
+            "regular",
+            "path",
+            "pass",
+            "need",
+            "journey"
+        ]
+    },
+    {
+        "sentence": [
+            "With sustainability, things are still wobbly in the sense that I think it depends where the business is located, where the suppliers are located, who are the customers, what are the products, where they are on their sustainability journey.",
+            "Are they just starting?",
+            "They already did some work."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still wobbly",
+            "sustainability journey",
+            "sustainability",
+            "work",
+            "think",
+            "things",
+            "suppliers"
+        ],
+        "trends": [
+            "sustainability",
+            "located",
+            "wobbly",
+            "think",
+            "things",
+            "suppliers",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "They did it with an outsourced help or internal work.",
+            "Are they complying with an  standard or not depends also where they operate in sense of different regulations that they have to comply with.",
+            "So what I'm trying to do is I'm trying to, first of all, get an overview of the business and understand all of these different parameters and then trying to find the right next steps for them."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right next steps",
+            "outsourced help",
+            "internal work",
+            "different regulations",
+            "different parameters",
+            "depends also",
+            "understand"
+        ],
+        "trends": [
+            "trying",
+            "different",
+            "comply",
+            "complying",
+            "depends",
+            "operate",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "So it could be like in-depth research about their competitors.",
+            "So doing like benchmarking and then based on that building for them a sustainability plan of like short term  term, midterm and long term goals in different areas.",
+            "So it could be how they address their emissions, but it could also be how they work with suppliers, how they work with internal employees."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like short term term",
+            "long term goals",
+            "like benchmarking",
+            "sustainability plan",
+            "internal employees",
+            "different areas",
+            "depth research"
+        ],
+        "trends": [
+            "like",
+            "could",
+            "term",
+            "work",
+            "address",
+            "also",
+            "suppliers"
+        ]
+    },
+    {
+        "sentence": [
+            "It could also be developing for them, like educational workshops and content for their employees in how to address these kinds of topics.",
+            "It could be doing like focused research on like a specific topic that they're interested in, like packaging or LCA, life cycle assessment.",
+            "So it really depends  on the client, where they are, where they wish to go."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "life cycle assessment",
+            "like focused research",
+            "like educational workshops",
+            "like packaging",
+            "specific topic",
+            "really depends",
+            "could also"
+        ],
+        "trends": [
+            "like",
+            "could",
+            "also",
+            "content",
+            "developing",
+            "go",
+            "wish"
+        ]
+    },
+    {
+        "sentence": [
+            "Like if they say, like, I want to go here, but I don't know how to get here.",
+            "Some companies might say, I want to know what my competitors are doing.",
+            "So then I can do like in-depth overview of like the benchmarking."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "companies might say",
+            "depth overview",
+            "say",
+            "want",
+            "want",
+            "like",
+            "like"
+        ],
+        "trends": [
+            "like",
+            "want",
+            "say",
+            "know",
+            "overview",
+            "benchmarking",
+            "might"
+        ]
+    },
+    {
+        "sentence": [
+            "So see what their competitors are doing in different sustainability parameters and fields and come up with a sustainability plan, short-term, mid-term and long-term plan.",
+            "Maybe you can try and help me.",
+            "I think because it's  the field that is changing almost every day because there is new research published, there are new regulations."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "changing almost every day",
+            "new research published",
+            "different sustainability parameters",
+            "sustainability plan",
+            "new regulations",
+            "term plan",
+            "term"
+        ],
+        "trends": [
+            "sustainability",
+            "plan",
+            "new",
+            "almost",
+            "day",
+            "regulations",
+            "published"
+        ]
+    },
+    {
+        "sentence": [
+            "You really need to be like on the tip of your toes in the sense that really orient yourself on what's going on.",
+            "And for most companies, it's quite hard if they don't have dedicated people to read and be in these places.",
+            "I think that it makes sense to try and understand better the business and the customers and the product and find the right steps to help the company."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "understand better",
+            "right steps",
+            "really orient",
+            "really need",
+            "quite hard",
+            "dedicated people",
+            "makes sense"
+        ],
+        "trends": [
+            "really",
+            "sense",
+            "like",
+            "need",
+            "companies",
+            "hard",
+            "read"
+        ]
+    },
+    {
+        "sentence": [
+            "or the clients reach where they want to be or even try to help them understand where it makes sense for them to be placed in terms of sustainability.",
+            "How much harder does it become when you're also trying to vet and find out about their suppliers and that can get very complicated?",
+            "It is really complicated."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much harder",
+            "makes sense",
+            "even try",
+            "clients reach",
+            "also trying",
+            "really complicated",
+            "complicated"
+        ],
+        "trends": [
+            "much",
+            "vet",
+            "become",
+            "complicated",
+            "find",
+            "get",
+            "harder"
+        ]
+    },
+    {
+        "sentence": [
+            "Some of them, it depends what the company is doing, like what kind of product, where they are located along the supply chain, but in general, it's quite complicated.",
+            "Some companies are not super interested in sharing,  more details.",
+            "And I have to say that I even had clients that they had direct connections with our suppliers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "supply chain",
+            "super interested",
+            "quite complicated",
+            "located along",
+            "direct connections",
+            "suppliers",
+            "sharing"
+        ],
+        "trends": [
+            "connections",
+            "say",
+            "clients",
+            "suppliers",
+            "even",
+            "super",
+            "sharing"
+        ]
+    },
+    {
+        "sentence": [
+            "They didn't even know what kind of questions to ask.",
+            "So it was actually like a really in-depth work building a questionnaire so they could ask their suppliers and we could get like written answers of exact information that we could work with.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "could get like written answers",
+            "depth work building",
+            "could work",
+            "actually like",
+            "could ask",
+            "exact information",
+            "even know"
+        ],
+        "trends": [
+            "could",
+            "work",
+            "like",
+            "written",
+            "answers",
+            "building",
+            "exact"
+        ]
+    },
+    {
+        "sentence": [
+            "So we haven't really spoken about sustainability itself yet.",
+            "So I was wondering, what is your definition of sustainability?",
+            "I don't think I'm  expert enough to create my own definition, but I really like the United Nations definition."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united nations definition",
+            "really spoken",
+            "really like",
+            "expert enough",
+            "definition",
+            "definition",
+            "yet"
+        ],
+        "trends": [
+            "definition",
+            "sustainability",
+            "really",
+            "united",
+            "think",
+            "nations",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "So thinking about how I could provide to my children or their children or their grandchildren, the access to the magnificent planet that we are living on.",
+            "I never been to the Great Reef in Australia, but would I be able to see it?",
+            "Would my kids be able to see it?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "magnificent planet",
+            "great reef",
+            "could provide",
+            "would",
+            "would",
+            "thinking",
+            "see"
+        ],
+        "trends": [
+            "children",
+            "provide",
+            "planet",
+            "reef",
+            "would",
+            "see",
+            "able"
+        ]
+    },
+    {
+        "sentence": [
+            "Would their kids be able to see it?",
+            "So I think we need to reach a point where no matter what is happening today in our  daily life, it doesn't compromise future access to these kinds of things.",
+            "But it's not just seeing beautiful natural sites."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seeing beautiful natural sites",
+            "compromise future access",
+            "happening today",
+            "daily life",
+            "would",
+            "think",
+            "things"
+        ],
+        "trends": [
+            "would",
+            "kids",
+            "able",
+            "see",
+            "reach",
+            "point",
+            "matter"
+        ]
+    },
+    {
+        "sentence": [
+            "It's also about the fact that we are dependent on nature.",
+            "So if we are impacting nature in a way that it can't be reversed, then it means we would have a problem with access to water, with access to food, with access to materials that we are working with.",
+            "So I think we need to somehow, although it's really hard for us humans to accept this  broader perspective on problems, we need to somehow embrace that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us humans",
+            "really hard",
+            "broader perspective",
+            "somehow embrace",
+            "impacting nature",
+            "somehow",
+            "nature"
+        ],
+        "trends": [
+            "access",
+            "need",
+            "somehow",
+            "would",
+            "ca",
+            "food",
+            "impacting"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's not necessarily you do A and then it caused B.",
+            "You can do A and it can cause like 20 other problems.",
+            "And there is no just one solution."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cause like 20",
+            "one solution",
+            "caused b",
+            "problems",
+            "necessarily"
+        ],
+        "trends": [
+            "necessarily",
+            "caused",
+            "problems",
+            "like",
+            "cause"
+        ]
+    },
+    {
+        "sentence": [
+            "You need to find multiple solutions.",
+            "Another term I know that you use a lot in your work is circularity.",
+            "Can you talk to us a bit about what is circularity and why does that matter to you?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "find multiple solutions",
+            "another term",
+            "work",
+            "use",
+            "us",
+            "talk",
+            "need"
+        ],
+        "trends": [
+            "circularity",
+            "solutions",
+            "need",
+            "multiple",
+            "work",
+            "us",
+            "talk"
+        ]
+    },
+    {
+        "sentence": [
+            "From my understanding is how we can try and build our  lives in sense of products and use and all of that in a way that we would never need to produce things newly all the time.",
+            "So if you think about like how nature operates, so you know, one animal's waste becomes part of the ecosystem's food.",
+            "The concept of waste doesn't really exist in nature."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would never need",
+            "produce things newly",
+            "waste becomes part",
+            "really exist",
+            "one animal",
+            "nature operates",
+            "waste"
+        ],
+        "trends": [
+            "waste",
+            "nature",
+            "produce",
+            "lives",
+            "need",
+            "never",
+            "newly"
+        ]
+    },
+    {
+        "sentence": [
+            "Everything kind of like feeds something else.",
+            "If we reflect this concept to our life, then we create a lot of waste.",
+            "all the time, some of the things that are even used for a few seconds and then they become waste."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like feeds something else",
+            "everything kind",
+            "even used",
+            "become waste",
+            "waste",
+            "time",
+            "things"
+        ],
+        "trends": [
+            "waste",
+            "create",
+            "something",
+            "like",
+            "kind",
+            "feeds",
+            "concept"
+        ]
+    },
+    {
+        "sentence": [
+            "So circularity tries to address this kind of topic.",
+            "So how we can integrate the concept of no waste into how we operate on this planet.",
+            "So how would circularity apply then to the jewelry sector?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would circularity apply",
+            "circularity tries",
+            "jewelry sector",
+            "waste",
+            "topic",
+            "planet",
+            "operate"
+        ],
+        "trends": [
+            "circularity",
+            "waste",
+            "would",
+            "sector",
+            "jewelry",
+            "apply",
+            "tries"
+        ]
+    },
+    {
+        "sentence": [
+            "If we focus on fine jewelry, then it's the best example.",
+            "We work with precious materials, meaning they have amazing characteristics  elements to them at the same time they have high economical value meaning that no one would want to see them go to waste.",
+            "And also I think if I compare to other products, you know, if you compare it to plastics, for example, recycling plastics is so complicated."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high economical value meaning",
+            "one would want",
+            "amazing characteristics elements",
+            "precious materials",
+            "fine jewelry",
+            "recycling plastics",
+            "best example"
+        ],
+        "trends": [
+            "example",
+            "meaning",
+            "compare",
+            "plastics",
+            "know",
+            "recycling",
+            "complicated"
+        ]
+    },
+    {
+        "sentence": [
+            "Whereas recycling metals, for example, is really easy.",
+            "It's been used for thousands and thousands of years.",
+            "So in my opinion, like it's the perfect industry to actually incorporate sustainability  in circularity into action."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whereas recycling metals",
+            "actually incorporate sustainability",
+            "really easy",
+            "perfect industry",
+            "years",
+            "used",
+            "thousands"
+        ],
+        "trends": [
+            "thousands",
+            "years",
+            "perfect",
+            "metals",
+            "really",
+            "easy",
+            "example"
+        ]
+    },
+    {
+        "sentence": [
+            "It requires collaboration and it requires building international mechanisms in which we can create like this ongoing flow of materials, which is something that now seems impossible with how the world is.",
+            "So what examples have you seen of using circularity in jewelry?",
+            "So there are a few branches to that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "requires building international mechanisms",
+            "requires collaboration",
+            "using circularity",
+            "seems impossible",
+            "ongoing flow",
+            "create like",
+            "world"
+        ],
+        "trends": [
+            "requires",
+            "world",
+            "international",
+            "collaboration",
+            "create",
+            "flow",
+            "circularity"
+        ]
+    },
+    {
+        "sentence": [
+            "First, in my opinion, would be putting a lot of emphasis on repair.",
+            "I think, especially when we're talking about high quality products, fine metals and stones and all of that, it makes a lot of sense to repair them.",
+            "If a stone is broken, if the metal is torn somewhere, it's easy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high quality products",
+            "torn somewhere",
+            "fine metals",
+            "would",
+            "think",
+            "talking",
+            "stones"
+        ],
+        "trends": [
+            "repair",
+            "lot",
+            "especially",
+            "sense",
+            "quality",
+            "broken",
+            "easy"
+        ]
+    },
+    {
+        "sentence": [
+            "It's much easier repairing something than creating something for scratch.",
+            "And it's still a strategy that you don't see so often.",
+            "And I think, especially for bigger brands, it's a great strategy because you can even  encourage your customers to come back to you, not to someone else to repair it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much easier repairing something",
+            "creating something",
+            "someone else",
+            "even encourage",
+            "come back",
+            "bigger brands",
+            "great strategy"
+        ],
+        "trends": [
+            "strategy",
+            "something",
+            "easier",
+            "scratch",
+            "repairing",
+            "much",
+            "creating"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, if Pandora says we have free repairs, we offer repairs to all of our products, it means that their customers would constantly be in contact with them.",
+            "Why not?",
+            "Who wouldn't want to have a customer that already bought something from you to come back again?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "customers would constantly",
+            "already bought something",
+            "pandora says",
+            "offer repairs",
+            "free repairs",
+            "come back",
+            "want"
+        ],
+        "trends": [
+            "repairs",
+            "offer",
+            "means",
+            "would",
+            "want",
+            "back",
+            "bought"
+        ]
+    },
+    {
+        "sentence": [
+            "You can convince them by that, maybe buying something new.",
+            "So I think this is one aspect that in my opinion would make a lot of sense of a long-term engagement  with customers.",
+            "Of course, it needs to make sense economically."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "maybe buying something new",
+            "opinion would make",
+            "make sense economically",
+            "term engagement",
+            "one aspect",
+            "sense",
+            "think"
+        ],
+        "trends": [
+            "make",
+            "sense",
+            "something",
+            "buying",
+            "convince",
+            "new",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "I think without thinking about like the economics of sustainability, sustainability is not existing.",
+            "Is there a problem in the mass produced cheap jewelry being basically thrown out in the same way that you might buy some cheap homeware that breaks after a year and throw that out?",
+            "I'm sure there is."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mass produced cheap jewelry",
+            "think without thinking",
+            "cheap homeware",
+            "might buy",
+            "basically thrown",
+            "year",
+            "way"
+        ],
+        "trends": [
+            "sustainability",
+            "cheap",
+            "year",
+            "breaks",
+            "buy",
+            "like",
+            "economics"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think another problem is that there is not enough data.",
+            "So if we are talking about sustainability performances of gold, for example,  you would find some reports, you would find some information.",
+            "It's not the full picture."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think another problem",
+            "would find",
+            "would find",
+            "sustainability performances",
+            "full picture",
+            "enough data",
+            "talking"
+        ],
+        "trends": [
+            "would",
+            "find",
+            "think",
+            "talking",
+            "sustainability",
+            "reports",
+            "performances"
+        ]
+    },
+    {
+        "sentence": [
+            "There are still a lot of dark spots, but there would be some data out there.",
+            "But if you're now trying to find out information about like brass jewelry, you would barely find anything.",
+            "If you're now trying to even find numbers on like the amount of products of like fashion jewelry items that are produced per year, I don't think you could actually find a lot of meaningful information there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like fashion jewelry items",
+            "would barely find anything",
+            "like brass jewelry",
+            "produced per year",
+            "even find numbers",
+            "could actually find",
+            "dark spots"
+        ],
+        "trends": [
+            "find",
+            "like",
+            "would",
+            "lot",
+            "jewelry",
+            "trying",
+            "information"
+        ]
+    },
+    {
+        "sentence": [
+            "And there's been some debate about the term recycling for jewelry.",
+            "because most of the time gold, for example, is not wasted enough for the term recycling doesn't apply to it.",
+            "Do you have any particular views on that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wasted enough",
+            "time gold",
+            "term recycling",
+            "term recycling",
+            "particular views",
+            "jewelry",
+            "example"
+        ],
+        "trends": [
+            "term",
+            "recycling",
+            "jewelry",
+            "debate",
+            "wasted",
+            "time",
+            "gold"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, first of all, I think that the level of arguing about like, is it recycled or not recycled?",
+            "Should we use the term repurposed instead?",
+            "I think it's a waste of energy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "term repurposed instead",
+            "yeah",
+            "waste",
+            "use",
+            "think",
+            "think",
+            "recycled"
+        ],
+        "trends": [
+            "think",
+            "recycled",
+            "waste",
+            "energy",
+            "use",
+            "yeah",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "We need to focus on our energy on how we can improve the performances of ongoing use of precious minerals instead of like, can we say it's that or that?",
+            "we need to build mechanisms in which we make sure that precious materials, minerals, metals are used as much as possible.",
+            "So this is my first input on that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "precious minerals instead",
+            "precious materials",
+            "ongoing use",
+            "make sure",
+            "first input",
+            "build mechanisms",
+            "minerals"
+        ],
+        "trends": [
+            "minerals",
+            "precious",
+            "need",
+            "energy",
+            "say",
+            "focus",
+            "performances"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that people might not throw their gold ring into the trash.",
+            "Most people probably wouldn't do that, but there are also other products who use gold and they might end up in landfill.",
+            "So we need to think about that as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "use gold",
+            "people probably",
+            "people might",
+            "might end",
+            "gold ring",
+            "well",
+            "trash"
+        ],
+        "trends": [
+            "people",
+            "might",
+            "gold",
+            "think",
+            "would",
+            "trash",
+            "throw"
+        ]
+    },
+    {
+        "sentence": [
+            "Around 35% of gold usage is coming from jewelry, but there are  other streams of gold use and they could still come back to flow of materials.",
+            "So in that sense, we need to think about that as well.",
+            "And I also think that it's not just about going to waste in the pure sense of going to landfill."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could still come back",
+            "gold use",
+            "gold usage",
+            "around 35",
+            "pure sense",
+            "also think",
+            "think"
+        ],
+        "trends": [
+            "going",
+            "sense",
+            "think",
+            "gold",
+            "waste",
+            "pure",
+            "landfill"
+        ]
+    },
+    {
+        "sentence": [
+            "We need to think about every item that is made from precious metals and sits in our drawers and is not in use, meaning that new metals need to be mined.",
+            "Whereas instead, if I think few years  ago, maybe in the beginning of COVID, I read a research by McKinsey that they estimate that there is like 190,000 tons of gold above ground.",
+            "And the demand for mined gold every year is around 4,000 tons."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mined gold every year",
+            "new metals need",
+            "every item",
+            "precious metals",
+            "years ago",
+            "whereas instead",
+            "like 190"
+        ],
+        "trends": [
+            "think",
+            "need",
+            "metals",
+            "every",
+            "mined",
+            "gold",
+            "tons"
+        ]
+    },
+    {
+        "sentence": [
+            "So basic calculation, if we would kind of like restructure all the above ground gold that exists on the planet, maybe we could think about a different system.",
+            "We working in the jewelry industry need to understand that  every gold that was ever mined from the ground still sits somewhere above the ground on the planet.",
+            "It doesn't decay, it doesn't disappear, and it's not going to go away."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ground still sits somewhere",
+            "jewelry industry need",
+            "ground gold",
+            "would kind",
+            "like restructure",
+            "go away",
+            "every gold"
+        ],
+        "trends": [
+            "ground",
+            "gold",
+            "planet",
+            "basic",
+            "kind",
+            "away",
+            "decay"
+        ]
+    },
+    {
+        "sentence": [
+            "We would probably go away much faster than the gold or diamonds or whatever.",
+            "So we need to embrace a different mindset.",
+            "On the topic of diamonds, do you have any views on the arguments for whether natural and lab-grown diamonds, which of those is the more sustainable option?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would probably go away much faster",
+            "whether natural",
+            "sustainable option",
+            "different mindset",
+            "grown diamonds",
+            "diamonds",
+            "diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "away",
+            "gold",
+            "option",
+            "natural",
+            "mindset",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "Similar to like the recycle topic.",
+            "these two really blamboyant topics in the industry.",
+            "Again, I don't have a fixed view on that or that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two really blamboyant topics",
+            "recycle topic",
+            "fixed view",
+            "similar",
+            "like",
+            "industry"
+        ],
+        "trends": [
+            "topic",
+            "similar",
+            "recycle",
+            "like",
+            "two",
+            "topics",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we need to go back to the core elements of sustainability and trying to think about how a product so precious and valuable like diamonds can bring as much benefits and positive impacts to what we are doing.",
+            "In my opinion, it doesn't make sense that a diamond, it doesn't matter if it's more expensive or less expensive, brings negative  negative impacts.",
+            "If this is the case, then we are all doing our work really badly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "brings negative negative impacts",
+            "work really badly",
+            "valuable like diamonds",
+            "positive impacts",
+            "much benefits",
+            "make sense",
+            "go back"
+        ],
+        "trends": [
+            "think",
+            "expensive",
+            "negative",
+            "impacts",
+            "opinion",
+            "brings",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that we need to think about the fact that especially when we are talking about fine jewelry, people wouldn't want to know that their memorable engagement ring or the necklace they created for the memorial of their grandmother is somehow tinted with a lot of really bad impacts, negative impacts.",
+            "In my opinion, if the performance of  these materials wouldn't change.",
+            "People would start choosing other things, other products instead of diamonds and gold."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people would start choosing",
+            "memorable engagement ring",
+            "really bad impacts",
+            "negative impacts",
+            "somehow tinted",
+            "products instead",
+            "fine jewelry"
+        ],
+        "trends": [
+            "would",
+            "think",
+            "impacts",
+            "people",
+            "instead",
+            "gold",
+            "products"
+        ]
+    },
+    {
+        "sentence": [
+            "What do you think of the biggest negative impact of natural diamonds?",
+            "It's hard to say.",
+            "I think that until we compare completely parallel both options like natural versus lab grown through a third party organization that can as authentic as possible examine the both options based on the same  parameters, it would be hard to say like, this is better or this is worse, or these are the biggest issues of natural diamonds, or these are the biggest issues of lab grown diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "options like natural versus lab grown",
+            "lab grown diamonds",
+            "third party organization",
+            "compare completely parallel",
+            "biggest negative impact",
+            "options based",
+            "natural diamonds"
+        ],
+        "trends": [
+            "biggest",
+            "diamonds",
+            "natural",
+            "like",
+            "lab",
+            "grown",
+            "options"
+        ]
+    },
+    {
+        "sentence": [
+            "I think for now, from what I know, all the comparisons, all the research that has been done wasn't really comparing both options based on the same parameters done by an organization that is outside of this political debate.",
+            "of just getting over a cold, but I wanted to ask about if you had a particular example of a jewelry or watch brand's sustainability practices that you think is your favorite.",
+            "I really like that in recent years we see more and more resale options of jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watch brand",
+            "sustainability practices",
+            "resale options",
+            "recent years",
+            "really like",
+            "really comparing",
+            "political debate"
+        ],
+        "trends": [
+            "done",
+            "think",
+            "really",
+            "options",
+            "jewelry",
+            "years",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it makes a lot of sense, especially in high quality products.",
+            "So I really like that.",
+            "Being more and more experienced by more people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high quality products",
+            "really like",
+            "think",
+            "sense",
+            "people",
+            "makes",
+            "lot"
+        ],
+        "trends": [
+            "think",
+            "sense",
+            "quality",
+            "products",
+            "makes",
+            "lot",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "So from both sides, from the interest of people understanding that they have assets,  The day could transition into something else but also from consumer sites that they say.",
+            "Actually we jewelry.",
+            "It doesn't really matter if the bracelet is completely new or has been used a bit because i think especially if you compare to other products like in garments for example you can see use much quicker than what you can see in jewelry so i really like that another good example it's not a fine jewelry but i really like there is a brand called article twenty two they're working with."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "brand called article twenty two",
+            "see use much quicker",
+            "day could transition",
+            "another good example",
+            "think especially",
+            "something else",
+            "really matter"
+        ],
+        "trends": [
+            "like",
+            "really",
+            "see",
+            "example",
+            "jewelry",
+            "also",
+            "sites"
+        ]
+    },
+    {
+        "sentence": [
+            "communities, so communities based in Laos.",
+            "And they are creating jewelry that are made from the covers of bombs that were thrown at Laos in the Vietnam War.",
+            "So they educate communities into working with metal and transforming these into jewelry pieces."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "vietnam war",
+            "jewelry pieces",
+            "creating jewelry",
+            "educate communities",
+            "communities based",
+            "communities",
+            "working"
+        ],
+        "trends": [
+            "communities",
+            "laos",
+            "jewelry",
+            "war",
+            "working",
+            "transforming",
+            "pieces"
+        ]
+    },
+    {
+        "sentence": [
+            "Of course, they are working with a local NGO that knows how to dismantle the bombs and everything.",
+            "It's not like something, you know, like shady or something like this, but I think it  In my opinion, a lot of really important sustainability parameters.",
+            "So first of all, they are providing job and skills to communities."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really important sustainability parameters",
+            "something like",
+            "providing job",
+            "local ngo",
+            "like something",
+            "like shady",
+            "working"
+        ],
+        "trends": [
+            "like",
+            "something",
+            "working",
+            "knows",
+            "course",
+            "dismantle",
+            "everything"
+        ]
+    },
+    {
+        "sentence": [
+            "This is one thing.",
+            "They are using materials that are already there and that are actually creating a lot of horrible damage because the landslide during the years has exposed some of these bombs and it has become a really big danger.",
+            "And I think that also transforming something that has such a negative impact, like a bomb, into a jewelry  Do you think the jewelry industry does enough storytelling?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really big danger",
+            "also transforming something",
+            "using materials",
+            "one thing",
+            "negative impact",
+            "horrible damage",
+            "enough storytelling"
+        ],
+        "trends": [
+            "think",
+            "jewelry",
+            "impact",
+            "industry",
+            "something",
+            "also",
+            "negative"
+        ]
+    },
+    {
+        "sentence": [
+            "heard it all.",
+            "I feel like now in order to make me choose to invest my money in jewelry instead of like something else, it needs to be something really, really, really special in my opinion.",
+            "And I think more and more people are, if we check younger generation, if you would ask them, would you prefer like a really nice, luxurious holiday somewhere or a necklace from Van Cleef en Erpel with the beautiful flowers imitating orchids?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "van cleef en erpel",
+            "beautiful flowers imitating orchids",
+            "luxurious holiday somewhere",
+            "check younger generation",
+            "like something else",
+            "prefer like",
+            "feel like"
+        ],
+        "trends": [
+            "really",
+            "like",
+            "would",
+            "something",
+            "instead",
+            "money",
+            "special"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not sure that they would choose this necklace.",
+            "It's just an example.",
+            "Yeah, I don't have anything again Van Cleef and our pellets just One of the questions I've also had about sustainability and jewelry is that it seems that jewelry more than many products requires inevitably requires air travel and items to be shipped around the world because diamonds and gemstones are Unique to certain parts of the world and if you take the example of the diamond industry a rough diamond obviously gets shipped around the world many times and it gets manufactured  manufactured in India and traded in Antwerp, et cetera, et cetera."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many products requires inevitably requires air travel",
+            "rough diamond obviously gets shipped around",
+            "gets manufactured manufactured",
+            "world many times",
+            "shipped around",
+            "diamond industry",
+            "would choose"
+        ],
+        "trends": [
+            "world",
+            "many",
+            "cetera",
+            "gets",
+            "requires",
+            "et",
+            "manufactured"
+        ]
+    },
+    {
+        "sentence": [
+            "And even if you were to shorten that, you still had to fly the diamond around the world a few times.",
+            "Is there any way of changing that?",
+            "How should the jewelry industry deal with the fact that it just has this problem footprint?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jewelry industry deal",
+            "problem footprint",
+            "diamond around",
+            "world",
+            "way",
+            "times",
+            "still"
+        ],
+        "trends": [
+            "problem",
+            "jewelry",
+            "world",
+            "times",
+            "still",
+            "shorten",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "I think most industries have, because also if you would compare it to fashion industry, most areas of the world can't grow cotton, but we all wear cotton.",
+            "Most of us wear polyester.",
+            "It's not produced where we live."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us wear polyester",
+            "wear cotton",
+            "would compare",
+            "grow cotton",
+            "fashion industry",
+            "world",
+            "think"
+        ],
+        "trends": [
+            "cotton",
+            "would",
+            "world",
+            "think",
+            "industry",
+            "industries",
+            "grow"
+        ]
+    },
+    {
+        "sentence": [
+            "If we also look at our food supply chain, also, I live in Germany.",
+            "We don't have mangoes growing here.",
+            "It comes from somewhere else."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "food supply chain",
+            "somewhere else",
+            "mangoes growing",
+            "also look",
+            "also",
+            "live",
+            "germany"
+        ],
+        "trends": [
+            "also",
+            "somewhere",
+            "else",
+            "comes",
+            "supply",
+            "look",
+            "live"
+        ]
+    },
+    {
+        "sentence": [
+            "And in most situations, it comes daily from far away.",
+            "So I think it's definitely something that the industry should think about and tackle.",
+            "But if I compare it, for example, to other supply chains, I think the benefit of trading with precious minerals is that to create like one diamond ring, you need a few relatively light elements."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "create like one diamond ring",
+            "relatively light elements",
+            "supply chains",
+            "precious minerals",
+            "far away",
+            "definitely something",
+            "comes daily"
+        ],
+        "trends": [
+            "think",
+            "tackle",
+            "something",
+            "definitely",
+            "industry",
+            "away",
+            "situations"
+        ]
+    },
+    {
+        "sentence": [
+            "If you would want to have now a fruit salad, you would need much heavier  products coming from all over the world.",
+            "In this sense, of course, we need to move commodities from one place to the other.",
+            "But I think like we are relatively blessed in the sense that most of them are not that heavy if you divide it per product."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would need much heavier products coming",
+            "would want",
+            "think like",
+            "relatively blessed",
+            "per product",
+            "one place",
+            "move commodities"
+        ],
+        "trends": [
+            "need",
+            "sense",
+            "would",
+            "divide",
+            "heavy",
+            "like",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, I think it goes back to my circularity thing that maybe we could think about building local alternatives.",
+            "All of these people that are living around Germany that might have in their drawers  like tons of really precious minerals sitting and not being used.",
+            "And maybe this is something that could be somehow shifted."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really precious minerals sitting",
+            "living around germany",
+            "drawers like tons",
+            "building local alternatives",
+            "somehow shifted",
+            "goes back",
+            "circularity thing"
+        ],
+        "trends": [
+            "maybe",
+            "could",
+            "think",
+            "local",
+            "back",
+            "building",
+            "circularity"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "Talking of Germany, I know that Germany has quite strict recycling rules.",
+            "Do you enjoy living in a country like that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quite strict recycling rules",
+            "enjoy living",
+            "country like",
+            "talking",
+            "right",
+            "know",
+            "germany"
+        ],
+        "trends": [
+            "germany",
+            "living",
+            "like",
+            "enjoy",
+            "talking",
+            "strict",
+            "rules"
+        ]
+    },
+    {
+        "sentence": [
+            "Personally, yes.",
+            "I feel like even if I use things for a shorter amount of time, they could be better managed in the sense of trying to repurpose them in a better way.",
+            "And I also think that we need to understand  that we have to take part in that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "feel like even",
+            "use things",
+            "take part",
+            "shorter amount",
+            "better way",
+            "better managed",
+            "also think"
+        ],
+        "trends": [
+            "better",
+            "amount",
+            "could",
+            "even",
+            "feel",
+            "also",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "Even as just inhabitants on this planet, we have a responsibility.",
+            "So I think that you can quite easily get used to that, that this is how things operate.",
+            "But I think still here, there is less than 50% of the population actually recycling everything."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "quite easily get used",
+            "population actually recycling everything",
+            "things operate",
+            "think still",
+            "think",
+            "responsibility",
+            "planet"
+        ],
+        "trends": [
+            "think",
+            "planet",
+            "even",
+            "inhabitants",
+            "everything",
+            "less",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "Are there rules?",
+            "I mean, do you get into trouble if you don't recycle?",
+            "No."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trouble",
+            "rules",
+            "recycle",
+            "mean",
+            "get"
+        ],
+        "trends": [
+            "trouble",
+            "recycle",
+            "mean",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "If you put your plastic bottle in the regular garbage, you're not going to get... No, but there are some things that plastic bottles, for example,  For example, you would get money back if you recycle them.",
+            "So imposing more incentives like that makes, I think, people more in collaboration with these kind of systems, unfortunately.",
+            "Or like fortunately, I don't know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would get money back",
+            "get ...",
+            "regular garbage",
+            "plastic bottles",
+            "plastic bottle",
+            "like fortunately",
+            "incentives like"
+        ],
+        "trends": [
+            "like",
+            "example",
+            "get",
+            "plastic",
+            "imposing",
+            "think",
+            "systems"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it also puts perspective into valuing these materials more.",
+            "Before we finish, I'm just doing a bit of research.",
+            "I saw you used to produce a podcast called Echo Kelle."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "podcast called echo kelle",
+            "also puts perspective",
+            "valuing",
+            "used",
+            "think",
+            "saw",
+            "research"
+        ],
+        "trends": [
+            "research",
+            "finish",
+            "bit",
+            "used",
+            "valuing",
+            "think",
+            "puts"
+        ]
+    },
+    {
+        "sentence": [
+            "Does that still exist?",
+            "No, I had a collaboration here with an online radio channel.",
+            "mainly Hebrew speaking programs."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mainly hebrew speaking programs",
+            "online radio channel",
+            "still exist",
+            "collaboration"
+        ],
+        "trends": [
+            "radio",
+            "online",
+            "collaboration",
+            "channel",
+            "speaking",
+            "programs",
+            "mainly"
+        ]
+    },
+    {
+        "sentence": [
+            "And I was doing that for, I think, a year-ish.",
+            "It was really nice.",
+            "I really liked it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really nice",
+            "really liked",
+            "year",
+            "think",
+            "ish"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "But I think at some point I understood that requires a lot of my effort to do like in-depth research, the recording, editing, everything promoting that.",
+            "And I don't think it brought enough benefits.",
+            "And there are a lot of really great sustainability podcasts out there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really great sustainability podcasts",
+            "brought enough benefits",
+            "everything promoting",
+            "depth research",
+            "understood",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "lot",
+            "great",
+            "podcasts",
+            "really",
+            "sustainability",
+            "benefits"
+        ]
+    },
+    {
+        "sentence": [
+            "So I thought that it might be worth for me to focus  my energy on something else for now.",
+            "I like the medium.",
+            "I think podcasts are fantastic, but I think it's worth the while if there is a broad audience to listen to that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something else",
+            "broad audience",
+            "think podcasts",
+            "think",
+            "worth",
+            "worth",
+            "thought"
+        ],
+        "trends": [
+            "worth",
+            "think",
+            "thought",
+            "something",
+            "might",
+            "podcasts",
+            "listen"
+        ]
+    },
+    {
+        "sentence": [
+            "Otherwise...",
+            "I also saw a lecture that you gave that was posted on YouTube about a year ago.",
+            "And first I noticed that you were holding your baby in the lecture."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "year ago",
+            "otherwise ...",
+            "also saw",
+            "youtube",
+            "posted",
+            "noticed",
+            "lecture"
+        ],
+        "trends": [
+            "lecture",
+            "noticed",
+            "holding",
+            "youtube",
+            "year",
+            "saw",
+            "posted"
+        ]
+    },
+    {
+        "sentence": [
+            "That's correct.",
+            "We were wondering if your baby was going to make an appearance on this podcast as well.",
+            "No, she's in kindergarten."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wondering",
+            "well",
+            "podcast",
+            "make",
+            "kindergarten",
+            "going",
+            "correct"
+        ],
+        "trends": [
+            "wondering",
+            "well",
+            "podcast",
+            "make",
+            "going",
+            "baby",
+            "appearance"
+        ]
+    },
+    {
+        "sentence": [
+            "Great.",
+            "When they were introducing you in that lecture, they said you were also learning  and  with Daniela about the fact that when Joshua sent me the picture of you giving this talk with your baby, we were wondering if that was kind of trying to make a statement.",
+            "That was my guess, but we didn't go deep on that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "joshua sent",
+            "go deep",
+            "also learning",
+            "wondering",
+            "trying",
+            "talk",
+            "statement"
+        ],
+        "trends": [
+            "wondering",
+            "joshua",
+            "baby",
+            "daniela",
+            "fact",
+            "giving",
+            "introducing"
+        ]
+    },
+    {
+        "sentence": [
+            "What was the context of that picture?",
+            "And maybe you can talk about being a mother and working and trying to combine these two things together.",
+            "You were trying to make a statement or not, because that was my perception."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two things together",
+            "working",
+            "trying",
+            "trying",
+            "talk",
+            "statement",
+            "picture"
+        ],
+        "trends": [
+            "trying",
+            "statement",
+            "working",
+            "two",
+            "together",
+            "things",
+            "talk"
+        ]
+    },
+    {
+        "sentence": [
+            "as a woman, but maybe I'm wrong.",
+            "it  this bubble once my daughter went to kindergarten, or trying to find ways in which how it could work together.",
+            "And sometimes it works good, and sometimes it works really horrible."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "could work together",
+            "works really horrible",
+            "works good",
+            "find ways",
+            "daughter went",
+            "wrong",
+            "woman"
+        ],
+        "trends": [
+            "sometimes",
+            "works",
+            "together",
+            "trying",
+            "could",
+            "daughter",
+            "find"
+        ]
+    },
+    {
+        "sentence": [
+            "So if we talk about this lecture specifically, I was invited by a research center in Munich that they're focused on sustainability, but on many different industries, they actually don't have any project focus on jewelry specific, but they invited me to give a talk there.",
+            "And my daughter was four months  I was once old, I think, and I breastfed her.",
+            "So it was either going and then pumping while I'm there and trying to feed her here with bottles or taking her with me and hoping everything would be fine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many different industries",
+            "hoping everything would",
+            "research center",
+            "project focus",
+            "lecture specifically",
+            "jewelry specific",
+            "four months"
+        ],
+        "trends": [
+            "invited",
+            "talk",
+            "would",
+            "everything",
+            "hoping",
+            "trying",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually, until the lecture started, she had a really tough day.",
+            "We were coming with a train from Berlin to Munich.",
+            "She didn't sleep well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really tough day",
+            "sleep well",
+            "lecture started",
+            "train",
+            "munich",
+            "coming",
+            "berlin"
+        ],
+        "trends": [
+            "train",
+            "munich",
+            "coming",
+            "berlin",
+            "tough",
+            "started",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "She was crying.",
+            "She was fussy.",
+            "I was preparing myself for a nightmare that it would be like impossible to speak, that she would cry constantly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would cry constantly",
+            "like impossible",
+            "would",
+            "speak",
+            "preparing",
+            "nightmare",
+            "fussy"
+        ],
+        "trends": [
+            "would",
+            "speak",
+            "preparing",
+            "nightmare",
+            "like",
+            "impossible",
+            "cry"
+        ]
+    },
+    {
+        "sentence": [
+            "and it would be horrible.",
+            "And also all the time I was like, they are recording that, so it would be in YouTube.",
+            "And what a horrible reputation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "horrible reputation",
+            "horrible",
+            "youtube",
+            "would",
+            "would",
+            "time",
+            "recording"
+        ],
+        "trends": [
+            "youtube",
+            "would",
+            "time",
+            "recording",
+            "like",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "But actually then I arrived a bit early, I changed her diaper, I put her in the carrier and then I don't remember exactly, but I think like in the first few minutes she was awake and mumbling something like, and then she fell asleep and she was asleep the whole lecture.",
+            "And I was like, forces from above or like whatever.",
+            "What I was trying to do  All of the last year while I was with her was trying to find a way in which how I can try and continue be myself while also being her mother."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mumbling something like",
+            "whole lecture",
+            "think like",
+            "remember exactly",
+            "like whatever",
+            "last year",
+            "bit early"
+        ],
+        "trends": [
+            "like",
+            "asleep",
+            "trying",
+            "year",
+            "mother",
+            "also",
+            "way"
+        ]
+    },
+    {
+        "sentence": [
+            "So of course I wasn't available as much as I wanted and I couldn't take as big project as I usually try to find and I couldn't be available as much as I want or spontaneous as much as I want.",
+            "But I also don't think the fact that I'm a mother must mean that I need to stay in my house, not leave, go only to baby yoga.",
+            "and meet other moms in cafes."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mother must mean",
+            "usually try",
+            "big project",
+            "baby yoga",
+            "wanted",
+            "want",
+            "want"
+        ],
+        "trends": [
+            "much",
+            "want",
+            "available",
+            "could",
+            "must",
+            "baby",
+            "fact"
+        ]
+    },
+    {
+        "sentence": [
+            "And like there are a lot of different versions of how to be a parent.",
+            "And I think that I'm trying to find the right balance between all the juggling balls.",
+            "I understand."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right balance",
+            "juggling balls",
+            "different versions",
+            "understand",
+            "trying",
+            "think",
+            "parent"
+        ],
+        "trends": [
+            "trying",
+            "think",
+            "right",
+            "juggling",
+            "find",
+            "versions",
+            "parent"
+        ]
+    },
+    {
+        "sentence": [
+            "And she did behave very well in that lecture.",
+            "Can I just say a few things before we finish?",
+            "Of course."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "well",
+            "things",
+            "say",
+            "lecture",
+            "finish",
+            "course",
+            "behave"
+        ],
+        "trends": [
+            "things",
+            "say",
+            "finish",
+            "well",
+            "lecture",
+            "behave"
+        ]
+    },
+    {
+        "sentence": [
+            "I would like to share quickly a project that I'm working on.",
+            "It's in the final setting up phases.",
+            "I'm doing it with two colleagues."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would like",
+            "two colleagues",
+            "share quickly",
+            "final setting",
+            "working",
+            "project",
+            "phases"
+        ],
+        "trends": [
+            "setting",
+            "phases",
+            "final",
+            "would",
+            "working",
+            "share",
+            "quickly"
+        ]
+    },
+    {
+        "sentence": [
+            "One is Joy, she's a jeweler, she's based in Italy.",
+            "And the other one is Tatiana, she's a gem trader based in Germany as well.",
+            "And we are setting up an online community focused on sustainability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "online community focused",
+            "gem trader based",
+            "based",
+            "well",
+            "tatiana",
+            "sustainability",
+            "setting"
+        ],
+        "trends": [
+            "sustainability",
+            "setting",
+            "online",
+            "focused",
+            "community",
+            "one",
+            "based"
+        ]
+    },
+    {
+        "sentence": [
+            "So whoever is interested in meeting other people that are also interested in sustainability, gaining knowledge, having a place to ask questions, have complicated debates, please reach out.",
+            "We are slowly building this space.",
+            "and we are always looking for more and more people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "slowly building",
+            "please reach",
+            "gaining knowledge",
+            "complicated debates",
+            "ask questions",
+            "always looking",
+            "also interested"
+        ],
+        "trends": [
+            "interested",
+            "ask",
+            "complicated",
+            "debates",
+            "knowledge",
+            "people",
+            "space"
+        ]
+    },
+    {
+        "sentence": [
+            "We build it through Mighty Networks.",
+            "It's a platform that is specified on building communities.",
+            "And we have there like different spaces focusing on different materials, different standards, events of the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like different spaces focusing",
+            "different standards",
+            "different materials",
+            "mighty networks",
+            "building communities",
+            "specified",
+            "platform"
+        ],
+        "trends": [
+            "different",
+            "networks",
+            "mighty",
+            "standards",
+            "spaces",
+            "materials",
+            "specified"
+        ]
+    },
+    {
+        "sentence": [
+            "And yeah, we hope to populate it as quickly as possible.",
+            "So kind of like uniting whoever is keen on knowing more about sustainability, learning more every day, maybe at some point even developing some kind of  of projects together and I would invite everyone who is interested in that reaching out and I could easily share more details.",
+            "Where can they find this community or the other details?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would invite everyone",
+            "point even developing",
+            "like uniting whoever",
+            "could easily share",
+            "projects together",
+            "every day",
+            "yeah"
+        ],
+        "trends": [
+            "kind",
+            "details",
+            "yeah",
+            "quickly",
+            "hope",
+            "populate",
+            "possible"
+        ]
+    },
+    {
+        "sentence": [
+            "Either reach out to me or I can send you a link to the community.",
+            "Well, thank you very much Danielle for your time.",
+            "It's been really interesting speaking to you about sustainability and jewelry and I'm grateful for the time you've given us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really interesting speaking",
+            "much danielle",
+            "given us",
+            "either reach",
+            "well",
+            "time",
+            "time"
+        ],
+        "trends": [
+            "time",
+            "well",
+            "send",
+            "reach",
+            "link",
+            "either",
+            "community"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you.",
+            "episode of the Rappaport Diamond podcast.",
+            "For more discussions, news and analysis about the diamond industry, visit us at Rappaport.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "diamond industry",
+            "visit us",
+            "rappaport",
+            "thank",
+            "news",
+            "episode"
+        ],
+        "trends": [
+            "diamond",
+            "visit",
+            "us",
+            "news",
+            "industry",
+            "discussions",
+            "analysis"
+        ]
+    },
+    {
+        "sentence": [
+            "Follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "twitter",
+            "subscribe",
+            "linkedin",
+            "instagram"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "subscribe",
+            "get",
+            "future",
+            "twitter",
+            "linkedin"
+        ]
+    }
+]

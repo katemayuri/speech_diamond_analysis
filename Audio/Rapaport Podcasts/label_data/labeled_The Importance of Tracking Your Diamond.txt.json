@@ -1,0 +1,2304 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Avi Kravitz.",
+            "is barely a year old but it's tackling the important issue of traceability across the diamond supply chain we discussed the company's approach the challenges it faces and some of the forces and trends shaping the discussion about source verification this is a hot topic in the diamond industry at the moment and i gained a lot of insight from our chat i'm sure you will too so please enjoy my conversation with frederick de grace hi frederick it's so great to see you again  Welcome to the podcast, your debut on the Rep4Diamond podcast.",
+            "So welcome and how you doing?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "frederick de grace hi frederick",
+            "diamond supply chain",
+            "rappaport diamond podcast",
+            "diamond industry",
+            "year old",
+            "trends shaping",
+            "traceability across"
+        ],
+        "trends": [
+            "diamond",
+            "podcast",
+            "welcome",
+            "frederick",
+            "discussed",
+            "grace",
+            "gained"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you Avi and of course, always great to talk to you.",
+            "I'm very happy to be here.",
+            "I'm a big fan of the podcast ever since its first episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "podcast ever since",
+            "first episode",
+            "big fan",
+            "always great",
+            "thank",
+            "talk",
+            "happy"
+        ],
+        "trends": [
+            "thank",
+            "talk",
+            "great",
+            "since",
+            "podcast",
+            "first",
+            "fan"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'm an avid listener.",
+            "So of course, very happy to be here and everything's going very well.",
+            "How are you today?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "avid listener",
+            "well",
+            "today",
+            "happy",
+            "going",
+            "everything",
+            "course"
+        ],
+        "trends": [
+            "well",
+            "happy",
+            "going",
+            "everything",
+            "course"
+        ]
+    },
+    {
+        "sentence": [
+            "Good, excellent.",
+            "And we've kind of followed each other's journey in the industry from afar.",
+            "You started off in the mining sector with Dominion Diamond Corporation, then moved into the midstream with UniDiamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "dominion diamond corporation",
+            "mining sector",
+            "unidiamond",
+            "started",
+            "moved",
+            "midstream",
+            "kind"
+        ],
+        "trends": [
+            "kind",
+            "unidiamond",
+            "started",
+            "sector",
+            "moved",
+            "mining",
+            "journey"
+        ]
+    },
+    {
+        "sentence": [
+            "And now you've taken on a new role and well, it's, it seems it's just over a year now that I trace it has been in development.",
+            "Yeah, correct.",
+            "It's been super interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "super interesting",
+            "new role",
+            "year",
+            "yeah",
+            "well",
+            "trace",
+            "taken"
+        ],
+        "trends": [
+            "year",
+            "well",
+            "trace",
+            "taken",
+            "seems",
+            "role",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, the industry has definitely been really kind to me and it's been really interesting to have been kind of looking at the sector and the diamond pipeline from all these various angles and being able to see how it operates and works from the rough side, the polished side, and now from the technology side.",
+            "So that's been really interesting to see how all of those elements, those things have fit together.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various angles",
+            "technology side",
+            "rough side",
+            "really interesting",
+            "really interesting",
+            "polished side",
+            "fit together"
+        ],
+        "trends": [
+            "really",
+            "side",
+            "kind",
+            "works",
+            "looking",
+            "angles",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "And I would imagine that given your current role and we'll get into our trace and the traceability solution that is providing, we will get into the mechanics of it.",
+            "But I would imagine your background fits into all that.",
+            "What were you, just for interest sake, what was your background before coming into the industry?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would imagine",
+            "would imagine",
+            "traceability solution",
+            "interest sake",
+            "current role",
+            "background fits",
+            "background"
+        ],
+        "trends": [
+            "imagine",
+            "would",
+            "get",
+            "role",
+            "providing",
+            "background",
+            "sake"
+        ]
+    },
+    {
+        "sentence": [
+            "You're Antwerp based, right?",
+            "I am indeed Antwerp based.",
+            "Born and raised, I studied in Antwerp."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "indeed antwerp based",
+            "antwerp based",
+            "antwerp",
+            "studied",
+            "right",
+            "raised",
+            "born"
+        ],
+        "trends": [
+            "antwerp",
+            "based",
+            "studied",
+            "raised",
+            "born",
+            "right",
+            "indeed"
+        ]
+    },
+    {
+        "sentence": [
+            "I was studying at the Antwerp management school, a general management course.",
+            "And as kind of the final consulting effort that we had to do to get our final points, I had an opportunity  to work with the Diamond and Jewelry Management Institute, which was a combination of various entities from the Antwerp Diamond sector, to help out with a couple of studies on how Antwerp could position itself to attract more consumers, attract more rough, attract more polished.",
+            "And that kind of was the first step into my entry in the market, where I was responsible for facilitating what they would call at that point, the Project 2020, which was the strategic repositioning project from the Antwerp Diamond Center."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry management institute",
+            "general management course",
+            "antwerp management school",
+            "antwerp could position",
+            "strategic repositioning project",
+            "final consulting effort",
+            "antwerp diamond sector"
+        ],
+        "trends": [
+            "antwerp",
+            "attract",
+            "diamond",
+            "management",
+            "final",
+            "project",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "Exactly.",
+            "I do remember that.",
+            "I didn't know that about you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "remember",
+            "know",
+            "exactly"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And it always amazes me how Antwerp is so diamond centric.",
+            "Even in the universities, as you're alluding to, it has this sort of connection to the industry and gives opportunity to the locals to get involved.",
+            "And that question of Antwerp's position in the industry and the opportunity for growth and where that growth could come from, that's a whole separate podcast, I think."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole separate podcast",
+            "growth could come",
+            "get involved",
+            "diamond centric",
+            "always amazes",
+            "gives opportunity",
+            "growth"
+        ],
+        "trends": [
+            "opportunity",
+            "growth",
+            "industry",
+            "connection",
+            "locals",
+            "antwerp",
+            "centric"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, exactly.",
+            "You should have me on for a second time.",
+            "Definitely go for that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "second time",
+            "definitely go",
+            "yeah",
+            "exactly"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Well, if you claim to be a spokesperson for the Antwerp industry, that's fine.",
+            "No, no, I wouldn't go as far, but it's been, it's been definitely very, very interesting as an entry in the market.",
+            "Well, you know, I was thinking about the rollout of iTraceit and in terms of the timing, it's been very interesting and it's almost, you know, you could almost accuse you of being opportunistic, you know, given the timing there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could almost accuse",
+            "antwerp industry",
+            "almost",
+            "well",
+            "well",
+            "timing",
+            "timing"
+        ],
+        "trends": [
+            "know",
+            "timing",
+            "almost",
+            "well",
+            "interesting",
+            "definitely",
+            "entry"
+        ]
+    },
+    {
+        "sentence": [
+            "The company was basically announced around, I think it was September, 2021.",
+            "And then the official launch was in May last year, which was shortly after Russia-Ukraine  \u1794\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2  point and great question.",
+            "When we're talking about traceability in the diamond sector, I think it's been an evolution that has started already several years ago."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started already several years ago",
+            "ukraine \u1794 \u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2 point",
+            "may last year",
+            "basically announced around",
+            "official launch",
+            "great question",
+            "diamond sector"
+        ],
+        "trends": [
+            "think",
+            "point",
+            "last",
+            "launch",
+            "may",
+            "september",
+            "announced"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's been mainly, I would say the luxury brands that have been the primary driver to this.",
+            "And it was really also coming directly from their demand that we came up with the iTraceSolutions solution, because at that moment in time, there wasn't any industry wide traceability solution, especially nothing for diamonds of all sizes.",
+            "When we're looking at the traceability solutions that are out there or the traceability landscape today, there's a lot of great initiatives."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really also coming directly",
+            "industry wide traceability solution",
+            "traceability landscape today",
+            "traceability solutions",
+            "itracesolutions solution",
+            "would say",
+            "primary driver"
+        ],
+        "trends": [
+            "traceability",
+            "solution",
+            "great",
+            "initiatives",
+            "mainly",
+            "brands",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "and a lot of great solutions as you mentioned.",
+            "But what we found is, and at least this is also the feedback from some of the retailers that we spoke to, is that it tended to be quite fragmented.",
+            "Whereas they would either focus on a particular source or a particular producing origin, or they would focus on a particular product category."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "particular product category",
+            "particular producing origin",
+            "would either focus",
+            "would focus",
+            "particular source",
+            "quite fragmented",
+            "great solutions"
+        ],
+        "trends": [
+            "particular",
+            "would",
+            "focus",
+            "also",
+            "tended",
+            "spoke",
+            "retailers"
+        ]
+    },
+    {
+        "sentence": [
+            "So a certain size or quality upwards.",
+            "But there wasn't really any solution for smaller goods, for commercial goods, which really make up the bulk of the market.",
+            "So there wasn't one industry wide solution for all diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one industry wide solution",
+            "smaller goods",
+            "quality upwards",
+            "commercial goods",
+            "certain size",
+            "really make",
+            "solution"
+        ],
+        "trends": [
+            "solution",
+            "really",
+            "goods",
+            "upwards",
+            "size",
+            "smaller",
+            "wide"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that's really the issue we wanted to provide a solution for.",
+            "We want to be that industry-wide solution, an independent solution for the diamonds of all sizes and all the components that go into the jewelry pieces.",
+            "So I think that's where the demand was coming from."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry pieces",
+            "wide solution",
+            "independent solution",
+            "solution",
+            "wanted",
+            "want",
+            "think"
+        ],
+        "trends": [
+            "solution",
+            "think",
+            "want",
+            "sizes",
+            "wanted",
+            "really",
+            "provide"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's how we position our company as such.",
+            "Just maybe important to add as far as the timing point, which you alluded to, which I understand that looks a little bit off.",
+            "I traced developments."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "traced developments",
+            "timing point",
+            "maybe important",
+            "little bit",
+            "understand",
+            "position",
+            "looks"
+        ],
+        "trends": [
+            "understand",
+            "timing",
+            "point",
+            "maybe",
+            "looks",
+            "little",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "I was already busy for several years.",
+            "So we had quite an extensive pilot period of over a year with various partners at all the different stages of the pipeline leading up to our launch.",
+            "It's definitely true that geopolitical climate also spurred some of these developments forward."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "geopolitical climate also spurred",
+            "extensive pilot period",
+            "various partners",
+            "several years",
+            "pipeline leading",
+            "different stages",
+            "developments forward"
+        ],
+        "trends": [
+            "geopolitical",
+            "forward",
+            "true",
+            "also",
+            "climate",
+            "definitely",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "Sounds like an accusation, but it's not really.",
+            "You make a few points there that I would like to touch on, and I'd particularly like to get back to how one goes about solving the challenge of tracing smaller goods, which are generally sort of mixed from various sources, sold in parcels, but we will get back to that.",
+            "I do want to make the point that, of course, the traceability issue is not a new phenomenon for the industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tracing smaller goods",
+            "would like",
+            "various sources",
+            "traceability issue",
+            "sounds like",
+            "particularly like",
+            "one goes"
+        ],
+        "trends": [
+            "like",
+            "back",
+            "get",
+            "make",
+            "issue",
+            "want",
+            "phenomenon"
+        ]
+    },
+    {
+        "sentence": [
+            "been a hot topic in our newsfeed for a number of years already.",
+            "And I think the discussion has kind of evolved.",
+            "You know, initially it was, oh, we've got this technology or these platforms, you know, blockchain and blockchain was a buzzword and the focus was on that blockchain solution."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "years already",
+            "hot topic",
+            "blockchain solution",
+            "blockchain",
+            "blockchain",
+            "think",
+            "technology"
+        ],
+        "trends": [
+            "blockchain",
+            "know",
+            "years",
+            "number",
+            "hot",
+            "topic",
+            "newsfeed"
+        ]
+    },
+    {
+        "sentence": [
+            "And whereas I think it's evolved now to be sort of bespoke and general that it's not necessarily about being a blockchain program, which I understand that, that itraceit is using that technology among others.",
+            "explain that to us, but it's more about the storytelling and how the technology is enabling those brands, as you mentioned, to tell their story and give the assurances that are needed to invoke confidence in the product.",
+            "Yeah, no, definitely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "technology among others",
+            "invoke confidence",
+            "blockchain program",
+            "technology",
+            "yeah",
+            "whereas",
+            "using"
+        ],
+        "trends": [
+            "technology",
+            "whereas",
+            "program",
+            "bespoke",
+            "blockchain",
+            "evolved",
+            "general"
+        ]
+    },
+    {
+        "sentence": [
+            "You're absolutely right.",
+            "I think as far as the blockchain element is concerned, it is indeed an important aspect of our solution and we can get into how that actually works and how we tackle the blockchain issue and how it fits within our iTrace solution.",
+            "But I agree with you that the focus has shifted a bit towards the broader storytelling, especially when it comes  to traceability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "important aspect",
+            "fits within",
+            "broader storytelling",
+            "blockchain issue",
+            "blockchain element",
+            "bit towards",
+            "actually works"
+        ],
+        "trends": [
+            "blockchain",
+            "solution",
+            "traceability",
+            "towards",
+            "agree",
+            "storytelling",
+            "bit"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say, and I'd love to kind of hear if that's also a similar trend that you see in the industry, but at least from the retailers or the partners that we speak to on a daily basis, we're starting to feel the shift that originally it was all about the country of origin and being able to declare, you know, the country from which the original rough came.",
+            "But what we're seeing now is that in addition to that, a lot of retailers tend to become more and more interested into the full journey of the product.",
+            "Whereas it's not just the country of origin, but okay, what is the  full journey of that product."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "original rough came",
+            "would say",
+            "similar trend",
+            "full journey",
+            "full journey",
+            "daily basis",
+            "retailers tend"
+        ],
+        "trends": [
+            "country",
+            "journey",
+            "product",
+            "full",
+            "retailers",
+            "interested",
+            "addition"
+        ]
+    },
+    {
+        "sentence": [
+            "What are the different stages in the pipeline that those goods have traveled through?",
+            "Because we're starting to see a shift towards the broader, I would say, then sustainability story where brands and retailers need to be able to show to their customers that those goods have been responsibly sourced.",
+            "And that of course means that they've taken into account environmental impact, all of the social standards and social impacts at all the various stages of the journey."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "account environmental impact",
+            "would say",
+            "various stages",
+            "sustainability story",
+            "social standards",
+            "social impacts",
+            "shift towards"
+        ],
+        "trends": [
+            "social",
+            "stages",
+            "goods",
+            "traveled",
+            "pipeline",
+            "different",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "And of course, in order to make that claim, it starts with transparency and it starts with knowing exactly where those  \u179f\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2  that's where it becomes the most difficult point in the supply chain and the journey of the diamond to trace the origin.",
+            "And if you have that starting point, then it makes it easier to trace the diamond through the rest of the distribution chain.",
+            "And also, I think that's arguably still the biggest area of concern when it comes to various aspects that affect the issue of responsible sourcing, both in terms of the geopolitical influence or conditions under which that diamond was mined and also in terms of  to such as sustainability and of environmental concerns and even the contribution that a mine can have on its communities and maybe more amplified."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "\u179f \u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2",
+            "various aspects",
+            "supply chain",
+            "starting point",
+            "responsible sourcing",
+            "knowing exactly",
+            "geopolitical influence"
+        ],
+        "trends": [
+            "diamond",
+            "also",
+            "terms",
+            "starts",
+            "claim",
+            "chain",
+            "trace"
+        ]
+    },
+    {
+        "sentence": [
+            "That's a focal point.",
+            "Absolutely.",
+            "And I can tell you that having worked at a mining company, one of our challenge was always, well, there's so many great things that the company does at the mine site for the local communities, for all of them to limit the environmental impact and also go above and beyond that and actually contribute positively to the environment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many great things",
+            "actually contribute positively",
+            "mine site",
+            "local communities",
+            "focal point",
+            "environmental impact",
+            "also go"
+        ],
+        "trends": [
+            "company",
+            "worked",
+            "also",
+            "always",
+            "beyond",
+            "challenge",
+            "communities"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, those local communities  So there were all of these great stories and the challenge was often, well, how do you get those stories to the end consumer?",
+            "And I think iTraceIt can also play a role there whereby all of those story components can be added to the product as it moves along the supply chain and reaches the retailer who then in turn can tell that wonderful story.",
+            "Why don't you give us a bit of the technical aspect of iTraceIt and how it's differentiated from other programs?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wonderful story",
+            "technical aspect",
+            "supply chain",
+            "story components",
+            "moves along",
+            "local communities",
+            "give us"
+        ],
+        "trends": [
+            "story",
+            "stories",
+            "great",
+            "local",
+            "itraceit",
+            "give",
+            "programs"
+        ]
+    },
+    {
+        "sentence": [
+            "Because firstly, it's becoming a bit of a crowded space.",
+            "There are a lot of established companies within the industry and also companies  \u1794\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2  added value that iTrace brings to that space.",
+            "unique position to be an industry-wide solution."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also companies \u1794 \u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2 added value",
+            "established companies within",
+            "wide solution",
+            "unique position",
+            "itrace brings",
+            "crowded space",
+            "space"
+        ],
+        "trends": [
+            "companies",
+            "also",
+            "brings",
+            "space",
+            "firstly",
+            "crowded",
+            "becoming"
+        ]
+    },
+    {
+        "sentence": [
+            "I think what also sets us apart is that we want to be a solution, as I said earlier, also for all diamonds.",
+            "So it's not just the big and valuable stones, but it's also the more commercial goods in the melee.",
+            "We want to be a solution for all diamonds and really any other material that can be traced into the final jewelry piece."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also sets us apart",
+            "final jewelry piece",
+            "valuable stones",
+            "said earlier",
+            "commercial goods",
+            "also",
+            "also"
+        ],
+        "trends": [
+            "also",
+            "solution",
+            "diamonds",
+            "want",
+            "melee",
+            "valuable",
+            "big"
+        ]
+    },
+    {
+        "sentence": [
+            "In our conversations with retailers, what they would ideally love to offer to the customer is one report that details the traceability information, not just from the big center stone,  in the ring, but also the melee to the side, the gold that goes into the piece or really any other material that goes into a watch or any other jewelry piece.",
+            "And the fact that they can use iTrace, it's track and trace all of these different components and fit it into a final report for a product, I think is a tremendous value add.",
+            "As far as the technology is concerned, it's a combination of blockchain and QR code technology."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would ideally love",
+            "tremendous value add",
+            "big center stone",
+            "qr code technology",
+            "use itrace",
+            "traceability information",
+            "one report"
+        ],
+        "trends": [
+            "technology",
+            "piece",
+            "goes",
+            "report",
+            "fit",
+            "itrace",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "I think the blockchain we already touched on.",
+            "The blockchain element is a very important one because the decentralized character of blockchain, of course,  a lot of positive security implications, but more importantly, it means that the information which is on the blockchain cannot be altered and is there forever, which of course adds a lot of credibility to the retailer.",
+            "And then the QR code part is actually very interesting because the reason why we chose for QR code technology is because it has a couple of really interesting benefits."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "qr code technology",
+            "qr code part",
+            "positive security implications",
+            "really interesting benefits",
+            "important one",
+            "decentralized character",
+            "already touched"
+        ],
+        "trends": [
+            "blockchain",
+            "course",
+            "lot",
+            "interesting",
+            "qr",
+            "code",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "First of all, when you create a QR code, it automatically tracks where was it created by whom was it created, when was it created.",
+            "You can also add whatever data point and documents you want to it.",
+            "So think about."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "also add whatever data point",
+            "qr code",
+            "automatically tracks",
+            "want",
+            "think",
+            "first",
+            "documents"
+        ],
+        "trends": [
+            "created",
+            "whatever",
+            "want",
+            "point",
+            "tracks",
+            "qr",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "certificates, KP certificates, copies of rough invoices, pictures, videos, planning files, anything and everything can be added to that QR.",
+            "So it effectively becomes like a digital identity card of the stone or the parcel of Melly or any other product that it accompanies.",
+            "And the way that we work then with those QR codes is that at every stage of the diamond pipeline and even within a company."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "effectively becomes like",
+            "digital identity card",
+            "rough invoices",
+            "planning files",
+            "every stage",
+            "even within",
+            "diamond pipeline"
+        ],
+        "trends": [
+            "certificates",
+            "qr",
+            "identity",
+            "parcel",
+            "becomes",
+            "card",
+            "digital"
+        ]
+    },
+    {
+        "sentence": [
+            "So think about a manufacturer who wants to track his diamonds throughout the various stages of manufacturing.",
+            "Our system is automatically going to attribute QR codes  to each stage and then automatically connect all of those together.",
+            "So you create an unbreakable chain from the beginning to the end."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "attribute qr codes",
+            "various stages",
+            "unbreakable chain",
+            "diamonds throughout",
+            "automatically going",
+            "automatically connect",
+            "wants"
+        ],
+        "trends": [
+            "automatically",
+            "attribute",
+            "together",
+            "system",
+            "codes",
+            "stage",
+            "unbreakable"
+        ]
+    },
+    {
+        "sentence": [
+            "So at the end of the whole exercise, the retailer can scan the QR of the goods that they receive and see the full traceability chain with all the supporting data points and all the supporting documents for each tone.",
+            "And those QR codes feed into the blockchain.",
+            "Correct."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "full traceability chain",
+            "supporting data points",
+            "qr codes feed",
+            "supporting documents",
+            "whole exercise",
+            "qr",
+            "tone"
+        ],
+        "trends": [
+            "supporting",
+            "full",
+            "chain",
+            "data",
+            "documents",
+            "end",
+            "exercise"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah.",
+            "Into the blockchain.",
+            "Okay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yeah",
+            "okay",
+            "blockchain"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "So that makes a lot of sense.",
+            "And so are you working with mining companies to get that first touch point of the rough  and then you're able to sort of attach a QR code to that.",
+            "You're at the mining point or is it from the manufacturer?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "first touch point",
+            "mining point",
+            "qr code",
+            "mining companies",
+            "working",
+            "sort",
+            "sense"
+        ],
+        "trends": [
+            "get",
+            "attach",
+            "code",
+            "companies",
+            "point",
+            "mining",
+            "manufacturer"
+        ]
+    },
+    {
+        "sentence": [
+            "Obviously there's a process of building and developing a company that's, you know, and having more companies work with you.",
+            "But at what stage are you at the moment?",
+            "I know that you recently put out a press release that illustrated a number of site holders that are working with you, but is it going beyond that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "site holders",
+            "recently put",
+            "press release",
+            "going beyond",
+            "companies work",
+            "working",
+            "stage"
+        ],
+        "trends": [
+            "working",
+            "holders",
+            "know",
+            "building",
+            "companies",
+            "company",
+            "developing"
+        ]
+    },
+    {
+        "sentence": [
+            "Is it particularly to that mining source?",
+            "Absolutely.",
+            "I think when we're looking at traceability, the approach we wanted to take  is that we understood very early on, you're not from day one to day two going to have the full diamond industry adopt one specific solution."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "full diamond industry adopt one specific solution",
+            "day two going",
+            "day one",
+            "mining source",
+            "wanted",
+            "understood",
+            "traceability"
+        ],
+        "trends": [
+            "one",
+            "day",
+            "approach",
+            "diamond",
+            "early",
+            "full",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that's a little bit of a pipe dream in our sector.",
+            "Of course, we hope to get there at some point, but when we conducted our pilot, we did work indeed with partners at various stages of the pipeline, including several mining companies.",
+            "That said, we believe, and I trace it that traceability can start at any point."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "including several mining companies",
+            "work indeed",
+            "various stages",
+            "pipe dream",
+            "little bit",
+            "traceability",
+            "trace"
+        ],
+        "trends": [
+            "point",
+            "think",
+            "bit",
+            "sector",
+            "pipe",
+            "believe",
+            "start"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's all about being transparent with what the information you have and what you don't know.",
+            "So we also believe that  traceability chain in our system can, in an ideal case, of course, it starts, indeed, as you said, with a mining company who puts the QR sticker, enters the parcel in the system and it kind of goes from there.",
+            "And then the manufacturer can pick up from there and we continue on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traceability chain",
+            "qr sticker",
+            "mining company",
+            "ideal case",
+            "also believe",
+            "transparent",
+            "system"
+        ],
+        "trends": [
+            "system",
+            "believe",
+            "case",
+            "chain",
+            "continue",
+            "pick",
+            "manufacturer"
+        ]
+    },
+    {
+        "sentence": [
+            "But it could just as well be the case that if you're a manufacturer and you receive a DTC box or a box from any other mining company, that you start the traceability journey because you have a copy of the rainfall rough invoice.",
+            "You can picture and video graph the parcel.",
+            "You can add whatever details that in the end, the retailer is looking for."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rainfall rough invoice",
+            "add whatever details",
+            "video graph",
+            "traceability journey",
+            "mining company",
+            "dtc box",
+            "box"
+        ],
+        "trends": [
+            "box",
+            "whatever",
+            "retailer",
+            "details",
+            "end",
+            "looking",
+            "add"
+        ]
+    },
+    {
+        "sentence": [
+            "and start a traceability journey from there.",
+            "Likewise, if you're a polished trader, you could also say, well, you know what?",
+            "I bought these goods from my supplier."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could also say",
+            "traceability journey",
+            "polished trader",
+            "well",
+            "supplier",
+            "start",
+            "likewise"
+        ],
+        "trends": [
+            "traceability",
+            "start",
+            "well",
+            "trader",
+            "say",
+            "polished",
+            "supplier"
+        ]
+    },
+    {
+        "sentence": [
+            "I will get them to fill in a declaration of origin document.",
+            "That is my proof.",
+            "Of course, it's not as strong as it's coming straight from the mining company, but it's at least the transparency of showing what proof you have to the retailer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "origin document",
+            "mining company",
+            "coming straight",
+            "transparency",
+            "strong",
+            "showing",
+            "retailer"
+        ],
+        "trends": [
+            "transparency",
+            "strong",
+            "straight",
+            "showing",
+            "retailer",
+            "origin",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "And then we leave it up to the market.",
+            "It's up to the retailer to decide what information they're looking for.",
+            "There's always sort of a red flag that goes up in my head when there are claims about being an industry-wide platform."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wide platform",
+            "red flag",
+            "always sort",
+            "retailer",
+            "market",
+            "looking",
+            "leave"
+        ],
+        "trends": [
+            "sort",
+            "red",
+            "platform",
+            "head",
+            "goes",
+            "flag",
+            "retailer"
+        ]
+    },
+    {
+        "sentence": [
+            "I think De Beers with Tracer realized this at some point, you know, where it's not about providing one platform for the whole industry, but what you're saying is that iTracer is suitable for all players, all elements of the industry to use.",
+            "Absolutely.",
+            "And I would even add to that, like, I think it's important to note that from the get-go, from the start of the company, we've always taken an extremely collaborative approach."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would even add",
+            "providing one platform",
+            "extremely collaborative approach",
+            "think de beers",
+            "tracer realized",
+            "always taken",
+            "whole industry"
+        ],
+        "trends": [
+            "industry",
+            "think",
+            "would",
+            "like",
+            "always",
+            "approach",
+            "collaborative"
+        ]
+    },
+    {
+        "sentence": [
+            "I think if you really want to be an industry-wide solution, that also means working together with all of the different players that take part in that.",
+            "So we've built our system to be so flexible that we would hope to, of course, be able to tie into the platform that you mentioned with the producer that you mentioned on one end.",
+            "You can also tie into, let's say, a blockchain consortium, which is developed at the retail end."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also means working together",
+            "also tie",
+            "would hope",
+            "wide solution",
+            "take part",
+            "retail end",
+            "really want"
+        ],
+        "trends": [
+            "mentioned",
+            "part",
+            "tie",
+            "end",
+            "also",
+            "developed",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "We're definitely open to working with other traceability solutions that can, at least we want to be that kind of connector and that bridge between all of the different solutions that are out there because in order to be an industry-wide solution, I think you have to work with all the different actors, which is why we're now also exploring  working together with some of the leading logistics providers, grading labs, to make sure that all of the different components kind of played their part in establishing that story and that journey of those goods.",
+            "Right.",
+            "And I don't think that's necessarily required for the industry, but I think it's certainly for the companies who are trying to show the journey of their diamond, where they, if they can tap into the different programs that are out there with the greatest efficiency possible, let's say, you know, I think that would be very helpful because I think there are a lot of concerns  particularly for the smaller companies in the industry, that there's a cost involved, there is a logistical element to it that might seem a bit overwhelming."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also exploring working together",
+            "leading logistics providers",
+            "greatest efficiency possible",
+            "different components kind",
+            "different solutions",
+            "different programs",
+            "different actors"
+        ],
+        "trends": [
+            "think",
+            "different",
+            "journey",
+            "industry",
+            "companies",
+            "solutions",
+            "working"
+        ]
+    },
+    {
+        "sentence": [
+            "And so it seems almost sort of inaccessible for some of the more independent players in both among the dealers, manufacturers, and I think the retailers as well.",
+            "Yeah, no, definitely.",
+            "I think when we developed the dietrace solution from the beginning, like our goal was that it needs to indeed be a super efficient solution, that it doesn't add time during an  of the processes, whether it's during manufacturing, during sorting, because if it does, then people just won't do it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seems almost sort",
+            "super efficient solution",
+            "dietrace solution",
+            "independent players",
+            "add time",
+            "yeah",
+            "whether"
+        ],
+        "trends": [
+            "solution",
+            "think",
+            "seems",
+            "dealers",
+            "inaccessible",
+            "manufacturers",
+            "players"
+        ]
+    },
+    {
+        "sentence": [
+            "Or if there's a high cost associated to any of the steps, then nobody will do it.",
+            "So that's why we made our solution fully digital.",
+            "And we also that very heavily and put a lot of development work into creating, you know, automations, whether it's with, you know, companies own proprietary inventory management systems, or whether they're using, you know, one of the industry leading ERP providers, because when those automations are there, it just makes it so much easier."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "proprietary inventory management systems",
+            "industry leading erp providers",
+            "solution fully digital",
+            "high cost associated",
+            "much easier",
+            "development work",
+            "whether"
+        ],
+        "trends": [
+            "know",
+            "automations",
+            "whether",
+            "erp",
+            "associated",
+            "high",
+            "steps"
+        ]
+    },
+    {
+        "sentence": [
+            "There's no work involved.",
+            "And then also, as you said, for smaller companies,  even those that just work off in Excel or just want to manually enter information, that's also possible.",
+            "Like we try to be as flexible to suit each customer's need, of course."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "manually enter information",
+            "smaller companies",
+            "work involved",
+            "also possible",
+            "work",
+            "also",
+            "want"
+        ],
+        "trends": [
+            "also",
+            "companies",
+            "enter",
+            "even",
+            "like",
+            "flexible",
+            "try"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And I think one of the outcomes of this, and I'm still in two minds whether it's a good or a bad thing, I think ultimately it would be positive, but it might be to the detriment of some of those companies that don't have the infrastructure and all budgets to adopt traceability programs is that there would be ultimately a bifurcation of the market, you know, between those companies.",
+            "driven by the brands, as you mentioned earlier, that are supplying the brands, supplying the bigger retails who are showing the traceability story."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two minds whether",
+            "adopt traceability programs",
+            "traceability story",
+            "think one",
+            "mentioned earlier",
+            "bigger retails",
+            "bad thing"
+        ],
+        "trends": [
+            "brands",
+            "supplying",
+            "would",
+            "ultimately",
+            "think",
+            "companies",
+            "traceability"
+        ]
+    },
+    {
+        "sentence": [
+            "And so a split in the market between those companies that are in that pipeline and those that are not.",
+            "And then again, the question, if the cost and the brand equity that's involved in showing the traceability leads to the premium on the goods that are part of the verified supply chain.",
+            "I would love to add stats."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "verified supply chain",
+            "would love",
+            "traceability leads",
+            "brand equity",
+            "add stats",
+            "split",
+            "showing"
+        ],
+        "trends": [
+            "love",
+            "would",
+            "stats",
+            "add",
+            "showing",
+            "question",
+            "involved"
+        ]
+    },
+    {
+        "sentence": [
+            "Like I think right now you can see traceability  as kind of like a competitive advantage.",
+            "It's something that can differentiate your goods and get you perhaps access to more demands or make your interest when the price is the same, it can make your product more interesting than another.",
+            "So I'd say right now it's kind of that commercial differentiator."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think right",
+            "see traceability",
+            "say right",
+            "perhaps access",
+            "competitive advantage",
+            "commercial differentiator",
+            "something"
+        ],
+        "trends": [
+            "right",
+            "kind",
+            "make",
+            "like",
+            "traceability",
+            "advantage",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think like at least the conversations that we've been having with our brand partners, for example, they've made it very clear that in a time span of only a few years, we're going to get to a situation where it's going to be mandatory for all of their production.",
+            "We have a lot of brands that have very ambitious  goals to in a couple of years make all of their production 100%, including all the small goods at Traceable.",
+            "So that's of course a huge challenge for them and for their suppliers to adhere to, but it's going to be a necessity in order to continue to supply to them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "production 100 %, including",
+            "time span",
+            "think like",
+            "small goods",
+            "huge challenge",
+            "brand partners",
+            "ambitious goals"
+        ],
+        "trends": [
+            "going",
+            "years",
+            "production",
+            "lot",
+            "ambitious",
+            "brands",
+            "couple"
+        ]
+    },
+    {
+        "sentence": [
+            "And as we know with most of these industry trends, like they tend to start on the catwalk in Paris and then they kind of trickle down to the chains and the independents from there.",
+            "And I would say recently, and I don't know if you're seeing the same thing, but that similar thought stream has also started to come up in the U.S. market where we're seeing a lot  more of the, I would say medium sized chains and the better end independence also pick up on this and making traceability a need to supply to them.",
+            "So it's definitely, I think the way that the industry is going right now, it's a differentiator, but I think in a couple of years, it will be mandatory."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "better end independence also pick",
+            "would say medium sized chains",
+            "would say recently",
+            "similar thought stream",
+            "also started",
+            "making traceability",
+            "going right"
+        ],
+        "trends": [
+            "also",
+            "would",
+            "say",
+            "seeing",
+            "think",
+            "know",
+            "chains"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I agree.",
+            "And we are seeing that same trend among the, I would agree among the medium to larger size independence in the United States.",
+            "And I do think that that was a result of the geopolitical developments of last year."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "larger size independence",
+            "would agree among",
+            "trend among",
+            "united states",
+            "last year",
+            "geopolitical developments",
+            "agree"
+        ],
+        "trends": [
+            "among",
+            "states",
+            "size",
+            "seeing",
+            "would",
+            "year",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "And jewellers are very sensitive to that at the moment and concerned  about the legalities of their suppliers as well.",
+            "I would like to just go back to the smaller goods, because we haven't touched on that.",
+            "And that's always been a very particular challenge for providers of traceability is how do you tackle the issue of the smaller goods, the melee that is sold in parcels and often mixed at various points of the distribution chain."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would like",
+            "various points",
+            "smaller goods",
+            "smaller goods",
+            "particular challenge",
+            "often mixed",
+            "go back"
+        ],
+        "trends": [
+            "goods",
+            "smaller",
+            "well",
+            "concerned",
+            "jewellers",
+            "back",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "And so iTrace is claiming that you've overcome that challenge.",
+            "So I would like to give you the opportunity to explain how that is working and how you've approached the melee dilemma.",
+            "much dilemma because in the case of melee, I think as we all know, and I did this process when I was heading the Canada Mark program at Dominion, we were thinking, okay, well, how can we make sure that the melee coming from a rough stays 100% separated from other rough sources?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "canada mark program",
+            "rough stays 100",
+            "rough sources",
+            "would like",
+            "much dilemma",
+            "make sure",
+            "melee dilemma"
+        ],
+        "trends": [
+            "melee",
+            "rough",
+            "dilemma",
+            "explain",
+            "give",
+            "like",
+            "working"
+        ]
+    },
+    {
+        "sentence": [
+            "So we had quite extensive audit protocols and every manufacturer had to have a separate part of their factory just for a particular origin.",
+            "So just to make sure that goods were not able to be mixed.",
+            "And it was a very tedious process and not at all scalable for most big manufacturers to be able to  every origin set aside a separate part in their factory and to keep everything separate."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "quite extensive audit protocols",
+            "every origin set aside",
+            "keep everything separate",
+            "particular origin",
+            "every manufacturer",
+            "separate part",
+            "separate part"
+        ],
+        "trends": [
+            "separate",
+            "origin",
+            "factory",
+            "every",
+            "part",
+            "able",
+            "mixed"
+        ]
+    },
+    {
+        "sentence": [
+            "Because of course, at a certain point, those goods get mixed together anyway.",
+            "So knowing that there is no, especially for Melee, there's no commercially viable scientific solution to be able to pick up one Melee polished stone and be able to say, ah, this is coming 100% from this origin.",
+            "Our system does allow the full traceability of the parcel movements."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "goods get mixed together anyway",
+            "commercially viable scientific solution",
+            "one melee polished stone",
+            "parcel movements",
+            "full traceability",
+            "coming 100",
+            "certain point"
+        ],
+        "trends": [
+            "able",
+            "melee",
+            "mixed",
+            "goods",
+            "course",
+            "point",
+            "system"
+        ]
+    },
+    {
+        "sentence": [
+            "And what I mean with that is that, as I said, at all of those stages in the supply chain across companies, but also within  company when they are mixed, split together, mixed, split together throughout the various processes, our system keeps full track of that.",
+            "So that at the end of the exercise, when you are left with a parcel of polished melee, you'll be able to say, well, you know what, I won't be able to pick up one stone here and say it's a hundred percent Canadian, but I will be able to say that in this parcel, there is a 30% Canadian, 50% is from DTC.",
+            "Some is from the market where I don't know a certain percentage."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "system keeps full track",
+            "supply chain across companies",
+            "also within company",
+            "split together throughout",
+            "hundred percent canadian",
+            "split together",
+            "various processes"
+        ],
+        "trends": [
+            "able",
+            "say",
+            "know",
+            "split",
+            "mixed",
+            "together",
+            "canadian"
+        ]
+    },
+    {
+        "sentence": [
+            "It's all about being transparent with those origins.",
+            "And we found that with most of the customer  that we work with, that's really what they're interested in.",
+            "They're not necessarily so interested in being able to pick up that one melee stone and be able to say, this is Canadian."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one melee stone",
+            "work",
+            "transparent",
+            "say",
+            "really",
+            "pick",
+            "origins"
+        ],
+        "trends": [
+            "interested",
+            "able",
+            "work",
+            "stone",
+            "say",
+            "pick",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "But they want to, of course, know, well, for most retailers right now, there's no Russian goods in there, there's no Zimbabwe goods in there.",
+            "Maybe for some, it's a different source.",
+            "Being able to see what is in the composition of my melee parcel and which are perhaps certain origins that I don't want so I can make my sustainability claims."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "perhaps certain origins",
+            "zimbabwe goods",
+            "sustainability claims",
+            "russian goods",
+            "retailers right",
+            "melee parcel",
+            "different source"
+        ],
+        "trends": [
+            "goods",
+            "want",
+            "zimbabwe",
+            "know",
+            "russian",
+            "right",
+            "retailers"
+        ]
+    },
+    {
+        "sentence": [
+            "And as far as the way that we ensure that the goods are exactly what we say they are, we have a bunch of, let's say, different  security layers to make sure that the information is of course valid.",
+            "The first layer are the easy ones, which are all the numerical checks where, you know, of course, if our system picks up that you're splitting more carrots out of rough parcel, then the carrots are in the rough parcel.",
+            "Then of course, you know, you're going to get these flags."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "different security layers",
+            "system picks",
+            "rough parcel",
+            "rough parcel",
+            "numerical checks",
+            "make sure",
+            "first layer"
+        ],
+        "trends": [
+            "say",
+            "carrots",
+            "rough",
+            "parcel",
+            "course",
+            "know",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "Secondly, because we've built these automated systems, the information is automatically going to come from the customer's inventory management system.",
+            "So there's no danger of manual errors.",
+            "It's taken automatically from their complete system."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "inventory management system",
+            "complete system",
+            "taken automatically",
+            "manual errors",
+            "automatically going",
+            "automated systems",
+            "secondly"
+        ],
+        "trends": [
+            "built",
+            "come",
+            "customer",
+            "system",
+            "automatically",
+            "taken",
+            "complete"
+        ]
+    },
+    {
+        "sentence": [
+            "So all the goods are accounted for, which of course makes it much easier for them to  auditor to come in later as well.",
+            "In addition to that, because the information is on the blockchain, there's a level of accountability because the information is there forever.",
+            "And if there's any issue arises, it can be quite easy to bring it back to the original culprit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "quite easy",
+            "original culprit",
+            "much easier",
+            "issue arises",
+            "course makes",
+            "well",
+            "level"
+        ],
+        "trends": [
+            "information",
+            "accounted",
+            "auditor",
+            "come",
+            "course",
+            "bring",
+            "original"
+        ]
+    },
+    {
+        "sentence": [
+            "And then we want to work together with some of the industry's other actors who can provide independent third-party verification.",
+            "So as I mentioned earlier, we are piloting now with several logistics companies with grading labs.",
+            "So when goods are sent for synthetic screening or they get sent for certification  or if a shipment was done with a particular logistics provider, that they are actually verifying that those movements happened."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "several logistics companies",
+            "provide independent third",
+            "particular logistics provider",
+            "work together",
+            "synthetic screening",
+            "party verification",
+            "movements happened"
+        ],
+        "trends": [
+            "logistics",
+            "sent",
+            "work",
+            "provide",
+            "independent",
+            "industry",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "And that information gets feeded immediately into iTraceit.",
+            "So it adds additional credibility to the story.",
+            "It's certainly a complex challenge."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "information gets feeded immediately",
+            "adds additional credibility",
+            "complex challenge",
+            "story",
+            "itraceit",
+            "certainly"
+        ],
+        "trends": [
+            "complex",
+            "challenge",
+            "certainly",
+            "story",
+            "credibility",
+            "itraceit",
+            "information"
+        ]
+    },
+    {
+        "sentence": [
+            "And it sounds to me that it's not an exact science.",
+            "As you said, you can't account for each individual stone in a parcel of Melee, but giving that assurance that through the transparency of the declaration, the buyer would have a certain amount of confidence.",
+            "at least that the parcel is made up of goods from origins that are acceptable to them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "individual stone",
+            "exact science",
+            "certain amount",
+            "buyer would",
+            "transparency",
+            "sounds",
+            "said"
+        ],
+        "trends": [
+            "parcel",
+            "exact",
+            "science",
+            "sounds",
+            "confidence",
+            "melee",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, definitely.",
+            "And you have to keep in mind like the original situation from which we're coming where most retailers would have to rely on the origin, which is put on the invoice by their supplier, which was of course purely declarative.",
+            "I think right now we're getting to a system where all of the steps before their supplier are also being captured and all of the information, the data points, as I said, pictures of the rough copies of the invoices, anything and everything can be added in."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "course purely declarative",
+            "think right",
+            "rough copies",
+            "retailers would",
+            "original situation",
+            "mind like",
+            "data points"
+        ],
+        "trends": [
+            "supplier",
+            "would",
+            "purely",
+            "coming",
+            "course",
+            "declarative",
+            "invoice"
+        ]
+    },
+    {
+        "sentence": [
+            "So that is already much much much stronger.",
+            "I think them than what it what was in the past Okay, and you mentioned that the information is included in a report So I trace it is issuing a report or declaration that would go with the invoice along the supply chain Yeah, so basically all of the goods that go through I trace it as I said They get it assigned a QR code with all the information which is taken at all the various steps So when a retailer would receive a parcel from their supplier They basically be able to scan the QR code and get all of the information  Now this information is very detailed because it contains all the data points.",
+            "It's very granular because it has all the documents inside and everything."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "already much much much stronger",
+            "supply chain yeah",
+            "retailer would receive",
+            "would go",
+            "various steps",
+            "qr code",
+            "qr code"
+        ],
+        "trends": [
+            "information",
+            "much",
+            "would",
+            "get",
+            "trace",
+            "basically",
+            "code"
+        ]
+    },
+    {
+        "sentence": [
+            "So for some retailers, that tends to be information overkill.",
+            "And we needed to make sure that we have a solution that is tailored to different tastes, let's say of the retailer.",
+            "Now brands love this level of granularity, but you know, maybe an independent somewhere in Australia might just want to know country of origin and the journey that those goods have traveled through, which is why we indeed developed this report, which just contains two basic elements, which is country of origin and in case of  It's a percentage distribution, but of course, in the case of a single stone, it's always one single origin."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "contains two basic elements",
+            "always one single origin",
+            "single stone",
+            "percentage distribution",
+            "make sure",
+            "information overkill",
+            "independent somewhere"
+        ],
+        "trends": [
+            "origin",
+            "know",
+            "case",
+            "country",
+            "single",
+            "solution",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "And then the countries at every stage through which it was of travels, which were automatically taken by us.",
+            "I see.",
+            "And that's for the diamond supply, but you're also understand in the process of developing a jewelry report, which would include the journey of gold, of the colored gemstone, I would imagine as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would include",
+            "would imagine",
+            "jewelry report",
+            "every stage",
+            "diamond supply",
+            "colored gemstone",
+            "automatically taken"
+        ],
+        "trends": [
+            "would",
+            "gold",
+            "colored",
+            "us",
+            "automatically",
+            "travels",
+            "taken"
+        ]
+    },
+    {
+        "sentence": [
+            "And so is that the next stage of your development and those segments also provide new challenges, I would imagine.",
+            "Yes, you are 100% correct.",
+            "This is indeed, I think, one of the next expansion plans or one of the next goals that we've set out for the team."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "segments also provide new challenges",
+            "next expansion plans",
+            "next stage",
+            "next goals",
+            "would imagine",
+            "yes",
+            "think"
+        ],
+        "trends": [
+            "next",
+            "one",
+            "imagine",
+            "would",
+            "provide",
+            "challenges",
+            "development"
+        ]
+    },
+    {
+        "sentence": [
+            "Coming basically from the direct question of brands who then want to continue the traceability of those diamonds into the jewelry piece, which then of course also means that we have to be able to trace all of the components that go into the jewelry piece.",
+            "So 2023 is the year for our expansion also into their product categories that make up the jewelry piece.",
+            "And you're absolutely right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "course also means",
+            "expansion also",
+            "product categories",
+            "jewelry piece",
+            "jewelry piece",
+            "jewelry piece",
+            "direct question"
+        ],
+        "trends": [
+            "jewelry",
+            "piece",
+            "also",
+            "continue",
+            "go",
+            "components",
+            "course"
+        ]
+    },
+    {
+        "sentence": [
+            "Each sector kind of comes with its own challenges and it's, I think, very important to capture  I mean, from the conversations that we've had, and I'd love to hear if you agree with this, but at least on the production side, it tends to be slightly more, I would say, artisanal than perhaps the diamond sector.",
+            "And that of course comes with its own challenges.",
+            "You know, how do you introduce a technological concept such as ours into a very kind of artisanal environment?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say",
+            "technological concept",
+            "production side",
+            "diamond sector",
+            "sector kind",
+            "course comes",
+            "artisanal environment"
+        ],
+        "trends": [
+            "sector",
+            "challenges",
+            "comes",
+            "kind",
+            "artisanal",
+            "introduce",
+            "technological"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's a challenge there.",
+            "The good thing about the diamond sector is that it's a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very  Gold is a challenge on its own.",
+            "It's much more streamlined supply chain, but then again, a more homogenous product."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "streamlined supply chain",
+            "homogenous product",
+            "good thing",
+            "diamond sector",
+            "much",
+            "gold",
+            "challenge"
+        ],
+        "trends": [
+            "supply",
+            "streamlined",
+            "product",
+            "much",
+            "thing",
+            "sector",
+            "good"
+        ]
+    },
+    {
+        "sentence": [
+            "So the differentiation is sometimes a bit more difficult.",
+            "So there's challenges there.",
+            "So each sector for sure has its own challenges, but we have some great partners in each and where I'm sure we'll get to introduce all of them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great partners",
+            "sure",
+            "sure",
+            "sometimes",
+            "sector",
+            "introduce",
+            "get"
+        ],
+        "trends": [
+            "sure",
+            "sometimes",
+            "difficult",
+            "differentiation",
+            "sector",
+            "partners",
+            "introduce"
+        ]
+    },
+    {
+        "sentence": [
+            "It must be such interesting work.",
+            "I think particularly on the color gemstones, I'm learning about at the moment in a personal capacity that one aspect that makes it a bit easier is that the source of origin is embedded in the stone as well.",
+            "So you can most times tell a Colombian emerald from a Zambian emerald, but there's also the issue of treatments and which is more common in the gemstones, but it's a minefield."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "zambian emerald",
+            "times tell",
+            "think particularly",
+            "personal capacity",
+            "one aspect",
+            "interesting work",
+            "colombian emerald"
+        ],
+        "trends": [
+            "emerald",
+            "gemstones",
+            "zambian",
+            "colombian",
+            "common",
+            "issue",
+            "minefield"
+        ]
+    },
+    {
+        "sentence": [
+            "Excuse the pun, but it's certainly interesting work and something that we're watching with interest on the side.",
+            "So, Frederick, I don't know if there's anything else you want to add, any sort of closing remarks about your impressions on the industry?",
+            "Great question."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "certainly interesting work",
+            "great question",
+            "closing remarks",
+            "anything else",
+            "watching",
+            "want",
+            "sort"
+        ],
+        "trends": [
+            "remarks",
+            "work",
+            "pun",
+            "certainly",
+            "excuse",
+            "watching",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, there are so many impressions that I've garnered over the last years.",
+            "I would say that the feedback so far from the industry has been incredibly encouraging.",
+            "I know it's very  difficult to get the noses from all the different actors in the kind of the same direction."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say",
+            "many impressions",
+            "last years",
+            "incredibly encouraging",
+            "different actors",
+            "noses",
+            "mean"
+        ],
+        "trends": [
+            "impressions",
+            "garnered",
+            "would",
+            "encouraging",
+            "far",
+            "feedback",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "But I do feel that this has been one of the easiest products and coming from a rough ground that's saying a lot, it's been one of the easiest products to sell in that everybody understands that that kind of traceability wave is coming.",
+            "And to that end, everybody sees that the industry is going a certain way.",
+            "Everybody's looking for a solution and the responses have been great, which is lovely to see from all my friends at all the various stages of the sector."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various stages",
+            "traceability wave",
+            "rough ground",
+            "easiest products",
+            "easiest products",
+            "certain way",
+            "everybody understands"
+        ],
+        "trends": [
+            "everybody",
+            "one",
+            "coming",
+            "easiest",
+            "products",
+            "feel",
+            "lovely"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think those are some good closing comments.",
+            "be one of the big trends of 2023 in terms of our editorial coverage.",
+            "You know, the question of traceability, sustainability, responsible, sourcing is front and center as it was last year, I think."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "good closing comments",
+            "last year",
+            "editorial coverage",
+            "big trends",
+            "traceability",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "year",
+            "know",
+            "center",
+            "front",
+            "last",
+            "question"
+        ]
+    },
+    {
+        "sentence": [
+            "So watch the space everyone.",
+            "Frederick has been great to talk to you.",
+            "Likewise, Avi, it was my pleasure."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "space everyone",
+            "watch",
+            "talk",
+            "pleasure",
+            "likewise",
+            "great",
+            "frederick"
+        ],
+        "trends": [
+            "pleasure",
+            "likewise",
+            "avi",
+            "watch",
+            "space",
+            "everyone",
+            "talk"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you.",
+            "And I'm really happy that we had a chance to get you on the podcast and we'll catch up again soon, I hope.",
+            "For sure."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really happy",
+            "thank",
+            "sure",
+            "soon",
+            "podcast",
+            "hope",
+            "get"
+        ],
+        "trends": [
+            "soon",
+            "really",
+            "podcast",
+            "hope",
+            "happy",
+            "get",
+            "chance"
+        ]
+    },
+    {
+        "sentence": [
+            "So thank you, Frederick.",
+            "And thank you everyone for listening and we'll see you next time.",
+            "Thank you for listening to this episode of the Rappaport Diamond podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "next time",
+            "thank",
+            "thank",
+            "thank",
+            "see",
+            "listening"
+        ],
+        "trends": [
+            "thank",
+            "listening",
+            "time",
+            "see",
+            "next",
+            "everyone",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "For more discussions, news and analysis about the diamond industry, visit us on Rappaport.com, follow Rappaport group on Instagram and follow Rappaport on YouTube, Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit us",
+            "diamond industry",
+            "rappaport",
+            "youtube"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "youtube",
+            "visit",
+            "diamond",
+            "discussions",
+            "facebook"
+        ]
+    }
+]

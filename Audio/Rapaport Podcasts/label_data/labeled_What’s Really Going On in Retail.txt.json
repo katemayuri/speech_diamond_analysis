@@ -1,0 +1,4779 @@
+[
+    {
+        "sentence": [
+            " This is the Rappaport Diamond podcast and now your host, Lea Marovitch.",
+            "CanTar Consulting for the last 15 years.",
+            "We discussed current trends in the retail industry in general and with jewelry specifically, why inflation is an inflated excuse for a company's disappointing results, where consumer dollars are really going, and what to expect for the holiday season this year."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rappaport diamond podcast",
+            "last 15 years",
+            "discussed current trends",
+            "retail industry",
+            "really going",
+            "lea marovitch",
+            "jewelry specifically"
+        ],
+        "trends": [
+            "rappaport",
+            "podcast",
+            "marovitch",
+            "lea",
+            "diamond",
+            "host",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "Enjoy the episode.",
+            "you get into the industry and what is your experience?",
+            "So my family's been in retail for a couple of generations."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail",
+            "industry",
+            "get",
+            "generations",
+            "family",
+            "experience",
+            "episode"
+        ],
+        "trends": [
+            "industry",
+            "get",
+            "experience",
+            "retail",
+            "generations",
+            "family",
+            "couple"
+        ]
+    },
+    {
+        "sentence": [
+            "My grandfather had a restaurant and also ran a business on the side.",
+            "My father had a pharmacy in a small town, so we were involved with everybody else, including every other form of retail.",
+            "I went to school, came out without being able to find a job, and went back into retail."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "small town",
+            "including every",
+            "everybody else",
+            "also ran",
+            "went back",
+            "went",
+            "without"
+        ],
+        "trends": [
+            "went",
+            "retail",
+            "without",
+            "back",
+            "came",
+            "ran",
+            "grandfather"
+        ]
+    },
+    {
+        "sentence": [
+            "So I spent 20 years in retail in Canada, the United States, went through night school, was one of the first people to learn how to work on a PC.",
+            "Great.",
+            "And do you want to give me a little bit of an idea of what Kantar does?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spent 20 years",
+            "united states",
+            "night school",
+            "little bit",
+            "first people",
+            "work",
+            "went"
+        ],
+        "trends": [
+            "one",
+            "canada",
+            "first",
+            "learn",
+            "bit",
+            "want",
+            "give"
+        ]
+    },
+    {
+        "sentence": [
+            "government regulations, whatnot.",
+            "So we look at the whole of retail.",
+            "In our database, we have over 1,400 retailers around the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "400 retailers around",
+            "government regulations",
+            "world",
+            "whole",
+            "whatnot",
+            "retail",
+            "look"
+        ],
+        "trends": [
+            "world",
+            "retailers",
+            "database",
+            "around",
+            "whatnot",
+            "regulations",
+            "government"
+        ]
+    },
+    {
+        "sentence": [
+            "We track that going back about 10 years, and we also forecast the sales going out five years.",
+            "So it is a very comprehensive shop in regards to managing and meeting the needs of our clients in regards to anything to do with the retail.",
+            "What it sounds like you're saying is that clients come to you looking for ideas about what trends are going on or how to fix certain problems in their business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fix certain problems",
+            "sounds like",
+            "five years",
+            "comprehensive shop",
+            "also forecast",
+            "10 years",
+            "sales going"
+        ],
+        "trends": [
+            "going",
+            "clients",
+            "years",
+            "regards",
+            "looking",
+            "business",
+            "certain"
+        ]
+    },
+    {
+        "sentence": [
+            "business, how to improve their business, things like that?",
+            "I mean, it very, you know, on a steady basis is what's going on, where sales going, where they're not going, where shoppers going, a portion of our company is dedicated to shopper research.",
+            "And in that process, we're able to come back to clients and say, this is what we see happening in the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "things like",
+            "steady basis",
+            "shopper research",
+            "see happening",
+            "come back",
+            "shoppers going",
+            "sales going"
+        ],
+        "trends": [
+            "going",
+            "business",
+            "basis",
+            "company",
+            "know",
+            "able",
+            "back"
+        ]
+    },
+    {
+        "sentence": [
+            "This is what we see happening in this channel.",
+            "And that's true for most of the countries in the world.",
+            "It's just a question of, you know, what they're looking for and such."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see happening",
+            "world",
+            "true",
+            "question",
+            "looking",
+            "know",
+            "countries"
+        ],
+        "trends": [
+            "question",
+            "looking",
+            "know",
+            "world",
+            "true",
+            "countries",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "The other side of it, which is something I deal with a little bit more is whatever is  more current in requirements.",
+            "So for example, the beginning of the pandemic, not only was I talking about the impact of the pandemic, shopper behaviors, changes in that, but I was also looking at retail finance.",
+            "Retail finance exploded into all types of different directions during the beginning there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "retail finance exploded",
+            "retail finance",
+            "shopper behaviors",
+            "little bit",
+            "different directions",
+            "also looking",
+            "whatever"
+        ],
+        "trends": [
+            "finance",
+            "beginning",
+            "retail",
+            "pandemic",
+            "impact",
+            "behaviors",
+            "changes"
+        ]
+    },
+    {
+        "sentence": [
+            "And then as the pandemic became more normalized, then the area I spent a lot more time on was inventory.",
+            "Where's the inventory?",
+            "Where's it going?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pandemic became",
+            "time",
+            "spent",
+            "normalized",
+            "lot",
+            "inventory",
+            "inventory"
+        ],
+        "trends": [
+            "time",
+            "spent",
+            "pandemic",
+            "normalized",
+            "lot",
+            "inventory",
+            "became"
+        ]
+    },
+    {
+        "sentence": [
+            "Where it's not going?",
+            "Like it's a supply chain.",
+            "Why is it not flowing across the Pacific?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "supply chain",
+            "flowing across",
+            "pacific",
+            "like",
+            "going"
+        ],
+        "trends": [
+            "pacific",
+            "flowing",
+            "across",
+            "supply",
+            "like",
+            "chain"
+        ]
+    },
+    {
+        "sentence": [
+            "Why is it not coming from Europe?",
+            "A lot of what I do has something to do with the current demands of clients that are out of the ordinary.",
+            "Most recently, I've been dealing with organized retail crime."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "organized retail crime",
+            "current demands",
+            "something",
+            "recently",
+            "ordinary",
+            "lot",
+            "europe"
+        ],
+        "trends": [
+            "retail",
+            "recently",
+            "organized",
+            "dealing",
+            "something",
+            "ordinary",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, what are the directions, what's happening?",
+            "And we just recently did a paper on that for Europe, the United States, and Latin America.",
+            "Interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united states",
+            "latin america",
+            "recently",
+            "paper",
+            "know",
+            "interesting",
+            "happening"
+        ],
+        "trends": [
+            "know",
+            "happening",
+            "directions",
+            "united",
+            "states",
+            "recently",
+            "paper"
+        ]
+    },
+    {
+        "sentence": [
+            "So you're basically the crystal ball for the industry, huh?",
+            "Yeah, I'm kind of well, you know, the bad news is I'm old.",
+            "The better news being I have a lot of experience across all parts of the industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "experience across",
+            "crystal ball",
+            "better news",
+            "bad news",
+            "yeah",
+            "well",
+            "parts"
+        ],
+        "trends": [
+            "industry",
+            "news",
+            "huh",
+            "crystal",
+            "better",
+            "experience",
+            "across"
+        ]
+    },
+    {
+        "sentence": [
+            "So I have not only an operational basis and a financial  But I also have an IT one.",
+            "So I understand how retail works in a variety of different ways.",
+            "And I try to pull that together and provide that type of service to our clients."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail works",
+            "operational basis",
+            "different ways",
+            "variety",
+            "understand",
+            "type",
+            "try"
+        ],
+        "trends": [
+            "operational",
+            "basis",
+            "financial",
+            "pull",
+            "clients",
+            "together",
+            "service"
+        ]
+    },
+    {
+        "sentence": [
+            "In context to Kantar, I advise also internal to the company for the same purposes and so on.",
+            "So it's an interesting job to say the least.",
+            "It sounds interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "advise also internal",
+            "sounds interesting",
+            "interesting job",
+            "say",
+            "purposes",
+            "least",
+            "kantar"
+        ],
+        "trends": [
+            "purposes",
+            "kantar",
+            "internal",
+            "context",
+            "company",
+            "also",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually what you were just saying about organized crime sounds interesting, too.",
+            "You said that's been a recent trend that you're talking about.",
+            "Are you seeing a lot more of an increase in organized crime?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "organized crime sounds interesting",
+            "organized crime",
+            "recent trend",
+            "talking",
+            "seeing",
+            "saying",
+            "said"
+        ],
+        "trends": [
+            "organized",
+            "crime",
+            "trend",
+            "talking",
+            "said",
+            "recent",
+            "sounds"
+        ]
+    },
+    {
+        "sentence": [
+            "a nice crime than there was in the past?",
+            "So we're currently in that phase right now where we've seen an upsurge in terms of crime inside a retail.",
+            "Organize sometimes as a kind of an aspirational statement, but at the end of the day, eventually law enforcement comes around and starts surrending it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "eventually law enforcement comes around",
+            "starts surrending",
+            "phase right",
+            "organize sometimes",
+            "nice crime",
+            "crime inside",
+            "aspirational statement"
+        ],
+        "trends": [
+            "crime",
+            "aspirational",
+            "comes",
+            "day",
+            "end",
+            "upsurge",
+            "currently"
+        ]
+    },
+    {
+        "sentence": [
+            "Probably the more accurate statement I would have is that people presume this is a retail-only responsibility.",
+            "The retailer is responsible for stopping crime.",
+            "That's almost impossible in the organized retail crime."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "organized retail crime",
+            "stopping crime",
+            "people presume",
+            "almost impossible",
+            "accurate statement",
+            "retail",
+            "would"
+        ],
+        "trends": [
+            "crime",
+            "stopping",
+            "retailer",
+            "would",
+            "statement",
+            "retail",
+            "organized"
+        ]
+    },
+    {
+        "sentence": [
+            "be the surrounding community, the surrounding government, everybody has to be involved.",
+            "The other problem you have at the moment is that so many people are new to the retail trades and so many people either left or retired out of it in the last three years.",
+            "So you don't have the experience on the floor of people dealing with contentious situations, situations where they have to step in and try to prevent a crime from occurring before it occurs, which is really the best time to do it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many people either left",
+            "last three years",
+            "many people",
+            "people dealing",
+            "surrounding government",
+            "surrounding community",
+            "retail trades"
+        ],
+        "trends": [
+            "people",
+            "surrounding",
+            "situations",
+            "many",
+            "community",
+            "everybody",
+            "government"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's a, I wouldn't say it's quite a hot topic.",
+            "It's definitely one that  that comes up repeatedly in terms of how retailers are speaking to their quarterly results.",
+            "So it becomes more of an issue for everybody else."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "quarterly results",
+            "hot topic",
+            "everybody else",
+            "definitely one",
+            "terms",
+            "speaking",
+            "say"
+        ],
+        "trends": [
+            "everybody",
+            "repeatedly",
+            "quite",
+            "hot",
+            "topic",
+            "would",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, of course, I'm assuming because it affects every retailer like at some point.",
+            "I know that recently the Jewelers Security Alliance actually just put out a warning that crime is up, organized crime and robbery is particularly in California.",
+            "Have you noticed anything like that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jewelers security alliance actually",
+            "affects every retailer like",
+            "noticed anything like",
+            "organized crime",
+            "crime",
+            "yeah",
+            "warning"
+        ],
+        "trends": [
+            "like",
+            "crime",
+            "affects",
+            "assuming",
+            "course",
+            "every",
+            "yeah"
+        ]
+    },
+    {
+        "sentence": [
+            "And do you think jewelry is suffering more than other retailers?",
+            "I mean, there's several ways of looking  California gets a lot of attention because the media here is politically diverse and one side of the media covers it versus another.",
+            "I think this is true in every country I look at."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "looking california gets",
+            "versus another",
+            "several ways",
+            "politically diverse",
+            "one side",
+            "every country",
+            "think jewelry"
+        ],
+        "trends": [
+            "think",
+            "media",
+            "ways",
+            "attention",
+            "look",
+            "true",
+            "country"
+        ]
+    },
+    {
+        "sentence": [
+            "There's one side that, you know, basically there's a law and order side and then another side which is, I think, more practical.",
+            "You know, what do we do to live with it?",
+            "When you're looking at jewelry and you're looking at the jewelry trade, you're looking at something different, something that's been ongoing for a long time in regards to the amount of energy criminals were put into to getting product, especially  since it's relatively dense in terms of value and easy to transport."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "relatively dense",
+            "order side",
+            "one side",
+            "long time",
+            "getting product",
+            "especially since",
+            "energy criminals"
+        ],
+        "trends": [
+            "side",
+            "looking",
+            "something",
+            "jewelry",
+            "criminals",
+            "one",
+            "practical"
+        ]
+    },
+    {
+        "sentence": [
+            "So unlike other forms of retail, when you're looking at the jewelry trade, you're overwhelmingly looking at a smash and grab type of technique.",
+            "Drive a car through the front window, bring in four or five people, smash all the cases, be extremely threatening and such.",
+            "That type of behavior, which by the way, has a very negative outcome if you get caught, is worth doing in jewelry because the payoff is so good."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "negative outcome",
+            "get caught",
+            "front window",
+            "five people",
+            "extremely threatening",
+            "overwhelmingly looking",
+            "jewelry trade"
+        ],
+        "trends": [
+            "jewelry",
+            "smash",
+            "looking",
+            "type",
+            "worth",
+            "payoff",
+            "caught"
+        ]
+    },
+    {
+        "sentence": [
+            "You won't do this in a grocery store.",
+            "any sense.",
+            "You know, you have a whole different way of stealing in there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole different way",
+            "grocery store",
+            "stealing",
+            "sense",
+            "know"
+        ],
+        "trends": [
+            "wo",
+            "store",
+            "grocery",
+            "whole",
+            "way",
+            "stealing",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "But jewelry trade has always had to contend with this.",
+            "There was a group called the Pink Panthers out of Eastern Europe and it very well might still be a group called the Pink Panthers.",
+            "And I suspect you're familiar with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "well might still",
+            "pink panthers",
+            "pink panthers",
+            "jewelry trade",
+            "group called",
+            "group called",
+            "eastern europe"
+        ],
+        "trends": [
+            "pink",
+            "panthers",
+            "group",
+            "called",
+            "trade",
+            "well",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "They've been around for 20 years.",
+            "And steadily, they have gone around the world and they've hit a lot of trade.",
+            "In the US, what you've seen, and actually in the UK, we've seen more as what we call tourist criminals, i.e."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "call tourist criminals",
+            "20 years",
+            "gone around",
+            "around",
+            "world",
+            "us",
+            "uk"
+        ],
+        "trends": [
+            "seen",
+            "world",
+            "trade",
+            "steadily",
+            "us",
+            "uk",
+            "tourist"
+        ]
+    },
+    {
+        "sentence": [
+            "they basically come in as tourists, they spend a month in the  that month, they steal as much as they can, they fence off whatever they're going to do and they electronically transfer the funds back to the country.",
+            "It's a new form of crime.",
+            "Unfortunately, in jewelry, it's not quite as new as in other forms."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "funds back",
+            "electronically transfer",
+            "basically come",
+            "new form",
+            "new",
+            "whatever",
+            "unfortunately"
+        ],
+        "trends": [
+            "new",
+            "month",
+            "whatever",
+            "basically",
+            "come",
+            "forms",
+            "quite"
+        ]
+    },
+    {
+        "sentence": [
+            "The other thing we see in terms of jewelry trade that's interesting to me is the same people that do smashing grabs into stores often as not as doing high end residential break-ins.",
+            "It seems to be the same skill set, if you wish.",
+            "And so that's been on the uptick in a lot of places as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high end residential break",
+            "stores often",
+            "smashing grabs",
+            "skill set",
+            "jewelry trade",
+            "wish",
+            "well"
+        ],
+        "trends": [
+            "people",
+            "grabs",
+            "wish",
+            "skill",
+            "set",
+            "seems",
+            "uptick"
+        ]
+    },
+    {
+        "sentence": [
+            "in residential break-ins, you're talking about they're going to wealthy people's houses and taking their jewelry from there.",
+            "Yeah, that's definitely an uptick.",
+            "It's interesting, I worked with people in the UK to do this study and what's very obvious is, whereas the media covers this very intensely in terms of the United States, this is a global phenomenon."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united states",
+            "residential break",
+            "media covers",
+            "global phenomenon",
+            "wealthy people",
+            "people",
+            "yeah"
+        ],
+        "trends": [
+            "people",
+            "taking",
+            "going",
+            "houses",
+            "jewelry",
+            "residential",
+            "talking"
+        ]
+    },
+    {
+        "sentence": [
+            "It just depends upon how much attention and how much it's recorded going out past the industry and into the media in terms of where the information is.",
+            "I actually did a story on this a couple years ago  for a magazine.",
+            "And I definitely have heard of the Pink Panthers and I know they operate primarily out of Romania is what I found."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "couple years ago",
+            "recorded going",
+            "pink panthers",
+            "operate primarily",
+            "depends upon",
+            "much attention",
+            "much"
+        ],
+        "trends": [
+            "much",
+            "terms",
+            "attention",
+            "depends",
+            "know",
+            "romania",
+            "definitely"
+        ]
+    },
+    {
+        "sentence": [
+            "And I actually spoke to different security agencies throughout the world, Germany, in the UK, the US, Israel.",
+            "And it seems like they're most pursued in the US more than in other markets, primarily because in other markets, the laws are so stringent of what you have to prove, how you can pursue them, what you can do, that it makes it much more difficult  than it does in the US to actually catch them and prosecute them.",
+            "Have you seen that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "different security agencies throughout",
+            "seems like",
+            "actually spoke",
+            "actually catch",
+            "world",
+            "us",
+            "us"
+        ],
+        "trends": [
+            "us",
+            "markets",
+            "actually",
+            "security",
+            "agencies",
+            "different",
+            "germany"
+        ]
+    },
+    {
+        "sentence": [
+            "If you want a funny reference to that, one of the first James Bond's books I ever read was Goldfinger.",
+            "And towards the end of it, they've captured the criminal and they say, you know, your misfortune here is you got caught in the US.",
+            "In the US, they take murder seriously, but they take property crime much more serious."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take property crime much",
+            "take murder seriously",
+            "first james bond",
+            "got caught",
+            "funny reference",
+            "ever read",
+            "want"
+        ],
+        "trends": [
+            "us",
+            "take",
+            "got",
+            "criminal",
+            "end",
+            "property",
+            "murder"
+        ]
+    },
+    {
+        "sentence": [
+            "So in the US, you're going to get punished much worse than you would in the UK.",
+            "There's a lot true to that.",
+            "Property crime in the United States has a higher  I'm not sure what term I would want to use, but a higher awareness and a higher response rate in terms of law."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get punished much worse",
+            "higher response rate",
+            "united states",
+            "property crime",
+            "lot true",
+            "higher awareness",
+            "would want"
+        ],
+        "trends": [
+            "higher",
+            "crime",
+            "rate",
+            "would",
+            "get",
+            "us",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's kind of a hard way to explain it, but you're completely correct.",
+            "In the US, property crime takes higher precedence in many ways.",
+            "And there's a whole discussion into why that's true, but that does show up in terms of the amount of energy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "property crime takes higher precedence",
+            "whole discussion",
+            "many ways",
+            "hard way",
+            "completely correct",
+            "us",
+            "true"
+        ],
+        "trends": [
+            "whole",
+            "discussion",
+            "energy",
+            "amount",
+            "kind",
+            "hard",
+            "explain"
+        ]
+    },
+    {
+        "sentence": [
+            "I have noticed the same thing in regards to the EU.",
+            "You would expect there to be a much more coordinated response to an international group like this.",
+            "subsets of this that operate in Asia."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "international group like",
+            "would expect",
+            "coordinated response",
+            "thing",
+            "subsets",
+            "regards",
+            "operate"
+        ],
+        "trends": [
+            "subsets",
+            "operate",
+            "would",
+            "response",
+            "much",
+            "thing",
+            "regards"
+        ]
+    },
+    {
+        "sentence": [
+            "And you don't hear very much about that either.",
+            "That's interesting.",
+            "Have you researched at all any tips for jurors, any way to help them prevent things like this from happening?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "prevent things like",
+            "way",
+            "tips",
+            "researched",
+            "much",
+            "jurors",
+            "interesting"
+        ],
+        "trends": [
+            "much",
+            "way",
+            "tips",
+            "things",
+            "researched",
+            "prevent",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "Let me back up here.",
+            "Let me make sure we understand everything about retail is about opening up a space to shoppers.",
+            "If you don't have shoppers in the store, then you don't have retail as simple as it gets."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "understand everything",
+            "make sure",
+            "store",
+            "space",
+            "simple",
+            "shoppers",
+            "shoppers"
+        ],
+        "trends": [
+            "shoppers",
+            "retail",
+            "store",
+            "understand",
+            "sure",
+            "space",
+            "opening"
+        ]
+    },
+    {
+        "sentence": [
+            "So everything about loss prevention is how do I manage the shopper experience at the same time creating  friction and hardened points such that they can't steal from me.",
+            "In the jewelry trade, this is meant armored casing and taking only one thing out at a time and training your people carefully to look for signs, having automatic locks in the front, having hardened and shatterproof windows, etc.",
+            "It's an arms race, for better or for worse."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "meant armored casing",
+            "time creating friction",
+            "shopper experience",
+            "shatterproof windows",
+            "people carefully",
+            "one thing",
+            "loss prevention"
+        ],
+        "trends": [
+            "time",
+            "hardened",
+            "ca",
+            "creating",
+            "everything",
+            "worse",
+            "arms"
+        ]
+    },
+    {
+        "sentence": [
+            "If I completely armor the entire store, then I have no business.",
+            "People aren't going to shop with me.",
+            "So I have to  find that medium where it is."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "entire store",
+            "completely armor",
+            "shop",
+            "people",
+            "medium",
+            "going",
+            "find"
+        ],
+        "trends": [
+            "shop",
+            "people",
+            "going",
+            "store",
+            "entire",
+            "completely",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "Even if I create the store as a single hard point, then they'll basically steal a trash truck or a large vehicle and just smash it through the front window.",
+            "So at which point you're getting into, is it more expensive for them to come in the store and steal from me or is it more expensive for them to destroy my store?",
+            "There's bad choices."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single hard point",
+            "trash truck",
+            "large vehicle",
+            "front window",
+            "bad choices",
+            "basically steal",
+            "point"
+        ],
+        "trends": [
+            "store",
+            "expensive",
+            "window",
+            "create",
+            "even",
+            "steal",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "The real answer here, which is difficult because it involves more complexity, is frankly is to make sure that the community  the  It's really, in my own experience, it's something that time seems to manage better than just doing forceful, organized actions.",
+            "As time goes on, you simply make it harder and harder for them not only to steal, but most importantly, to fence.",
+            "If they can't fence, they're not going to steal it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time seems",
+            "time goes",
+            "simply make",
+            "real answer",
+            "organized actions",
+            "manage better",
+            "make sure"
+        ],
+        "trends": [
+            "harder",
+            "steal",
+            "fence",
+            "time",
+            "make",
+            "simply",
+            "goes"
+        ]
+    },
+    {
+        "sentence": [
+            "And that right now is where I think a lot of the efforts are going, is to make sure that they can't monitorize their theft.",
+            "It sounds interesting.",
+            "I mean, it's very hard."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sounds interesting",
+            "make sure",
+            "think",
+            "theft",
+            "right",
+            "monitorize",
+            "mean"
+        ],
+        "trends": [
+            "think",
+            "theft",
+            "sure",
+            "right",
+            "monitorize",
+            "make",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "I know a lot of jewelers struggle a lot with trying to figure out how to  to protect our stores.",
+            "So that's actually helpful and hopefully will work in the long run.",
+            "Let's take it to a little bit of a different field now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "long run",
+            "little bit",
+            "jewelers struggle",
+            "different field",
+            "actually helpful",
+            "work",
+            "trying"
+        ],
+        "trends": [
+            "lot",
+            "work",
+            "helpful",
+            "little",
+            "take",
+            "field",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "In general, how do you see the retail market as a whole right now?",
+            "The economic factor, the inflation and everything like that.",
+            "I think it's going to be 10 years before we figured out what happened in 2020 and 2021."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole right",
+            "retail market",
+            "everything like",
+            "economic factor",
+            "10 years",
+            "think",
+            "see"
+        ],
+        "trends": [
+            "years",
+            "think",
+            "happened",
+            "going",
+            "like",
+            "inflation",
+            "factor"
+        ]
+    },
+    {
+        "sentence": [
+            "The disruption of the pandemic on a global basis is simply an unknown  factor in modern times, we still have not internalized all the things that happened there.",
+            "So what you've seen is, you know, the major change of 2020 with lockdowns and everything else, but with large parts of retail just exploding in behind that.",
+            "People didn't have enough time to do other things."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "unknown factor",
+            "modern times",
+            "major change",
+            "large parts",
+            "global basis",
+            "everything else",
+            "enough time"
+        ],
+        "trends": [
+            "things",
+            "large",
+            "else",
+            "everything",
+            "know",
+            "lockdowns",
+            "major"
+        ]
+    },
+    {
+        "sentence": [
+            "So they did recreational shopping.",
+            "They had more income than expected because they weren't spending it on travel and other types of luxuries.",
+            "So they spent it on luxury goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "recreational shopping",
+            "luxury goods",
+            "types",
+            "travel",
+            "spent",
+            "spending",
+            "luxuries"
+        ],
+        "trends": [
+            "spent",
+            "luxury",
+            "goods",
+            "types",
+            "travel",
+            "spending",
+            "luxuries"
+        ]
+    },
+    {
+        "sentence": [
+            "And the jewelry trade in 2020 and 2021 had tremendous years.",
+            "good years and we saw that.",
+            "2022, there was, you know, there was kind of a return back to normal."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tremendous years",
+            "return back",
+            "jewelry trade",
+            "good years",
+            "saw",
+            "normal",
+            "know"
+        ],
+        "trends": [
+            "years",
+            "saw",
+            "good",
+            "return",
+            "normal",
+            "know",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "But again, it did not go as anybody expected it to go.",
+            "There still was a heightened performance in terms of retail across almost all classes of trade with apparel finally picking up as lockdown stopped.",
+            "So that background is still with us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail across almost",
+            "apparel finally picking",
+            "lockdown stopped",
+            "heightened performance",
+            "anybody expected",
+            "us",
+            "trade"
+        ],
+        "trends": [
+            "go",
+            "almost",
+            "apparel",
+            "classes",
+            "finally",
+            "still",
+            "anybody"
+        ]
+    },
+    {
+        "sentence": [
+            "We just don't know how to absorb it and say, okay, going forward, what type of changes do we really want to be able to forecast on?",
+            "I think some of the ones we need to come to terms with is first and foremost, the commercial real estate market is severely depressed in most markets because people are not opening and building new stores.",
+            "They're still not remodeling stores as I would have predicted in this year."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "commercial real estate market",
+            "building new stores",
+            "remodeling stores",
+            "severely depressed",
+            "really want",
+            "going forward",
+            "year"
+        ],
+        "trends": [
+            "absorb",
+            "changes",
+            "forecast",
+            "forward",
+            "stores",
+            "year",
+            "predicted"
+        ]
+    },
+    {
+        "sentence": [
+            "I would expect to see a lot more remodels.",
+            "What it's really about is still there's an unease in the retail business.",
+            "So they're keeping back cash in the form of free cash or other types of transferable so they can change directions if need be."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "keeping back cash",
+            "free cash",
+            "would expect",
+            "retail business",
+            "change directions",
+            "unease",
+            "types"
+        ],
+        "trends": [
+            "cash",
+            "still",
+            "retail",
+            "really",
+            "unease",
+            "business",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "element to that is their basic business model was distorted, but it was highly profitable.",
+            "So what am I going to do now?",
+            "You know, what am I going to do going forward in many markets?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "basic business model",
+            "many markets",
+            "highly profitable",
+            "going forward",
+            "going",
+            "going",
+            "know"
+        ],
+        "trends": [
+            "going",
+            "markets",
+            "many",
+            "know",
+            "profitable",
+            "model",
+            "highly"
+        ]
+    },
+    {
+        "sentence": [
+            "You have the emergence of what's called retail media.",
+            "And retail media essentially is on the retail side is investing into technology to absorb more and more shoppers into a close relationship such that they're able to gain a higher density of data in turn, be able to take that body of data and  be able to sell access to it or provide promotional access to the shop or in charge of fee for that.",
+            "Retailers, when they can do this, can make up to, successfully can make up to two to 3% of their operating margin."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail media essentially",
+            "called retail media",
+            "provide promotional access",
+            "retail side",
+            "sell access",
+            "operating margin",
+            "higher density"
+        ],
+        "trends": [
+            "retail",
+            "able",
+            "media",
+            "make",
+            "data",
+            "access",
+            "two"
+        ]
+    },
+    {
+        "sentence": [
+            "That's great, but it's not translating into new stores.",
+            "And it also the threshold for entering into that type of income is high.",
+            "It takes a lot of time and effort to get there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new stores",
+            "type",
+            "translating",
+            "time",
+            "threshold",
+            "takes",
+            "lot"
+        ],
+        "trends": [
+            "translating",
+            "stores",
+            "new",
+            "great",
+            "type",
+            "time",
+            "takes"
+        ]
+    },
+    {
+        "sentence": [
+            "So overall, in retail trade as a whole, there's still a major amount  a disruption.",
+            "They're still trying to figure out not just what normal is, because I haven't heard anybody say we're back to the new normal in over a year and a half.",
+            "I think everybody, for all the right reasons, thinks that's a stupid thing to say."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "heard anybody say",
+            "think everybody",
+            "stupid thing",
+            "right reasons",
+            "retail trade",
+            "major amount",
+            "still trying"
+        ],
+        "trends": [
+            "say",
+            "normal",
+            "still",
+            "overall",
+            "everybody",
+            "reasons",
+            "thinks"
+        ]
+    },
+    {
+        "sentence": [
+            "But they are trying to figure out how do I go forward and stay a viable business in the new sets of rules that I'm dealing with.",
+            "That's a little harder.",
+            "That's where we're going at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "viable business",
+            "new sets",
+            "little harder",
+            "go forward",
+            "trying",
+            "stay",
+            "rules"
+        ],
+        "trends": [
+            "viable",
+            "trying",
+            "stay",
+            "sets",
+            "rules",
+            "new",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "So do you think then, based on what you're saying, that  inflation is the major factor in the depression of retail sales now, or do you think that it's more because it's skewed so far one way during COVID that it didn't just bounce back to what it was pre-COVID, but went all the way back the other way, like as if it's a pendulum swinging?",
+            "And if so, when do you think it's going to get back to, I don't want to say normal, as you said, but maybe back to, you know, sort of on track with where it was?",
+            "was pre-COVID when it was just, you know, sales were gradually increasing or decreasing and ebbing and flowing as normal."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "far one way",
+            "way back",
+            "pendulum swinging",
+            "maybe back",
+            "major factor",
+            "gradually increasing",
+            "get back"
+        ],
+        "trends": [
+            "back",
+            "way",
+            "think",
+            "normal",
+            "sales",
+            "know",
+            "gradually"
+        ]
+    },
+    {
+        "sentence": [
+            "I have a very counter intuitive story to inflation, which is it's a tremendous media story, but it doesn't seem to be impacting shopper behavior very much.",
+            "If you ask shoppers, are you concerned about inflation?",
+            "They say yes."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tremendous media story",
+            "impacting shopper behavior",
+            "counter intuitive story",
+            "say yes",
+            "ask shoppers",
+            "seem",
+            "much"
+        ],
+        "trends": [
+            "story",
+            "tremendous",
+            "shopper",
+            "seem",
+            "much",
+            "media",
+            "intuitive"
+        ]
+    },
+    {
+        "sentence": [
+            "Are you concerned about your budget?",
+            "You say yes.",
+            "Then you watch what they do."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "say yes",
+            "watch",
+            "concerned",
+            "budget"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "It doesn't look like anything to do with their concern about inflation.",
+            "You know, they go off and they drop half their income into it.",
+            "a trip they haven't had in three years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "look like anything",
+            "three years",
+            "drop half",
+            "trip",
+            "know",
+            "inflation",
+            "income"
+        ],
+        "trends": [
+            "years",
+            "trip",
+            "three",
+            "look",
+            "like",
+            "know",
+            "income"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think in retail, we need to step away from the inflation is the problem to simply the majority of the history.",
+            "My history was with inflation over five, six, seven percent.",
+            "So the real problem in retail at the moment is that they got used to being in a situation where they really didn't have to work very hard to make money."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "step away",
+            "seven percent",
+            "make money",
+            "got used",
+            "real problem",
+            "problem",
+            "work"
+        ],
+        "trends": [
+            "history",
+            "inflation",
+            "problem",
+            "retail",
+            "majority",
+            "need",
+            "percent"
+        ]
+    },
+    {
+        "sentence": [
+            "They simply opened the doors, people showed up and they spent whatever.",
+            "People had no price sensitivity.",
+            "I think now  is a very different environment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "spent whatever",
+            "simply opened",
+            "price sensitivity",
+            "different environment",
+            "people showed",
+            "people",
+            "think"
+        ],
+        "trends": [
+            "people",
+            "think",
+            "whatever",
+            "spent",
+            "simply",
+            "showed",
+            "sensitivity"
+        ]
+    },
+    {
+        "sentence": [
+            "They have to compete not with each other.",
+            "That's still not really going on yet, which I find kind of strange also.",
+            "They're really competing for the wallet share."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wallet share",
+            "strange also",
+            "really going",
+            "really competing",
+            "find kind",
+            "yet",
+            "still"
+        ],
+        "trends": [
+            "really",
+            "wallet",
+            "share",
+            "yet",
+            "strange",
+            "still",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "And that wallet share is less impacted by inflation, their choices.",
+            "Am I going to spend it on travel?",
+            "Am I going to spend it on family?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wallet share",
+            "less impacted",
+            "travel",
+            "spend",
+            "spend",
+            "inflation",
+            "going"
+        ],
+        "trends": [
+            "spend",
+            "going",
+            "wallet",
+            "share",
+            "less",
+            "inflation",
+            "impacted"
+        ]
+    },
+    {
+        "sentence": [
+            "Am I going to spend it on education?",
+            "A lot of people didn't spend any money on education for two years.",
+            "So you have all these competing factors that you have to deal with."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two years",
+            "competing factors",
+            "spend",
+            "spend",
+            "people",
+            "money",
+            "lot"
+        ],
+        "trends": [
+            "spend",
+            "education",
+            "going",
+            "factors",
+            "deal",
+            "years",
+            "two"
+        ]
+    },
+    {
+        "sentence": [
+            "But, and I would say but,  is every CEO feels very comfortable in their quarterly reports to say, well, our results are poor because of inflation.",
+            "Well, no, it's not.",
+            "If you go underneath the covers, that's not what I'm saying."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "every ceo feels",
+            "quarterly reports",
+            "go underneath",
+            "would say",
+            "say",
+            "well",
+            "well"
+        ],
+        "trends": [
+            "say",
+            "would",
+            "well",
+            "results",
+            "reports",
+            "quarterly",
+            "poor"
+        ]
+    },
+    {
+        "sentence": [
+            "When you look at overall inflation, it still continues to be mostly in food.",
+            "And that's the area where you're seeing a lot of inflation still.",
+            "And that impacts lower incomes far more than middle income or higher income, obviously."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "impacts lower incomes far",
+            "still continues",
+            "overall inflation",
+            "middle income",
+            "inflation still",
+            "higher income",
+            "seeing"
+        ],
+        "trends": [
+            "still",
+            "inflation",
+            "income",
+            "overall",
+            "mostly",
+            "look",
+            "food"
+        ]
+    },
+    {
+        "sentence": [
+            "That factor one is changing some of the shapes of decision making.",
+            "So do I go to the supermarket and buy food or  do I go to a restaurant?",
+            "The trade off there is a little easier to understand if the prices in the grocery is higher versus what I'm gonna do there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little easier",
+            "higher versus",
+            "factor one",
+            "decision making",
+            "buy food",
+            "understand",
+            "trade"
+        ],
+        "trends": [
+            "go",
+            "buy",
+            "supermarket",
+            "restaurant",
+            "food",
+            "changing",
+            "shapes"
+        ]
+    },
+    {
+        "sentence": [
+            "Apparel and general merchandise and other things actually are significantly down regardless of inflation.",
+            "So those prices are down and that's not really impacting stuff.",
+            "You hit kind of a sore point with me because every time I read comments from a retailer saying our results were bad because of inflation, I have an automatic reaction which is to go into their  P&L and find out that inflation had very little to do with their results."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really impacting stuff",
+            "things actually",
+            "sore point",
+            "retailer saying",
+            "read comments",
+            "hit kind",
+            "general merchandise"
+        ],
+        "trends": [
+            "inflation",
+            "results",
+            "merchandise",
+            "apparel",
+            "general",
+            "things",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "It's almost always, you know, the shopper changed behaviors or, you know, they simply did something different, but it very, very rarely has something to do with inflation in the context they're speaking to.",
+            "So this is actually the first time that I'm ever hearing somebody say that because yeah, you're right.",
+            "I see the National Retail Federation and all the different retailers and the jewelers that we cover are always saying, you know, it's been tough because of inflation, sales are down because of inflation, and  and that it's used as a consistent reason."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "ever hearing somebody say",
+            "shopper changed behaviors",
+            "national retail federation",
+            "first time",
+            "different retailers",
+            "consistent reason",
+            "always saying"
+        ],
+        "trends": [
+            "know",
+            "inflation",
+            "something",
+            "always",
+            "different",
+            "yeah",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "But what it sounds like you're saying is that inflation really isn't having much of an impact and that people are still spending.",
+            "They're just spending in different areas than they were before.",
+            "And from my own personal experience, I'll tell you, my grocery bill has increased quite a bit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sounds like",
+            "personal experience",
+            "inflation really",
+            "increased quite",
+            "grocery bill",
+            "different areas",
+            "still spending"
+        ],
+        "trends": [
+            "spending",
+            "people",
+            "impact",
+            "inflation",
+            "still",
+            "much",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "So I see where you're coming from.",
+            "So the money is going to different places, but it's still going.",
+            "Correct?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "different places",
+            "still going",
+            "going",
+            "see",
+            "money",
+            "correct",
+            "coming"
+        ],
+        "trends": [
+            "going",
+            "still",
+            "places",
+            "money",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "You know, years ago, I started studying the Japanese market and I discovered that every single quarter, all the retailers missed their  numbers because it was a rainy spring.",
+            "They all had problems with rain, which if you give it any thought whatsoever is incredibly dumb."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "every single quarter",
+            "years ago",
+            "thought whatsoever",
+            "started studying",
+            "retailers missed",
+            "rainy spring",
+            "japanese market"
+        ],
+        "trends": [
+            "missed",
+            "discovered",
+            "every",
+            "problems",
+            "thought",
+            "dumb",
+            "give"
+        ]
+    },
+    {
+        "sentence": [
+            "But that was their excuse and nobody would ask about it and such.",
+            "My first car loan was at 18% interest and that was back in 1980.",
+            "I still bought a new car."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "nobody would ask",
+            "first car loan",
+            "new car",
+            "still bought",
+            "interest",
+            "excuse",
+            "back"
+        ],
+        "trends": [
+            "car",
+            "still",
+            "new",
+            "bought",
+            "would",
+            "nobody",
+            "loan"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we've spent over 10 years with two, three, 4% inflation and we've forgotten that it can be the normal.",
+            "You can have five, six, 7% inflation.",
+            "It's normal."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "10 years",
+            "two",
+            "three",
+            "think",
+            "spent",
+            "six",
+            "normal"
+        ],
+        "trends": [
+            "inflation",
+            "six",
+            "five",
+            "years",
+            "two",
+            "three",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "just people's behaviors change, their choices change and such.",
+            "But simply using it as a blunt tool to explain results, no, I simply don't buy into that.",
+            "The other way of looking at this is, the 20 years I was in retail, it was almost all during periods of high inflation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high inflation",
+            "explain results",
+            "choices change",
+            "blunt tool",
+            "behaviors change",
+            "20 years",
+            "simply using"
+        ],
+        "trends": [
+            "change",
+            "simply",
+            "people",
+            "choices",
+            "years",
+            "high",
+            "inflation"
+        ]
+    },
+    {
+        "sentence": [
+            "And not once did I hear anybody ever say that we had poor results in terms of inflation.",
+            "We had poor results in terms of operations.",
+            "We had poor results because competition outmaneuvered."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hear anybody ever say",
+            "poor results",
+            "poor results",
+            "poor results",
+            "competition outmaneuvered",
+            "terms",
+            "terms"
+        ],
+        "trends": [
+            "results",
+            "poor",
+            "terms",
+            "operations",
+            "say",
+            "inflation",
+            "hear"
+        ]
+    },
+    {
+        "sentence": [
+            "We had poor results because shoppers changed.",
+            "But we didn't have poor results in terms of inflation.",
+            "It's just simply one more reality you have to work with them."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "simply one",
+            "shoppers changed",
+            "poor results",
+            "poor results",
+            "work",
+            "terms",
+            "reality"
+        ],
+        "trends": [
+            "results",
+            "poor",
+            "terms",
+            "inflation",
+            "shoppers",
+            "changed",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, the interesting thing is that if it was inflation, inflation affects poorer people more than it does the wealthy.",
+            "So the question is then, are we seeing that sales are different across the board, no matter where like if we're going by the US, no matter what area of the US, are they all the same?",
+            "Are we still seeing the same demand in luxury sales?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "inflation affects poorer people",
+            "interesting thing",
+            "different across",
+            "still seeing",
+            "luxury sales",
+            "inflation",
+            "seeing"
+        ],
+        "trends": [
+            "seeing",
+            "us",
+            "matter",
+            "inflation",
+            "sales",
+            "people",
+            "affects"
+        ]
+    },
+    {
+        "sentence": [
+            "Or are those funds also diverted to  other things?",
+            "that trade, but those are purchases you only make every 10, 15, 20 years.",
+            "So once people buy it, they're out of the market."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make every 10",
+            "funds also diverted",
+            "people buy",
+            "20 years",
+            "trade",
+            "things",
+            "purchases"
+        ],
+        "trends": [
+            "things",
+            "funds",
+            "years",
+            "trade",
+            "purchases",
+            "people",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "Jewelry is kind of in that space in that the major purchase, be it for engagement or recognition of events or promotion, there was a definite uptick of that in 2022 as people came out of the pandemic and they started participating in family events and various moments, if you wish, that it disappeared.",
+            "Well, now we're  a year on and I think we seriously have to look back and go first and foremost how much of the trade has purchased that item and it's not going to come back in my door for another purchase for another 10 or 15 years.",
+            "Generally speaking people only get engaged once, they only get married once, you know this is kind of positive thinking on my part but occasions and the purchasing of jewelry for occasions is something much more fluid and much more manageable by the industry as a whole."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "generally speaking people",
+            "people came",
+            "various moments",
+            "started participating",
+            "positive thinking",
+            "major purchase",
+            "look back"
+        ],
+        "trends": [
+            "much",
+            "events",
+            "get",
+            "occasions",
+            "another",
+            "back",
+            "purchase"
+        ]
+    },
+    {
+        "sentence": [
+            "What I haven't seen from the industry overall or particular chains as well done as could be is how do I create new occasions?",
+            "How do I create that new surge into business that I can replicate and keep going into new things?",
+            "Again, I'm still in the discovery phase of what my new business model is because of all the distortions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new business model",
+            "create new occasions",
+            "new things",
+            "new surge",
+            "well done",
+            "particular chains",
+            "keep going"
+        ],
+        "trends": [
+            "new",
+            "create",
+            "business",
+            "chains",
+            "could",
+            "phase",
+            "discovery"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that's what's happening at the moment in most cases.",
+            "The other thing we're seeing in the jewelry trade is what we're seeing in several other channels  is consolidation.",
+            "You're seeing increasingly, you know, smaller companies being bought by large ones."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "smaller companies",
+            "large ones",
+            "jewelry trade",
+            "seeing increasingly",
+            "seeing",
+            "seeing",
+            "think"
+        ],
+        "trends": [
+            "seeing",
+            "companies",
+            "increasingly",
+            "know",
+            "jewelry",
+            "several",
+            "consolidation"
+        ]
+    },
+    {
+        "sentence": [
+            "Online companies are being absorbed into major store chains and such.",
+            "An international phenomenon as, you know, first and foremost, they still have an awful lot of cash left over from the last three years.",
+            "So they have the money to spend on it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "major store chains",
+            "last three years",
+            "online companies",
+            "international phenomenon",
+            "cash left",
+            "awful lot",
+            "still"
+        ],
+        "trends": [
+            "international",
+            "awful",
+            "cash",
+            "first",
+            "absorbed",
+            "store",
+            "online"
+        ]
+    },
+    {
+        "sentence": [
+            "But, you know, some of the more quick upstart venture capital type companies are now running into the reality that money costs money and they have to  to  which is people did not behave at all in the least like they have in the last 40 years and we're still coming to terms with that.",
+            "Well, it's true.",
+            "Actually, we have seen a lot of, you know, consolidation acquisitions and purchases in the market lately."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quick upstart venture capital type companies",
+            "money costs money",
+            "last 40 years",
+            "still coming",
+            "market lately",
+            "least like",
+            "consolidation acquisitions"
+        ],
+        "trends": [
+            "money",
+            "know",
+            "lot",
+            "purchases",
+            "actually",
+            "consolidation",
+            "lately"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually, the Jewelers Board of Trade recently released data that said a lot of stores in the US were closing due to consolidations and mergers, which is actually an interesting factor.",
+            "Do you think that that makes it more difficult for the retail  industry because there are bigger companies that are controlling and less diversity available.",
+            "I think in the jewelry trade, there's always been a certain dynamic of very large chains and independence and in terms of mass design in production versus independent craftsmen and such."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "production versus independent craftsmen",
+            "trade recently released data",
+            "less diversity available",
+            "jewelry trade",
+            "retail industry",
+            "mass design",
+            "large chains"
+        ],
+        "trends": [
+            "actually",
+            "think",
+            "trade",
+            "companies",
+            "available",
+            "bigger",
+            "retail"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think that dynamic has gone away.",
+            "But if you're an independent, it has become more difficult to have a predictable cash flow.",
+            "And that is making things uneven."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "predictable cash flow",
+            "making things uneven",
+            "gone away",
+            "think",
+            "independent",
+            "dynamic",
+            "difficult"
+        ],
+        "trends": [
+            "uneven",
+            "things",
+            "making",
+            "think",
+            "predictable",
+            "independent",
+            "flow"
+        ]
+    },
+    {
+        "sentence": [
+            "On the chain side, you have a similar difficulty that if you're a smaller company, your resources are less also.",
+            "Everybody has to contend with the fact that almost every government in the world lowered the cost of cash almost down to zero during the pandemic to keep things afloat.",
+            "Well, money costs money now."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "money costs money",
+            "keep things afloat",
+            "almost every government",
+            "cash almost",
+            "world lowered",
+            "smaller company",
+            "similar difficulty"
+        ],
+        "trends": [
+            "money",
+            "almost",
+            "difficulty",
+            "also",
+            "smaller",
+            "similar",
+            "side"
+        ]
+    },
+    {
+        "sentence": [
+            "That's the best way I can put it.",
+            "So everybody gets impacted, but the larger companies are able to navigate that far better with more tools than the smaller ones.",
+            "That's where it's going."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "everybody gets impacted",
+            "smaller ones",
+            "larger companies",
+            "far better",
+            "best way",
+            "tools",
+            "put"
+        ],
+        "trends": [
+            "tools",
+            "smaller",
+            "ones",
+            "navigate",
+            "larger",
+            "impacted",
+            "gets"
+        ]
+    },
+    {
+        "sentence": [
+            "see where the independent side of this goes next because they invariably have to carve out a niche or carve out a different clientele than the chain store.",
+            "So something you said before, actually, I find interesting.",
+            "You were talking about holidays and relying on all the usual holidays, like I assume you mean Valentine's, Christmas, Mother's Day, when you would generally be purchasing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would generally",
+            "mean valentine",
+            "independent side",
+            "goes next",
+            "find interesting",
+            "different clientele",
+            "chain store"
+        ],
+        "trends": [
+            "holidays",
+            "carve",
+            "niche",
+            "independent",
+            "invariably",
+            "different",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "Is what you're saying that you think that stores doing the traditional retailers doing the traditional thing that they've been doing all  these years that seem to work for them in the past is no longer working for them and that they need to find other ways of getting people to buy and not rely on having a big promotion on one of the known holidays.",
+            "I think what you're seeing, first and foremost, let me say I agree with you.",
+            "I think there's a little bit of frustration as to I have a traditional holiday list and it's not responding the way I want it to."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "traditional holiday list",
+            "traditional thing",
+            "traditional retailers",
+            "longer working",
+            "little bit",
+            "known holidays",
+            "getting people"
+        ],
+        "trends": [
+            "think",
+            "traditional",
+            "years",
+            "rely",
+            "big",
+            "buy",
+            "find"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, people are still sorting their way through as to what holidays mean to them in particular.",
+            "Valentine's Day is just classic.",
+            "of it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still sorting",
+            "holidays mean",
+            "way",
+            "valentine",
+            "people",
+            "particular",
+            "day"
+        ],
+        "trends": [
+            "valentine",
+            "day",
+            "classic",
+            "way",
+            "still",
+            "sorting",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "In some countries, Valentine's Day has exploded.",
+            "Mexico is a good example of that.",
+            "Where we've seen Valentine's Day come out of nowhere."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "good example",
+            "seen valentine",
+            "day come",
+            "valentine",
+            "day",
+            "nowhere",
+            "mexico"
+        ],
+        "trends": [
+            "valentine",
+            "day",
+            "mexico",
+            "good",
+            "example",
+            "seen",
+            "nowhere"
+        ]
+    },
+    {
+        "sentence": [
+            "In the US, it's maybe become another background noise.",
+            "That's frustrating in terms of that.",
+            "You saw for the last 10, 15 years, most of the innovation in terms of holidays was coming out of China, where they were doing number holidays."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "maybe become another background noise",
+            "last 10",
+            "15 years",
+            "number holidays",
+            "holidays",
+            "us",
+            "terms"
+        ],
+        "trends": [
+            "holidays",
+            "us",
+            "years",
+            "terms",
+            "saw",
+            "number",
+            "noise"
+        ]
+    },
+    {
+        "sentence": [
+            "They would have 888 sales or 11111 sales or whatever.",
+            "Those types  a number of holidays, which were, let's be honest, artificial holidays based on numerology, if it was.",
+            "There were tremendous uptick and they were able to use those to generate new sales, except for now we're past that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "generate new sales",
+            "artificial holidays based",
+            "888 sales",
+            "11111 sales",
+            "tremendous uptick",
+            "holidays",
+            "would"
+        ],
+        "trends": [
+            "sales",
+            "holidays",
+            "would",
+            "able",
+            "new",
+            "uptick",
+            "except"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, there's that innovation is now drifting away.",
+            "I think the other place that the jewelry trade should be looking at at the moment is that the level of immigration in the world has never been higher.",
+            "And that's important to note in that as you see population  moving back and forth into Europe, the United States, Canada, especially Canada at the moment, Mexico and whatnot."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see population moving back",
+            "united states",
+            "jewelry trade",
+            "drifting away",
+            "especially canada",
+            "canada",
+            "world"
+        ],
+        "trends": [
+            "canada",
+            "moment",
+            "moving",
+            "forth",
+            "whatnot",
+            "mexico",
+            "europe"
+        ]
+    },
+    {
+        "sentence": [
+            "You're seeing a very different group of people in regards to how they regard jewelry and how they regard the value associated to jewelry.",
+            "So the largest group coming into the United States and overwhelmingly coming into Canada is Indians.",
+            "And they're coming in from India with a perspective towards jewelry that has more of a family orientation, a way of storing wealth, a way of showing wealth that's very different than the current population has."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "perspective towards jewelry",
+            "largest group coming",
+            "value associated",
+            "united states",
+            "storing wealth",
+            "showing wealth",
+            "overwhelmingly coming"
+        ],
+        "trends": [
+            "coming",
+            "jewelry",
+            "group",
+            "wealth",
+            "way",
+            "regard",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "has.",
+            "You're seeing, you know, Filipinos, Chinese, you're seeing, you know, Central Americans, you're seeing a whole host of new groups come into different countries.",
+            "For example, if I'm in the European market, I'm seeing a lot of North Africans come in, again, different attitude, different approach, different value when it comes to jewelry that I think is still not being absorbed into the main trade."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "north africans come",
+            "new groups come",
+            "whole host",
+            "main trade",
+            "european market",
+            "different value",
+            "different countries"
+        ],
+        "trends": [
+            "seeing",
+            "different",
+            "know",
+            "come",
+            "whole",
+            "host",
+            "americans"
+        ]
+    },
+    {
+        "sentence": [
+            "They're still allowing that to be really the niche or the independent trade that addresses itself to those groups.",
+            "I think that's probably the next opportunity we have.",
+            "So how do you propose that people, that retailers can open themselves up to gaining this market?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still allowing",
+            "next opportunity",
+            "independent trade",
+            "think",
+            "retailers",
+            "really",
+            "propose"
+        ],
+        "trends": [
+            "probably",
+            "opportunity",
+            "open",
+            "retailers",
+            "gaining",
+            "propose",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "What is it they could do?",
+            "I mean, do they have, you know, sale on Indian style jewelry or you don't want to segment the population and say, okay, well, we're going to have a sale geared towards Indians that are now in the US because then you're leaving out everybody else.",
+            "How do you capture that market without  fragmenting it and separating out the other people that aren't in that particular niche."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sale geared towards indians",
+            "market without fragmenting",
+            "indian style jewelry",
+            "particular niche",
+            "everybody else",
+            "sale",
+            "well"
+        ],
+        "trends": [
+            "sale",
+            "know",
+            "without",
+            "separating",
+            "fragmenting",
+            "market",
+            "particular"
+        ]
+    },
+    {
+        "sentence": [
+            "the name of the movie, maybe you should look into it.",
+            "Invariably, they're Tamil or Hindi language films, but they're out of sight.",
+            "You don't realize how pervasive it is."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hindi language films",
+            "tamil",
+            "sight",
+            "realize",
+            "pervasive",
+            "name",
+            "movie"
+        ],
+        "trends": [
+            "name",
+            "movie",
+            "maybe",
+            "look",
+            "tamil",
+            "sight",
+            "language"
+        ]
+    },
+    {
+        "sentence": [
+            "The other side of it is increasingly in most countries, you're starting to see holidays like Diwali show up in terms of the retail calendar.",
+            "Obviously, that was not seen until 10 years ago.",
+            "It was about 20 years ago you started seeing Chinese New Year coming up or the Vietnamese moon holidays and such."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started seeing chinese new year coming",
+            "see holidays like diwali show",
+            "vietnamese moon holidays",
+            "20 years ago",
+            "10 years ago",
+            "retail calendar",
+            "terms"
+        ],
+        "trends": [
+            "years",
+            "holidays",
+            "year",
+            "vietnamese",
+            "chinese",
+            "coming",
+            "moon"
+        ]
+    },
+    {
+        "sentence": [
+            "You can see in other areas where you see  see the population getting to the size first and foremost where they need to be marketed to.",
+            "You can come to it late.",
+            "There's no shame in that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "size first",
+            "population getting",
+            "see see",
+            "see",
+            "shame",
+            "need",
+            "marketed"
+        ],
+        "trends": [
+            "see",
+            "size",
+            "population",
+            "need",
+            "marketed",
+            "getting",
+            "foremost"
+        ]
+    },
+    {
+        "sentence": [
+            "But the other side, which I feel very strongly about is how much of the new population coming into the country changes the country they're coming into.",
+            "And that's very important also.",
+            "Invariably, many of the holidays, many of the rides, many of the foods and whatnot start getting absorbed by the general population."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whatnot start getting absorbed",
+            "new population coming",
+            "general population",
+            "important also",
+            "country changes",
+            "coming",
+            "country"
+        ],
+        "trends": [
+            "many",
+            "coming",
+            "country",
+            "whatnot",
+            "population",
+            "changes",
+            "side"
+        ]
+    },
+    {
+        "sentence": [
+            "It may not look at all like  the original holiday, but they're important ones to grab ahold of because they become part of that importance.",
+            "In the United States, we saw this years ago when Halloween, which is a big, big suburban holiday, started absorbing elements of the Mexican Day of the Dead.",
+            "And you started seeing that change the approach to that holiday and such."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started absorbing elements",
+            "big suburban holiday",
+            "started seeing",
+            "years ago",
+            "united states",
+            "original holiday",
+            "mexican day"
+        ],
+        "trends": [
+            "holiday",
+            "started",
+            "big",
+            "years",
+            "united",
+            "ago",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "You've seen, again, the middle of January now, Chinese New Year is quite common in many countries in terms of as a retail holiday.",
+            "So how we adjust to that, I think, is part of that challenge.",
+            "But you know, it's  It's not a new challenge."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "chinese new year",
+            "retail holiday",
+            "quite common",
+            "new challenge",
+            "many countries",
+            "challenge",
+            "think"
+        ],
+        "trends": [
+            "challenge",
+            "january",
+            "chinese",
+            "common",
+            "countries",
+            "new",
+            "adjust"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just another one we need to start doing a better job of recognizing and reacting to.",
+            "Frankly, I think the old holidays have lost their energy for the next couple of years until we get back to a different type of population of shoppers in terms of how they're approaching things.",
+            "the opposite hand, we've seen and heard constantly, especially in the jewelry industry, that jewelry is such an emotional purchase and that when you have customers, you need to stick with those customers and make sure you're always servicing your target audience and those customers that you've had for so long."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "target audience",
+            "opposite hand",
+            "old holidays",
+            "next couple",
+            "make sure",
+            "heard constantly",
+            "get back"
+        ],
+        "trends": [
+            "customers",
+            "jewelry",
+            "need",
+            "another",
+            "one",
+            "better",
+            "job"
+        ]
+    },
+    {
+        "sentence": [
+            "And, you know, so it seems like very conflicting that you need to sort of move on because your sales are not going to wait for you if you don't catch up with what's going on.",
+            "But at the same point, you don't want to lose all of the  people who've been with you all this time because they still will at some point come back for further purchases if they need a birthday gift or if they need an anniversary gift or whatever near their jeweler of choice.",
+            "You don't want to lose those sales either."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "point come back",
+            "whatever near",
+            "seems like",
+            "birthday gift",
+            "anniversary gift",
+            "sales either",
+            "point"
+        ],
+        "trends": [
+            "need",
+            "lose",
+            "want",
+            "going",
+            "gift",
+            "point",
+            "sales"
+        ]
+    },
+    {
+        "sentence": [
+            "Is there a way to sort of play to the new people that are in your market and also retain the customers that you have at the same time without a sort of, you know, well, let's just move on to the next big thing because you're going to have to keeping up with everything that's going on  and you want to sort of have your mainstay market back there waiting for you to kind of pillow you while you're trying to keep up with everything new that's going on.",
+            "Yeah, there is no reward to revolutionary thinking and merchandising.",
+            "People need to be aware of that slow and validation is better than suddenly changing and trying to do things."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "next big thing",
+            "mainstay market back",
+            "time without",
+            "suddenly changing",
+            "revolutionary thinking",
+            "people need",
+            "new people"
+        ],
+        "trends": [
+            "going",
+            "sort",
+            "new",
+            "market",
+            "everything",
+            "people",
+            "trying"
+        ]
+    },
+    {
+        "sentence": [
+            "My longest and most engaging period of time in the jewelry trade was with Tiffany's many years ago.",
+            "And it was funny in conversations with them,  They were saying, well, we need to find a different customer than the five fives.",
+            "And I go, what's a five five?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many years ago",
+            "jewelry trade",
+            "five fives",
+            "five five",
+            "engaging period",
+            "different customer",
+            "well"
+        ],
+        "trends": [
+            "five",
+            "fives",
+            "conversations",
+            "customer",
+            "different",
+            "saying",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "And so, well, that's a fifth Avenue.",
+            "That's a fifth Avenue customer.",
+            "That's five generations back in terms of how they've had us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "five generations back",
+            "fifth avenue customer",
+            "fifth avenue",
+            "well",
+            "us",
+            "terms"
+        ],
+        "trends": [
+            "avenue",
+            "fifth",
+            "customer",
+            "us",
+            "terms",
+            "generations",
+            "five"
+        ]
+    },
+    {
+        "sentence": [
+            "And they said, okay, well, how's that working?",
+            "It says, well, the first problem is they're not having large families anymore.",
+            "So that's a big one."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large families anymore",
+            "first problem",
+            "big one",
+            "working",
+            "well",
+            "well",
+            "says"
+        ],
+        "trends": [
+            "well",
+            "working",
+            "said",
+            "okay",
+            "says",
+            "problem",
+            "large"
+        ]
+    },
+    {
+        "sentence": [
+            "The second one, which is bigger is that they don't want jewelry.",
+            "They want simple things.",
+            "They want things that are more abstract."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "want simple things",
+            "want things",
+            "want jewelry",
+            "second one",
+            "bigger",
+            "abstract"
+        ],
+        "trends": [
+            "want",
+            "things",
+            "simple",
+            "abstract",
+            "second",
+            "one",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "They want stuff like that.",
+            "So they started putting out an entire line of silver jewelry.",
+            "They started putting out an entire line of silver jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "want stuff like",
+            "started putting",
+            "started putting",
+            "silver jewelry",
+            "silver jewelry",
+            "entire line",
+            "entire line"
+        ],
+        "trends": [
+            "started",
+            "silver",
+            "putting",
+            "line",
+            "jewelry",
+            "entire",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "line of simpler formats and whatnot.",
+            "But they didn't take everything else out of the case.",
+            "Let's be clear here."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take everything else",
+            "simpler formats",
+            "whatnot",
+            "line",
+            "let",
+            "clear",
+            "case"
+        ],
+        "trends": [
+            "whatnot",
+            "simpler",
+            "line",
+            "formats",
+            "take",
+            "everything",
+            "else"
+        ]
+    },
+    {
+        "sentence": [
+            "They still were doing that type of thing.",
+            "They also were coming to the realization that Fifth Avenue was not going to drive the same amount of trade going forward as it had in the past.",
+            "And that became, how do we internationally do I do this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trade going forward",
+            "fifth avenue",
+            "going",
+            "type",
+            "thing",
+            "still",
+            "realization"
+        ],
+        "trends": [
+            "going",
+            "trade",
+            "realization",
+            "past",
+            "forward",
+            "fifth",
+            "drive"
+        ]
+    },
+    {
+        "sentence": [
+            "It was not an overnight change.",
+            "One of the things you saw Tiffany start to do a much better job of repeatedly was getting themselves into movies.",
+            "And I can't overstate how  important is for a special retailer to get themselves into movies because when the residual of that is massive, but there are many countries, particularly China and India, where if they see something in a movie, the desire to see it in person is extraordinarily strong."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "saw tiffany start",
+            "much better job",
+            "special retailer",
+            "particularly china",
+            "overnight change",
+            "many countries",
+            "extraordinarily strong"
+        ],
+        "trends": [
+            "see",
+            "movies",
+            "tiffany",
+            "repeatedly",
+            "getting",
+            "job",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "So the most unusual part of this is there was a Chinese film called Finding Mr.",
+            "Right.",
+            "And it was filmed in Seattle in a small suburban home and nothing special about the house."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "chinese film called finding mr",
+            "small suburban home",
+            "unusual part",
+            "nothing special",
+            "seattle",
+            "right",
+            "house"
+        ],
+        "trends": [
+            "unusual",
+            "part",
+            "suburban",
+            "special",
+            "small",
+            "mr",
+            "finding"
+        ]
+    },
+    {
+        "sentence": [
+            "Trust me, there's absolutely nothing about  The movie came out, it was a hit.",
+            "And since that day onward, there's about a thousand visitors to that house every single bloody day.",
+            "The impact of being in a movie, the impact of being, it's not simply being in commercials."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "house every single bloody day",
+            "day onward",
+            "thousand visitors",
+            "absolutely nothing",
+            "movie came",
+            "movie",
+            "trust"
+        ],
+        "trends": [
+            "movie",
+            "impact",
+            "day",
+            "onward",
+            "absolutely",
+            "came",
+            "hit"
+        ]
+    },
+    {
+        "sentence": [
+            "It's being, can you show myself in the normal rhythm of people's lives?",
+            "And that starts becoming a bigger part of the picture in terms of that.",
+            "When we're looking at immigration and we're looking at the movement of populations across the world, we're seeing the same type of need for being able to communicate to the population."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "starts becoming",
+            "populations across",
+            "normal rhythm",
+            "bigger part",
+            "world",
+            "type",
+            "terms"
+        ],
+        "trends": [
+            "looking",
+            "lives",
+            "show",
+            "rhythm",
+            "people",
+            "normal",
+            "world"
+        ]
+    },
+    {
+        "sentence": [
+            "population that this is the new way of looking at how things happen.",
+            "And that changes things.",
+            "That makes it very, very different."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "things happen",
+            "new way",
+            "changes things",
+            "population",
+            "makes",
+            "looking",
+            "different"
+        ],
+        "trends": [
+            "way",
+            "things",
+            "population",
+            "new",
+            "looking",
+            "happen"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's quite natural the way it occurs.",
+            "It's just that retail invariably is always struggling with what percentage do I dedicate to this?",
+            "How do I position that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail invariably",
+            "quite natural",
+            "always struggling",
+            "way",
+            "position",
+            "percentage",
+            "occurs"
+        ],
+        "trends": [
+            "way",
+            "quite",
+            "occurs",
+            "natural",
+            "struggling",
+            "retail",
+            "percentage"
+        ]
+    },
+    {
+        "sentence": [
+            "Do I show or do I not show?",
+            "And again, this is a trade always going back to the beginning of time where the independent does better than the chain because the independent can respond to it.",
+            "The other way of looking at this, you said, well, how am I going to keep my current trade and keep it for longer?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trade always going back",
+            "current trade",
+            "going",
+            "well",
+            "way",
+            "time",
+            "show"
+        ],
+        "trends": [
+            "trade",
+            "going",
+            "independent",
+            "keep",
+            "well",
+            "said",
+            "looking"
+        ]
+    },
+    {
+        "sentence": [
+            "I always say the same thing, which is you do realize that you will eventually disappear.",
+            "They will eventually move on.",
+            "If you cannot revive your trade, if you cannot bring new blood into your trade in a predictable manner, then having old and existing customers is eventually going to come back and punish you."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cannot bring new blood",
+            "cannot revive",
+            "predictable manner",
+            "existing customers",
+            "eventually move",
+            "eventually going",
+            "eventually disappear"
+        ],
+        "trends": [
+            "trade",
+            "back",
+            "blood",
+            "bring",
+            "come",
+            "eventually",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "So how you do that is also part of that decision making.",
+            "What trends are you seeing the most now in retail?",
+            "What's the big thing that's happening?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "decision making",
+            "big thing",
+            "also part",
+            "trends",
+            "seeing",
+            "retail",
+            "happening"
+        ],
+        "trends": [
+            "thing",
+            "happening",
+            "big",
+            "trends",
+            "seeing",
+            "retail",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "on information technology and cybersecurity.",
+            "I often tell people, if you want to understand the return investment on cybersecurity, it's very simple.",
+            "If you have one mistake, you lose one quarter worth of net margin."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lose one quarter worth",
+            "often tell people",
+            "one mistake",
+            "return investment",
+            "net margin",
+            "information technology",
+            "want"
+        ],
+        "trends": [
+            "cybersecurity",
+            "one",
+            "technology",
+            "net",
+            "lose",
+            "margin",
+            "mistake"
+        ]
+    },
+    {
+        "sentence": [
+            "That's your return investment.",
+            "So most retailers have been upping that game considerably because there's more than enough stories in the industry regarding what happens when things go bad.",
+            "But at the same time, if I'm going to do more in terms of in-store online, in-store digital,  I also have a significant investment in terms of labor."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "things go bad",
+            "store online",
+            "store digital",
+            "significant investment",
+            "return investment",
+            "industry regarding",
+            "game considerably"
+        ],
+        "trends": [
+            "terms",
+            "regarding",
+            "investment",
+            "online",
+            "digital",
+            "going",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "Labor is first needs to be trained, but it's also more expensive than it was before.",
+            "I told a client the other day, I said, when was the last time you heard of about a strike where the union lost?",
+            "Well, that hasn't happened in two years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "union lost",
+            "two years",
+            "last time",
+            "first needs",
+            "well",
+            "trained",
+            "told"
+        ],
+        "trends": [
+            "needs",
+            "expensive",
+            "first",
+            "labor",
+            "also",
+            "trained",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "Labor has never been stronger than it has been in the last 20, 25 years here.",
+            "So you're seeing money go that direction.",
+            "And you're seeing, again, the next thing in retail being how can I engage with the people that I'm working with?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seeing money go",
+            "next thing",
+            "last 20",
+            "25 years",
+            "seeing",
+            "working",
+            "stronger"
+        ],
+        "trends": [
+            "seeing",
+            "money",
+            "go",
+            "direction",
+            "working",
+            "years",
+            "stronger"
+        ]
+    },
+    {
+        "sentence": [
+            "the shopper beyond the store?",
+            "How can I bring them into a better relationship?",
+            "How can I bring them into more trusting relationships so they're willing to work with me, share me data and whatnot?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trusting relationships",
+            "shopper beyond",
+            "better relationship",
+            "work",
+            "willing",
+            "whatnot",
+            "store"
+        ],
+        "trends": [
+            "bring",
+            "relationship",
+            "better",
+            "work",
+            "willing",
+            "whatnot",
+            "trusting"
+        ]
+    },
+    {
+        "sentence": [
+            "That's a challenge and that's hard to do.",
+            "I still have the difficulty in that the stores are not aging well and remodels are starting to happen, but they're still not happening at the pace I would expect to see.",
+            "in any market."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would expect",
+            "aging well",
+            "stores",
+            "still",
+            "still",
+            "starting",
+            "see"
+        ],
+        "trends": [
+            "still",
+            "would",
+            "well",
+            "stores",
+            "starting",
+            "see",
+            "remodels"
+        ]
+    },
+    {
+        "sentence": [
+            "And I include, you know, every market I look at at the moment, there's not remodels occurring the way they should in a normal cycle of time.",
+            "So do you think that the remodel is as important as investment in cybersecurity?",
+            "Like if somebody only has money to put into one versus the other, isn't cybersecurity the more important because they can lose a lot more of their business, even if their store is still a little old fashioned or not as tech savvy as it should be?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little old fashioned",
+            "tech savvy",
+            "remodels occurring",
+            "one versus",
+            "normal cycle",
+            "every market",
+            "way"
+        ],
+        "trends": [
+            "way",
+            "occurring",
+            "cycle",
+            "every",
+            "include",
+            "cybersecurity",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "And you just express the equation  that everybody's dealing with.",
+            "I know I have to do something about the store.",
+            "I know I need to do something about digital technology with our shoppers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "digital technology",
+            "store",
+            "something",
+            "something",
+            "shoppers",
+            "need",
+            "know"
+        ],
+        "trends": [
+            "something",
+            "know",
+            "express",
+            "everybody",
+            "equation",
+            "technology",
+            "shoppers"
+        ]
+    },
+    {
+        "sentence": [
+            "I know I have to train labor.",
+            "I know there's so many other costs that I didn't have three or four years ago.",
+            "But at the same time, it's very easy for me to look around and see what happens when things go bad."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "things go bad",
+            "four years ago",
+            "train labor",
+            "look around",
+            "time",
+            "three",
+            "see"
+        ],
+        "trends": [
+            "know",
+            "years",
+            "many",
+            "costs",
+            "four",
+            "ago",
+            "three"
+        ]
+    },
+    {
+        "sentence": [
+            "Up in Canada, a chain called Sobeys was hit by a hacking attack.",
+            "And literally, they lost half of one quarter of net margin in what was a  essentially three or four days of having their pharmacy taken offline.",
+            "The impact is huge."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pharmacy taken offline",
+            "chain called sobeys",
+            "one quarter",
+            "net margin",
+            "lost half",
+            "hacking attack",
+            "four days"
+        ],
+        "trends": [
+            "days",
+            "essentially",
+            "four",
+            "attack",
+            "hit",
+            "sobeys",
+            "called"
+        ]
+    },
+    {
+        "sentence": [
+            "And we've seen this repeatedly in terms of where you see if that failure goes as far as the shopper, then it gets even worse.",
+            "There was a chain down in Chile where hackers got into it and every receipt that came out of the point of sales said, congratulations, I now have all your credit card information.",
+            "That tends to put a lot of pressure on the retailers to settle or do something."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "gets even worse",
+            "credit card information",
+            "sales said",
+            "hackers got",
+            "failure goes",
+            "every receipt",
+            "terms"
+        ],
+        "trends": [
+            "even",
+            "failure",
+            "far",
+            "lot",
+            "put",
+            "tends",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's reality.",
+            "It's not going away.",
+            "So when we look at the trade-off, I think the real key to the trade-off is when you start seeing a much more intense competitive environment between stores that we haven't seen for the last four years."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last four years",
+            "intense competitive environment",
+            "start seeing",
+            "real key",
+            "going away",
+            "trade",
+            "trade"
+        ],
+        "trends": [
+            "years",
+            "think",
+            "stores",
+            "start",
+            "seen",
+            "seeing",
+            "real"
+        ]
+    },
+    {
+        "sentence": [
+            "If you think about 2020, you went to a store and you spent money if it was open.",
+            "You didn't care what it was.",
+            "You just bought it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "spent money",
+            "went",
+            "think",
+            "store",
+            "open",
+            "care",
+            "bought"
+        ],
+        "trends": [
+            "went",
+            "think",
+            "store",
+            "spent",
+            "open",
+            "money"
+        ]
+    },
+    {
+        "sentence": [
+            "In 2021, you went and you bought whatever they had because they were having inventory issues.",
+            "So you grab that.",
+            "In 2022, you started seeing prices going up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started seeing prices going",
+            "inventory issues",
+            "bought whatever",
+            "went",
+            "grab",
+            "2022",
+            "2021"
+        ],
+        "trends": [
+            "started",
+            "seeing",
+            "prices",
+            "going",
+            "whatever",
+            "went",
+            "issues"
+        ]
+    },
+    {
+        "sentence": [
+            "I  does.",
+            "And that's the importance of that.",
+            "And that's a lesson we learned 10, 15 years ago is investing overwhelmingly into new stores doesn't have the return that you would hope it would."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "15 years ago",
+            "new stores",
+            "learned 10",
+            "investing overwhelmingly",
+            "would hope",
+            "would",
+            "return"
+        ],
+        "trends": [
+            "would",
+            "years",
+            "stores",
+            "return",
+            "overwhelmingly",
+            "new",
+            "lesson"
+        ]
+    },
+    {
+        "sentence": [
+            "Remodels does.",
+            "So, you know, if I'm running a company, I have choices.",
+            "None of them are really good choices at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really good choices",
+            "choices",
+            "running",
+            "remodels",
+            "none",
+            "moment",
+            "know"
+        ],
+        "trends": [
+            "choices",
+            "running",
+            "know",
+            "company",
+            "really",
+            "none",
+            "moment"
+        ]
+    },
+    {
+        "sentence": [
+            "But I got to make some of them.",
+            "I said, okay, next year, I'll remodel or in the case of some companies, I remodeled three, four years ago, I can get another four or five years out of that.",
+            "That's reality."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get another four",
+            "four years ago",
+            "five years",
+            "remodeled three",
+            "next year",
+            "said",
+            "remodel"
+        ],
+        "trends": [
+            "years",
+            "four",
+            "year",
+            "three",
+            "said",
+            "remodeled",
+            "remodel"
+        ]
+    },
+    {
+        "sentence": [
+            "I can't over emphasize enough  of the role of labor in this picture because I've asked repeatedly senior people in retail, so how did you get this job?",
+            "And I said, well, you know, I went to school to do this and I did that and I needed the money.",
+            "So I joined a company and I need, you know, I had a family and the next thing you know, I'm a chief executive officer at a retail company."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "asked repeatedly senior people",
+            "chief executive officer",
+            "next thing",
+            "emphasize enough",
+            "retail company",
+            "retail",
+            "company"
+        ],
+        "trends": [
+            "know",
+            "retail",
+            "company",
+            "ca",
+            "emphasize",
+            "went",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "And I said, so you didn't go into retail?",
+            "I said, no, this was an accident.",
+            "Another way of putting it is retail is almost everybody's second choice."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "second choice",
+            "another way",
+            "almost everybody",
+            "said",
+            "said",
+            "retail",
+            "retail"
+        ],
+        "trends": [
+            "retail",
+            "said",
+            "go",
+            "way",
+            "second",
+            "putting",
+            "everybody"
+        ]
+    },
+    {
+        "sentence": [
+            "And if you're in retail, you know why it should be second choice.",
+            "business.",
+            "That's where we're at at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "second choice",
+            "retail",
+            "moment",
+            "know",
+            "business"
+        ],
+        "trends": [
+            "second",
+            "retail",
+            "know",
+            "choice"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a lot of people that have come into retail recently are starting to learn.",
+            "It's starting to learn that you can make a living out of it.",
+            "You can put your kids to school, whatever you need to do."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail recently",
+            "whatever",
+            "starting",
+            "starting",
+            "school",
+            "put",
+            "people"
+        ],
+        "trends": [
+            "starting",
+            "learn",
+            "retail",
+            "whatever",
+            "make",
+            "living",
+            "school"
+        ]
+    },
+    {
+        "sentence": [
+            "That's all good, but there's at the beginning of their career.",
+            "So the cost of labor and the cost of labor to make it better and fit and to retain it is to me a bigger issue than almost anything else, whether people talk about it or not.",
+            "I think one of the funny comments I've heard more  than once is chief executive officer saying, I never thought I would care more about employees than shoppers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "chief executive officer saying",
+            "whether people talk",
+            "almost anything else",
+            "would care",
+            "think one",
+            "never thought",
+            "funny comments"
+        ],
+        "trends": [
+            "cost",
+            "labor",
+            "employees",
+            "comments",
+            "chief",
+            "never",
+            "executive"
+        ]
+    },
+    {
+        "sentence": [
+            "That's an interesting moment.",
+            "I can always find shoppers.",
+            "I can't find employees."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always find shoppers",
+            "find employees",
+            "interesting moment"
+        ],
+        "trends": [
+            "find",
+            "employees",
+            "ca",
+            "shoppers",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "So the equation has changed and the costs have changed.",
+            "Where it goes.",
+            "I don't know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "know",
+            "goes",
+            "equation",
+            "costs",
+            "changed",
+            "changed"
+        ],
+        "trends": [
+            "changed",
+            "equation",
+            "costs"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say that, you know, this is a place where when you have more people die and you have less people being born, if you don't have immigration, you're going to have issues.",
+            "You got to bring more people into the market to make  happen.",
+            "So the tensions are all over that picture."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would say",
+            "make happen",
+            "people die",
+            "less people",
+            "people",
+            "tensions",
+            "place"
+        ],
+        "trends": [
+            "people",
+            "would",
+            "say",
+            "place",
+            "less",
+            "market",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, they're going to continue as we go forward.",
+            "So that's like a really hard call, because when I'm listening to you, my initial thought is, wow, that's crazy.",
+            "The incident in Chile with the receipts and everything like that, you know, I would think that that would be where the money needs to go most to be invested."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really hard call",
+            "money needs",
+            "initial thought",
+            "would think",
+            "go forward",
+            "everything like",
+            "would"
+        ],
+        "trends": [
+            "would",
+            "go",
+            "like",
+            "crazy",
+            "hard",
+            "initial",
+            "wow"
+        ]
+    },
+    {
+        "sentence": [
+            "But then I also understand when you're talking about remodeling in the competition and the fact that, you know, shoppers are important, but  having somebody to service them and somebody who can service them well is also important.",
+            "And it leaves me wondering, what can people do?",
+            "Is there sort of not necessarily an easy fix, but maybe a bandaid that can help them where they can invest most of their money in the cyber issues so that they don't have to worry about losing everything that they make to a cyber attack."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "losing everything",
+            "easy fix",
+            "cyber issues",
+            "cyber attack",
+            "also understand",
+            "also important",
+            "important"
+        ],
+        "trends": [
+            "also",
+            "somebody",
+            "service",
+            "important",
+            "cyber",
+            "worry",
+            "attack"
+        ]
+    },
+    {
+        "sentence": [
+            "But are there small fixes or things that they can do, remodels,  something easy that can make the store a lot more appealing and still not cost them a lot of money.",
+            "And I'm seeing that what I refer to is remodels in place.",
+            "In other words, taking the store and reviving different elements of it that are visual and apparent to the shopper without redoing the whole store."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "shopper without redoing",
+            "reviving different elements",
+            "something easy",
+            "small fixes",
+            "whole store",
+            "store",
+            "store"
+        ],
+        "trends": [
+            "store",
+            "lot",
+            "different",
+            "elements",
+            "redoing",
+            "without",
+            "reviving"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not bringing in a construction crew.",
+            "I'm going to redo an aisle.",
+            "I'm going to redo a certain department that has a certain high affinity to  to shoppers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "certain high affinity",
+            "certain department",
+            "construction crew",
+            "shoppers",
+            "redo",
+            "redo",
+            "going"
+        ],
+        "trends": [
+            "redo",
+            "going",
+            "certain",
+            "crew",
+            "construction",
+            "aisle",
+            "shoppers"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm going to change the light.",
+            "Actually, it's interesting.",
+            "I've always found fascinating, at least to me, I can increase my sales by 2% by changing the lamps in my lighting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always found fascinating",
+            "sales",
+            "lighting",
+            "light",
+            "least",
+            "lamps",
+            "interesting"
+        ],
+        "trends": [
+            "light",
+            "sales",
+            "lighting",
+            "least",
+            "lamps",
+            "increase",
+            "found"
+        ]
+    },
+    {
+        "sentence": [
+            "It doesn't matter if I make them brighter, darker, no difference whatsoever.",
+            "The change seems to cause people to buy more stuff.",
+            "So simply changing your lighting, which is not an expensive thing to do, can change the entire store."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "simply changing",
+            "expensive thing",
+            "entire store",
+            "difference whatsoever",
+            "cause people",
+            "change seems",
+            "change"
+        ],
+        "trends": [
+            "change",
+            "stuff",
+            "seems",
+            "whatsoever",
+            "difference",
+            "darker",
+            "brighter"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, all the colors change immediately.",
+            "So you're seeing some of that.",
+            "You're seeing a lot of that, actually."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "colors change immediately",
+            "seeing",
+            "seeing",
+            "lot",
+            "know",
+            "actually"
+        ],
+        "trends": [
+            "seeing",
+            "lot",
+            "actually",
+            "know",
+            "immediately",
+            "colors",
+            "change"
+        ]
+    },
+    {
+        "sentence": [
+            "And I've seen some of the  larger, more creative retailers doing exactly that.",
+            "But if you stand back and you knew something about construction, if you know something about new stores, you can see that what they're doing is really tweaks.",
+            "They're putting in stuff that's highly effective, but relatively minimal based on their other responsibilities they have to do to make it happen."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "relatively minimal based",
+            "stand back",
+            "really tweaks",
+            "new stores",
+            "know something",
+            "knew something",
+            "highly effective"
+        ],
+        "trends": [
+            "something",
+            "minimal",
+            "make",
+            "stuff",
+            "happen",
+            "putting",
+            "exactly"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's funny you say that actually, I noticed my local grocery store just recently about a month ago, they used to have these white shelves for all the produce.",
+            "and it was just one big bin and it looked dirty and like everything had been thrown on and they pulled all those out and they put in these wood shelves that were sort of like tiered shelves and it looks so much nicer and I actually find myself preferring to go there now than I did before so I can see how one little change could make a big difference.",
+            "I mean I'm still spending my money there regardless but I feel better about it when I do."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one little change could make",
+            "one big bin",
+            "local grocery store",
+            "like tiered shelves",
+            "like everything",
+            "big difference",
+            "wood shelves"
+        ],
+        "trends": [
+            "shelves",
+            "big",
+            "like",
+            "one",
+            "actually",
+            "noticed",
+            "spending"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's a good story.",
+            "I mean for a retailer it's as important to retain shelves  is to get new ones.",
+            "And part of this effort is based on that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get new ones",
+            "retain shelves",
+            "good story",
+            "retailer",
+            "part",
+            "mean",
+            "important"
+        ],
+        "trends": [
+            "part",
+            "effort",
+            "shelves",
+            "retain",
+            "retailer",
+            "ones",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "I personally believe it can only go so far.",
+            "I think at some point or another, competition between retailers will intensify to the point where they will have to start spending more money in the stores.",
+            "But at the moment, they still can get by on relatively small changes and keep the same shoppers they've had before."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "relatively small changes",
+            "start spending",
+            "personally believe",
+            "think",
+            "stores",
+            "still",
+            "shoppers"
+        ],
+        "trends": [
+            "point",
+            "still",
+            "changes",
+            "small",
+            "shoppers",
+            "relatively",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "OK, so I'm going to go back to something we were talking about before, but in a different way.",
+            "I'm relying back on the old holidays, even though I know you said  that the old holidays aren't working so much anymore.",
+            "What is it looking like?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "relying back",
+            "old holidays",
+            "old holidays",
+            "much anymore",
+            "looking like",
+            "go back",
+            "even though"
+        ],
+        "trends": [
+            "holidays",
+            "old",
+            "working",
+            "even",
+            "back",
+            "going",
+            "talking"
+        ]
+    },
+    {
+        "sentence": [
+            "I know it's a bit early still, but how is Christmas shaping up this year?",
+            "Do you think that it's going to be as big of a holiday this year as it's been in the past?",
+            "Are there going to be changes in what people are looking for and buying?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bit early still",
+            "christmas shaping",
+            "year",
+            "year",
+            "think",
+            "people",
+            "past"
+        ],
+        "trends": [
+            "going",
+            "year",
+            "people",
+            "looking",
+            "think",
+            "past",
+            "holiday"
+        ]
+    },
+    {
+        "sentence": [
+            "What do you think we're going to see?",
+            "I think you're going to see a continuation of what we've seen going before the pandemic, which is you no longer have Black Friday as being the starting point  You no longer see this bang, you know, it's the day after Thanksgiving.",
+            "We're now going to do Christmas shopping."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "starting point",
+            "christmas shopping",
+            "black friday",
+            "seen going",
+            "longer see",
+            "longer",
+            "see"
+        ],
+        "trends": [
+            "going",
+            "see",
+            "think",
+            "longer",
+            "shopping",
+            "christmas",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "That's not happening.",
+            "What you're going to see is the overall buying season for Christmas expanding outward.",
+            "And it has been for the last few years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "overall buying season",
+            "christmas expanding outward",
+            "years",
+            "see",
+            "last",
+            "happening",
+            "going"
+        ],
+        "trends": [
+            "see",
+            "season",
+            "overall",
+            "outward",
+            "going",
+            "expanding",
+            "christmas"
+        ]
+    },
+    {
+        "sentence": [
+            "You're going to see people still spend on Christmas.",
+            "From a retail perspective, this is going to be, I shouldn't say is going to be, it is frustrating in that did people buy that for a gift?",
+            "Did people buy that for Christmas or did they buy it for whatever?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "see people still spend",
+            "people buy",
+            "people buy",
+            "retail perspective",
+            "buy",
+            "whatever",
+            "say"
+        ],
+        "trends": [
+            "people",
+            "buy",
+            "going",
+            "christmas",
+            "say",
+            "retail",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "It used to be easy to get a gift.",
+            "If they bought anything after the 25th of November until the 25th of December, hey, that was Christmas.",
+            "We knew that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bought anything",
+            "used",
+            "november",
+            "knew",
+            "hey",
+            "gift",
+            "get"
+        ],
+        "trends": [
+            "used",
+            "gift",
+            "get",
+            "easy",
+            "november",
+            "hey",
+            "december"
+        ]
+    },
+    {
+        "sentence": [
+            "Now we don't know that.",
+            "And that reorients the way that I look at this in terms of what's happening.",
+            "We're also seeing changes to major retail holidays like Black Friday, where it becomes essentially a whole week because it's online, it's in stores, it's on different medias and whatnot."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "major retail holidays like black friday",
+            "also seeing changes",
+            "whole week",
+            "different medias",
+            "becomes essentially",
+            "whatnot",
+            "way"
+        ],
+        "trends": [
+            "whole",
+            "holidays",
+            "becomes",
+            "black",
+            "changes",
+            "way",
+            "terms"
+        ]
+    },
+    {
+        "sentence": [
+            "It doesn't mean that people aren't spending.",
+            "It's just that they're spending over time.",
+            "in a panic, which is so much part of that holiday that you see."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much part",
+            "time",
+            "spending",
+            "spending",
+            "see",
+            "people",
+            "panic"
+        ],
+        "trends": [
+            "see",
+            "part",
+            "panic",
+            "much",
+            "holiday",
+            "spending",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "Interesting enough, you're seeing the same thing in countries like Japan, where you have the year end sales, where people are doing the holiday sales there.",
+            "You see in Mexico for La Bonfin, which is the good weekend.",
+            "The good weekend now is 15 days long."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "countries like japan",
+            "15 days long",
+            "year end sales",
+            "holiday sales",
+            "la bonfin",
+            "interesting enough",
+            "good weekend"
+        ],
+        "trends": [
+            "good",
+            "weekend",
+            "sales",
+            "people",
+            "like",
+            "la",
+            "mexico"
+        ]
+    },
+    {
+        "sentence": [
+            "So you're seeing these major events stretch.",
+            "And that becomes a frustration, but also an opportunity for retail because it gives them more space to operate in.",
+            "It gives them more space to correct what's happening."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "major events stretch",
+            "space",
+            "space",
+            "seeing",
+            "retail",
+            "opportunity",
+            "operate"
+        ],
+        "trends": [
+            "space",
+            "gives",
+            "happening",
+            "correct",
+            "retail",
+            "opportunity",
+            "stretch"
+        ]
+    },
+    {
+        "sentence": [
+            "But it is at the same time,  more frustrating in terms of the amount of inventory you have to take on, how you're spacing your promotions.",
+            "All of that comes back to how it is.",
+            "Do I think Christmas will be up or down?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think christmas",
+            "comes back",
+            "time",
+            "terms",
+            "take",
+            "spacing",
+            "promotions"
+        ],
+        "trends": [
+            "time",
+            "terms",
+            "take",
+            "spacing",
+            "promotions",
+            "inventory",
+            "frustrating"
+        ]
+    },
+    {
+        "sentence": [
+            "My suspicion at the moment is Christmas will probably be better than it was previous to the pandemic.",
+            "But I don't think it will be grotesquely more.",
+            "And I think most retailers are going to get frustrated."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get frustrated",
+            "think",
+            "think",
+            "suspicion",
+            "retailers",
+            "probably",
+            "previous"
+        ],
+        "trends": [
+            "think",
+            "retailers",
+            "going",
+            "suspicion",
+            "probably",
+            "previous",
+            "pandemic"
+        ]
+    },
+    {
+        "sentence": [
+            "How do I measure that?",
+            "How do I know that was the uptick?",
+            "And we're just going to have to take it apart as it comes along."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "comes along",
+            "uptick",
+            "take",
+            "measure",
+            "know",
+            "going",
+            "apart"
+        ],
+        "trends": [
+            "take",
+            "going",
+            "comes",
+            "apart",
+            "along"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think if we can assume that, you know, like last year, I know people started shopping early.",
+            "started shopping at the beginning of October, even at the end of September for Christmas.",
+            "And it was the retailers that started offering Christmas sales early too, because they wanted to capitalize on the holiday, especially because of the inventory issue."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started offering christmas sales early",
+            "know people started shopping early",
+            "like last year",
+            "started shopping",
+            "inventory issue",
+            "know",
+            "christmas"
+        ],
+        "trends": [
+            "started",
+            "shopping",
+            "know",
+            "christmas",
+            "early",
+            "year",
+            "beginning"
+        ]
+    },
+    {
+        "sentence": [
+            "So they were trying to get it spread out so they didn't have a rush of people getting inventory and then they didn't have anything to replace it with.",
+            "But is it true that overall sales are still the same as it would be if you had slower sales pre-Christmas?",
+            "and then that big tail end to the week before Christmas versus having it spread out that you're still getting the same amount or more."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big tail end",
+            "slower sales pre",
+            "people getting inventory",
+            "overall sales",
+            "still getting",
+            "christmas versus",
+            "still"
+        ],
+        "trends": [
+            "still",
+            "getting",
+            "spread",
+            "sales",
+            "people",
+            "anything",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just spread out a little bit more and that you can basically assume that Christmas is now a little bit longer.",
+            "And doesn't that in fact tie in with your theory that the old traditional holidays aren't doing as well and that we sort of need to make new holidays?",
+            "And this is sort of like the pre-Christmas Christmas that didn't happen before, you know, where you, it actually to me would seem easier  you have a better inventory flow so you're not having like a rush on the things that are popular like a certain video game that's in vogue and everybody is coming and rushing to get it and then you have none or you order too much because you expect a huge rush and then you're left with extras that you can't sell that you're being able to accommodate for the inventory that you need in a better way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would seem easier",
+            "old traditional holidays",
+            "make new holidays",
+            "certain video game",
+            "little bit longer",
+            "better inventory flow",
+            "little bit"
+        ],
+        "trends": [
+            "like",
+            "little",
+            "bit",
+            "inventory",
+            "better",
+            "rush",
+            "holidays"
+        ]
+    },
+    {
+        "sentence": [
+            "I would think that's a good thing though.",
+            "Well you touch on something that is quite serious and that again is a good example of the disruptions we've been through.",
+            "A year ago we would have been  and  much if it's something that's coming out of say China, which right now is still a very unpredictable market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "good thing though",
+            "good example",
+            "year ago",
+            "unpredictable market",
+            "say china",
+            "quite serious",
+            "would think"
+        ],
+        "trends": [
+            "good",
+            "would",
+            "something",
+            "well",
+            "touch",
+            "serious",
+            "disruptions"
+        ]
+    },
+    {
+        "sentence": [
+            "I have to take that inventory in much earlier than I want to and take ownership of it.",
+            "One of the odd things in the United States at the moment that we saw the beginning of July is almost every retailer was putting out Halloween product.",
+            "Well, Halloween doesn't happen until October 31st."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "almost every retailer",
+            "united states",
+            "odd things",
+            "october 31st",
+            "much earlier",
+            "take ownership",
+            "halloween product"
+        ],
+        "trends": [
+            "take",
+            "halloween",
+            "much",
+            "earlier",
+            "inventory",
+            "ownership",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "So literally it's on the floor for over 90 days.",
+            "And everybody was saying, well, they're trying to get the shopper used to it.",
+            "They're trying to get the shopper to see that they're in the Halloween business."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "halloween business",
+            "90 days",
+            "shopper used",
+            "shopper",
+            "well",
+            "trying",
+            "trying"
+        ],
+        "trends": [
+            "shopper",
+            "trying",
+            "get",
+            "literally",
+            "floor",
+            "days",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "They're being competitive with each other and I was probably the only person that said they had to take the inventory early and they had to put it someplace So they put it in the store and that's what you're so overwhelmingly is they put it in the store I'm not sure how much of that's gonna happen this year, but that is part of the balancing act you always have in retail I can't sell inventory unless I have it but if I have inventory it ties up my money until I sell it and that financial tension is not going away and I think a lot of the holiday sales leather promotions  sales that we're dealing with now are reflecting that caution in terms of retailers as they're looking at where to put that money and where to invest.",
+            "Very interesting, Dave.",
+            "Thank you so much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "holiday sales leather promotions sales",
+            "sell inventory unless",
+            "inventory early",
+            "gonna happen",
+            "going away",
+            "financial tension",
+            "balancing act"
+        ],
+        "trends": [
+            "put",
+            "inventory",
+            "store",
+            "sell",
+            "sales",
+            "money",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "That really gives us a great overview of retail sector and what to expect.",
+            "And I really look forward to seeing what actually happens during the year and to what retailers are going to be doing and how things will shape up.",
+            "So we appreciate your time and thanks for joining us today."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really look forward",
+            "really gives us",
+            "joining us today",
+            "retail sector",
+            "great overview",
+            "actually happens",
+            "year"
+        ],
+        "trends": [
+            "us",
+            "really",
+            "great",
+            "expect",
+            "sector",
+            "today",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "No worries.",
+            "It's been a pleasure as always, Larry.",
+            "Thank you for listening to this episode of the Rappaport Diamond podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "worries",
+            "thank",
+            "pleasure",
+            "listening",
+            "larry",
+            "episode"
+        ],
+        "trends": [
+            "pleasure",
+            "larry",
+            "always",
+            "thank",
+            "rappaport",
+            "podcast",
+            "listening"
+        ]
+    },
+    {
+        "sentence": [
+            "For more discussions, news and analysis about the diamond industry, visit us at Rappaport.com.",
+            "Follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit us",
+            "diamond industry",
+            "rappaport",
+            "twitter"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "get",
+            "visit",
+            "us",
+            "diamond",
+            "discussions"
+        ]
+    },
+    {
+        "sentence": [
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [],
+        "trends": []
+    }
+]

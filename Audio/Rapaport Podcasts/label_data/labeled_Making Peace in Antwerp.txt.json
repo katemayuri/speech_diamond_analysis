@@ -1,0 +1,4045 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "Diamond Center, the AWDC, the main trade body for the Belgian diamond industry.",
+            "In this extremely open interview, Izzy spoke about the creation of his family business, the challenges and opportunities facing the Antwerp diamond sector, and gave the inside story on the G7 sanctions and attempts to make Antwerp into the single entry point for Roth."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "single entry point",
+            "main trade body",
+            "extremely open interview",
+            "rappaport diamond podcast",
+            "belgian diamond industry",
+            "antwerp diamond sector",
+            "diamond center"
+        ],
+        "trends": [
+            "diamond",
+            "antwerp",
+            "awdc",
+            "belgian",
+            "body",
+            "welcome",
+            "host"
+        ]
+    },
+    {
+        "sentence": [
+            "Enjoy the episode.",
+            "a background to your company, to Diley Diamond, and how the business came to be.",
+            "Thank you for having me, Josh."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diley diamond",
+            "business came",
+            "thank",
+            "josh",
+            "episode",
+            "enjoy",
+            "company"
+        ],
+        "trends": [
+            "diley",
+            "diamond",
+            "company",
+            "came",
+            "business",
+            "background"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a real privilege.",
+            "It's an honor.",
+            "It's a pleasure."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real privilege",
+            "pleasure",
+            "honor"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "When you invited me for this podcast interview, I asked a good friend if I should accept it because it's really not my style.",
+            "No, my friend replied, number one, it's your style.",
+            "And on my advice, you should apply your business rhetoric to the interview."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "number one",
+            "good friend",
+            "friend replied",
+            "business rhetoric",
+            "podcast interview",
+            "interview",
+            "style"
+        ],
+        "trends": [
+            "style",
+            "friend",
+            "interview",
+            "replied",
+            "rhetoric",
+            "business",
+            "apply"
+        ]
+    },
+    {
+        "sentence": [
+            "Breathe straightforward and honest.",
+            "So here I'm hoping I won't offend anyone.",
+            "Let me start about the Dali Diamond history."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "dali diamond history",
+            "offend anyone",
+            "breathe straightforward",
+            "start",
+            "let",
+            "hoping",
+            "honest"
+        ],
+        "trends": [
+            "straightforward",
+            "honest",
+            "breathe",
+            "wo",
+            "offend",
+            "start",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "I find it difficult to speak about myself as it's written in the scripture that self-praise is not really commendable.",
+            "However, credit for Dali Diamond goes entirely to the first generation, to the founders of Dali Diamond, my father, my uncle, and a good friend of the company Abraham Hollander.",
+            "The story is a story of triumph and survival."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "dali diamond goes entirely",
+            "company abraham hollander",
+            "dali diamond",
+            "really commendable",
+            "good friend",
+            "first generation",
+            "written"
+        ],
+        "trends": [
+            "story",
+            "dali",
+            "diamond",
+            "written",
+            "speak",
+            "scripture",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "My father and uncle, along with parents and four additional siblings, escaped from Poland to Kazakhstan during the war.",
+            "After the war, they received refugee papers, visas to move to Belgium.",
+            "And Artur was the obvious choice."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "received refugee papers",
+            "four additional siblings",
+            "obvious choice",
+            "war",
+            "war",
+            "visas",
+            "uncle"
+        ],
+        "trends": [
+            "war",
+            "papers",
+            "belgium",
+            "visas",
+            "move",
+            "received",
+            "refugee"
+        ]
+    },
+    {
+        "sentence": [
+            "It was a choice where all refugees from all over the world were accepted with open hands.",
+            "It was government policy.",
+            "It was also the famous mayor of  the town of Kreibers, who wanted very much to rebuild the diamond industry, the diamond business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "open hands",
+            "government policy",
+            "famous mayor",
+            "diamond industry",
+            "diamond business",
+            "world",
+            "wanted"
+        ],
+        "trends": [
+            "diamond",
+            "rebuild",
+            "much",
+            "mayor",
+            "wanted",
+            "world",
+            "open"
+        ]
+    },
+    {
+        "sentence": [
+            "I knew the right ingredient is to try to get back survivors from the war.",
+            "People who had linked to artwork to rebuild it.",
+            "So that's how my father, my uncle landed here with the four brothers and sisters and my grandparents."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get back survivors",
+            "uncle landed",
+            "right ingredient",
+            "four brothers",
+            "war",
+            "try",
+            "sisters"
+        ],
+        "trends": [
+            "artwork",
+            "linked",
+            "uncle",
+            "brothers",
+            "father",
+            "four",
+            "grandparents"
+        ]
+    },
+    {
+        "sentence": [
+            "It was a very interesting scene in Belgium as the mayor  and some survivors who lived already in Belgium were waiting for people in the train station to pick them up and to say, no time to speak, let's go to work.",
+            "And that was the flourishing new diamond industry of cleavers and polishers who started.",
+            "So with a very modest start, we were able to build with the first generation what we accomplished today."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "flourishing new diamond industry",
+            "train station",
+            "modest start",
+            "lived already",
+            "interesting scene",
+            "first generation",
+            "accomplished today"
+        ],
+        "trends": [
+            "belgium",
+            "modest",
+            "accomplished",
+            "build",
+            "started",
+            "industry",
+            "polishers"
+        ]
+    },
+    {
+        "sentence": [
+            "the site holder and the large player in the diamond industry that it is today.",
+            "as well.",
+            "So that's how Dali was created more than 70 years ago."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "70 years ago",
+            "site holder",
+            "large player",
+            "diamond industry",
+            "well",
+            "today",
+            "dali"
+        ],
+        "trends": [
+            "years",
+            "dali",
+            "created",
+            "today",
+            "site",
+            "player",
+            "large"
+        ]
+    },
+    {
+        "sentence": [
+            "They started as cleavers.",
+            "I don't know if young Josh who knows what's cleaving, cleaving was preparers.",
+            "That was two-stage, was preparers of the rough."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "young josh",
+            "two",
+            "started",
+            "stage",
+            "rough",
+            "preparers",
+            "preparers"
+        ],
+        "trends": [
+            "cleaving",
+            "young",
+            "preparers",
+            "knows",
+            "know",
+            "josh"
+        ]
+    },
+    {
+        "sentence": [
+            "And then it went to people who used to manufacture.",
+            "So they were the cleavers and dealers of rough.",
+            "And they gained the name of honesty, of transparency, of right ethic behavior."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "right ethic behavior",
+            "went",
+            "used",
+            "transparency",
+            "rough",
+            "people",
+            "name"
+        ],
+        "trends": [
+            "rough",
+            "dealers",
+            "cleavers",
+            "transparency",
+            "right",
+            "name",
+            "went"
+        ]
+    },
+    {
+        "sentence": [
+            "Much before it was compulsory, it was their choice.",
+            "They believed that's the survival.",
+            "And that's how they created the business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "survival",
+            "much",
+            "created",
+            "compulsory",
+            "choice",
+            "business",
+            "believed"
+        ],
+        "trends": [
+            "much",
+            "compulsory",
+            "choice"
+        ]
+    },
+    {
+        "sentence": [
+            "When the second generation came in, they decided it's time to flirt a little bit with polish.",
+            "And that's how we started to manufacturing rough into polish.",
+            "And that's how we created a quite strong net of polish sales all over the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "second generation came",
+            "quite strong net",
+            "manufacturing rough",
+            "little bit",
+            "polish sales",
+            "polish",
+            "polish"
+        ],
+        "trends": [
+            "polish",
+            "started",
+            "world",
+            "quite",
+            "created",
+            "net",
+            "sales"
+        ]
+    },
+    {
+        "sentence": [
+            "And especially our relation with the brands who is quite more than 30 years.",
+            "who is a cornerstone in the cleanish goods in Europe, came into an obvious part of the business.",
+            "So we had from one side the preparing business, the dealing business in Routh, and then we had the Polish business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one side",
+            "obvious part",
+            "cleanish goods",
+            "30 years",
+            "preparing business",
+            "polish business",
+            "dealing business"
+        ],
+        "trends": [
+            "business",
+            "years",
+            "especially",
+            "part",
+            "goods",
+            "europe",
+            "cornerstone"
+        ]
+    },
+    {
+        "sentence": [
+            "Needless to say, in the 1980s, the Russian came, Malroza came into the game.",
+            "Once they separated with their commitment and contract with the beers, and they were looking for clients.",
+            "was one of the first clients in Russia in the rough."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian came",
+            "malroza came",
+            "first clients",
+            "clients",
+            "separated",
+            "say",
+            "russia"
+        ],
+        "trends": [
+            "clients",
+            "came",
+            "russia",
+            "rough",
+            "one",
+            "separated",
+            "looking"
+        ]
+    },
+    {
+        "sentence": [
+            "We then already decided that beneficiation is the right key to business.",
+            "We manufactured a lot of smaller goods in Gomel, Belarus.",
+            "It's funny that my father always said he was safe during the war in Kazakhstan."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "father always said",
+            "smaller goods",
+            "right key",
+            "already decided",
+            "war",
+            "safe",
+            "manufactured"
+        ],
+        "trends": [
+            "goods",
+            "belarus",
+            "gomel",
+            "beneficiation",
+            "business",
+            "decided",
+            "already"
+        ]
+    },
+    {
+        "sentence": [
+            "He always mentioned when you see, today it's not so popular to say it on the podcast, but he said when you see Russian officials, thank him again that thanks to the Russian  the war.",
+            "started with a turnover of 50,000.",
+            "We grew it into a consolidated turnover of 850 million."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see russian officials",
+            "always mentioned",
+            "850 million",
+            "consolidated turnover",
+            "see",
+            "russian",
+            "turnover"
+        ],
+        "trends": [
+            "russian",
+            "see",
+            "war",
+            "popular",
+            "mentioned",
+            "officials",
+            "podcast"
+        ]
+    },
+    {
+        "sentence": [
+            "And mainly the turnover was done here in Belgium was about 500 million.",
+            "So our attachment, our link with artwork as being here and having our headquarters is steadfast.",
+            "And how focused has the firm been on those top luxury brands?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "top luxury brands",
+            "500 million",
+            "turnover",
+            "steadfast",
+            "mainly",
+            "link",
+            "headquarters"
+        ],
+        "trends": [
+            "top",
+            "luxury",
+            "focused",
+            "firm",
+            "brands",
+            "steadfast",
+            "link"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm obviously not asking you to name any names of clients, but what proportion of your  revenue has come from those top jewelry houses?",
+            "At least 30 or 40 percent of the revenue from the Polish goods coming from the cleanish goods.",
+            "We have clients in France, we have clients in Switzerland, we have clients in USA."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "top jewelry houses",
+            "polish goods coming",
+            "cleanish goods",
+            "least 30",
+            "40 percent",
+            "usa",
+            "switzerland"
+        ],
+        "trends": [
+            "clients",
+            "goods",
+            "revenue",
+            "cleanish",
+            "coming",
+            "least",
+            "percent"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, it goes a little bit with our motto of long term vision of consistency and not being afraid to keep inventory and also with commitment.",
+            "And this gives us a little bit of consistency to be able to be one of the top supplies.",
+            "We have an office in Paris, so we're closer to the brands."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "long term vision",
+            "top supplies",
+            "little bit",
+            "little bit",
+            "keep inventory",
+            "gives us",
+            "paris"
+        ],
+        "trends": [
+            "bit",
+            "little",
+            "consistency",
+            "able",
+            "top",
+            "supplies",
+            "paris"
+        ]
+    },
+    {
+        "sentence": [
+            "And through this, we also receive certain privileges of having the first orders and to know the market tendency by the luxury products to know what we can expect for the next six months.",
+            "And when you say not fearing holding inventory, you mean you'll buy when there's even if you think it might take a while until we manufacture, even when we believe it can take a longer period.",
+            "the last six months, we felt it a little bit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "also receive certain privileges",
+            "next six months",
+            "last six months",
+            "fearing holding inventory",
+            "market tendency",
+            "luxury products",
+            "longer period"
+        ],
+        "trends": [
+            "even",
+            "take",
+            "know",
+            "luxury",
+            "market",
+            "certain",
+            "expect"
+        ]
+    },
+    {
+        "sentence": [
+            "The appetite was very much decreased, but we knew its products, the appetite will come back.",
+            "And we made sure to have enough inventory, again, to follow a motto, a slogan to say we never say no to a supply.",
+            "Does that approach require a lot of financing?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much decreased",
+            "made sure",
+            "enough inventory",
+            "come back",
+            "approach require",
+            "never say",
+            "say"
+        ],
+        "trends": [
+            "say",
+            "appetite",
+            "back",
+            "products",
+            "come",
+            "much",
+            "decreased"
+        ]
+    },
+    {
+        "sentence": [
+            "We have ample financing.",
+            "Everything starts with financing, but starts also in belief in the product.",
+            "We believe in diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "starts also",
+            "everything starts",
+            "ample financing",
+            "financing",
+            "product",
+            "diamonds",
+            "believe"
+        ],
+        "trends": [
+            "starts",
+            "product",
+            "financing",
+            "everything",
+            "belief",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "We believe in natural diamonds.",
+            "and we supported in the last 50 years, we made money on inventory and we feel very confident about it.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last 50 years",
+            "natural diamonds",
+            "made money",
+            "supported",
+            "right",
+            "inventory",
+            "feel"
+        ],
+        "trends": [
+            "natural",
+            "diamonds",
+            "years",
+            "supported",
+            "money",
+            "made",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "So you are now the president of the board of the AWGC, the Antwerp World Diamond Center.",
+            "How did you get involved in the AWGC?",
+            "That's a good question."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "antwerp world diamond center",
+            "good question",
+            "get involved",
+            "president",
+            "board",
+            "awgc",
+            "awgc"
+        ],
+        "trends": [
+            "awgc",
+            "involved",
+            "get",
+            "world",
+            "president",
+            "diamond",
+            "center"
+        ]
+    },
+    {
+        "sentence": [
+            "And my involvement was first to be a part of the board.",
+            "The reason, how would they say, is, according to me, the most important organization here now.",
+            "It's the organization has the power to defend us to the government."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "defend us",
+            "important organization",
+            "organization",
+            "would",
+            "say",
+            "reason",
+            "power"
+        ],
+        "trends": [
+            "organization",
+            "part",
+            "involvement",
+            "first",
+            "board",
+            "would",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "on, it was built for this, it was built on the request of the bears and the federation of the bros, that we want to have one unified point whenever we have a problem or we need to find a solution to come over and to arrange it.",
+            "So that's how the R&D was born.",
+            "Being like I mentioned before that our turnover is about 70 or 80 percent in artwork, I felt that we have to do everything to be able to defend and to make attractive  artwork on the best."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one unified point whenever",
+            "make attractive artwork",
+            "80 percent",
+            "artwork",
+            "want",
+            "turnover",
+            "solution"
+        ],
+        "trends": [
+            "built",
+            "artwork",
+            "able",
+            "turnover",
+            "attractive",
+            "best",
+            "percent"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's how it's quite obvious that if you want to be somewhere involved to guarantee that artwork will survive, it wouldn't be enough to be in the inner walls of Dali Diamond, but you have also to make sure to be quite on the society helpful to support the concept to the government, to the EU and to what we'll mention later to the G7.",
+            "I started asking a few podcast guests, can you describe your typical day?",
+            "It's very interesting what you're asking me because honestly, I don't really have a typical day."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "typical day",
+            "typical day",
+            "somewhere involved",
+            "society helpful",
+            "podcast guests",
+            "mention later",
+            "make sure"
+        ],
+        "trends": [
+            "typical",
+            "asking",
+            "day",
+            "quite",
+            "guests",
+            "started",
+            "describe"
+        ]
+    },
+    {
+        "sentence": [
+            "The most typical thing that I do is I wake up quite early every morning, I decide to exercise, I go down to the exercise room, I check the new fancy machines that my wife bought, and then I think, you know what, tomorrow is another day, and I'm going up again.",
+            "serious note, I don't think anyone is really interested in knowing my schedule, but I appreciate the question.",
+            "Honestly, a dedicated diameter has always his mind 24-6, always thinking, how can I make my gem glitter more?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quite early every morning",
+            "new fancy machines",
+            "wife bought",
+            "typical thing",
+            "serious note",
+            "really interested",
+            "mind 24"
+        ],
+        "trends": [
+            "exercise",
+            "always",
+            "think",
+            "note",
+            "anyone",
+            "appreciate",
+            "serious"
+        ]
+    },
+    {
+        "sentence": [
+            "Talmudic study is an integral part of my day, offering me profound inspiration and valuable lessons on the conduct from Jewish books,  Jewish Talmud and Jewish law.",
+            "I tend to always notice opportunities more than challenges.",
+            "Let me give you some examples."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always notice opportunities",
+            "valuable lessons",
+            "talmudic study",
+            "profound inspiration",
+            "jewish talmud",
+            "jewish law",
+            "jewish books"
+        ],
+        "trends": [
+            "jewish",
+            "integral",
+            "books",
+            "examples",
+            "give",
+            "let",
+            "valuable"
+        ]
+    },
+    {
+        "sentence": [
+            "Luckily, we have, fortunately enough, a lot of support from the Belgian government.",
+            "When we started to feel competition from other centres with zero tax level, the AWC introduced the innovative, as I'm sure you're familiar with, the Carat tax.",
+            "Just explaining for the audience, modelled after the tonnage tax that the artwork  Port enjoys."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "artwork port enjoys",
+            "zero tax level",
+            "tonnage tax",
+            "carat tax",
+            "fortunately enough",
+            "feel competition",
+            "belgian government"
+        ],
+        "trends": [
+            "tax",
+            "tonnage",
+            "audience",
+            "belgian",
+            "enough",
+            "government",
+            "support"
+        ]
+    },
+    {
+        "sentence": [
+            "This means that we pay tax on turnover, not on profit.",
+            "Additionally, the high level of compliance in artwork was a burden, but helped us tremendously to maintain a market reputation for ethics, transparency, and integrity.",
+            "Another example, when ADB KBC, I think was 15 years ago, closed their door to the diamond industry, it posted a significant challenge,  to Antwerp because no more Belgian banks were involved."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "helped us tremendously",
+            "15 years ago",
+            "significant challenge",
+            "pay tax",
+            "market reputation",
+            "high level",
+            "diamond industry"
+        ],
+        "trends": [
+            "market",
+            "level",
+            "burden",
+            "ethics",
+            "helped",
+            "turnover",
+            "tax"
+        ]
+    },
+    {
+        "sentence": [
+            "Fortunately, the industry adapted by discovering more innovative financing solutions through Guggenheim channel and Clarity.",
+            "I find that in Antwerp, we proved the last 100 years, we have a certain strength of renovators to adapt ourselves and finding the right model to be able to survive  not only to survive, but also to thrive and to be significant in the industry.",
+            "Would you say that the decline in financing was the cause of Antwerp's difficulties, if you can call it that, or the other way around?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last 100 years",
+            "innovative financing solutions",
+            "way around",
+            "right model",
+            "guggenheim channel",
+            "certain strength",
+            "industry adapted"
+        ],
+        "trends": [
+            "financing",
+            "survive",
+            "antwerp",
+            "industry",
+            "cause",
+            "way",
+            "decline"
+        ]
+    },
+    {
+        "sentence": [
+            "Is it because the importance of Antwerp waned, banks became less?",
+            "No, I think it definitely started with the Belgian banks with new form of regulation after the 2008-2009 problem of the KBC and they decided to wind down.",
+            "And per accident or not per accident, they put the ADB bank in commitment to sell or to liquidate it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "banks became less",
+            "belgian banks",
+            "per accident",
+            "per accident",
+            "new form",
+            "definitely started",
+            "antwerp waned"
+        ],
+        "trends": [
+            "accident",
+            "per",
+            "banks",
+            "adb",
+            "sell",
+            "bank",
+            "put"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think had a huge impact.",
+            "But again, we were able to find even a good formula with the MBF and Dubai bank was ready to finance Belgium diamond test.",
+            "We found this alternative financing like Guggenheim channel and clarity together financing now over a billion dollar."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "alternative financing like guggenheim channel",
+            "finance belgium diamond test",
+            "clarity together financing",
+            "huge impact",
+            "good formula",
+            "find even",
+            "dubai bank"
+        ],
+        "trends": [
+            "financing",
+            "guggenheim",
+            "alternative",
+            "billion",
+            "channel",
+            "found",
+            "together"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's mostly only receiving  And at the same time, do you feel that Dubai has taken away some of the business that in the past would have been Antwerp?",
+            "I believe Dubai has certain advantages that Belgium didn't have.",
+            "And I believe that Belgium has advantages that Dubai doesn't have."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "taken away",
+            "past would",
+            "certain advantages",
+            "believe dubai",
+            "believe",
+            "advantages",
+            "dubai"
+        ],
+        "trends": [
+            "dubai",
+            "believe",
+            "belgium",
+            "advantages",
+            "would",
+            "time",
+            "taken"
+        ]
+    },
+    {
+        "sentence": [
+            "I will give you one example.",
+            "I believe very much that Belgium is today a favorite place for the brands to buy polished.",
+            "They believe the integrity, transparency is quite very important that they can only have in Antwerp."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one example",
+            "favorite place",
+            "buy polished",
+            "transparency",
+            "today",
+            "quite",
+            "much"
+        ],
+        "trends": [
+            "believe",
+            "one",
+            "transparency",
+            "integrity",
+            "important",
+            "quite",
+            "antwerp"
+        ]
+    },
+    {
+        "sentence": [
+            "I believe, and this is maybe not proven yet, that Belgium  Artwork positioned themselves to be only a market for natural diamonds.",
+            "There is no market here for lab grown goods.",
+            "I believe this is a huge advantage for long term for Artwork too."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown goods",
+            "belgium artwork positioned",
+            "proven yet",
+            "natural diamonds",
+            "long term",
+            "huge advantage",
+            "artwork"
+        ],
+        "trends": [
+            "market",
+            "artwork",
+            "believe",
+            "term",
+            "huge",
+            "advantage",
+            "long"
+        ]
+    },
+    {
+        "sentence": [
+            "How it will be proven that to be only dedicated to natural, only have finance for natural, locally is an advantage.",
+            "When the lab grown and natural diamonds came into question a few years ago, I just want to tell you a little remark from my father,  He told me a story about one of the industry leaders, his name was Sam Pearl.",
+            "He was quite active in all kinds of charity organizations, school organizations."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamonds came",
+            "years ago",
+            "school organizations",
+            "sam pearl",
+            "quite active",
+            "little remark",
+            "lab grown"
+        ],
+        "trends": [
+            "natural",
+            "organizations",
+            "charity",
+            "kinds",
+            "active",
+            "school",
+            "advantage"
+        ]
+    },
+    {
+        "sentence": [
+            "In 1940, he had to run away due to the German Nazi occupation.",
+            "And he ran away in Skolten, Dagen, in the Kampen, and he was living in a farm.",
+            "In order to survive and to pay for protection, he had a bag of diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "german nazi occupation",
+            "run away due",
+            "ran away",
+            "survive",
+            "skolten",
+            "protection",
+            "pay"
+        ],
+        "trends": [
+            "away",
+            "occupation",
+            "nazi",
+            "german",
+            "survive",
+            "order",
+            "bag"
+        ]
+    },
+    {
+        "sentence": [
+            "And every Friday, he paid his grand.",
+            "grocery, whatever he needed, and his protection by the group of farmers who protected him with a diamond.",
+            "Miraculously, when his bank was empty with diamonds, with the natural diamonds, the Americans came to save Belgium, to save Europe, and was able to kill the German Nazi occupation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "german nazi occupation",
+            "save europe",
+            "save belgium",
+            "every friday",
+            "americans came",
+            "natural diamonds",
+            "diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "save",
+            "whatever",
+            "group",
+            "diamond",
+            "needed",
+            "farmers"
+        ]
+    },
+    {
+        "sentence": [
+            "So my father said, do you think he would be able to survive with a bag of Lapkrone?",
+            "And he did not yet.",
+            "the reduction of prices that we submitted."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "father said",
+            "yet",
+            "would",
+            "think",
+            "survive",
+            "submitted",
+            "reduction"
+        ],
+        "trends": [
+            "submitted",
+            "reduction",
+            "would",
+            "think",
+            "survive",
+            "said",
+            "lapkrone"
+        ]
+    },
+    {
+        "sentence": [
+            "So I believe that the natural diamond correlation and connection with artwork is very, very strong and it's a huge advantage.",
+            "I believe also somehow what we'll discuss later, the huge disadvantage of sanctioned goods can play that with the only source, the only country, only city rough imported, that sanction of Russian  of  The focus immediately was on Antwerp because every year of Alrosa sales data that much as big as market for sales of rough diamonds.",
+            "How did Antwerp respond to that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural diamond correlation",
+            "city rough imported",
+            "believe also somehow",
+            "alrosa sales data",
+            "rough diamonds",
+            "sanctioned goods",
+            "huge disadvantage"
+        ],
+        "trends": [
+            "sales",
+            "rough",
+            "big",
+            "believe",
+            "huge",
+            "advantage",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a good question.",
+            "Antwerp had to respect the sanctions.",
+            "There was never a question to disregard the sanctions from G7 EU."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "g7 eu",
+            "good question",
+            "question",
+            "sanctions",
+            "sanctions",
+            "respect",
+            "never"
+        ],
+        "trends": [
+            "sanctions",
+            "respect",
+            "antwerp",
+            "question",
+            "never",
+            "eu",
+            "disregard"
+        ]
+    },
+    {
+        "sentence": [
+            "Somehow the Belgian government was not keen to have those sanctions because they knew that Belgium and Antwerp will suffer.",
+            "But after those, they had a lot of pressure, especially  especially from the United States, from the EU, to implement those sanctions.",
+            "Maybe from Rapportour, I can't remember."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "united states",
+            "especially especially",
+            "belgian government",
+            "suffer",
+            "somehow",
+            "sanctions",
+            "sanctions"
+        ],
+        "trends": [
+            "sanctions",
+            "especially",
+            "knew",
+            "keen",
+            "belgian",
+            "belgium",
+            "government"
+        ]
+    },
+    {
+        "sentence": [
+            "So definitely we have to accept it.",
+            "It's a reduction of rough import of more than 30-40% because Belgium was a very important rough hop for Russia.",
+            "But this reduction of rough hop of Belgium started already in 2023 before the sanctions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "belgium started already",
+            "important rough hop",
+            "rough hop",
+            "rough import",
+            "belgium",
+            "sanctions",
+            "russia"
+        ],
+        "trends": [
+            "rough",
+            "reduction",
+            "hop",
+            "belgium",
+            "started",
+            "sanctions",
+            "already"
+        ]
+    },
+    {
+        "sentence": [
+            "because European banks refused to finance any transfer of money to Russia or to finance any invoices by Guggenheim, which was an American company, of Polish, of Russian transactions.",
+            "So even before the sanctions, we knew that the war would have a strong, strong effect on our turnover, and this is what happened.",
+            "Indeed, it happened, and we couldn't avoid it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "european banks refused",
+            "war would",
+            "russian transactions",
+            "american company",
+            "strong effect",
+            "strong",
+            "turnover"
+        ],
+        "trends": [
+            "happened",
+            "finance",
+            "strong",
+            "would",
+            "turnover",
+            "sanctions",
+            "effect"
+        ]
+    },
+    {
+        "sentence": [
+            "This is why the discussion was much more, how are we going to implement the sanctions?",
+            "Much more than, do we have the sanctions or don't we have the sanctions?",
+            "So again, on the rough business that has had and has still a strong impact, the only argument that we had always is, you have a sanction in Dubai, you don't have the sanction in India, you don't have the sanction."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "strong impact",
+            "rough business",
+            "still",
+            "sanctions",
+            "sanctions",
+            "sanctions",
+            "sanction"
+        ],
+        "trends": [
+            "sanctions",
+            "sanction",
+            "much",
+            "strong",
+            "still",
+            "rough",
+            "india"
+        ]
+    },
+    {
+        "sentence": [
+            "Israel, you don't have the sanction.",
+            "You put us really in a inferiority position.",
+            "But we didn't have a choice."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "put us really",
+            "inferiority position",
+            "sanction",
+            "israel",
+            "choice"
+        ],
+        "trends": [
+            "us",
+            "really",
+            "put",
+            "position",
+            "inferiority"
+        ]
+    },
+    {
+        "sentence": [
+            "We are part of G7, we're part of EU.",
+            "And also, people were very worried, once you put sanctions, when do you delete the sanctions?",
+            "When do you take off the sanctions?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "put sanctions",
+            "sanctions",
+            "sanctions",
+            "worried",
+            "take",
+            "people",
+            "part"
+        ],
+        "trends": [
+            "part",
+            "sanctions",
+            "eu",
+            "worried",
+            "put",
+            "people",
+            "delete"
+        ]
+    },
+    {
+        "sentence": [
+            "Historically, sanctions, once they're here, they're here to stay.",
+            "This is also quite worrisome for a long-term solution.",
+            "That's a very interesting point."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also quite worrisome",
+            "term solution",
+            "interesting point",
+            "stay",
+            "sanctions",
+            "long",
+            "historically"
+        ],
+        "trends": [
+            "stay",
+            "sanctions",
+            "historically",
+            "worrisome",
+            "solution",
+            "quite",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "For the listeners who aren't familiar with what the timeline was, and correct me if I'm wrong on any of this, obviously the war started in February 2022, but it took until the 1st of January 2024  until there were actually any EU sanctions on Russian diamonds.",
+            "So that year and a half approximately, more than a year and a half, the fact that there were no official EU sanctions during that period, was that because the industry voluntarily stopped buying Russian diamonds or was it because, you know, lobbying the EU not to introduce them for the reasons that you explained it, because, you know, we'll just end up going to other markets like Dubai or a mixture of the two or some other reason?",
+            "No, the reason that the sanction wasn't implemented was because the Belgian government felt that if sanction is  implemented, it will right away move to Dubai and India."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "industry voluntarily stopped buying russian diamonds",
+            "right away move",
+            "belgian government felt",
+            "russian diamonds",
+            "markets like dubai",
+            "official eu sanctions",
+            "eu sanctions"
+        ],
+        "trends": [
+            "eu",
+            "year",
+            "half",
+            "know",
+            "sanction",
+            "implemented",
+            "reason"
+        ]
+    },
+    {
+        "sentence": [
+            "So they felt that the sanction will not be on the Russian, it will be simply on Belgium.",
+            "It proves the last six, seven months that this is what's happening.",
+            "It's the only country that's in sanction is Belgium."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seven months",
+            "last six",
+            "simply",
+            "sanction",
+            "sanction",
+            "russian",
+            "proves"
+        ],
+        "trends": [
+            "sanction",
+            "belgium",
+            "six",
+            "seven",
+            "proves",
+            "months",
+            "country"
+        ]
+    },
+    {
+        "sentence": [
+            "But this was the decision.",
+            "The reason that we have already before the sanction, a 50 or 80% reduction of rough import is due to what we mentioned before, banking refusing to pay.",
+            "Second,  refusing to deal with companies who are dealing with Russian goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "russian goods",
+            "rough import",
+            "banking refusing",
+            "refusing",
+            "second",
+            "sanction",
+            "reduction"
+        ],
+        "trends": [
+            "banking",
+            "due",
+            "mentioned",
+            "refusing",
+            "second",
+            "goods",
+            "russian"
+        ]
+    },
+    {
+        "sentence": [
+            "So the pressure of the brands not to deal with Russian goods is even stronger than the pressure from G7.",
+            "But finally, the Belgian government gave in to the US and started implementing the rough sanction from Russian goods since 2024.  they chose not to.",
+            "I mean, America's sanction implementation can be very tough and very strong."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian goods since 2024",
+            "belgian government gave",
+            "russian goods",
+            "started implementing",
+            "sanction implementation",
+            "rough sanction",
+            "even stronger"
+        ],
+        "trends": [
+            "pressure",
+            "sanction",
+            "russian",
+            "goods",
+            "stronger",
+            "brands",
+            "america"
+        ]
+    },
+    {
+        "sentence": [
+            "Why should we get involved?",
+            "Maybe some people thought that it's also a little bit solution about what you're going to ask most probably, what's happening with the supply.",
+            "Some people believe there's an oversupply."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit solution",
+            "people thought",
+            "people believe",
+            "get involved",
+            "supply",
+            "probably",
+            "oversupply"
+        ],
+        "trends": [
+            "thought",
+            "supply",
+            "solution",
+            "probably",
+            "maybe",
+            "little",
+            "happening"
+        ]
+    },
+    {
+        "sentence": [
+            "So maybe the sanctions somehow will solve the oversupply issue in the natural diamonds, maybe other miners thought so or other stakeholders.",
+            "But basically, it was a voluntary decision  not to get involved indirectly in any American sanction, even when it's not paid in American currency.",
+            "we are only between our friends, so we can discuss about this concept."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get involved indirectly",
+            "voluntary decision",
+            "sanctions somehow",
+            "oversupply issue",
+            "natural diamonds",
+            "miners thought",
+            "american sanction"
+        ],
+        "trends": [
+            "american",
+            "maybe",
+            "diamonds",
+            "thought",
+            "miners",
+            "natural",
+            "issue"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, in Shakespeare's play Hamlet, he notes a few times that the graveyard is all where there's no disputes and differences become meaningless.",
+            "Here in Arturk, we like to say that we're not a graveyard.",
+            "And how do you prove it?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "differences become meaningless",
+            "play hamlet",
+            "times",
+            "shakespeare",
+            "say",
+            "prove",
+            "notes"
+        ],
+        "trends": [
+            "times",
+            "shakespeare",
+            "play",
+            "notes",
+            "meaningless",
+            "know",
+            "graveyard"
+        ]
+    },
+    {
+        "sentence": [
+            "You see how many differences and disagreements you have.",
+            "So let's go from the beginning of the G7 because I have a feeling that's why I was invited  to the podcast.",
+            "In the beginning, the government felt the huge damage that they're causing to Belgium trade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many differences",
+            "huge damage",
+            "government felt",
+            "belgium trade",
+            "see",
+            "podcast",
+            "let"
+        ],
+        "trends": [
+            "beginning",
+            "see",
+            "disagreements",
+            "feeling",
+            "go",
+            "invited",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "Maybe the government wants to have a high trading with foreign countries.",
+            "Maybe there's some trade balance that will become very much imbalanced.",
+            "Then the prime minister, who lost now election, Decro, decided he wants to compensate Belgium."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trade balance",
+            "prime minister",
+            "much imbalanced",
+            "high trading",
+            "foreign countries",
+            "compensate belgium",
+            "government wants"
+        ],
+        "trends": [
+            "maybe",
+            "wants",
+            "high",
+            "trading",
+            "foreign",
+            "imbalanced",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "How can he compensate Belgium?",
+            "He did not have a cash box.",
+            "So he decided  that let's do it, let's convince the EU, let's convince the G7 that Belgium should be a single note, that all kind of rough for verification, if it's Russian or not, should be physically going through the diamond office here in Belgium."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single note",
+            "physically going",
+            "diamond office",
+            "cash box",
+            "compensate belgium",
+            "belgium",
+            "belgium"
+        ],
+        "trends": [
+            "let",
+            "convince",
+            "belgium",
+            "verification",
+            "single",
+            "russian",
+            "rough"
+        ]
+    },
+    {
+        "sentence": [
+            "And his somewhere calculation was like this, the rough will come back.",
+            "And Suadizar, everyone agreed with it.",
+            "He, the prime minister of the government, claimed even that President Massif of Botswana approved it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "somewhere calculation",
+            "prime minister",
+            "president massif",
+            "everyone agreed",
+            "come back",
+            "claimed even",
+            "botswana approved"
+        ],
+        "trends": [
+            "suadizar",
+            "prime",
+            "like",
+            "rough",
+            "back",
+            "calculation",
+            "come"
+        ]
+    },
+    {
+        "sentence": [
+            "We were very suspicious right away how can it be that Botswana should approve it.",
+            "We also believed also it went a little bit against the Kimberley concept and process.",
+            "And I have to compliment again the KP now that they upgraded the KP that now mixed origin."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "suspicious right away",
+            "also believed also",
+            "mixed origin",
+            "little bit",
+            "kimberley concept",
+            "went",
+            "upgraded"
+        ],
+        "trends": [
+            "also",
+            "kp",
+            "botswana",
+            "right",
+            "origin",
+            "mixed",
+            "upgraded"
+        ]
+    },
+    {
+        "sentence": [
+            "You can mention the countries of origin.",
+            "I think it's a huge, huge difference.",
+            "which would have been done a year ago, maybe we wouldn't have the whole disagreement and fights."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "year ago",
+            "whole disagreement",
+            "huge difference",
+            "huge",
+            "would",
+            "think",
+            "origin"
+        ],
+        "trends": [
+            "huge",
+            "would",
+            "origin",
+            "mention",
+            "year",
+            "whole",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that you can mention or you have to mention?",
+            "I don't know if it's have to mention.",
+            "I'm afraid it's only now can mention."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mention",
+            "mention",
+            "mention",
+            "mention",
+            "know",
+            "afraid"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And most probably they will fight that you have to mention.",
+            "Josh, it's the journalists who should find this out because this little question is huge difference.",
+            "The African countries were very, very shocked with the Antwerp position and it's starting already to feel a  certain uniform boycott against Belgium trade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "certain uniform boycott",
+            "starting already",
+            "little question",
+            "huge difference",
+            "belgium trade",
+            "antwerp position",
+            "african countries"
+        ],
+        "trends": [
+            "huge",
+            "question",
+            "little",
+            "journalists",
+            "josh",
+            "find",
+            "difference"
+        ]
+    },
+    {
+        "sentence": [
+            "Meanwhile, President David Gotlib from the AWC resigned.",
+            "A smart move in hindsight.",
+            "And I took his position, which might not have been such a smart move in hindsight."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "president david gotlib",
+            "smart move",
+            "smart move",
+            "awc resigned",
+            "took",
+            "position",
+            "might"
+        ],
+        "trends": [
+            "smart",
+            "move",
+            "hindsight",
+            "took",
+            "resigned",
+            "president",
+            "meanwhile"
+        ]
+    },
+    {
+        "sentence": [
+            "I felt very overwhelmed.",
+            "From one side, I had the prime minister approaching Antwerp to be the gatekeepers from the world.",
+            "I think he was before election."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "prime minister approaching antwerp",
+            "one side",
+            "world",
+            "think",
+            "overwhelmed",
+            "gatekeepers",
+            "felt"
+        ],
+        "trends": [
+            "world",
+            "side",
+            "prime",
+            "one",
+            "minister",
+            "gatekeepers",
+            "approaching"
+        ]
+    },
+    {
+        "sentence": [
+            "He believed this will help his election.",
+            "to  involved in this whole scheme, this whole concept that maybe if they would be involved, they would have approved it.",
+            "You never know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole scheme",
+            "whole concept",
+            "never know",
+            "would",
+            "would",
+            "maybe",
+            "involved"
+        ],
+        "trends": [
+            "would",
+            "whole",
+            "involved",
+            "help",
+            "election",
+            "believed",
+            "scheme"
+        ]
+    },
+    {
+        "sentence": [
+            "But it was a single-handed decision.",
+            "So I was trying to get Al Cook on the phone.",
+            "I was sure he would refuse to speak with me."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get al cook",
+            "would refuse",
+            "handed decision",
+            "trying",
+            "sure",
+            "speak",
+            "single"
+        ],
+        "trends": [
+            "would",
+            "sure",
+            "speak",
+            "refuse",
+            "trying",
+            "phone",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "But he picked up the phone.",
+            "He said, no problem.",
+            "I'm coming now to Artweb for my Artweb clients."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "artweb clients",
+            "artweb",
+            "said",
+            "problem",
+            "picked",
+            "phone",
+            "coming"
+        ],
+        "trends": [
+            "artweb",
+            "coming",
+            "clients"
+        ]
+    },
+    {
+        "sentence": [
+            "The beers clients will have a dinner.",
+            "We'll meet, surprisingly.",
+            "I was invited, even if I'm a sideholder, but I was invited by the dinner too."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "beers clients",
+            "surprisingly",
+            "sideholder",
+            "meet",
+            "invited",
+            "invited",
+            "even"
+        ],
+        "trends": [
+            "invited",
+            "dinner",
+            "clients",
+            "beers",
+            "sideholder",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "I was convinced sitting by the dinner, this is a plot from the bears.",
+            "They will put some poison in my plate and the whole single note story will be over.",
+            "So while Al was speaking, I changed plates."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole single note story",
+            "convinced sitting",
+            "changed plates",
+            "speaking",
+            "put",
+            "poison",
+            "plot"
+        ],
+        "trends": [
+            "speaking",
+            "plates",
+            "changed",
+            "whole",
+            "sitting",
+            "plot",
+            "dinner"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, he survived.",
+            "And to make a long story short, Al and Feriel tried to guide me out of this mess against the whole world.",
+            "the stakeholders, against African countries, against other sourcing."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "long story short",
+            "whole world",
+            "feriel tried",
+            "african countries",
+            "survived",
+            "stakeholders",
+            "sourcing"
+        ],
+        "trends": [
+            "world",
+            "whole",
+            "tried",
+            "story",
+            "short",
+            "mess",
+            "stakeholders"
+        ]
+    },
+    {
+        "sentence": [
+            "And I'm trying still now to straighten it, to correct a little bit this mishap with the approach, if we need to note, we should have a multiply note.",
+            "Meanwhile, America and the White House gave some messages that they still believe in self-declaration.",
+            "So here you had already the unity that's  you thought you have in the G7 EU and therefore Belgium was forced to take this single note approach started also to show some cracks."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single note approach started also",
+            "white house gave",
+            "multiply note",
+            "trying still",
+            "therefore belgium",
+            "still believe",
+            "little bit"
+        ],
+        "trends": [
+            "note",
+            "approach",
+            "still",
+            "white",
+            "america",
+            "believe",
+            "gave"
+        ]
+    },
+    {
+        "sentence": [
+            "And basically that's why we are still today.",
+            "We do not have yet clarity and maybe it has to do a lot with the elections coming up.",
+            "Is it going to be Trump?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "yet clarity",
+            "still today",
+            "elections coming",
+            "trump",
+            "maybe",
+            "lot",
+            "going"
+        ],
+        "trends": [
+            "today",
+            "still",
+            "basically",
+            "yet",
+            "maybe",
+            "lot",
+            "elections"
+        ]
+    },
+    {
+        "sentence": [
+            "Is it going to be Harris?",
+            "And what will be their approach later?",
+            "So we were able to extend the final  decision with six months."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "six months",
+            "final decision",
+            "approach later",
+            "harris",
+            "going",
+            "extend",
+            "able"
+        ],
+        "trends": [
+            "six",
+            "months",
+            "final",
+            "extend",
+            "decision",
+            "able"
+        ]
+    },
+    {
+        "sentence": [
+            "I think America wants to wait another 12 months till the implementation and to see how we go forward.",
+            "But it was really a difficult policy, it was a difficult implementation, and that's where we are now.",
+            "With yet not a full clarity, how are we going to go forward?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wait another 12 months till",
+            "think america wants",
+            "go forward",
+            "go forward",
+            "full clarity",
+            "difficult policy",
+            "difficult implementation"
+        ],
+        "trends": [
+            "forward",
+            "go",
+            "difficult",
+            "implementation",
+            "yet",
+            "going",
+            "clarity"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that right?",
+            "True.",
+            "Okay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "true",
+            "right",
+            "okay"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Exactly.",
+            "So instead of one carrot up that you need to have a self declaration here in Belgium too, it will go to zero 50.",
+            "But the single note or you call it the traceability was postponed by six months."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "zero 50",
+            "six months",
+            "single note",
+            "self declaration",
+            "one carrot",
+            "traceability",
+            "postponed"
+        ],
+        "trends": [
+            "traceability",
+            "zero",
+            "self",
+            "one",
+            "six",
+            "single",
+            "postponed"
+        ]
+    },
+    {
+        "sentence": [
+            "And I believe with missing some clarity, it will be postponed to another six months.",
+            "Is there any indication yet of where those multiple nodes would be?",
+            "It would make the most sense to have it in producer countries."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "another six months",
+            "multiple nodes would",
+            "would make",
+            "producer countries",
+            "indication yet",
+            "sense",
+            "postponed"
+        ],
+        "trends": [
+            "would",
+            "yet",
+            "nodes",
+            "six",
+            "sense",
+            "producer",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "Additional to artwork, it should be done in a  maybe South Africa, Botswana and Angola.",
+            "They deserve it.",
+            "It's their role."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "maybe south africa",
+            "role",
+            "done",
+            "deserve",
+            "botswana",
+            "artwork",
+            "angola"
+        ],
+        "trends": [
+            "south",
+            "maybe",
+            "done",
+            "botswana",
+            "artwork",
+            "angola",
+            "africa"
+        ]
+    },
+    {
+        "sentence": [
+            "I think they can build up a mechanism.",
+            "Maybe if Antwerp has to play a role, Definit will play a role to show how the EU or how the G7 expect to have this role.",
+            "But Definit, those notes should be multiplied and should be done in other countries too."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "g7 expect",
+            "think",
+            "show",
+            "role",
+            "role",
+            "role",
+            "play"
+        ],
+        "trends": [
+            "role",
+            "definit",
+            "play",
+            "show",
+            "maybe",
+            "think",
+            "mechanism"
+        ]
+    },
+    {
+        "sentence": [
+            "The G7 itself is not a political entity that can make rules, it's just like a group of, like a club of countries.",
+            "But the idea was that they would all end up having the same rules, I believe.",
+            "How did it come about that that didn't happen?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "political entity",
+            "make rules",
+            "rules",
+            "would",
+            "like",
+            "like",
+            "idea"
+        ],
+        "trends": [
+            "rules",
+            "like",
+            "would",
+            "idea",
+            "political",
+            "make",
+            "group"
+        ]
+    },
+    {
+        "sentence": [
+            "I think American England started saying that the rules are much more too invasive.",
+            "They decided that the rules organized by Belgium is much more disruptive for non-sanctioned goods than for sanctioned goods.",
+            "I remember when I had to speak in one of the AWC meetings,  I said I just got a few phone calls from some governments who are asking if they can join the sanction list because it's much easier to have sanctioned goods sold than non-sanctioned goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think american england started saying",
+            "sanctioned goods sold",
+            "sanctioned goods",
+            "sanctioned goods",
+            "sanctioned goods",
+            "sanction list",
+            "phone calls"
+        ],
+        "trends": [
+            "goods",
+            "much",
+            "rules",
+            "sanctioned",
+            "organized",
+            "think",
+            "england"
+        ]
+    },
+    {
+        "sentence": [
+            "They made it so bureaucratic, so complicated that America says stop, it's going to disrupt the whole trade.",
+            "I remember I mentioned to an American official that it's going to cost for diamond dealers 3% more for this single note concept.",
+            "He answered, I don't  to buy any store in America instead of paying $1,000 to pay $1,003."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single note concept",
+            "diamond dealers 3",
+            "america says stop",
+            "america instead",
+            "whole trade",
+            "american official",
+            "store"
+        ],
+        "trends": [
+            "america",
+            "going",
+            "whole",
+            "bureaucratic",
+            "paying",
+            "answered",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "That's 3%.",
+            "So you see, yeah, but our profit margin is 2%.",
+            "So he didn't realize what means 3% to a trade."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "profit margin",
+            "means 3",
+            "3 %.",
+            "2 %.",
+            "yeah",
+            "trade",
+            "see"
+        ],
+        "trends": [
+            "trade",
+            "realize",
+            "means",
+            "yeah",
+            "see",
+            "profit",
+            "margin"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was done in such a disruptive, such an invasive way without the full knowledge of the diamond business done by EU bureaucratic personnel.",
+            "This is the reason by when they started to analyze  The concept, they understood that it's not feasible.",
+            "And that's how the crack in the G7 happened."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "invasive way without",
+            "eu bureaucratic personnel",
+            "diamond business done",
+            "g7 happened",
+            "full knowledge",
+            "done",
+            "understood"
+        ],
+        "trends": [
+            "done",
+            "personnel",
+            "knowledge",
+            "invasive",
+            "full",
+            "feasible",
+            "reason"
+        ]
+    },
+    {
+        "sentence": [
+            "And this is where we are today.",
+            "And this is the most dangerous concept, that every country should have his own rules, his own policy.",
+            "And every country will be able to confiscate goods if it doesn't go according to their policy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "go according",
+            "every country",
+            "every country",
+            "dangerous concept",
+            "confiscate goods",
+            "today",
+            "rules"
+        ],
+        "trends": [
+            "policy",
+            "every",
+            "country",
+            "rules",
+            "dangerous",
+            "goods",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "And we had problems with the Swiss.",
+            "We had problems with the Germans, border, that some goods were confiscated because they were  They thought already that the single-notes were implemented and they were upset to find some rough in Germany coming through Lufthansa that didn't transit first in artwork, which was not at all necessary.",
+            "In Switzerland, they confiscated some old watches with diamonds and there are certifications on the old goods diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "old goods diamonds",
+            "old watches",
+            "transit first",
+            "thought already",
+            "germany coming",
+            "goods",
+            "diamonds"
+        ],
+        "trends": [
+            "old",
+            "diamonds",
+            "find",
+            "goods",
+            "confiscated",
+            "switzerland",
+            "certifications"
+        ]
+    },
+    {
+        "sentence": [
+            "Where is the G7 certification?",
+            "So there's a lot of confusion and we have to be careful not to slow down the whole business because of this.",
+            "Again, a business of non-sanctioned goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sanctioned goods",
+            "g7 certification",
+            "whole business",
+            "business",
+            "slow",
+            "non",
+            "lot"
+        ],
+        "trends": [
+            "whole",
+            "slow",
+            "lot",
+            "confusion",
+            "careful",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "I mentioned also in this AWC dinner that a very big brand from Paris called me up and he said, Izzy, I really don't understand how you will go in the future.",
+            "The current Polish, I understand I will have the G7, but what's happening with my old stock?",
+            "So my wife was in the back and she heard me speaking."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "paris called",
+            "old stock",
+            "mentioned also",
+            "current polish",
+            "big brand",
+            "awc dinner",
+            "wife"
+        ],
+        "trends": [
+            "understand",
+            "current",
+            "polish",
+            "old",
+            "stock",
+            "happening",
+            "wife"
+        ]
+    },
+    {
+        "sentence": [
+            "She said, if this is the brand store from Paris, tell her I will come take the old stock.",
+            "They shouldn't worry about the old stock.",
+            "It's a little joke, but it is and it was very confused."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "old stock",
+            "old stock",
+            "little joke",
+            "come take",
+            "brand store",
+            "worry",
+            "tell"
+        ],
+        "trends": [
+            "stock",
+            "old",
+            "worry",
+            "tell",
+            "take",
+            "store",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was implemented without a clear plan because we didn't have all the stakeholders on the table.",
+            "If we would have all the stakeholders on the table in an open, transparent conversation for the benefit of the diamond business with big business people, with miners, this confusion and this collateral damage wouldn't have happened.",
+            "Okay."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big business people",
+            "diamond business",
+            "transparent conversation",
+            "implemented without",
+            "collateral damage",
+            "clear plan",
+            "would"
+        ],
+        "trends": [
+            "would",
+            "business",
+            "happened",
+            "damage",
+            "big",
+            "collateral",
+            "table"
+        ]
+    },
+    {
+        "sentence": [
+            "Talking of confusion, maybe we could clear out one thing in what you said.",
+            "was the issue of the single node on a G7 level and also the single node on an EU level.",
+            "And my understanding was that the Antwerp Diamond Office was in fact introduced as implemented as a single node for all goods entering the EU from a certain date."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "antwerp diamond office",
+            "single node",
+            "single node",
+            "single node",
+            "one thing",
+            "goods entering",
+            "g7 level"
+        ],
+        "trends": [
+            "single",
+            "node",
+            "level",
+            "eu",
+            "maybe",
+            "clear",
+            "confusion"
+        ]
+    },
+    {
+        "sentence": [
+            "I think was that March the 1st?",
+            "Maybe correct me if I'm wrong on that.",
+            "But it never became a single node on a global on a G7 level."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "single node",
+            "never became",
+            "maybe correct",
+            "g7 level",
+            "wrong",
+            "think",
+            "march"
+        ],
+        "trends": [
+            "wrong",
+            "maybe",
+            "correct",
+            "single",
+            "node",
+            "never",
+            "level"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that right?",
+            "Yes, but you have to listen.",
+            "If it's not going to be on the G7 level, it will not happen."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "g7 level",
+            "yes",
+            "right",
+            "listen",
+            "happen",
+            "going"
+        ],
+        "trends": [
+            "level",
+            "happen",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "We're not going to have other  policies in America, Canada, England, and Switzerland, and then for Belgium and Netherlands.",
+            "It just doesn't make sense.",
+            "The EU has to be together, sit down with the G7, and find a unified and aligned themselves with the same concept and with the same implementation."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make sense",
+            "unified",
+            "together",
+            "switzerland",
+            "sit",
+            "policies",
+            "netherlands"
+        ],
+        "trends": [
+            "unified",
+            "together",
+            "switzerland",
+            "policies",
+            "sit",
+            "implementation",
+            "find"
+        ]
+    },
+    {
+        "sentence": [
+            "We cannot permit the industry, and that's somehow my responsibility, if after the podcast the government doesn't kill me.",
+            "If I'm still alive, it's my  policy to make sure it shouldn't have happened.",
+            "I don't want to fragment the business even more."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still alive",
+            "make sure",
+            "cannot permit",
+            "business even",
+            "want",
+            "somehow",
+            "responsibility"
+        ],
+        "trends": [
+            "even",
+            "business",
+            "want",
+            "make",
+            "policy",
+            "happened",
+            "sure"
+        ]
+    },
+    {
+        "sentence": [
+            "not happen yet.",
+            "And I don't think it will happen on the EU level.",
+            "Okay."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "eu level",
+            "happen yet",
+            "happen",
+            "think",
+            "okay"
+        ],
+        "trends": [
+            "think",
+            "level",
+            "happen",
+            "eu"
+        ]
+    },
+    {
+        "sentence": [
+            "And also zooming into one other thing that came out during this whole process, which is in March, after the latest rules came in, there were a lot of reports of delays in Antwerp and goods were coming in that shouldn't have been supposedly shouldn't have been delayed were being delayed for more than the promised 24 hours.",
+            "Are you able to just explain from the from the inside?",
+            "What actually happened?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "promised 24 hours",
+            "latest rules came",
+            "whole process",
+            "also zooming",
+            "actually happened",
+            "came",
+            "thing"
+        ],
+        "trends": [
+            "came",
+            "delayed",
+            "whole",
+            "also",
+            "antwerp",
+            "coming",
+            "delays"
+        ]
+    },
+    {
+        "sentence": [
+            "How did all that come about?",
+            "Confusing.",
+            "The diamond office was definitely not ready for it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond office",
+            "ready",
+            "definitely",
+            "confusing",
+            "come"
+        ],
+        "trends": [
+            "ready",
+            "office",
+            "diamond",
+            "definitely"
+        ]
+    },
+    {
+        "sentence": [
+            "The diamond  office did not know even the right documentation.",
+            "This part of the guilt is the EU.",
+            "The EU gave the set of rules only the last minute."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right documentation",
+            "last minute",
+            "know even",
+            "diamond office",
+            "eu gave",
+            "eu",
+            "set"
+        ],
+        "trends": [
+            "eu",
+            "part",
+            "guilt",
+            "right",
+            "office",
+            "set",
+            "rules"
+        ]
+    },
+    {
+        "sentence": [
+            "They published it the last minute to the Belgian government.",
+            "The government gave it to us a few days after the story.",
+            "So there was a lot of confusion."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "last minute",
+            "government gave",
+            "belgian government",
+            "us",
+            "story",
+            "published",
+            "lot"
+        ],
+        "trends": [
+            "government",
+            "published",
+            "minute",
+            "last",
+            "belgian",
+            "us",
+            "story"
+        ]
+    },
+    {
+        "sentence": [
+            "Everyone was afraid to take responsibility.",
+            "It's much more paperwork, something about even self-declaration.",
+            "The diamond office did not have enough people, enough experts to  to solve it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take responsibility",
+            "even self",
+            "enough people",
+            "enough experts",
+            "diamond office",
+            "something",
+            "solve"
+        ],
+        "trends": [
+            "enough",
+            "solve",
+            "people",
+            "something",
+            "paperwork",
+            "much",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "So it should not have happened.",
+            "And it happened.",
+            "And it's totally our fault."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "totally",
+            "happened",
+            "happened",
+            "fault"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And it shows again, if you're not prepared enough, and if you take commitment without knowing how to implement everything, you have some damages.",
+            "Some rough took two, three weeks.",
+            "There are some mixed origins that the diamond office suddenly decided not to permit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take commitment without knowing",
+            "diamond office suddenly decided",
+            "rough took two",
+            "three weeks",
+            "prepared enough",
+            "mixed origins",
+            "implement everything"
+        ],
+        "trends": [
+            "origins",
+            "suddenly",
+            "decided",
+            "diamond",
+            "permit",
+            "two",
+            "took"
+        ]
+    },
+    {
+        "sentence": [
+            "Even mixed origins, if it was not Russian origin, was permissible.",
+            "But again,  did not want to give some clear guidelines, what's happening with mixed KP.",
+            "There are too many partners in this kind of concept, and a lot of partners really don't understand diamonds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "even mixed origins",
+            "mixed kp",
+            "understand diamonds",
+            "russian origin",
+            "partners really",
+            "many partners",
+            "clear guidelines"
+        ],
+        "trends": [
+            "partners",
+            "mixed",
+            "permissible",
+            "want",
+            "give",
+            "guidelines",
+            "happening"
+        ]
+    },
+    {
+        "sentence": [
+            "And if you have to implement everything, and if you have to make sure not to be a disruptive element, it gets very, very complicated.",
+            "same way that some of the other hubs have become.",
+            "It must still be the case though that the average Antwerp diamond dealer or diamond manufacturer has been affected by lab-grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "average antwerp diamond dealer",
+            "diamond manufacturer",
+            "must still",
+            "make sure",
+            "implement everything",
+            "disruptive element",
+            "case though"
+        ],
+        "trends": [
+            "diamond",
+            "complicated",
+            "disruptive",
+            "element",
+            "gets",
+            "everything",
+            "implement"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, it's affected everyone.",
+            "It definitely affected everyone.",
+            "It affected the demand."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "definitely affected everyone",
+            "affected everyone",
+            "affected",
+            "mean",
+            "demand"
+        ],
+        "trends": [
+            "everyone",
+            "affected",
+            "definitely",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's a substantial challenge that we have.",
+            "I feel a certain correlation that the G7 and the lab-grown.",
+            "I feel that when we had the lab-grown trouble and problem on the table should also have been more stakeholders involved to see how we avoid this  catastrophic consequences that we had."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "substantial challenge",
+            "stakeholders involved",
+            "certain correlation",
+            "catastrophic consequences",
+            "grown trouble",
+            "grown",
+            "table"
+        ],
+        "trends": [
+            "trouble",
+            "table",
+            "stakeholders",
+            "see",
+            "problem",
+            "involved",
+            "consequences"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think it's Bruce Cleaver himself alone.",
+            "I'm making a lot of enemies.",
+            "That should have decided that Lightbox is a good thing to support Lavgon."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "support lavgon",
+            "good thing",
+            "bruce cleaver",
+            "think",
+            "making",
+            "lot",
+            "lightbox"
+        ],
+        "trends": [
+            "thing",
+            "support",
+            "lightbox",
+            "think",
+            "cleaver",
+            "bruce",
+            "alone"
+        ]
+    },
+    {
+        "sentence": [
+            "I believe that we should have sat all on the table and see how will it affect the business.",
+            "The same thing happened like we mentioned before with the G7.",
+            "When there is a game changer concept, we should all sit together and there are enough organizations  in the diamond world or too many organizations to sit together and see how can we solve this."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "thing happened like",
+            "game changer concept",
+            "sit together",
+            "sit together",
+            "many organizations",
+            "enough organizations",
+            "diamond world"
+        ],
+        "trends": [
+            "together",
+            "sit",
+            "organizations",
+            "see",
+            "affect",
+            "table",
+            "believe"
+        ]
+    },
+    {
+        "sentence": [
+            "It's clearly that the Lapgrown affected everyone's business.",
+            "It's clearly that affected America more than Europe or than China.",
+            "It's also clear that with the dropping price of Lapgrown, maybe finally we see its two products."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lapgrown affected everyone",
+            "affected america",
+            "two products",
+            "maybe finally",
+            "dropping price",
+            "also clear",
+            "lapgrown"
+        ],
+        "trends": [
+            "lapgrown",
+            "see",
+            "affected",
+            "clearly",
+            "dropping",
+            "also",
+            "clear"
+        ]
+    },
+    {
+        "sentence": [
+            "What we said from beginning, that it's two products.",
+            "One's natural diamond is for you.",
+            "wife and lab-grown is for your daughter."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two products",
+            "natural diamond",
+            "wife",
+            "said",
+            "one",
+            "lab",
+            "grown"
+        ],
+        "trends": [
+            "one",
+            "natural",
+            "diamond",
+            "two",
+            "said",
+            "products",
+            "beginning"
+        ]
+    },
+    {
+        "sentence": [
+            "So nice words, but that's not how it worked out.",
+            "With a 20% difference in price, you cannot say it's two products.",
+            "It's the same product, but one product is cheaper than the other."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two products",
+            "nice words",
+            "cannot say",
+            "one product",
+            "product",
+            "worked",
+            "price"
+        ],
+        "trends": [
+            "product",
+            "worked",
+            "words",
+            "nice",
+            "one",
+            "cheaper",
+            "two"
+        ]
+    },
+    {
+        "sentence": [
+            "With a 90% of price, what we have today, we can say it's two different products.",
+            "I hear more and more that in China and India, they're testing lab-grown diamonds.",
+            "The good news is they're starting right away with a product which is 90% cheaper."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two different products",
+            "starting right away",
+            "testing lab",
+            "grown diamonds",
+            "good news",
+            "today",
+            "say"
+        ],
+        "trends": [
+            "india",
+            "diamonds",
+            "two",
+            "different",
+            "say",
+            "products",
+            "price"
+        ]
+    },
+    {
+        "sentence": [
+            "So also I don't think that any confusion can happen.",
+            "And I'm very, very somehow optimistic that the Lapground product, I just saw a beautiful Swarovski store on the Fifth Avenue will belong to Swarovski.",
+            "And we will again regain the natural diamond segments fully without having the competition of Lapground."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond segments fully without",
+            "beautiful swarovski store",
+            "somehow optimistic",
+            "fifth avenue",
+            "lapground product",
+            "swarovski",
+            "lapground"
+        ],
+        "trends": [
+            "swarovski",
+            "lapground",
+            "segments",
+            "natural",
+            "competition",
+            "diamond",
+            "fully"
+        ]
+    },
+    {
+        "sentence": [
+            "It can take one or two years, can take less, but I'm very optimistic.",
+            "Again, besides, if we would have understood the danger of it, I think we would have supported it much more with marketing money, the natural diamonds.",
+            "If you understand the competition and the concept, I think natural, the producers and diamond test would have jointly put a much more overwhelming money aside to support it with advertisement."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "overwhelming money aside",
+            "diamond test would",
+            "marketing money",
+            "two years",
+            "take one",
+            "take less",
+            "natural diamonds"
+        ],
+        "trends": [
+            "take",
+            "would",
+            "think",
+            "natural",
+            "much",
+            "money",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "But if you not really understand the danger or you like to belittle the competition,  You're not ready for the game changer issue that's coming.",
+            "This is what happened with Lapcom.",
+            "So you're right, Antwerp is not a Lapcom zone."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "game changer issue",
+            "really understand",
+            "lapcom zone",
+            "lapcom",
+            "right",
+            "ready",
+            "like"
+        ],
+        "trends": [
+            "understand",
+            "really",
+            "ready",
+            "like",
+            "issue",
+            "game",
+            "zone"
+        ]
+    },
+    {
+        "sentence": [
+            "I was also always upset that the big certification houses decided to give certification on a Lapcom diamond similar to natural, gave some customers more confusion.",
+            "Maybe we should have tried to avoid this also.",
+            "But again, I believe that now we rather see the end of the problem than the beginning of the problem."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big certification houses decided",
+            "lapcom diamond similar",
+            "also always upset",
+            "give certification",
+            "rather see",
+            "also",
+            "tried"
+        ],
+        "trends": [
+            "problem",
+            "certification",
+            "also",
+            "beginning",
+            "believe",
+            "end",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "consumers voted with his feet with the economic situation as it is the average US consumer is just more likely to buy a lab-grown diamond than a natural diamond.",
+            "The US consumer has skewed more towards lab-grown diamonds, primarily for economic reasons.",
+            "Salesman in the store was very much convinced with the profit margin who compared how much money he's going to make on the percent 18 percent on the 20 percent on the lab grown and how much meagre is his profit margin on the natural times But I'm sure that he will have to hide the air condition in the store Because he's going to start sweating when they come back with a lap grown diamonds for resale It's not going to happen the same accident with the natural time if I were a representative  lab-grown industry, I would respond by asking, don't natural diamonds also depreciate as soon as you take them out of the retail store?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural diamonds also depreciate",
+            "percent 18 percent",
+            "lap grown diamonds",
+            "average us consumer",
+            "grown diamonds",
+            "us consumer",
+            "20 percent"
+        ],
+        "trends": [
+            "natural",
+            "much",
+            "store",
+            "percent",
+            "going",
+            "diamonds",
+            "consumer"
+        ]
+    },
+    {
+        "sentence": [
+            "time, even chance at diamond sooner or later will again go up.",
+            "I wouldn't keep such huge inventory if I don't believe in it.",
+            "same thing to you, Josh."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "huge inventory",
+            "even chance",
+            "diamond sooner",
+            "time",
+            "thing",
+            "later",
+            "keep"
+        ],
+        "trends": [
+            "would",
+            "keep",
+            "inventory",
+            "time",
+            "sooner",
+            "later",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "Why is it when someone has a surgery, whenever he's doing a full investigation, who is the doctor, who is the professor, how many years this professor and doctor has experience, when he's going on a plane, he's never going to check how long the pilot has an experience.",
+            "What's the difference?",
+            "He should be worried with the plane and the pilot too."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many years",
+            "full investigation",
+            "never going",
+            "going",
+            "worried",
+            "whenever",
+            "surgery"
+        ],
+        "trends": [
+            "doctor",
+            "experience",
+            "professor",
+            "going",
+            "years",
+            "full",
+            "investigation"
+        ]
+    },
+    {
+        "sentence": [
+            "The difference is a simple one.",
+            "The pilot flies with you.",
+            "We always felt that the  the bears is flying with us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "simple one",
+            "pilot flies",
+            "always felt",
+            "us",
+            "flying",
+            "difference",
+            "bears"
+        ],
+        "trends": [
+            "simple",
+            "one",
+            "difference",
+            "us",
+            "flying",
+            "felt",
+            "bears"
+        ]
+    },
+    {
+        "sentence": [
+            "The bears is the captain, is the pilot of the industry.",
+            "Whenever there was a storm, they were amidst the storm.",
+            "Whenever there was sunshine, they enjoyed the sunshine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whenever",
+            "whenever",
+            "sunshine",
+            "sunshine",
+            "storm",
+            "storm",
+            "pilot"
+        ],
+        "trends": [
+            "sunshine",
+            "storm",
+            "whenever",
+            "pilot",
+            "industry",
+            "captain",
+            "bears"
+        ]
+    },
+    {
+        "sentence": [
+            "So the partnership with the bears was really a golden partnership because it was of common interest.",
+            "We felt the pilot is flying with us.",
+            "If it's going to be a little bit windy, we shake with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit windy",
+            "common interest",
+            "golden partnership",
+            "partnership",
+            "us",
+            "shake",
+            "really"
+        ],
+        "trends": [
+            "partnership",
+            "really",
+            "windy",
+            "shake",
+            "little",
+            "going",
+            "interest"
+        ]
+    },
+    {
+        "sentence": [
+            "If it's going to be pleasant, we're pleasant with them.",
+            "So we never had to inquire about their intention, about their demand because we knew its common interest.",
+            "Now, what can I tell them about the bears?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "common interest",
+            "tell",
+            "pleasant",
+            "pleasant",
+            "never",
+            "knew",
+            "intention"
+        ],
+        "trends": [
+            "pleasant",
+            "going",
+            "never",
+            "knew",
+            "interest",
+            "intention",
+            "inquire"
+        ]
+    },
+    {
+        "sentence": [
+            "I can only give one blessing.",
+            "I hope they're not successful and they stay in Anglo-American.",
+            "I believe Anglo-American understand the business very well, the bears too, and we feel much more secure that they have a long-term interest for the industry and we feel much more comfortable with it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "give one blessing",
+            "term interest",
+            "feel much",
+            "feel much",
+            "believe anglo",
+            "american understand",
+            "anglo"
+        ],
+        "trends": [
+            "feel",
+            "much",
+            "well",
+            "believe",
+            "business",
+            "comfortable",
+            "successful"
+        ]
+    },
+    {
+        "sentence": [
+            "So let's see how it goes.",
+            "But I said it to Al Cook already a few times, we are too comfortable with you to try to help you to sell the beers.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "al cook already",
+            "try",
+            "times",
+            "sell",
+            "see",
+            "said",
+            "right"
+        ],
+        "trends": [
+            "try",
+            "times",
+            "sell",
+            "said",
+            "help",
+            "cook",
+            "comfortable"
+        ]
+    },
+    {
+        "sentence": [
+            "Although it does seem like it's pretty much a bad done decision that Anglo is not going to hold on to the beers and therefore that it's going to go somewhere.",
+            "We don't know exactly where.",
+            "Yeah, it can always go with the part of set partners."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bad done decision",
+            "set partners",
+            "seem like",
+            "pretty much",
+            "know exactly",
+            "go somewhere",
+            "always go"
+        ],
+        "trends": [
+            "going",
+            "anglo",
+            "bad",
+            "beers",
+            "decision",
+            "go",
+            "yeah"
+        ]
+    },
+    {
+        "sentence": [
+            "Also, I'm more interwoven with the business ethic and the business experience.",
+            "It can go on the market, can go apart.",
+            "and  successful, we have to see really who will be the partners."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see really",
+            "business experience",
+            "business ethic",
+            "go apart",
+            "go",
+            "successful",
+            "partners"
+        ],
+        "trends": [
+            "business",
+            "go",
+            "successful",
+            "see",
+            "really",
+            "partners",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "So you think that the best option for the industry would be someone within the industry?",
+            "It would be within the industry and within the mining industry, and that President Massisi should take a quite a strong stake in the bears because we trust that he should have an alienation with our policies.",
+            "One of the concepts is that Anglo-American will stay as a miner partner."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "strong stake",
+            "president massisi",
+            "miner partner",
+            "best option",
+            "mining industry",
+            "someone within",
+            "industry would"
+        ],
+        "trends": [
+            "industry",
+            "within",
+            "would",
+            "quite",
+            "bears",
+            "massisi",
+            "mining"
+        ]
+    },
+    {
+        "sentence": [
+            "I think this will also have a quite a  positive influence.",
+            "time, in time like now of oversupply, much more comfortable without being afraid that someone else will sell the goods.",
+            "In the past, the bears were able to spend huge budgets on advertisement because they were the only ones benefiting from natural diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spend huge budgets",
+            "someone else",
+            "positive influence",
+            "ones benefiting",
+            "natural diamonds",
+            "comfortable without",
+            "time like"
+        ],
+        "trends": [
+            "time",
+            "budgets",
+            "huge",
+            "benefiting",
+            "bears",
+            "also",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "This currently doesn't happen.",
+            "But I think again, let's be flexible.",
+            "Every generation has its challenge and it's a different game now to be a siteholder."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every generation",
+            "different game",
+            "think",
+            "siteholder",
+            "let",
+            "happen",
+            "flexible"
+        ],
+        "trends": [
+            "think",
+            "let",
+            "flexible",
+            "siteholder",
+            "generation",
+            "game",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "But we, you know, there was a motor of old site holder, his name was Goldman.",
+            "He said, it's so difficult to be a site holder, but it's so much harder not to be a site holder.",
+            "It's quite challenging."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "old site holder",
+            "site holder",
+            "site holder",
+            "quite challenging",
+            "much harder",
+            "said",
+            "name"
+        ],
+        "trends": [
+            "site",
+            "holder",
+            "old",
+            "name",
+            "motor",
+            "know",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "Every generation is a beneficiation who came added to being a site.",
+            "It's completely different.",
+            "There's a price competition."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "price competition",
+            "every generation",
+            "completely different",
+            "came added",
+            "site",
+            "beneficiation"
+        ],
+        "trends": [
+            "site",
+            "generation",
+            "every",
+            "came",
+            "beneficiation",
+            "added"
+        ]
+    },
+    {
+        "sentence": [
+            "And now, like you said, to be a site holder, when you know that the base is for sale is again game.",
+            "But I believe if you  have a long-term vision, you can find always a certain advantage in support.",
+            "Don't forget the regularity of the bears."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "term vision",
+            "site holder",
+            "find always",
+            "certain advantage",
+            "support",
+            "sale",
+            "said"
+        ],
+        "trends": [
+            "regularity",
+            "forget",
+            "vision",
+            "support",
+            "always",
+            "believe",
+            "certain"
+        ]
+    },
+    {
+        "sentence": [
+            "Allocation is so suitable for our plants, so suitable for factories and so suitable for commitments.",
+            "And we always know that the bears has a certain stability in pricing.",
+            "Doesn't mean they're cheap."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "certain stability",
+            "always know",
+            "suitable",
+            "suitable",
+            "suitable",
+            "pricing",
+            "plants"
+        ],
+        "trends": [
+            "suitable",
+            "stability",
+            "pricing",
+            "know",
+            "certain",
+            "bears",
+            "plants"
+        ]
+    },
+    {
+        "sentence": [
+            "Means that they're stable in prices.",
+            "So for any programs, what's our business model, it gives you a huge, huge advantage.",
+            "And this still  significant to date."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still significant",
+            "business model",
+            "huge advantage",
+            "huge",
+            "stable",
+            "programs",
+            "prices"
+        ],
+        "trends": [
+            "huge",
+            "stable",
+            "prices",
+            "means",
+            "still",
+            "programs",
+            "model"
+        ]
+    },
+    {
+        "sentence": [
+            "Right, interesting.",
+            "And before we finish, I know that AWDC will be hosting the Facets 2024 conference in November in Antwerp.",
+            "Can you tell us a little bit about that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "facets 2024 conference",
+            "tell us",
+            "little bit",
+            "right",
+            "november",
+            "know",
+            "interesting"
+        ],
+        "trends": [
+            "us",
+            "tell",
+            "november",
+            "know",
+            "hosting",
+            "finish",
+            "facets"
+        ]
+    },
+    {
+        "sentence": [
+            "What's going to be happening there?",
+            "I know this is the third edition of this event, right?",
+            "Yes, but it's very, very, very important."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "third edition",
+            "yes",
+            "right",
+            "know",
+            "important",
+            "happening",
+            "going"
+        ],
+        "trends": [
+            "third",
+            "right",
+            "know",
+            "event",
+            "edition"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, there's a famous Talmudic question.",
+            "When you say the pray for the dead, you're saying the God who made peace in the heaven should make peace here on the earth.",
+            "The question is in the heaven, why should you have to make peace?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "famous talmudic question",
+            "make peace",
+            "make peace",
+            "made peace",
+            "question",
+            "saying",
+            "say"
+        ],
+        "trends": [
+            "peace",
+            "make",
+            "heaven",
+            "saying",
+            "say",
+            "pray",
+            "question"
+        ]
+    },
+    {
+        "sentence": [
+            "There is no war in the heaven.",
+            "Souls can live peacefully.",
+            "God doesn't have to do anything in the heaven."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "live peacefully",
+            "war",
+            "souls",
+            "heaven",
+            "heaven",
+            "god",
+            "anything"
+        ],
+        "trends": [
+            "heaven",
+            "god",
+            "anything",
+            "souls",
+            "peacefully",
+            "live"
+        ]
+    },
+    {
+        "sentence": [
+            "Here we have our own opinions.",
+            "So one of the answers is that peace is not only peace, it's also harmony.",
+            "Or say Shalom bim ramav, God who made heavenly harmony should do the same harmony here down."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "say shalom bim ramav",
+            "made heavenly harmony",
+            "also harmony",
+            "harmony",
+            "peace",
+            "peace",
+            "opinions"
+        ],
+        "trends": [
+            "harmony",
+            "peace",
+            "one",
+            "answers",
+            "shalom",
+            "say",
+            "ramav"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that one of the concepts of the facet is again to  have a certain harmony concept in the diamond industry.",
+            "We hope to have the prime minister from Belgium.",
+            "We have, I can't give you a sneaky preview, the speaker, one of the biggest mine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "certain harmony concept",
+            "sneaky preview",
+            "prime minister",
+            "diamond industry",
+            "biggest mine",
+            "think",
+            "speaker"
+        ],
+        "trends": [
+            "one",
+            "sneaky",
+            "preview",
+            "mine",
+            "biggest",
+            "speaker",
+            "belgium"
+        ]
+    },
+    {
+        "sentence": [
+            "We're going to have African presidents here.",
+            "So we're going to have all the important stakeholders.",
+            "The concept is to discuss all important issues, the issues of banking, the issues of futures, the issue of lab ground."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab ground",
+            "important stakeholders",
+            "african presidents",
+            "important issues",
+            "issues",
+            "issues",
+            "issue"
+        ],
+        "trends": [
+            "issues",
+            "going",
+            "important",
+            "lab",
+            "issue",
+            "ground",
+            "futures"
+        ]
+    },
+    {
+        "sentence": [
+            "And we're also going to show to the G7, we hope to have  very important people from EU, higher commissioners from the EU, to show that Antwerp has a future.",
+            "Antwerp has a united future.",
+            "And it's not through a single note we have future."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "single note",
+            "important people",
+            "higher commissioners",
+            "also going",
+            "united future",
+            "future",
+            "future"
+        ],
+        "trends": [
+            "antwerp",
+            "future",
+            "show",
+            "eu",
+            "people",
+            "important",
+            "hope"
+        ]
+    },
+    {
+        "sentence": [
+            "We have future because we all have interwoven fabrics of interest together and together we stand and stronger we stand.",
+            "I believe very much that November is in Antwerp not the ideal month.",
+            "It's always very rainy month."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rainy month",
+            "interwoven fabrics",
+            "ideal month",
+            "interest together",
+            "together",
+            "stronger",
+            "stand"
+        ],
+        "trends": [
+            "month",
+            "together",
+            "stand",
+            "rainy",
+            "always",
+            "stronger",
+            "interwoven"
+        ]
+    },
+    {
+        "sentence": [
+            "So when you come, Josh, don't  forget your umbrella.",
+            "For sure.",
+            "But inside, I hope it will be very sunny, full with hope, with ideas, with concept, with an optimistic future."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "optimistic future",
+            "umbrella",
+            "sure",
+            "sunny",
+            "josh",
+            "inside",
+            "ideas"
+        ],
+        "trends": [
+            "hope",
+            "umbrella",
+            "josh",
+            "sunny",
+            "optimistic",
+            "inside",
+            "ideas"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm hoping to be there.",
+            "And there's other stuff happening that week as well, right?",
+            "There's the diamond, Antwerp diamond days as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "antwerp diamond days",
+            "stuff happening",
+            "diamond",
+            "well",
+            "well",
+            "week",
+            "right"
+        ],
+        "trends": [
+            "diamond",
+            "well",
+            "week",
+            "stuff",
+            "right",
+            "happening",
+            "days"
+        ]
+    },
+    {
+        "sentence": [
+            "Who will be interwoven with the dinner of the facet, who will be presented as one entity, and with some panels and about possibility of discussing the problem who is not there  The problem is on the mind from every person.",
+            "Everyone is worried.",
+            "Let's be honest."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "one entity",
+            "every person",
+            "worried",
+            "problem",
+            "problem",
+            "presented",
+            "possibility"
+        ],
+        "trends": [
+            "problem",
+            "presented",
+            "possibility",
+            "person",
+            "panels",
+            "one",
+            "mind"
+        ]
+    },
+    {
+        "sentence": [
+            "People are worried.",
+            "How does the future stand with this potential sales of the bills, with the lab grown, with the economic crisis, with China for the moment not buying dimes?",
+            "Where are we standing?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "potential sales",
+            "lab grown",
+            "future stand",
+            "economic crisis",
+            "buying dimes",
+            "worried",
+            "standing"
+        ],
+        "trends": [
+            "stand",
+            "sales",
+            "potential",
+            "moment",
+            "lab",
+            "grown",
+            "future"
+        ]
+    },
+    {
+        "sentence": [
+            "We hope to give a little glimmer of hope and honesty and understanding in those urgent messages and fights.",
+            "sure many others are as well.",
+            "Thank you very much, Izzy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sure many others",
+            "urgent messages",
+            "little glimmer",
+            "well",
+            "understanding",
+            "thank",
+            "much"
+        ],
+        "trends": [
+            "hope",
+            "thank",
+            "urgent",
+            "understanding",
+            "messages",
+            "well",
+            "sure"
+        ]
+    },
+    {
+        "sentence": [
+            "You've been extremely open and courteous and humorous, so I've really enjoyed speaking to you.",
+            "That's my nature.",
+            "I hope I wasn't too open, but this will see the reaction on the podcast if I'm still around."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really enjoyed speaking",
+            "still around",
+            "extremely open",
+            "open",
+            "see",
+            "reaction",
+            "podcast"
+        ],
+        "trends": [
+            "open",
+            "still",
+            "see",
+            "reaction",
+            "speaking",
+            "really",
+            "humorous"
+        ]
+    },
+    {
+        "sentence": [
+            "I trust you will be.",
+            "Thank you very much, Izzy.",
+            "Thank you very much for your time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trust",
+            "time",
+            "thank",
+            "thank",
+            "much",
+            "much",
+            "izzy"
+        ],
+        "trends": [
+            "thank",
+            "much",
+            "izzy",
+            "time"
+        ]
+    },
+    {
+        "sentence": [
+            "Follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "twitter",
+            "subscribe",
+            "linkedin",
+            "instagram"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "subscribe",
+            "get",
+            "future",
+            "twitter",
+            "linkedin"
+        ]
+    }
+]

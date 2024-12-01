@@ -1,0 +1,3432 @@
+[
+    {
+        "sentence": [
+            " This podcast is brought to you by GIA, the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "Hello and welcome to the Rappaport Diamond podcast.",
+            "I'm Joshua Friedman, Senior Analyst at Rappaport, and my guest on this podcast was William Lam, CEO of mining company Lucara Diamond Corp."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mining company lucara diamond corp",
+            "jewelry trade since 1931",
+            "rappaport diamond podcast",
+            "william lam",
+            "senior analyst",
+            "protecting consumers",
+            "laboratory services"
+        ],
+        "trends": [
+            "podcast",
+            "diamond",
+            "rappaport",
+            "institute",
+            "brought",
+            "consumers",
+            "education"
+        ]
+    },
+    {
+        "sentence": [
+            "The timing of this podcast couldn't be better.",
+            "We recorded it about a week after Lucara recovered the 2,492 carat rough diamond, the second largest in history at its Karowe mine in Botswana.",
+            "William hadn't even seen the stone in person when we spoke, but he was able to share  the story of how it was found and what the options might be for selling it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "492 carat rough diamond",
+            "second largest",
+            "options might",
+            "lucara recovered",
+            "karowe mine",
+            "even seen",
+            "william"
+        ],
+        "trends": [
+            "rough",
+            "recovered",
+            "lucara",
+            "history",
+            "mine",
+            "week",
+            "william"
+        ]
+    },
+    {
+        "sentence": [
+            "He also put it in the context of the large stone market and reflected on the last time Lucara had a world famous diamond to sell.",
+            "While we were talking, William showed a few resin models of rough diamonds.",
+            "If you want to see the videos, you can find them in our social media channels."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "world famous diamond",
+            "social media channels",
+            "last time lucara",
+            "large stone market",
+            "william showed",
+            "rough diamonds",
+            "resin models"
+        ],
+        "trends": [
+            "models",
+            "talking",
+            "showed",
+            "find",
+            "want",
+            "videos",
+            "rough"
+        ]
+    },
+    {
+        "sentence": [
+            "Enjoy this unique episode.",
+            "in the morning where you are.",
+            "I'm very grateful for that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "unique episode",
+            "morning",
+            "grateful",
+            "enjoy"
+        ],
+        "trends": [
+            "unique",
+            "episode",
+            "enjoy"
+        ]
+    },
+    {
+        "sentence": [
+            "When we scheduled this podcast initially, the recent discovery of the 2492 carat diamond hadn't happened yet.",
+            "So this is actually wonderful timing.",
+            "So I'm really, really excited about this."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually wonderful timing",
+            "2492 carat diamond",
+            "recent discovery",
+            "podcast initially",
+            "happened yet",
+            "really excited",
+            "really"
+        ],
+        "trends": [
+            "really",
+            "wonderful",
+            "yet",
+            "scheduled",
+            "recent",
+            "podcast",
+            "initially"
+        ]
+    },
+    {
+        "sentence": [
+            "Normally I would start by asking a little bit about you and the company, but I think that's been trumped by what happened last week.",
+            "So maybe if you could begin by telling us a little bit about the story of what happened when that huge diamond was found in Botswana.",
+            "Thanks, Joshua."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "happened last week",
+            "would start",
+            "telling us",
+            "little bit",
+            "little bit",
+            "huge diamond",
+            "could begin"
+        ],
+        "trends": [
+            "bit",
+            "happened",
+            "little",
+            "would",
+            "normally",
+            "company",
+            "week"
+        ]
+    },
+    {
+        "sentence": [
+            "And thank you very much for having me on your podcast.",
+            "I must be the only CEO alive who's actually gotten two calls.",
+            "very similar to the one that happened."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "actually gotten two calls",
+            "ceo alive",
+            "thank",
+            "similar",
+            "podcast",
+            "one",
+            "must"
+        ],
+        "trends": [
+            "two",
+            "must",
+            "gotten",
+            "ceo",
+            "thank",
+            "podcast",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually the stone was recovered on Monday, but it takes time to get Rowan to clean it before we can actually photograph it and put it into a press release.",
+            "But I now have two dates in my head.",
+            "One is the 15th of November, 2015, when the La Sede de la Rona was recovered."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "la sede de la rona",
+            "two dates",
+            "takes time",
+            "press release",
+            "get rowan",
+            "actually photograph",
+            "actually"
+        ],
+        "trends": [
+            "recovered",
+            "la",
+            "actually",
+            "november",
+            "sede",
+            "de",
+            "rona"
+        ]
+    },
+    {
+        "sentence": [
+            "And now the 19th of August, when this new stone was recovered.",
+            "And it's the exuberance of the person that I get the call from.",
+            "Because generally when you get a call early in the morning, it's not a good call."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new stone",
+            "good call",
+            "call early",
+            "call",
+            "recovered",
+            "person",
+            "morning"
+        ],
+        "trends": [
+            "call",
+            "get",
+            "person",
+            "exuberance",
+            "stone",
+            "recovered",
+            "morning"
+        ]
+    },
+    {
+        "sentence": [
+            "Something has happened.",
+            "And that they are on complete polar opposite ends of the scale.",
+            "It's something which you don't want to know about."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "complete polar opposite ends",
+            "want",
+            "something",
+            "something",
+            "scale",
+            "know",
+            "happened"
+        ],
+        "trends": [
+            "want",
+            "something",
+            "know",
+            "scale",
+            "polar",
+            "opposite",
+            "ends"
+        ]
+    },
+    {
+        "sentence": [
+            "And then when it's a stone like this, you do.",
+            "So Naseem Lahari, our managing director in country, she'll always send a WhatsApp message.",
+            "Good morning, William."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whatsapp message",
+            "stone like",
+            "naseem lahari",
+            "managing director",
+            "good morning",
+            "always send",
+            "william"
+        ],
+        "trends": [
+            "william",
+            "whatsapp",
+            "send",
+            "naseem",
+            "message",
+            "managing",
+            "lahari"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's just to check you from there.",
+            "And then I'll say morning, can I call?",
+            "Okay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "say morning",
+            "okay",
+            "check",
+            "call"
+        ],
+        "trends": [
+            "say",
+            "morning",
+            "call"
+        ]
+    },
+    {
+        "sentence": [
+            "Yes, sure.",
+            "We can chat.",
+            "And then when you actually had her voice on the phone, you knew that it was not something bad, but it's a fantastic call to have, especially twice in one's career."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something bad",
+            "fantastic call",
+            "especially twice",
+            "yes",
+            "voice",
+            "sure",
+            "phone"
+        ],
+        "trends": [
+            "voice",
+            "twice",
+            "something",
+            "phone",
+            "one",
+            "knew",
+            "fantastic"
+        ]
+    },
+    {
+        "sentence": [
+            "Once for the 1,109 karat Lasedi and now for the  to be named 2492 carats stone.",
+            "Right.",
+            "What do we know about how it was found?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "named 2492 carats stone",
+            "109 karat lasedi",
+            "right",
+            "know",
+            "found",
+            "1"
+        ],
+        "trends": [
+            "stone",
+            "named",
+            "lasedi",
+            "karat",
+            "carats"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, who found it?",
+            "Where did they find it?",
+            "So it was found by technology."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "technology",
+            "mean",
+            "found",
+            "found",
+            "find"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And the one thing that I think Lucara can pride itself on is learning from the lessons of the past.",
+            "And when we recovered the Lacerdi, we know that there was a 374 carat piece that sticks directly onto it.",
+            "It's not a maybe fit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sticks directly onto",
+            "374 carat piece",
+            "think lucara",
+            "one thing",
+            "maybe fit",
+            "recovered",
+            "pride"
+        ],
+        "trends": [
+            "sticks",
+            "recovered",
+            "think",
+            "thing",
+            "pride",
+            "past",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "It's an exact fit.",
+            "So the Lacerdi was in all likelihood over 2000 carats.",
+            "As soon as we'd actually recovered that one, we started a project to install XRT technology upfront in the process plant."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "install xrt technology upfront",
+            "process plant",
+            "exact fit",
+            "actually recovered",
+            "2000 carats",
+            "started",
+            "soon"
+        ],
+        "trends": [
+            "xrt",
+            "upfront",
+            "technology",
+            "started",
+            "soon",
+            "recovered",
+            "project"
+        ]
+    },
+    {
+        "sentence": [
+            "If you ever came to our plant and you stood on the stockpile feed conveyor and you see the material dropping off, and if you imagine having a stone the size of the lacedi, that might actually survive the fall.",
+            "Now, when we process EMPKS, we always keep the stockpile really high, but it's the 300-millimeter rock that falls onto the lacedi that could have cleaved this piece off.",
+            "was to recover the stones before there is any opportunity to damage them."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stockpile really high",
+            "stockpile feed conveyor",
+            "might actually survive",
+            "process empks",
+            "millimeter rock",
+            "material dropping",
+            "falls onto"
+        ],
+        "trends": [
+            "lacedi",
+            "stockpile",
+            "piece",
+            "high",
+            "empks",
+            "keep",
+            "stones"
+        ]
+    },
+    {
+        "sentence": [
+            "So in 2017, we installed two new XRT machines up front, right?",
+            "Right, right.",
+            "Just after the primary crush."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "installed two new xrt machines",
+            "primary crush",
+            "right",
+            "right",
+            "right",
+            "front",
+            "2017"
+        ],
+        "trends": [
+            "xrt",
+            "two",
+            "right",
+            "new",
+            "machines",
+            "installed",
+            "front"
+        ]
+    },
+    {
+        "sentence": [
+            "And these treat material up to about a 5,000 carat stone can be recovered from these machines.",
+            "We call them our mega diamond recovery.",
+            "So we are looking for the biggest of the big."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mega diamond recovery",
+            "000 carat stone",
+            "treat material",
+            "recovered",
+            "machines",
+            "looking",
+            "call"
+        ],
+        "trends": [
+            "recovery",
+            "treat",
+            "stone",
+            "recovered",
+            "looking",
+            "biggest",
+            "big"
+        ]
+    },
+    {
+        "sentence": [
+            "And this recent recovery came from the XRT systems, which we proactively taken the decision that if there was going to be anything we want to do recovered upfront.",
+            "The actual process of finding it was someone standing at a conveyor belt and just suddenly noticed there was a massive diamond going past?",
+            "that box during that day because we have two of these machines."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "massive diamond going past",
+            "recent recovery came",
+            "xrt systems",
+            "suddenly noticed",
+            "someone standing",
+            "recovered upfront",
+            "proactively taken"
+        ],
+        "trends": [
+            "going",
+            "two",
+            "machines",
+            "day",
+            "box",
+            "xrt",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think it's more of the fact that it was recovered intact by the technology which we employed in 2017 versus singling out a person who touched it first.",
+            "Right.",
+            "So, William, I noticed that in the press release about this discovery of this stone, there was no clear mention of the quality of the diamond, which obviously had me asking a few questions myself."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "2017 versus singling",
+            "recovered intact",
+            "press release",
+            "clear mention",
+            "william",
+            "touched",
+            "think"
+        ],
+        "trends": [
+            "person",
+            "touched",
+            "think",
+            "technology",
+            "singling",
+            "recovered",
+            "employed"
+        ]
+    },
+    {
+        "sentence": [
+            "But what can you tell me about the quality?",
+            "So it's still being assessed.",
+            "And as I mentioned, the stone was recovered last week, Monday."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "recovered last week",
+            "tell",
+            "stone",
+            "still",
+            "quality",
+            "monday",
+            "mentioned"
+        ],
+        "trends": [
+            "week",
+            "stone",
+            "recovered",
+            "monday",
+            "mentioned",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "We have an obligation to notify the  Ministry of Mines, especially we'd rather have them find out from us than from the military police to do the escorts for us to Gaborone.",
+            "So as soon as we'd notified the minister, it took about two minutes to get a call back from the office of the president saying he wants to see the stone and it's now still sitting on site.",
+            "So Tuesday morning, the stone was exported down."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two minutes",
+            "tuesday morning",
+            "still sitting",
+            "president saying",
+            "military police",
+            "call back",
+            "wants"
+        ],
+        "trends": [
+            "us",
+            "obligation",
+            "notify",
+            "ministry",
+            "police",
+            "mines",
+            "stone"
+        ]
+    },
+    {
+        "sentence": [
+            "We only got the stone into HF overnight because it takes 24 hour clean and that was just the original stone had a lot of crud and kimbleite still attached to it.",
+            "So we'd only done a preliminary clean before it actually went to the office of the president.",
+            "spent time over the weekend and again yesterday I got hold of the people down in Gaborone and asked one or two questions around and they said no it's back into cleaning."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "takes 24 hour clean",
+            "two questions around",
+            "kimbleite still attached",
+            "preliminary clean",
+            "spent time",
+            "hf overnight",
+            "asked one"
+        ],
+        "trends": [
+            "stone",
+            "got",
+            "clean",
+            "crud",
+            "hour",
+            "office",
+            "president"
+        ]
+    },
+    {
+        "sentence": [
+            "So what we found with the Lacedia as well there was this red oxidized material that had gotten into one or two of the cracks and that takes quite a number of cleaning rounds to clean it out.",
+            "So we do see a lot of that stuff in there but at this point for me to be able to make a comment on the quality or the color of the stone I'm only going to see it next week so I'll have a better idea then.",
+            "And what's HF?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "red oxidized material",
+            "takes quite",
+            "next week",
+            "cleaning rounds",
+            "better idea",
+            "well",
+            "two"
+        ],
+        "trends": [
+            "see",
+            "well",
+            "quite",
+            "found",
+            "material",
+            "cracks",
+            "number"
+        ]
+    },
+    {
+        "sentence": [
+            "acid.",
+            "Oh, I see.",
+            "Fine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "see",
+            "oh",
+            "fine",
+            "acid"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And the obvious next question that people have on a CS stone like this is how it's going to be sold.",
+            "And we know you have an arrangement with HB.",
+            "Does that cover a stone like this?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "obvious next question",
+            "cs stone like",
+            "stone like",
+            "sold",
+            "people",
+            "know",
+            "hb"
+        ],
+        "trends": [
+            "stone",
+            "like",
+            "sold",
+            "question",
+            "people",
+            "obvious",
+            "cover"
+        ]
+    },
+    {
+        "sentence": [
+            "No, this would be what we would consider a legacy stone.",
+            "The 1080 carat stone, which was recovered in September last year, was also classified as a legacy stone.",
+            "But that one went through to HB."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "september last year",
+            "1080 carat stone",
+            "legacy stone",
+            "legacy stone",
+            "one went",
+            "also classified",
+            "would consider"
+        ],
+        "trends": [
+            "stone",
+            "legacy",
+            "would",
+            "went",
+            "year",
+            "september",
+            "recovered"
+        ]
+    },
+    {
+        "sentence": [
+            "I think because of the notoriety of the stone and because of its significance to Botswana, we need to look at the best route to market for the stone.",
+            "And you never know.",
+            "doesn't necessarily mean that a stone of this size should be cut."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "never know",
+            "necessarily mean",
+            "best route",
+            "think",
+            "stone",
+            "stone",
+            "stone"
+        ],
+        "trends": [
+            "stone",
+            "think",
+            "significance",
+            "route",
+            "notoriety",
+            "need",
+            "size"
+        ]
+    },
+    {
+        "sentence": [
+            "There's a lot of people that still don't understand why we went to Sotheby's with the Luseti back in 2016.",
+            "And at that point, Lucara had recovered a significant number of large stones.",
+            "And there were people that sat with 100 carat polished in their vault that they hadn't been able to move for two or three years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "100 carat polished",
+            "three years",
+            "significant number",
+            "luseti back",
+            "large stones",
+            "went",
+            "vault"
+        ],
+        "trends": [
+            "people",
+            "lot",
+            "went",
+            "number",
+            "point",
+            "recovered",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "So by us going to Sotheby's, we were looking for an alternative market to protect the value of the inventory, the polished inventory that some of our clients actually held.",
+            "So taking a stone like this,  and putting it into a collection in an unpolished form, it holds untold potential.",
+            "You cannot unpolish it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "holds untold potential",
+            "clients actually held",
+            "us going",
+            "unpolished form",
+            "stone like",
+            "cannot unpolish",
+            "alternative market"
+        ],
+        "trends": [
+            "inventory",
+            "holds",
+            "untold",
+            "unpolished",
+            "taking",
+            "stone",
+            "putting"
+        ]
+    },
+    {
+        "sentence": [
+            "So we were looking for collectors who would want to hold onto it.",
+            "Maybe when they had a reason to polish it, they wanted to split amongst their three children, they would then polish the stone.",
+            "But sadly, the diamond industry didn't quite see it that way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "three children",
+            "split amongst",
+            "quite see",
+            "hold onto",
+            "diamond industry",
+            "would want",
+            "would"
+        ],
+        "trends": [
+            "would",
+            "polish",
+            "way",
+            "diamond",
+            "industry",
+            "quite",
+            "want"
+        ]
+    },
+    {
+        "sentence": [
+            "And they thought that it would be better having the stone polished.",
+            "But I think we're going to learn from our mistakes when we look at how the stone is going to be sold, who is going to be sold to and the mechanism by which we message.",
+            "stone is not just a legacy stone for Botswana, an important stone for Lucara, but because of the stature that the stone actually represents and the excitement which I think the world has seen from the stone, this is a great good news story to bring a focus back to natural diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great good news story",
+            "stone actually represents",
+            "natural diamonds",
+            "focus back",
+            "stone polished",
+            "legacy stone",
+            "important stone"
+        ],
+        "trends": [
+            "stone",
+            "going",
+            "think",
+            "sold",
+            "learn",
+            "look",
+            "mechanism"
+        ]
+    },
+    {
+        "sentence": [
+            "Let's bring more people in so that they can actually understand what a natural diamond represents, what it means for Botswana, how this stone actually was brought into the light.",
+            "A lot of people don't understand  that a rough diamond has a tumultuous task of getting to surface.",
+            "It travels between 200 and 500 kilometers in a magma tube at a thousand degrees Celsius to get to surface."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "thousand degrees celsius",
+            "natural diamond represents",
+            "rough diamond",
+            "tumultuous task",
+            "stone actually",
+            "magma tube",
+            "500 kilometers"
+        ],
+        "trends": [
+            "surface",
+            "actually",
+            "diamond",
+            "celsius",
+            "understand",
+            "people",
+            "tumultuous"
+        ]
+    },
+    {
+        "sentence": [
+            "It is a phenomenon that we can actually even recover these stones without them being destroyed.",
+            "And that story of diamonds, I think, is what we need to celebrate.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually even recover",
+            "stones without",
+            "think",
+            "story",
+            "right",
+            "phenomenon",
+            "need"
+        ],
+        "trends": [
+            "think",
+            "story",
+            "need",
+            "without",
+            "stones",
+            "recover",
+            "phenomenon"
+        ]
+    },
+    {
+        "sentence": [
+            "One of the questions I was planning to ask you was whether we could see this ending up in a museum.",
+            "I was just thinking about today and I was wondering just how that works.",
+            "Would the customer be a donor to a museum?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "could see",
+            "would",
+            "works",
+            "wondering",
+            "whether",
+            "today",
+            "thinking"
+        ],
+        "trends": [
+            "museum",
+            "whether",
+            "see",
+            "would",
+            "questions",
+            "planning",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "who's come and buy it on behalf of the museum from you?",
+            "significant financial backing that museums have to acquire pieces such as this.",
+            "it's a legacy stone or not."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "significant financial backing",
+            "legacy stone",
+            "acquire pieces",
+            "museums",
+            "museum",
+            "come",
+            "buy"
+        ],
+        "trends": [
+            "museum",
+            "come",
+            "buy",
+            "behalf",
+            "significant",
+            "pieces",
+            "museums"
+        ]
+    },
+    {
+        "sentence": [
+            "It's generally Lucara making that recommendation to the office, the ministry.",
+            "And you think he then basically approved that decision, right?",
+            "Yeah, there's a long way to go to understand what the ultimate solution for the stone is going to be."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "generally lucara making",
+            "ultimate solution",
+            "long way",
+            "basically approved",
+            "yeah",
+            "understand",
+            "think"
+        ],
+        "trends": [
+            "basically",
+            "office",
+            "generally",
+            "lucara",
+            "making",
+            "ministry",
+            "approved"
+        ]
+    },
+    {
+        "sentence": [
+            "We'll engage the government, we'll engage HB, we'll engage others to see what the market generally feels as well.",
+            "I think a lot of people think that because we have an agreement with HB that they are the only people that we speak to, and that's not true.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "market generally feels",
+            "engage others",
+            "engage hb",
+            "people think",
+            "engage",
+            "think",
+            "people"
+        ],
+        "trends": [
+            "engage",
+            "hb",
+            "think",
+            "people",
+            "true",
+            "well",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "So on the topic of the potential price of  the stone.",
+            "Obviously there are so many variables and what's happened in the market in the last few years and the quality of the stone.",
+            "But if you just extrapolate from the cost of recent stones, you take the constellation from a few years ago, which sold for I think $77,000 per carat."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "000 per carat",
+            "recent stones",
+            "potential price",
+            "many variables",
+            "years ago",
+            "years",
+            "topic"
+        ],
+        "trends": [
+            "stone",
+            "years",
+            "last",
+            "quality",
+            "variables",
+            "obviously",
+            "price"
+        ]
+    },
+    {
+        "sentence": [
+            "If you extrapolate to this, then you're talking $180-190 million.",
+            "And then even if you assume that the quality is lower and the market has weakened since then, there's still a good chance that this could be $100 million diamond, right?",
+            "quality and the color."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "100 million diamond",
+            "190 million",
+            "weakened since",
+            "good chance",
+            "talking",
+            "still",
+            "right"
+        ],
+        "trends": [
+            "weakened",
+            "still",
+            "since",
+            "right",
+            "quality",
+            "market",
+            "lower"
+        ]
+    },
+    {
+        "sentence": [
+            "The constellation was a beautiful clean stone.",
+            "I wish it was the real one.",
+            "So this is the constellation diamond and it looked like this."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "beautiful clean stone",
+            "real one",
+            "looked like",
+            "constellation diamond",
+            "constellation",
+            "wish"
+        ],
+        "trends": [
+            "constellation",
+            "wish",
+            "real",
+            "one",
+            "stone",
+            "clean",
+            "beautiful"
+        ]
+    },
+    {
+        "sentence": [
+            "This is a resin model, but it was clean like this.",
+            "There was a small inclusion down the one side.",
+            "That one was what sold for $77,000 a carat and it's blocky."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "small inclusion",
+            "resin model",
+            "clean like",
+            "one side",
+            "one",
+            "sold",
+            "carat"
+        ],
+        "trends": [
+            "one",
+            "resin",
+            "model",
+            "like",
+            "sold",
+            "carat",
+            "blocky"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just a fantastic yield stone, but it was white.",
+            "You could see, you could read through the stone.",
+            "This one does seem to have more of color to it, but again,  If you can find the right buyer who is looking for something which is the largest stone in living memory."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fantastic yield stone",
+            "right buyer",
+            "living memory",
+            "largest stone",
+            "could see",
+            "could read",
+            "stone"
+        ],
+        "trends": [
+            "stone",
+            "could",
+            "living",
+            "color",
+            "find",
+            "see",
+            "read"
+        ]
+    },
+    {
+        "sentence": [
+            "When we pulled out the Lacedi, we would say there was not a person alive who had seen a stone of this size.",
+            "And this one is just that next step up.",
+            "So there are avenues that we need to explore to find where we can maximize value for the stone for Botswana and for Lucara."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would say",
+            "person alive",
+            "next step",
+            "maximize value",
+            "stone",
+            "stone",
+            "size"
+        ],
+        "trends": [
+            "stone",
+            "pulled",
+            "lacedi",
+            "person",
+            "would",
+            "say",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "But do you think it could be a hundred million dollar diamond?",
+            "That's very difficult to say not having seen it and again explored the potential acquirers for the stone.",
+            "$100 million, I think we'd be very happy with $100 million."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hundred million dollar diamond",
+            "100 million",
+            "100 million",
+            "potential acquirers",
+            "think",
+            "think",
+            "stone"
+        ],
+        "trends": [
+            "million",
+            "think",
+            "stone",
+            "seen",
+            "say",
+            "happy",
+            "hundred"
+        ]
+    },
+    {
+        "sentence": [
+            "But it is, a lot of people will ask me, well, where'd you find a buyer like that?",
+            "And it's going to be that buyer that wants to own something that there's a good chance nobody alive will ever get to see again.",
+            "When you look at the history that's been, what, 118 years since the Column."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "good chance nobody alive",
+            "118 years since",
+            "ever get",
+            "buyer like",
+            "buyer",
+            "well",
+            "wants"
+        ],
+        "trends": [
+            "buyer",
+            "ask",
+            "lot",
+            "like",
+            "well",
+            "years",
+            "column"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure, our mind does produce a fairly large number of large stones, but this is truly a spectacular find.",
+            "in his hands.",
+            "What else do you know about what he said about the diamond?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fairly large number",
+            "large stones",
+            "spectacular find",
+            "truly",
+            "sure",
+            "said",
+            "produce"
+        ],
+        "trends": [
+            "large",
+            "truly",
+            "sure",
+            "stones",
+            "spectacular",
+            "produce",
+            "number"
+        ]
+    },
+    {
+        "sentence": [
+            "the size and the weight.",
+            "And it's the way we did the Lacedi as well.",
+            "Anytime somebody came in, we'd make them close their eyes and hold their hands above the table."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "anytime somebody came",
+            "well",
+            "weight",
+            "way",
+            "table",
+            "size",
+            "make"
+        ],
+        "trends": [
+            "well",
+            "table",
+            "somebody",
+            "make",
+            "hold",
+            "hands",
+            "eyes"
+        ]
+    },
+    {
+        "sentence": [
+            "And then you drop the stone into their hands.",
+            "And the first thing that you feel is the weight of the stone, because you're not expecting it.",
+            "And then it's a cool, it's always a cool surface."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first thing",
+            "cool surface",
+            "cool",
+            "weight",
+            "stone",
+            "stone",
+            "hands"
+        ],
+        "trends": [
+            "stone",
+            "cool",
+            "hands",
+            "drop",
+            "surface",
+            "always",
+            "weight"
+        ]
+    },
+    {
+        "sentence": [
+            "And this one at 500 grams, I think most probably caught him by surprise as well.",
+            "But for him, this was a fantastic opportunity to showcase what Botswana actually has to offer.",
+            "And I think his best comment in the time that  was when our managing director asked him if he could see his hand through the stone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "managing director asked",
+            "probably caught",
+            "fantastic opportunity",
+            "could see",
+            "botswana actually",
+            "best comment",
+            "500 grams"
+        ],
+        "trends": [
+            "think",
+            "caught",
+            "grams",
+            "well",
+            "offer",
+            "botswana",
+            "fantastic"
+        ]
+    },
+    {
+        "sentence": [
+            "And he picked up the stone and he said, I see roads, I see schools.",
+            "And that is exactly what diamonds mean to Botswana.",
+            "And if you ever sort of catch me on a bad day and you say that, oh, I'm thinking about buying a synthetic."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "see schools",
+            "see roads",
+            "ever sort",
+            "diamonds mean",
+            "bad day",
+            "thinking",
+            "synthetic"
+        ],
+        "trends": [
+            "see",
+            "thinking",
+            "ever",
+            "buying",
+            "catch",
+            "diamonds",
+            "botswana"
+        ]
+    },
+    {
+        "sentence": [
+            "The most important thing for listeners to understand is what diamonds mean to Botswana.",
+            "And you go back to 1966 and you look at the state of Botswana at independence, second poorest country in the world.",
+            "in Africa."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "second poorest country",
+            "important thing",
+            "go back",
+            "diamonds mean",
+            "world",
+            "understand",
+            "state"
+        ],
+        "trends": [
+            "botswana",
+            "world",
+            "state",
+            "second",
+            "understand",
+            "thing",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "And you look at where it is now, and it's not because they've had success exporting coal or gold or some other commodity, it's purely diamonds.",
+            "They have a growing copper sector at the moment.",
+            "But diamonds have transformed Botswana from the second poorest country to, I think it now has a top five GDP in Africa, which is significant considering the size of the economies for South Africa, Nigeria, and some others."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "top five gdp",
+            "success exporting coal",
+            "second poorest country",
+            "growing copper sector",
+            "transformed botswana",
+            "significant considering",
+            "south africa"
+        ],
+        "trends": [
+            "africa",
+            "diamonds",
+            "exporting",
+            "purely",
+            "look",
+            "commodity",
+            "coal"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's truly shaped the way Botswana has actually developed.",
+            "And it's down to education, it's healthcare, it's all of these other things.",
+            "And that is  purely based on the natural diamond industry, which Botswana has excelled at ensuring that value goes back to its citizens."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "value goes back",
+            "natural diamond industry",
+            "truly shaped",
+            "purely based",
+            "actually developed",
+            "way botswana",
+            "botswana"
+        ],
+        "trends": [
+            "botswana",
+            "way",
+            "developed",
+            "actually",
+            "shaped",
+            "truly",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that's what people need to understand.",
+            "When you're buying a natural diamond, you're actually buying something which has made a huge difference in a person's life.",
+            "How much of an impact does a one-off diamond like this, a huge diamond like this have on Botswana, as opposed to just the kind of the regular volume of diamonds?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually buying something",
+            "huge diamond like",
+            "diamond like",
+            "huge difference",
+            "natural diamond",
+            "regular volume",
+            "people need"
+        ],
+        "trends": [
+            "diamond",
+            "like",
+            "buying",
+            "huge",
+            "made",
+            "difference",
+            "life"
+        ]
+    },
+    {
+        "sentence": [
+            "I think this is the notoriety.",
+            "And it's bringing people to Botswana.",
+            "you ever fly into Botswana, they have a diamond display and there's a booth where you can go and buy a Forevermark to be as diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ever fly",
+            "bringing people",
+            "diamond display",
+            "diamond",
+            "think",
+            "notoriety",
+            "go"
+        ],
+        "trends": [
+            "botswana",
+            "diamond",
+            "people",
+            "go",
+            "forevermark",
+            "fly",
+            "ever"
+        ]
+    },
+    {
+        "sentence": [
+            "So they are trying to, excuse the pun, trying to marry people coming in on safari to what actually drives the economy of Botswana.",
+            "A single stone in terms of finances isn't going to make that much difference, not unless you sold it for a billion dollars, but it's the importance of bringing attention to, I want to own a Botswana diamond.",
+            "That's, I think, where the real reverence is going to come from, because if people can understand  what diamonds do for the people of Botswana."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "marry people coming",
+            "single stone",
+            "real reverence",
+            "much difference",
+            "bringing attention",
+            "billion dollars",
+            "actually drives"
+        ],
+        "trends": [
+            "botswana",
+            "people",
+            "trying",
+            "economy",
+            "going",
+            "real",
+            "understand"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not just about the romance, which that eternity that a diamond represents.",
+            "It's a diamond for good.",
+            "And I think Botswana is a brilliant example of that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think botswana",
+            "brilliant example",
+            "diamond represents",
+            "diamond",
+            "romance",
+            "good",
+            "eternity"
+        ],
+        "trends": [
+            "think",
+            "example",
+            "brilliant",
+            "botswana",
+            "romance",
+            "represents",
+            "eternity"
+        ]
+    },
+    {
+        "sentence": [
+            "about the large stone mark and particularly this huge end.",
+            "How does pricing work for these huge stones and is there any sense that there's a price ceiling where a diamond can just get so big that the price per carat no longer increases with size like it does with smaller sizes?",
+            "I think there's always going to be a component of competition."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large stone mark",
+            "price per carat",
+            "price ceiling",
+            "smaller sizes",
+            "size like",
+            "pricing work",
+            "longer increases"
+        ],
+        "trends": [
+            "price",
+            "huge",
+            "stone",
+            "end",
+            "particularly",
+            "mark",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "Somebody always wants to have the biggest, the most expensive, the shiniest.",
+            "I think when you get to graph polished out of the Lisseti, actually from the constellation as well, they were both plus 300 carat polished.",
+            "Those are fairly difficult to move because  the volume of people that have the financial resources to spend whatever, a hundred million dollars on a diamond is going to be fairly limited."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "plus 300 carat polished",
+            "somebody always wants",
+            "hundred million dollars",
+            "graph polished",
+            "spend whatever",
+            "financial resources",
+            "fairly limited"
+        ],
+        "trends": [
+            "fairly",
+            "polished",
+            "actually",
+            "graph",
+            "well",
+            "lisseti",
+            "wants"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think when you start to look at what we would love to do with the stone, let's assume that it gets polished.",
+            "You want to use it to showcase.",
+            "And I'm going to give kudos to Lawrence Graf here to what he did with the Lesotho promise."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would love",
+            "lesotho promise",
+            "lawrence graf",
+            "give kudos",
+            "gets polished",
+            "want",
+            "use"
+        ],
+        "trends": [
+            "lesotho",
+            "give",
+            "going",
+            "promise",
+            "graf",
+            "kudos",
+            "lawrence"
+        ]
+    },
+    {
+        "sentence": [
+            "The necklace that he created, there's one large stone, but otherwise it is a necklace all from the single stone.",
+            "And that's where you start to celebrate.",
+            "Chopard did a really  good job."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really good job",
+            "one large stone",
+            "single stone",
+            "start",
+            "otherwise",
+            "necklace",
+            "necklace"
+        ],
+        "trends": [
+            "stone",
+            "necklace",
+            "really",
+            "job",
+            "good",
+            "single",
+            "otherwise"
+        ]
+    },
+    {
+        "sentence": [
+            "They worked with Tache on the Queen of the Kalahari collection.",
+            "There was a 342 carat stone that they acquired from us and they created a full collection around that.",
+            "And I think instead of going for the largest, I think we're beyond the years now of a royal family wanting something in their crown jewels."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "royal family wanting something",
+            "342 carat stone",
+            "full collection around",
+            "kalahari collection",
+            "crown jewels",
+            "think instead",
+            "think"
+        ],
+        "trends": [
+            "collection",
+            "think",
+            "acquired",
+            "full",
+            "around",
+            "us",
+            "stone"
+        ]
+    },
+    {
+        "sentence": [
+            "I think you have to create something which has a link back to Botswana, whether if it was in Namibia, you could create the desert rose type collection.",
+            "But there's something that you have to do to create a collection from the stone where  Everything comes from the single stone, which has its own significance, but there is value to be gained from not polishing the biggest one, but making something which is more appealing.",
+            "And that then lowers the size of the polish, but it doesn't necessarily minimize the value of what you've actually created."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "desert rose type collection",
+            "necessarily minimize",
+            "link back",
+            "everything comes",
+            "biggest one",
+            "actually created",
+            "making something"
+        ],
+        "trends": [
+            "something",
+            "create",
+            "stone",
+            "collection",
+            "value",
+            "actually",
+            "size"
+        ]
+    },
+    {
+        "sentence": [
+            "Do we know where the Seddy Lerona polished is now?",
+            "I mean, is it around the consumer's neck already or what do we know?",
+            "I know that it was sold and then Lawrence Graf has the stones come back to him."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "stones come back",
+            "seddy lerona polished",
+            "neck already",
+            "lawrence graf",
+            "sold",
+            "mean",
+            "know"
+        ],
+        "trends": [
+            "know",
+            "seddy",
+            "polished",
+            "lerona",
+            "stones",
+            "neck",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was gone.",
+            "I think it's back with Graf at the moment.",
+            "the large modified cushion that they polished out of it, from what I understand."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large modified cushion",
+            "understand",
+            "think",
+            "polished",
+            "moment",
+            "graf",
+            "gone"
+        ],
+        "trends": [
+            "think",
+            "moment",
+            "graf",
+            "back",
+            "understand",
+            "polished",
+            "modified"
+        ]
+    },
+    {
+        "sentence": [
+            "not just the exceptional stones, but those kind of 5-carat, 10-carat plus.",
+            "It seems, from the dealers I speak to, it's quite a patchy market at the moment.",
+            "It's maybe not struggling as much as some of the more bread and butter sizes, but it's not the easiest market to be in at the moment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "patchy market",
+            "exceptional stones",
+            "easiest market",
+            "butter sizes",
+            "carat plus",
+            "carat",
+            "struggling"
+        ],
+        "trends": [
+            "moment",
+            "market",
+            "plus",
+            "speak",
+            "seems",
+            "quite",
+            "patchy"
+        ]
+    },
+    {
+        "sentence": [
+            "What do you hear from your customers and from the market about how that segment is?",
+            "So that's actually a really interesting question because with our agreement with HB, we now have a much more detailed understanding of what our stones actually polished to be.",
+            "And when we were selling  the stones on tender, you're literally getting a rough price."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really interesting question",
+            "stones actually polished",
+            "rough price",
+            "literally getting",
+            "detailed understanding",
+            "stones",
+            "actually"
+        ],
+        "trends": [
+            "actually",
+            "stones",
+            "selling",
+            "rough",
+            "price",
+            "tender",
+            "literally"
+        ]
+    },
+    {
+        "sentence": [
+            "And if you've got single stones, it will range anywhere from 10 to I think our highest was $65,000 a carat for a rough stone.",
+            "But you have no idea whether whoever acquired it made money from it.",
+            "With the HB agreement, we now have a window into the quality of the diamonds which come from our rough."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "idea whether whoever acquired",
+            "got single stones",
+            "range anywhere",
+            "made money",
+            "hb agreement",
+            "rough stone",
+            "rough"
+        ],
+        "trends": [
+            "rough",
+            "diamonds",
+            "money",
+            "idea",
+            "whoever",
+            "hb",
+            "quality"
+        ]
+    },
+    {
+        "sentence": [
+            "And about 65% of our total revenue is generated from five carat polished and above.",
+            "And out of those five carats, more than 50 to  60% end up as deflawless.",
+            "So I mentioned things like that because it talks to number one, the quality of the diamonds which we're recovering."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mentioned things like",
+            "five carat polished",
+            "five carats",
+            "total revenue",
+            "number one",
+            "talks",
+            "recovering"
+        ],
+        "trends": [
+            "five",
+            "total",
+            "generated",
+            "carat",
+            "polished",
+            "revenue",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "But that also then gives us a window into what that market is like.",
+            "And rough market seems to be way more volatile than the polished, the polished at the slow decline.",
+            "So what we're seeing with our revenues is a slightly less volatile reaction with the market because of the HPE agreement."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "slightly less volatile reaction",
+            "rough market seems",
+            "slow decline",
+            "hpe agreement",
+            "gives us",
+            "volatile",
+            "market"
+        ],
+        "trends": [
+            "market",
+            "volatile",
+            "polished",
+            "hpe",
+            "less",
+            "reaction",
+            "window"
+        ]
+    },
+    {
+        "sentence": [
+            "So we are seeing obviously a slow decline as people don't buy.",
+            "But what we are seeing from the sales is HPE have continued  to be able to move the plus five characters that they sell.",
+            "Oddly enough, the tops and nails that they get, these smaller stones, they move fairly quickly as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "plus five characters",
+            "move fairly quickly",
+            "smaller stones",
+            "slow decline",
+            "oddly enough",
+            "seeing obviously",
+            "move"
+        ],
+        "trends": [
+            "seeing",
+            "move",
+            "characters",
+            "continued",
+            "five",
+            "obviously",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "But HB does have a work with Odette's history.",
+            "He's got a fairly large Rolodex of people that are willing to continue to buy in the larger, higher qualities.",
+            "And I think that's it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fairly large rolodex",
+            "higher qualities",
+            "work",
+            "willing",
+            "think",
+            "people",
+            "odette"
+        ],
+        "trends": [
+            "willing",
+            "rolodex",
+            "qualities",
+            "people",
+            "larger",
+            "large",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "I think if you've got a D.I.F.",
+            "stone, it's a lot easier for people to acquire that than the lower qualities, especially in the larger sizes.",
+            "How have lab-grown diamonds affected this segment?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown diamonds affected",
+            "lower qualities",
+            "lot easier",
+            "larger sizes",
+            "think",
+            "stone",
+            "segment"
+        ],
+        "trends": [
+            "stone",
+            "sizes",
+            "qualities",
+            "people",
+            "lower",
+            "lot",
+            "larger"
+        ]
+    },
+    {
+        "sentence": [
+            "Very little.",
+            "And I think that's, again, I came on to talk about diamonds  is not necessarily Lucara, but it's one of the differentiating factors for Lucara as a company because our size distribution that we recover is so heavily weighted to the larger stones and the underground is just going to be that next level up.",
+            "The impact that we are seeing from Synthetix on the lower end has had very little impact on our margins."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "size distribution",
+            "next level",
+            "lower end",
+            "larger stones",
+            "heavily weighted",
+            "differentiating factors",
+            "necessarily lucara"
+        ],
+        "trends": [
+            "impact",
+            "lucara",
+            "company",
+            "diamonds",
+            "lower",
+            "synthetix",
+            "seeing"
+        ]
+    },
+    {
+        "sentence": [
+            "I think when we look at Synthetix, anybody who's going out to buy a five-carat Synthetix to me may as well just give me the money.",
+            "I'll waste it for you because you look at the price reduction of Synthetix  over the last even three or four years, down by 90%.",
+            "So if you're going out to spend money, spend it on a smaller size, and I think Synthetix will find their place in the market, whether it ends up in custom jewelry, whether it ends up in a larger lower value engagement ring, that's going to be for the consumer to decide."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "larger lower value engagement ring",
+            "last even three",
+            "smaller size",
+            "price reduction",
+            "four years",
+            "custom jewelry",
+            "90 %."
+        ],
+        "trends": [
+            "synthetix",
+            "going",
+            "look",
+            "spend",
+            "whether",
+            "ends",
+            "money"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think we will see this bifurcation between the natural and the lab-grown stones somewhere in the next, my guess is, 18 months to two years, but they will have a home.",
+            "I think the amount of investment that has gone into setting up  up of lab-grown factories is you cannot negate that in the future of lab-grown stone.",
+            "But the impact on the plus five carat stones has been minimal, if not non-existent."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "plus five carat stones",
+            "grown stones somewhere",
+            "grown stone",
+            "grown factories",
+            "two years",
+            "cannot negate",
+            "18 months"
+        ],
+        "trends": [
+            "stones",
+            "think",
+            "negate",
+            "investment",
+            "future",
+            "plus",
+            "impact"
+        ]
+    },
+    {
+        "sentence": [
+            "You can imagine how in theory there could be an impact because if the cache of having a 10 carat natural diamond, for example, might be damaged by the fact that someone else next to you could also have a 10 carat lab-grown diamond, the access to these things, availability to these things has grown because of lab-grown.",
+            "Yes.",
+            "If I'm sitting next to somebody, there's a certain level of honesty  that has to come as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "10 carat natural diamond",
+            "10 carat lab",
+            "someone else next",
+            "sitting next",
+            "grown diamond",
+            "certain level",
+            "could also"
+        ],
+        "trends": [
+            "things",
+            "carat",
+            "could",
+            "diamond",
+            "also",
+            "next",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "And we've heard the stories of some guy proposing to his fiance or his girlfriend to be his fiance and he gives her a diamond, but he doesn't tell her that it's a lab grow and she finds out pretty close to the wedding.",
+            "And literally every single story that I've heard, the wedding always gets canceled because there's that deceptive nature.",
+            "And I think if you're going to sit there and say that this is a natural 10 carat stone and you're going to lie about it, well, that says something about your character."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural 10 carat stone",
+            "literally every single story",
+            "wedding always gets canceled",
+            "says something",
+            "pretty close",
+            "lab grow",
+            "guy proposing"
+        ],
+        "trends": [
+            "fiance",
+            "going",
+            "heard",
+            "wedding",
+            "always",
+            "canceled",
+            "story"
+        ]
+    },
+    {
+        "sentence": [
+            "And I wouldn't be sitting next to that person anyway.",
+            "Right.",
+            "In the large stones, or not necessarily  large, but large and high quality."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sitting next",
+            "person anyway",
+            "high quality",
+            "necessarily large",
+            "large stones",
+            "large",
+            "right"
+        ],
+        "trends": [
+            "large",
+            "would",
+            "sitting",
+            "person",
+            "next",
+            "anyway",
+            "stones"
+        ]
+    },
+    {
+        "sentence": [
+            "There has been a lot of suggestion in the last couple of years that during an economic downturn, the wealthy people are less affected by a downturn than mid range.",
+            "Do you agree with that?",
+            "And how has that impacted demand for deflauruses and high quality stones?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high quality stones",
+            "wealthy people",
+            "mid range",
+            "less affected",
+            "last couple",
+            "impacted demand",
+            "economic downturn"
+        ],
+        "trends": [
+            "downturn",
+            "years",
+            "last",
+            "couple",
+            "economic",
+            "stones",
+            "deflauruses"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it comes back and it goes hand in glove with the answer from the previous question.",
+            "If you look at even what happened during COVID, the 10 most wealthy people on the planet had almost exponential increase in wealth.",
+            "So when the world is hurting,  you've actually got the rich get richer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rich get richer",
+            "almost exponential increase",
+            "wealthy people",
+            "previous question",
+            "goes hand",
+            "comes back",
+            "actually got"
+        ],
+        "trends": [
+            "question",
+            "think",
+            "answer",
+            "world",
+            "rich",
+            "get",
+            "got"
+        ]
+    },
+    {
+        "sentence": [
+            "They're the ones that actually have the capacity to buy when others are selling.",
+            "And when we look at the market for these truly large exceptional stones, and I had to smile when you say large stones, because for us, our large stones are quite a bit larger than most others.",
+            "So when we talk about large stones, it is, do we have polished 50 and 100 carat stones?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "truly large exceptional stones",
+            "100 carat stones",
+            "say large stones",
+            "large stones",
+            "large stones",
+            "polished 50",
+            "bit larger"
+        ],
+        "trends": [
+            "stones",
+            "large",
+            "others",
+            "ones",
+            "buy",
+            "capacity",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "Yes.",
+            "But I will say that when it comes to founding buyers who actually want to hold on to a hundred carat stone,  It doesn't generally fit into a piece of jewelry very well.",
+            "So that's where it goes back to the polishing of the largest owner polishing a collection, something that is actually usable."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hundred carat stone",
+            "largest owner polishing",
+            "goes back",
+            "generally fit",
+            "founding buyers",
+            "actually want",
+            "actually usable"
+        ],
+        "trends": [
+            "polishing",
+            "actually",
+            "usable",
+            "back",
+            "something",
+            "collection",
+            "owner"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think there's the balance between finding or creating something that somebody who actually has increasing wealth and is going to continue to buy is willing to buy versus something which is just going to sit in the vault or on display.",
+            "But to answer your question, yes, I think there is always going to be a market even in downturn period.",
+            "for the higher value stones because the people that are buying those are not being affected as much as those that would buy the smaller lower quality goods."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "smaller lower quality goods",
+            "higher value stones",
+            "buy versus something",
+            "creating something",
+            "would buy",
+            "market even",
+            "increasing wealth"
+        ],
+        "trends": [
+            "going",
+            "buy",
+            "something",
+            "think",
+            "yes",
+            "question",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "Moving back to Lucara and access to those large stones, how will the transition to underground mining at Karowei, how will that affect your access to these exceptional stones?",
+            "So this is the most interesting thing for me."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "underground mining",
+            "moving back",
+            "large stones",
+            "interesting thing",
+            "exceptional stones",
+            "transition",
+            "right"
+        ],
+        "trends": [
+            "stones",
+            "access",
+            "underground",
+            "transition",
+            "moving",
+            "mining",
+            "lucara"
+        ]
+    },
+    {
+        "sentence": [
+            "So a lot of people go, oh, you're spending $700 million going underground or 683 is the capital as it stands now.",
+            "That's an awfully large amount of money when you consider how much we spend  to build the original mine.",
+            "The original Capix was 120."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "700 million going underground",
+            "awfully large amount",
+            "people go",
+            "original mine",
+            "original capix",
+            "stands",
+            "spending"
+        ],
+        "trends": [
+            "amount",
+            "awfully",
+            "spend",
+            "build",
+            "original",
+            "much",
+            "money"
+        ]
+    },
+    {
+        "sentence": [
+            "But when we look at our production profile, so over the last three or four years, we've only mined about 25% of what we call EMPKS.",
+            "It stands for East Magmatic Pyroclastic Kimberlite South.",
+            "There's no test, so we don't have to remember that one."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "east magmatic pyroclastic kimberlite south",
+            "production profile",
+            "last three",
+            "four years",
+            "call empks",
+            "test",
+            "stands"
+        ],
+        "trends": [
+            "last",
+            "three",
+            "empks",
+            "four",
+            "look",
+            "mined",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "We just call it E. And all of the large stones that we've recovered to date, the Constellation, the Lacedi, the Averstar, all of them have come from the EMPKS, the Suello,  and this new recovery, all of them while processing EMPKS.",
+            "So you can imagine you've got this root zone, this extinct volcano, which we are mining.",
+            "And the last intrusion which we believe came up was this E material."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "root zone",
+            "new recovery",
+            "last intrusion",
+            "large stones",
+            "extinct volcano",
+            "believe came",
+            "processing empks"
+        ],
+        "trends": [
+            "empks",
+            "zone",
+            "got",
+            "root",
+            "mining",
+            "extinct",
+            "believe"
+        ]
+    },
+    {
+        "sentence": [
+            "So the vast majority of what we see at depth is going to be E. So when the underground does mature, which is scheduled for the first half of 2028, up to 90% of the material that we process is going to be from this E phase of the kimberlust.",
+            "We've only been processing 25% to date and we've had these fabulous recoveries.",
+            "It's going to be a very interesting year, 2028, when we do start to see the vast majority of material that goes through the mill coming from the EMPKS."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "vast majority",
+            "vast majority",
+            "processing 25",
+            "mill coming",
+            "interesting year",
+            "first half",
+            "fabulous recoveries"
+        ],
+        "trends": [
+            "going",
+            "material",
+            "see",
+            "vast",
+            "majority",
+            "date",
+            "fabulous"
+        ]
+    },
+    {
+        "sentence": [
+            "And we're already looking at things like blast patterns and fragmentation to ensure that we are not going to be damaging the diamonds during the mining process so that they can actually get to the process plant in their unaltered state.",
+            "Right.",
+            "I don't want to turn what's obviously a positive into something pessimistic, but is there a risk  that there's just going to be too many of these stones and they'll lose value."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "things like blast patterns",
+            "unaltered state",
+            "something pessimistic",
+            "process plant",
+            "mining process",
+            "lose value",
+            "already looking"
+        ],
+        "trends": [
+            "process",
+            "going",
+            "want",
+            "risk",
+            "lose",
+            "many",
+            "value"
+        ]
+    },
+    {
+        "sentence": [
+            "And that is something that if there's anything that keeps me awake at night, it's most probably that.",
+            "I think when we look at the project development and yes, there were the cost blowout and the schedule blowout that happened mid last year.",
+            "Those are things that we worry about."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "happened mid last year",
+            "schedule blowout",
+            "project development",
+            "cost blowout",
+            "yes",
+            "worry",
+            "think"
+        ],
+        "trends": [
+            "blowout",
+            "last",
+            "cost",
+            "development",
+            "happened",
+            "anything",
+            "awake"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think there's a fiduciary duty and a responsibility for Lucora not to throw everything out into the market.",
+            "It's something that way back Clifford Elphick from JEM and I discussed, obviously with the stones that come out of Leth Sang versus what we were producing.",
+            "I think there is that impact  that you have on the market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "way back clifford elphick",
+            "leth sang versus",
+            "throw everything",
+            "fiduciary duty",
+            "think",
+            "think",
+            "stones"
+        ],
+        "trends": [
+            "think",
+            "market",
+            "clifford",
+            "lucora",
+            "throw",
+            "responsibility",
+            "duty"
+        ]
+    },
+    {
+        "sentence": [
+            "I would love to find somebody come to me and say, hey, we've got a scientific requirement for diamonds.",
+            "We're going to be using diamond chips in our computers or something.",
+            "But that's actually a job for the synthetics, diamond chips to replace the silica."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "find somebody come",
+            "using diamond chips",
+            "diamond chips",
+            "would love",
+            "scientific requirement",
+            "synthetics",
+            "something"
+        ],
+        "trends": [
+            "chips",
+            "diamond",
+            "job",
+            "replace",
+            "actually",
+            "silica",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "But it is, I think it is one of the things where it's possibly the best problem in the world to have when you've over recovered, but you don't have to sell.",
+            "And I think when we look at the operating costs expected for the undergarno, a lot of the $680 million we're spending  now is on actual operating costs so we don't have to spend it while mining.",
+            "Literally, you're doing all of your blasting in this method that we're going to be using."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "operating costs expected",
+            "actual operating costs",
+            "best problem",
+            "680 million",
+            "world",
+            "using",
+            "undergarno"
+        ],
+        "trends": [
+            "costs",
+            "operating",
+            "think",
+            "world",
+            "possibly",
+            "best",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "Our operating costs are going to be very similar to what we see now.",
+            "It's not that we now need to mine and sell more to overcome our costs, but even if we carried on selling at the rate at which we're selling now, we'll still generate a 65 plus percent EBITDA margin.",
+            "Not having to sell the diamonds to protect the  market is definitely something that we have in the back of our minds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "65 plus percent ebitda margin",
+            "still generate",
+            "definitely something",
+            "operating costs",
+            "costs",
+            "similar",
+            "selling"
+        ],
+        "trends": [
+            "selling",
+            "costs",
+            "sell",
+            "back",
+            "market",
+            "minds",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "Just taking that to a sort of logical conclusion, and maybe I misunderstood you, you're saying that there's a plan to increase your long term stockpiles of large stones in order to protect market prices?",
+            "If that's what it comes to, we'll most certainly have to consider that, yes.",
+            "And is that something that you mentioned gem diamonds before?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "protect market prices",
+            "mentioned gem diamonds",
+            "long term stockpiles",
+            "logical conclusion",
+            "large stones",
+            "yes",
+            "taking"
+        ],
+        "trends": [
+            "mentioned",
+            "something",
+            "diamonds",
+            "gem",
+            "comes",
+            "consider",
+            "yes"
+        ]
+    },
+    {
+        "sentence": [
+            "Is that something that large stone miners have been planning to do together?",
+            "No, it was a conversation that we had around protecting the value and not flooding the market with them.",
+            "I think the way it was beneficial for Lucara in the  past because it was all about share price."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large stone miners",
+            "share price",
+            "around protecting",
+            "way",
+            "value",
+            "together",
+            "think"
+        ],
+        "trends": [
+            "planning",
+            "large",
+            "miners",
+            "past",
+            "beneficial",
+            "lucara",
+            "way"
+        ]
+    },
+    {
+        "sentence": [
+            "I think now there's a much greater emphasis of how we actually sell those things to protect the value.",
+            "But in the past, I think market was actually able to absorb what has been produced.",
+            "I think if we look at what the potential is for and look, the EMPK is made not to do the same as what it's doing on surface."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much greater emphasis",
+            "actually sell",
+            "actually able",
+            "think market",
+            "think",
+            "think",
+            "value"
+        ],
+        "trends": [
+            "think",
+            "look",
+            "potential",
+            "actually",
+            "value",
+            "emphasis",
+            "greater"
+        ]
+    },
+    {
+        "sentence": [
+            "It is another 500 meters lower.",
+            "But if it does have the same potential down, then those are decisions which we'll have to make.",
+            "But we're not sitting around the rooms and you sell this one, you sell this one."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "another 500 meters lower",
+            "sitting around",
+            "sell",
+            "sell",
+            "rooms",
+            "potential",
+            "one"
+        ],
+        "trends": [
+            "sell",
+            "one",
+            "meters",
+            "lower",
+            "another",
+            "potential",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it comes down to company economics.",
+            "I think everybody has  to sell to keep the lights on.",
+            "and sizes anywhere up to, if we're selling up to 10 carats on Clara, so it's one to 10 on Clara in certain colors and qualities, but we get a lot more data in terms of what the price book for the rough should look like based on what the polished is selling for on Clara."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "look like based",
+            "sizes anywhere",
+            "price book",
+            "company economics",
+            "certain colors",
+            "think everybody",
+            "10 carats"
+        ],
+        "trends": [
+            "clara",
+            "think",
+            "selling",
+            "lights",
+            "everybody",
+            "keep",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's this closed cycle loop.",
+            "And a lot of times there are other companies that have gone out and they've polished their own diamonds and sold them into the market, but those are also once off items.",
+            "When we look at the volume of diamonds going through Clara, we have a much higher statistical  understanding of what is driving the market in certain colors and we'll get a call from the office in Antwerp and they'll say don't send any of these qualities or these colors because they are not moving."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much higher statistical understanding",
+            "closed cycle loop",
+            "diamonds going",
+            "certain colors",
+            "diamonds",
+            "colors",
+            "volume"
+        ],
+        "trends": [
+            "colors",
+            "market",
+            "diamonds",
+            "items",
+            "companies",
+            "gone",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "So we know that when those goods go into a tender that there's going to be weakness in those colors and clarity.",
+            "So it's a fantastic information gathering tool which allows us to better manage the internal expectations within the company specifically with regards to the smaller stones in the tenders.",
+            "Are you still holding out hopes that Clara will become a major revenue  stream or is shifting that more towards it being a source of market data, market information?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fantastic information gathering tool",
+            "major revenue stream",
+            "internal expectations within",
+            "market information",
+            "still holding",
+            "smaller stones",
+            "market data"
+        ],
+        "trends": [
+            "market",
+            "information",
+            "stream",
+            "know",
+            "clarity",
+            "goods",
+            "weakness"
+        ]
+    },
+    {
+        "sentence": [
+            "So one of the things that you would have seen if you had read our financials is it is marked as an asset for sale.",
+            "I think over the past five years, the level of competition within the diamond industry is pretty fierce.",
+            "I cannot understand and I guess I would be the same."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "past five years",
+            "pretty fierce",
+            "diamond industry",
+            "competition within",
+            "cannot understand",
+            "would",
+            "would"
+        ],
+        "trends": [
+            "would",
+            "one",
+            "read",
+            "financials",
+            "marked",
+            "asset",
+            "sale"
+        ]
+    },
+    {
+        "sentence": [
+            "Other diamond miners do not want another miner to make money off the sales of their diamonds.",
+            "So having Clara as an asset internally within Lucara doesn't  Benefit the Clara platform because people just don't want us to make money or for the sale of their diamonds So having it as a standalone entity outside of Lucara We will continue to sell on the platform because we do see the benefits of it and it does Generate a higher margin than what we get on tender and we have tested that but leaving Clara within Lucara is not going to allow it to reach its full potential All right, I see but just so understand you still would be to retain a situation where Lucara would have access to that data.",
+            "It'd be to our data  Yes, right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "asset internally within lucara",
+            "leaving clara within lucara",
+            "standalone entity outside",
+            "want another miner",
+            "lucara would",
+            "want us",
+            "still would"
+        ],
+        "trends": [
+            "lucara",
+            "clara",
+            "data",
+            "right",
+            "see",
+            "platform",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "It would still be the current data.",
+            "Yes, when I say our data, it'll be our data from the stones that we sell on the platform.",
+            "I see."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would still",
+            "current data",
+            "data",
+            "data",
+            "yes",
+            "stones",
+            "sell"
+        ],
+        "trends": [
+            "data",
+            "would",
+            "still",
+            "current",
+            "yes",
+            "stones",
+            "sell"
+        ]
+    },
+    {
+        "sentence": [
+            "And again, I'm having access to say Joe Blow's diamonds were being sold on the platform.",
+            "That doesn't necessarily inform what are we going to get in our tender because the qualities of their diamonds will be different.",
+            "OK, I wanted to ask before we finish a few questions about diamond provenance, because you touched on this before with jewelry pieces that are made entirely from one stone and from one rough stone, for example."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "say joe blow",
+            "one rough stone",
+            "one stone",
+            "necessarily inform",
+            "made entirely",
+            "jewelry pieces",
+            "diamond provenance"
+        ],
+        "trends": [
+            "one",
+            "stone",
+            "diamonds",
+            "get",
+            "necessarily",
+            "different",
+            "inform"
+        ]
+    },
+    {
+        "sentence": [
+            "How has the fact that you have a clear and well-known  Providence for your stones benefited the company in the current environment of Russia sanctions and other conflict related concerns That's a very good question again because we've asked and we've said will somebody pay more if they know the provenance of a diamond and Sadly, the answer is no that way They actually look at it as they will pay less if it doesn't have the provenance So provenance is not driving incremental increases in value What it is is it's preventing you from getting a discount  discount on your diamonds.",
+            "And we asked, obviously in some discussions we've already had with certain people around this large stone and everybody's going, oh, well provenance.",
+            "And we sold stones and we've said to them, are people actually asking for the provenance?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "driving incremental increases",
+            "conflict related concerns",
+            "certain people around",
+            "people actually asking",
+            "actually look",
+            "stones benefited",
+            "somebody pay"
+        ],
+        "trends": [
+            "provenance",
+            "people",
+            "pay",
+            "discount",
+            "actually",
+            "stones",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "And the answer is no.",
+            "I think if a person is going to buy, sure, they may want to know whether it's a Russian diamond, but that is a completely different sector.",
+            "But nobody's actually saying, is this a Botswana diamond?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "completely different sector",
+            "russian diamond",
+            "may want",
+            "know whether",
+            "botswana diamond",
+            "actually saying",
+            "think"
+        ],
+        "trends": [
+            "know",
+            "buy",
+            "completely",
+            "different",
+            "going",
+            "diamond",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "And maybe that's something that we and the government and Devswana need to focus on is how do we want the market to  or how do we portray diamonds that people want to buy a Botswana diamond?",
+            "But at the moment, it's, is it a Russian diamond?",
+            "No, then it's fine."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russian diamond",
+            "portray diamonds",
+            "devswana need",
+            "botswana diamond",
+            "people want",
+            "want",
+            "something"
+        ],
+        "trends": [
+            "want",
+            "something",
+            "portray",
+            "people",
+            "need",
+            "maybe",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's that other way of looking at it.",
+            "How do we get them to ask for a Botswana diamond?",
+            "And then it would be a premium."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "botswana diamond",
+            "would",
+            "way",
+            "premium",
+            "looking",
+            "get",
+            "ask"
+        ],
+        "trends": [
+            "get",
+            "diamond",
+            "botswana",
+            "ask"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "Leaving out the specific Russia issue, does this mean that the average consumer is actually more interested in the discount than is more interested in getting a discount than in having peace of mind that the diamond is not funded something they don't want their diamond to have  It sounds like that's a loaded question, but let's put it this way.",
+            "There are going to be differences in generations."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "specific russia issue",
+            "sounds like",
+            "loaded question",
+            "funded something",
+            "average consumer",
+            "way",
+            "want"
+        ],
+        "trends": [
+            "diamond",
+            "discount",
+            "interested",
+            "way",
+            "like",
+            "average",
+            "consumer"
+        ]
+    },
+    {
+        "sentence": [
+            "I think the younger generation that is coming up now who might only be buying diamonds in five to 10 years time, they may be more willing to pay for what the diamond represents versus what we see now.",
+            "But the actual retailers are not the ones that are actually helping.",
+            "When you go past, the airports are fantastic."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond represents versus",
+            "10 years time",
+            "younger generation",
+            "go past",
+            "buying diamonds",
+            "actually helping",
+            "actual retailers"
+        ],
+        "trends": [
+            "buying",
+            "go",
+            "airports",
+            "fantastic",
+            "past",
+            "younger",
+            "might"
+        ]
+    },
+    {
+        "sentence": [
+            "You walk around and you go past any jeweler and they will always  have a discount on diamonds and that's not helping the industry at all.",
+            "They need to turn over the inventory so they are the ones that are always going to have the discounts.",
+            "So the consumer goes, oh, I can get a discount here, here and here."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "walk around",
+            "go past",
+            "consumer goes",
+            "always going",
+            "always",
+            "turn",
+            "ones"
+        ],
+        "trends": [
+            "discount",
+            "always",
+            "turn",
+            "discounts",
+            "going",
+            "inventory",
+            "consumer"
+        ]
+    },
+    {
+        "sentence": [
+            "That becomes part of how they actually shop for diamonds.",
+            "They're looking for the discounts.",
+            "They're not going out there looking for something which is special, attractive and has meaning because the way that they are fed information continuously every time they walk past a jeweler is the diamonds are on discount."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fed information continuously every time",
+            "walk past",
+            "becomes part",
+            "actually shop",
+            "way",
+            "special",
+            "something"
+        ],
+        "trends": [
+            "going",
+            "attractive",
+            "continuously",
+            "discount",
+            "every",
+            "diamonds",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think that's part of how we  actually have to message to the market that this diamond is worth way more than the discount that you are actually saving.",
+            "Right.",
+            "And how do you think it would actually be possible to tell that story about Botswana and create a premium for Botswana diamonds?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "worth way",
+            "would actually",
+            "actually saving",
+            "botswana diamonds",
+            "actually",
+            "botswana",
+            "think"
+        ],
+        "trends": [
+            "actually",
+            "think",
+            "botswana",
+            "worth",
+            "diamond",
+            "discount",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "Quite a few years ago, I was in Shanghai and we went into one of those fancy sort of old and 300 year old buildings, but that converted into a mall.",
+            "Then we went into a jewelry store there and we walked in and they had their general diamond display.",
+            "And then they had a fantastic just single wall  where it was all about South African diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "300 year old buildings",
+            "south african diamonds",
+            "general diamond display",
+            "years ago",
+            "single wall",
+            "jewelry store",
+            "fancy sort"
+        ],
+        "trends": [
+            "old",
+            "went",
+            "mall",
+            "ago",
+            "buildings",
+            "diamond",
+            "general"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think they were buying them either from Petra, but it was a guaranteed South African diamond.",
+            "And the retailer there had actually made a show of if you wanted this diamond, because it was, and they had like history things, and I think they even had a picture of the color in there.",
+            "We'll have to change that soon."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "guaranteed south african diamond",
+            "like history things",
+            "actually made",
+            "diamond",
+            "wanted",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "diamond",
+            "think",
+            "wanted",
+            "color",
+            "made",
+            "even",
+            "history"
+        ]
+    },
+    {
+        "sentence": [
+            "But it was a show of, this is where diamonds were really, the whole Kimberlite, which is where diamonds get their names, all of this came from South Africa.",
+            "So they had a South African display.",
+            "And I think if you  people start to market like Tiffany used to do with the Ellendale yellows."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "market like tiffany used",
+            "south african display",
+            "south africa",
+            "whole kimberlite",
+            "people start",
+            "ellendale yellows",
+            "diamonds get"
+        ],
+        "trends": [
+            "diamonds",
+            "south",
+            "yellows",
+            "used",
+            "tiffany",
+            "think",
+            "start"
+        ]
+    },
+    {
+        "sentence": [
+            "If you can create a brand around those specific diamonds, and I think you can with Botswana, the Providence is so easy to do.",
+            "You know exactly where they're coming from.",
+            "Ours may be a little bit easier than what Deptswana does because there's some aggregation that happens there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit easier",
+            "specific diamonds",
+            "know exactly",
+            "brand around",
+            "think",
+            "providence",
+            "may"
+        ],
+        "trends": [
+            "coming",
+            "easier",
+            "bit",
+            "deptswana",
+            "aggregation",
+            "happens",
+            "little"
+        ]
+    },
+    {
+        "sentence": [
+            "But you can actually start to segregate within your collection.",
+            "These are Botswana diamonds.",
+            "These are Canadian diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "segregate within",
+            "canadian diamonds",
+            "botswana diamonds",
+            "actually start",
+            "collection"
+        ],
+        "trends": [
+            "within",
+            "start",
+            "segregate",
+            "collection",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "I can go down to the local mall here and there's a jeweler called Arctic Diamonds and they specialize in selling Canadian diamonds.",
+            "That's what we can most probably do, but it requires the retailers to see value in that versus putting the 40% discount on diamonds price out.",
+            "Great."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jeweler called arctic diamonds",
+            "selling canadian diamonds",
+            "diamonds price",
+            "versus putting",
+            "see value",
+            "local mall",
+            "specialize"
+        ],
+        "trends": [
+            "diamonds",
+            "selling",
+            "arctic",
+            "local",
+            "specialize",
+            "called",
+            "canadian"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, I know you've got to go now, but just to finish with, you must be pretty excited about seeing the 2492 carat stone next week.",
+            "Oh, yes.",
+            "I couldn't get down there any sooner."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "2492 carat stone next week",
+            "pretty excited",
+            "yes",
+            "well",
+            "sooner",
+            "seeing",
+            "oh"
+        ],
+        "trends": [
+            "well",
+            "week",
+            "stone",
+            "seeing",
+            "pretty",
+            "next",
+            "must"
+        ]
+    },
+    {
+        "sentence": [
+            "I had a triple ready plan, but it is.",
+            "And we're actually going down.",
+            "Adam Lundeen, our chairman, will be down with us."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "triple ready plan",
+            "adam lundeen",
+            "actually going",
+            "us",
+            "chairman"
+        ],
+        "trends": [
+            "triple",
+            "ready",
+            "plan",
+            "us",
+            "lundeen",
+            "chairman",
+            "adam"
+        ]
+    },
+    {
+        "sentence": [
+            "So when you have somebody from the Lundeen's, and I'll give a shout out to Lucas, he would have been so proud, so impressed by what the company has  continued to do.",
+            "And you go to Little Carney and the local village where the mine is, and we made a difference there.",
+            "You can see it in just the way people talk about the company."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "way people talk",
+            "local village",
+            "little carney",
+            "would",
+            "somebody",
+            "shout",
+            "see"
+        ],
+        "trends": [
+            "company",
+            "carney",
+            "go",
+            "village",
+            "difference",
+            "mine",
+            "talk"
+        ]
+    },
+    {
+        "sentence": [
+            "And stones like this have a much greater positive resonance within the community.",
+            "So it's not just how excited we are about the stone, it's how excited we are that the people of Botswana are excited about the stone.",
+            "And I think Lucas would have been very pleased to see that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much greater positive resonance within",
+            "think lucas would",
+            "stones like",
+            "stone",
+            "stone",
+            "see",
+            "pleased"
+        ],
+        "trends": [
+            "excited",
+            "stone",
+            "lucas",
+            "would",
+            "resonance",
+            "botswana",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'm very pleased that Adam gets to see the stone at the same time as would I do as  So no, but very excited.",
+            "I'll then have a better idea of the quality and you can ask that question again.",
+            "And the name would be good at some point as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "better idea",
+            "adam gets",
+            "name would",
+            "would",
+            "well",
+            "time",
+            "stone"
+        ],
+        "trends": [
+            "would",
+            "point",
+            "well",
+            "ask",
+            "better",
+            "question",
+            "quality"
+        ]
+    },
+    {
+        "sentence": [
+            "Keep us updated on that.",
+            "Yes, we'll most probably announce the name and competition in country fairly soon.",
+            "Very similar to what we did with the Suello and the Cetunia and others, because again, it's giving Botswana ownership."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "keep us updated",
+            "giving botswana ownership",
+            "country fairly soon",
+            "probably announce",
+            "yes",
+            "suello",
+            "similar"
+        ],
+        "trends": [
+            "us",
+            "keep",
+            "suello",
+            "botswana",
+            "similar",
+            "cetunia",
+            "ownership"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that's important so we can run a competition there and have a fairly hefty prize.",
+            "Great.",
+            "Well, William Lang, thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fairly hefty prize",
+            "william lang",
+            "well",
+            "think",
+            "thank",
+            "run",
+            "important"
+        ],
+        "trends": [
+            "think",
+            "run",
+            "prize",
+            "important",
+            "hefty",
+            "fairly",
+            "william"
+        ]
+    },
+    {
+        "sentence": [
+            "It's been a fascinating discussion about this stone and about the market more generally and Lucara more generally.",
+            "So I'm really grateful that you've  Share time when you're busy, schedule to talk to me.",
+            "Thank you very much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "share time",
+            "really grateful",
+            "fascinating discussion",
+            "thank",
+            "talk",
+            "stone",
+            "schedule"
+        ],
+        "trends": [
+            "generally",
+            "time",
+            "talk",
+            "share",
+            "schedule",
+            "stone",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you, Joshua.",
+            "Thank you for your time.",
+            "group on Instagram and follow WrapperPort on Facebook, Twitter and LinkedIn."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "follow wrapperport",
+            "twitter",
+            "time",
+            "thank",
+            "thank",
+            "linkedin",
+            "joshua"
+        ],
+        "trends": [
+            "wrapperport",
+            "twitter",
+            "linkedin",
+            "instagram",
+            "group",
+            "follow",
+            "facebook"
+        ]
+    },
+    {
+        "sentence": [
+            "We also invite you to watch our weekly market comment videos on our YouTube channel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly market comment videos",
+            "youtube channel",
+            "also invite",
+            "watch"
+        ],
+        "trends": [
+            "youtube",
+            "weekly",
+            "watch",
+            "videos",
+            "market",
+            "invite",
+            "comment"
+        ]
+    }
+]

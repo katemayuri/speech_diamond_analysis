@@ -1,0 +1,4129 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host Joshua Friedman.",
+            "of the US National Gem and Mineral Collection at the Smithsonian's National Museum of Natural History in Washington DC.",
+            "Jeff recently retired after nearly 40 years at the Smithsonian, handling some of the world's most famous jewels, including the Hope Diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "nearly 40 years",
+            "jeff recently retired",
+            "host joshua friedman",
+            "us national gem",
+            "rappaport diamond podcast",
+            "national museum",
+            "hope diamond"
+        ],
+        "trends": [
+            "national",
+            "smithsonian",
+            "mineral",
+            "museum",
+            "diamond",
+            "welcome",
+            "friedman"
+        ]
+    },
+    {
+        "sentence": [
+            "We discussed this most incredible of diamonds and how Jeff's job straddled the line between gemology and storytelling.",
+            "And listen out for his valuable opinion on how the natural diamond industry needs to market its product in the face of competition from  lab-grown diamonds.",
+            "Enjoy the episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond industry needs",
+            "valuable opinion",
+            "job straddled",
+            "grown diamonds",
+            "diamonds",
+            "storytelling",
+            "product"
+        ],
+        "trends": [
+            "industry",
+            "diamonds",
+            "job",
+            "storytelling",
+            "discussed",
+            "gemology",
+            "incredible"
+        ]
+    },
+    {
+        "sentence": [
+            "to have you on this episode, Jeff.",
+            "It's really good to have you here.",
+            "You're welcome."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really good",
+            "welcome",
+            "jeff",
+            "episode"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Thank you, Joshua.",
+            "I'm delighted to join you.",
+            "So you've had 32 years as curator."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "32 years",
+            "thank",
+            "joshua",
+            "join",
+            "delighted",
+            "curator"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "So I really wanted to start by hearing your story, how you became involved in the Smithsonian, how you became involved in gemology.",
+            "And I know you were also particularly involved and influential in growing the National Gem and Mineral Collection.",
+            "So Jeff, can you just tell us a little bit about that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also particularly involved",
+            "became involved",
+            "became involved",
+            "tell us",
+            "really wanted",
+            "national gem",
+            "mineral collection"
+        ],
+        "trends": [
+            "involved",
+            "became",
+            "know",
+            "collection",
+            "gem",
+            "growing",
+            "tell"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, my background is probably pretty typical of a lot of academics.",
+            "I was in a graduate program in mineralogy and chemistry were my passions and ended up doing a postdoc at Harvard and at that point needed to find a job.",
+            "And one of the positions that was posted at the time was a research mineralogist at the Smithsonian Institution."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "probably pretty typical",
+            "smithsonian institution",
+            "research mineralogist",
+            "point needed",
+            "graduate program",
+            "well",
+            "time"
+        ],
+        "trends": [
+            "time",
+            "smithsonian",
+            "research",
+            "typical",
+            "background",
+            "well",
+            "probably"
+        ]
+    },
+    {
+        "sentence": [
+            "And at that time, I didn't quite know what that exactly meant, but it sounded pretty interesting.",
+            "So I applied for that along with some other positions and went down for an interview and remember coming back from  the Smithsonian and telling my fiance at the time that I'd never been a place where everybody I talked to was so enthusiastic about their job and that the Smithsonian was just a place I'd never imagined.",
+            "So we, after some discussion, both of us had grown up in the Midwest and so living in a large Eastern city was not exactly part of our plan, but the Smithsonian was such a draw that we decided it was something we just could not pass up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sounded pretty interesting",
+            "remember coming back",
+            "large eastern city",
+            "quite know",
+            "exactly part",
+            "exactly meant",
+            "never imagined"
+        ],
+        "trends": [
+            "smithsonian",
+            "place",
+            "never",
+            "midwest",
+            "time",
+            "exactly",
+            "sounded"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I went to the Smithsonian as a mineralogist, as a scientist, and immediately  It immediately became obvious that it was a very different kind of place.",
+            "It was a place that had this fantastic collection of gems and minerals.",
+            "It was a place very much in the public eye."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "immediately became obvious",
+            "public eye",
+            "fantastic collection",
+            "different kind",
+            "immediately",
+            "went",
+            "smithsonian"
+        ],
+        "trends": [
+            "place",
+            "immediately",
+            "went",
+            "different",
+            "gems",
+            "collection",
+            "minerals"
+        ]
+    },
+    {
+        "sentence": [
+            "We had millions of visitors every year coming into the museum.",
+            "And so it was going to be a type of job that was very different than anything else I could have imagined.",
+            "I also became a curator of a collection, which is not something you learn in academia, but it's something you sort of learn on the job."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "visitors every year coming",
+            "anything else",
+            "also became",
+            "type",
+            "sort",
+            "something",
+            "something"
+        ],
+        "trends": [
+            "job",
+            "something",
+            "learn",
+            "academia",
+            "collection",
+            "type",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "But also it became obvious that the public had tremendous curiosity  And so a big part of the job was going to be that interface between the science and the collection and the public's interest in those areas.",
+            "And I also learned early on that my areas of interest in mineralogy, which is sort of like environmental mineralogy, studying things like clays and soils and iron and manganese oxides, that wasn't the topic that the public was mostly interested in.",
+            "I remember early on giving some talks in those areas."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "studying things like clays",
+            "like environmental mineralogy",
+            "also learned early",
+            "remember early",
+            "tremendous curiosity",
+            "mostly interested",
+            "manganese oxides"
+        ],
+        "trends": [
+            "areas",
+            "public",
+            "early",
+            "like",
+            "mineralogy",
+            "also",
+            "interest"
+        ]
+    },
+    {
+        "sentence": [
+            "I think that was the first time I ever  few people would show up.",
+            "And then even then the questions were always about, well, what about the Hope Diamond?",
+            "What about the gem collection?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people would show",
+            "hope diamond",
+            "gem collection",
+            "first time",
+            "well",
+            "think",
+            "questions"
+        ],
+        "trends": [
+            "well",
+            "questions",
+            "hope",
+            "would",
+            "time",
+            "think",
+            "show"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I gradually learned that giving a talk about the gem collection was a much better way to connect with the public than talking about some of my other research topics.",
+            "And so it was clear that the public had this fascination for gems.",
+            "And so inevitably my interests sort of gravitated more and more in those directions as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "much better way",
+            "research topics",
+            "interests sort",
+            "gradually learned",
+            "gem collection",
+            "well",
+            "talking"
+        ],
+        "trends": [
+            "public",
+            "well",
+            "interests",
+            "directions",
+            "gravitated",
+            "inevitably",
+            "sort"
+        ]
+    },
+    {
+        "sentence": [
+            "And fortunately having this tremendous collection, it was an opportunity  to pursue my research interests, but also tie that in then with a way to communicate to the public about gems and minerals more broadly.",
+            "to pursue the research that I was interested in, but you're doing it always with this awareness that the public is just outside the door and that they have interests that you're trying to connect with.",
+            "And, you know, one of the truly exciting opportunities of being at the Smithsonian was that you had this direct connection between the research you're doing and the public right there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "truly exciting opportunities",
+            "tremendous collection",
+            "direct connection",
+            "also tie",
+            "public right",
+            "research interests",
+            "interests"
+        ],
+        "trends": [
+            "public",
+            "research",
+            "interests",
+            "pursue",
+            "trying",
+            "door",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "So that in the morning I could be working in the lab on an electron microscope or doing x-ray diffraction work  and that afternoon be talking to the public about exactly what I was doing that morning.",
+            "And so that direct link between research and the science and the collections and the public is something that you only get at a place like the Smithsonian or the Natural History Museum in London or other such natural history museums.",
+            "So I gradually became aware that this was a rare opportunity to do both of these things."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ray diffraction work",
+            "natural history museums",
+            "natural history museum",
+            "gradually became aware",
+            "rare opportunity",
+            "place like",
+            "electron microscope"
+        ],
+        "trends": [
+            "morning",
+            "natural",
+            "history",
+            "public",
+            "direct",
+            "like",
+            "working"
+        ]
+    },
+    {
+        "sentence": [
+            "But clearly being able to talk to the public about the gem collection in particular took me into a direction I had never  not fully thought about previously and one that I got more and more passionate about.",
+            "Imagine it's also a donor relationship management, at least from what I've read about your career, a lot of it has involved acquiring donations.",
+            "Well, certainly one of the primary objectives of being a curator, particularly of our gem collection, was trying to grow that collection."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "involved acquiring donations",
+            "donor relationship management",
+            "primary objectives",
+            "particular took",
+            "fully thought",
+            "gem collection",
+            "gem collection"
+        ],
+        "trends": [
+            "collection",
+            "gem",
+            "one",
+            "least",
+            "involved",
+            "management",
+            "imagine"
+        ]
+    },
+    {
+        "sentence": [
+            "And you do this for a couple of reasons.",
+            "One is you're trying to build a collection that is representative of the materials for research and for  preserving these materials for the future, but also because these materials represent stories that you want to be able to tell to the public.",
+            "And in many cases, are objects that you want to be able to give the public an opportunity to see."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "materials represent stories",
+            "many cases",
+            "materials",
+            "materials",
+            "want",
+            "want",
+            "trying"
+        ],
+        "trends": [
+            "materials",
+            "also",
+            "want",
+            "public",
+            "able",
+            "objects",
+            "many"
+        ]
+    },
+    {
+        "sentence": [
+            "And if they aren't going to be able to see them in a place like the Smithsonian or other great museums, they may never see them anywhere in their lifetime.",
+            "Because as you probably know, a lot of these particularly gemstones tend to live a life where they're somewhat hidden away.",
+            "You know, they tend to be  in private collections or in bank vaults or other places."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "somewhat hidden away",
+            "particularly gemstones tend",
+            "may never see",
+            "private collections",
+            "place like",
+            "great museums",
+            "bank vaults"
+        ],
+        "trends": [
+            "see",
+            "tend",
+            "know",
+            "anywhere",
+            "going",
+            "great",
+            "live"
+        ]
+    },
+    {
+        "sentence": [
+            "And so getting a chance to see these things is not always possible for most of us and certainly for the public.",
+            "And so this is one of the opportunities that being a curator of a place like the Smithsonian offers is how do we get some of these great objects out into the open and particularly into a place where they can be appreciated by literally everyone.",
+            "And so because most of these objects are owned privately, you end up  having to work with a wide variety of people to try to steer some of these things into the public domain."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wide variety",
+            "smithsonian offers",
+            "owned privately",
+            "literally everyone",
+            "always possible",
+            "public domain",
+            "place like"
+        ],
+        "trends": [
+            "things",
+            "public",
+            "place",
+            "objects",
+            "open",
+            "one",
+            "opportunities"
+        ]
+    },
+    {
+        "sentence": [
+            "And in most cases, that ultimately requires convincing them or at least providing the opportunity for them to see that they could be part of a great collection and in many cases provide a bit of a legacy for themselves.",
+            "One of the nice things about the Smithsonian collection is it's a high profile collection.",
+            "The Smithsonian is free to everyone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ultimately requires convincing",
+            "high profile collection",
+            "many cases provide",
+            "great collection",
+            "nice things",
+            "least providing",
+            "smithsonian collection"
+        ],
+        "trends": [
+            "collection",
+            "smithsonian",
+            "cases",
+            "ultimately",
+            "profile",
+            "one",
+            "nice"
+        ]
+    },
+    {
+        "sentence": [
+            "It's available to anyone wanting to come in the  and see these things.",
+            "And I think for a lot of individuals, they recognize that putting something in the Smithsonian collection means that it is a gift basically to the world.",
+            "And it also, because the Smithsonian has had this long history now, when I say long history, I'm talking in the United States terms, which spend there for 150, 175 years now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united states terms",
+            "smithsonian collection means",
+            "say long history",
+            "long history",
+            "putting something",
+            "gift basically",
+            "anyone wanting"
+        ],
+        "trends": [
+            "history",
+            "long",
+            "smithsonian",
+            "wanting",
+            "anyone",
+            "things",
+            "available"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's a sense that it will also be around long into the future.",
+            "And so someone donating something to the Smithsonian collection  It's not only that it has this immediate impact to the public, but it also sort of indicates that there's going to be this legacy that is going to live on for hundreds, perhaps thousands of years.",
+            "And I think for a lot of individuals, leaving a little bit of that legacy or a little bit of immortality is part of what they see as an attractive thing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "someone donating something",
+            "smithsonian collection",
+            "perhaps thousands",
+            "little bit",
+            "little bit",
+            "immediate impact",
+            "attractive thing"
+        ],
+        "trends": [
+            "going",
+            "little",
+            "bit",
+            "legacy",
+            "attractive",
+            "part",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "And of course, the great thing about gems is that gemstones have this permanence, this sense of carrying a story on forever.",
+            "They look every bit as beautiful.",
+            "beautiful thousands of years from now as they do now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "look every bit",
+            "great thing",
+            "beautiful thousands",
+            "beautiful",
+            "years",
+            "story",
+            "sense"
+        ],
+        "trends": [
+            "beautiful",
+            "thing",
+            "story",
+            "sense",
+            "permanence",
+            "look",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "And so it's a chance for donors to give something to the collection that not only will be beautiful and will be special for people to see now, but will carry their story and carry that impact long into the future.",
+            "I found that in many cases working with donors, it wasn't so much me having to convince somebody of something, it was me simply explaining to them the opportunity that giving something to a collection like the Smithsonian's  could provide and then the people recognizing that this is something you'd like to do.",
+            "And so all of our great gemstones have come into the collection as donations."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many cases working",
+            "simply explaining",
+            "impact long",
+            "great gemstones",
+            "could provide",
+            "convince somebody",
+            "people recognizing"
+        ],
+        "trends": [
+            "something",
+            "collection",
+            "like",
+            "carry",
+            "donors",
+            "people",
+            "long"
+        ]
+    },
+    {
+        "sentence": [
+            "And fortunately in the United States, there is sort of a long history of donors building such collections.",
+            "And of course, on the very practical side, there is a tax benefit for people wanting to give things to collections like the Smithsonian.",
+            "And so ultimately it's those two things that probably drive or  have driven a lot of the major gifts that have come into the collection."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united states",
+            "two things",
+            "tax benefit",
+            "probably drive",
+            "practical side",
+            "people wanting",
+            "major gifts"
+        ],
+        "trends": [
+            "things",
+            "collections",
+            "long",
+            "history",
+            "building",
+            "states",
+            "sort"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I was in this great opportunity, a great place of being a curator of the Smithsonian.",
+            "And one of the things I realized also early on is that coming from the Smithsonian is incredible sort of foot in the door for almost any conversation.",
+            "You know, you call somebody up or you meet somebody at a meeting or a conference or a dinner, wherever it is."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "realized also early",
+            "meet somebody",
+            "incredible sort",
+            "great place",
+            "great opportunity",
+            "call somebody",
+            "wherever"
+        ],
+        "trends": [
+            "great",
+            "somebody",
+            "smithsonian",
+            "wherever",
+            "call",
+            "conference",
+            "meeting"
+        ]
+    },
+    {
+        "sentence": [
+            "And once you got the words out, Hi, I'm Jeff Post from the Smithsonian, immediately people were happy to talk to you because  It's a place that has a great reputation.",
+            "Most people in the United States at least have been there or they've been there with their families or taken their kids there.",
+            "And so it became an immediate conversation starter."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "immediate conversation starter",
+            "united states",
+            "jeff post",
+            "great reputation",
+            "immediately people",
+            "people",
+            "words"
+        ],
+        "trends": [
+            "people",
+            "families",
+            "kids",
+            "united",
+            "least",
+            "states",
+            "became"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I didn't have to work that hard to convince people to talk to me.",
+            "The Smithsonian sort of was that entree that made my job pretty easy.",
+            "How often did people come to you or to the Smithsonian saying, I want to donate something?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "job pretty easy",
+            "smithsonian sort",
+            "smithsonian saying",
+            "people come",
+            "donate something",
+            "convince people",
+            "work"
+        ],
+        "trends": [
+            "people",
+            "smithsonian",
+            "talk",
+            "entree",
+            "sort",
+            "pretty",
+            "easy"
+        ]
+    },
+    {
+        "sentence": [
+            "Or how often did you have to do  sales job, almost like you're a big auction house.",
+            "Would you be interested in this for the collection or I'd like to talk to you about something that we might have that you might be interested in.",
+            "And those kinds of conversations were always fascinating and often would lead to something."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "big auction house",
+            "often would lead",
+            "sales job",
+            "always fascinating",
+            "almost like",
+            "would",
+            "often"
+        ],
+        "trends": [
+            "often",
+            "like",
+            "would",
+            "something",
+            "might",
+            "interested",
+            "auction"
+        ]
+    },
+    {
+        "sentence": [
+            "Sometimes people had different ideas of how things worked and so it would take a long time to work something out or it would not work at all.",
+            "And in other cases, it was as simple as somebody saying, we have this great gem, we'd like to give it to the Smithsonian and how do we do that?",
+            "But you know, as curator, wherever you are, you don't  take that hat off too often."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "things worked",
+            "sometimes people",
+            "somebody saying",
+            "long time",
+            "great gem",
+            "different ideas",
+            "work something"
+        ],
+        "trends": [
+            "would",
+            "work",
+            "take",
+            "cases",
+            "smithsonian",
+            "saying",
+            "simple"
+        ]
+    },
+    {
+        "sentence": [
+            "And so going to conferences, going to gem shows, meeting people in various walks, it became a great opportunity to start these conversations.",
+            "And sometimes you plant to the seed, somebody was just buying a gem at one point and you just casually say, well, you know, that's something that would be a great piece for our collection someday.",
+            "And, you know, they're not ready to give it then, but suddenly 15 years later, you get a phone call or an email saying, well, you know, I remember you said a long time ago that this is  something you might be interested in, are you still interested?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "suddenly 15 years later",
+            "long time ago",
+            "various walks",
+            "phone call",
+            "one point",
+            "meeting people",
+            "great piece"
+        ],
+        "trends": [
+            "know",
+            "interested",
+            "going",
+            "great",
+            "gem",
+            "something",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "And suddenly now they're at a point where they're thinking, maybe we need to decide what we want to do with this piece in the future.",
+            "And so these kinds of conversations are just in all these different stages throughout your career.",
+            "And I benefited from some of those conversations that my predecessors have."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "different stages throughout",
+            "want",
+            "thinking",
+            "suddenly",
+            "predecessors",
+            "point",
+            "piece"
+        ],
+        "trends": [
+            "conversations",
+            "decide",
+            "future",
+            "kinds",
+            "career",
+            "stages",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "And hopefully my successors will benefit from some of those we've had now, because everybody is at different stages in their ownership of things that they are ready to have those conversations.",
+            "The most famous donation to the collection was in 1958, a Hope Diamond from Harry Winston.",
+            "How central is that to the collection?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hope diamond",
+            "harry winston",
+            "famous donation",
+            "different stages",
+            "things",
+            "successors",
+            "ready"
+        ],
+        "trends": [
+            "hopefully",
+            "things",
+            "ownership",
+            "winston",
+            "hope",
+            "collection",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "and so a lot of people had seen the diamond.",
+            "You know, it's amazing to me, even today, I get occasionally an email or I'll hear from someone who says, oh, you know, my mother wore the Hope diamond and my grandmother wore the Hope diamond.",
+            "And a lot of that was during the time when Harry Winston was traveling around the country, prior to the times of social media."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traveling around",
+            "social media",
+            "mother wore",
+            "harry winston",
+            "grandmother wore",
+            "get occasionally",
+            "even today"
+        ],
+        "trends": [
+            "diamond",
+            "wore",
+            "hope",
+            "know",
+            "media",
+            "traveling",
+            "around"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, we didn't have TikTok.",
+            "So if you wanted to promote something or to tell a story, you had to go out there and show it to people.",
+            "And so it made the newspapers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "promote something",
+            "wanted",
+            "tiktok",
+            "tell",
+            "story",
+            "show",
+            "people"
+        ],
+        "trends": [
+            "wanted",
+            "tell",
+            "story",
+            "something",
+            "show",
+            "promote",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "It was, you know, on the news shows.",
+            "into these various cities around the country.",
+            "So when it came to Washington in 1958, a lot of people had heard about the Hope Diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various cities around",
+            "news shows",
+            "hope diamond",
+            "washington",
+            "people",
+            "lot",
+            "know"
+        ],
+        "trends": [
+            "shows",
+            "news",
+            "know",
+            "washington",
+            "people",
+            "lot",
+            "various"
+        ]
+    },
+    {
+        "sentence": [
+            "So it immediately became one of these sort of must-see items in Washington.",
+            "And there are various statistics that show the attendance to the museum more than doubled within a few weeks after it came to the Smithsonian.",
+            "And it just became one of those things that when people came to Washington, they wanted to see the Hope Diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "immediately became one",
+            "became one",
+            "various statistics",
+            "hope diamond",
+            "doubled within",
+            "see items",
+            "people came"
+        ],
+        "trends": [
+            "washington",
+            "became",
+            "one",
+            "came",
+            "people",
+            "wanted",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "And so it put the museum on the map as a destination  not just to see the Hope Diamond, but really to think about to see gemstones.",
+            "And part of Harry Winston's stated sort of reasons for giving the Hope Diamond to him he did was he thought, well, we don't have crown jewels, we don't have a king and queen, but we should have, in fact, a great national gem collection.",
+            "And what better place than in Washington, D.C. at a place where the museums are free to everybody who wants to come in."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "great national gem collection",
+            "stated sort",
+            "hope diamond",
+            "hope diamond",
+            "harry winston",
+            "crown jewels",
+            "see gemstones"
+        ],
+        "trends": [
+            "hope",
+            "diamond",
+            "see",
+            "place",
+            "better",
+            "washington",
+            "wants"
+        ]
+    },
+    {
+        "sentence": [
+            "So his giving the Hope Diamond put us on the map.",
+            "If that was the beginning, what really put the sort of the wind in our sails was a number of other private gifts that came in in the early 60s, Marger and Merriweather Post and Janet Annenberg Hooker and others that sort of built on this idea of a great national gem collection.",
+            "But without the Hope Diamond to start it all off, it's clearly would not be what it is today."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "great national gem collection",
+            "hope diamond put us",
+            "janet annenberg hooker",
+            "hope diamond",
+            "really put",
+            "private gifts",
+            "merriweather post"
+        ],
+        "trends": [
+            "diamond",
+            "hope",
+            "sort",
+            "put",
+            "clearly",
+            "without",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "And when people, you know, one of the main reasons why people still come into the Natural History Museum is to see the Hope Diamond.",
+            "You know, it's sort of like our Mona Lisa, you know,  go to the Louvre, you want to see the Mona Lisa first, just in case something happens and you have to leave the museum suddenly, you don't want to leave not having seen the Mona Lisa.",
+            "Well, the Hope Diamond is a little bit the same way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "case something happens",
+            "natural history museum",
+            "people still come",
+            "mona lisa first",
+            "mona lisa",
+            "mona lisa",
+            "museum suddenly"
+        ],
+        "trends": [
+            "lisa",
+            "mona",
+            "know",
+            "leave",
+            "want",
+            "people",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "People come in and they want to see the Hope Diamond.",
+            "And it is a great story.",
+            "I realized early on in my career that there was no way that I could just separate myself from the Hope Diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "realized early",
+            "people come",
+            "hope diamond",
+            "hope diamond",
+            "great story",
+            "way",
+            "want"
+        ],
+        "trends": [
+            "hope",
+            "diamond",
+            "want",
+            "see",
+            "way",
+            "separate",
+            "realized"
+        ]
+    },
+    {
+        "sentence": [
+            "It was the kinds of questions that people have.",
+            "They all wanted to know, why is it famous?",
+            "Is it cursed?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wanted",
+            "questions",
+            "people",
+            "know",
+            "kinds",
+            "famous",
+            "cursed"
+        ],
+        "trends": [
+            "questions",
+            "people",
+            "kinds",
+            "wanted",
+            "know",
+            "famous"
+        ]
+    },
+    {
+        "sentence": [
+            "story, how much is it worth, all these things that people are curious about.",
+            "And so I had the good fortune of being able to both think about the Hope Diamond from the point of view as a scientist.",
+            "We actually did a lot of research on the Hope Diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hope diamond",
+            "hope diamond",
+            "good fortune",
+            "worth",
+            "view",
+            "think",
+            "things"
+        ],
+        "trends": [
+            "diamond",
+            "hope",
+            "worth",
+            "people",
+            "curious",
+            "much",
+            "story"
+        ]
+    },
+    {
+        "sentence": [
+            "It turns out it's a fascinating geological, gemological specimen, as well as being a great historical piece of jewelry, gemstone.",
+            "And so we kind of had the two pronged opportunity to study its human history, but also to understand it better as a  rare blue diamond that formed deep in the earth.",
+            "And so those two things together, I think, have made it an even more fascinating object for our visitors, because we try to put those both together, reminding them that the story of the Hope Diamond didn't just begin when Harry Winston gave it in 1958, or didn't just begin when King Louis XIV acquired it in 1669."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "king louis xiv acquired",
+            "two pronged opportunity",
+            "harry winston gave",
+            "great historical piece",
+            "rare blue diamond",
+            "two things together",
+            "hope diamond"
+        ],
+        "trends": [
+            "begin",
+            "together",
+            "fascinating",
+            "diamond",
+            "two",
+            "historical",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "But in fact, the story began probably two billion years ago when this diamond formed  maybe 500 miles below the surface of the Earth.",
+            "And so when you put those two things together, it becomes, I think, even more fascinating object.",
+            "And then there's still parts of the story that we don't fully know, both from its natural history story, but also the human side."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "story began probably two billion years ago",
+            "diamond formed maybe 500 miles",
+            "two things together",
+            "natural history story",
+            "still parts",
+            "human side",
+            "fully know"
+        ],
+        "trends": [
+            "story",
+            "two",
+            "object",
+            "fascinating",
+            "becomes",
+            "put",
+            "even"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I think this sense that we're always, it's still a bit of a mystery story that we're trying to solve is part of why the public finds it fascinating.",
+            "How often would you take the Hope Diamond into the lab and inspect it?",
+            "We did that several times."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "several times",
+            "public finds",
+            "often would",
+            "mystery story",
+            "hope diamond",
+            "trying",
+            "think"
+        ],
+        "trends": [
+            "solve",
+            "sense",
+            "public",
+            "would",
+            "lab",
+            "diamond",
+            "hope"
+        ]
+    },
+    {
+        "sentence": [
+            "And, you know, one of the great opportunities of being a researcher at the Smithsonian is that we could study the Hope Diamond.",
+            "It also underscores why having objects such as the Hope Diamond in a place like the Smithsonian is truly a great thing for many ways.",
+            "And one of them is that it gives researchers the chance to study it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "place like",
+            "many ways",
+            "hope diamond",
+            "hope diamond",
+            "great thing",
+            "great opportunities",
+            "gives researchers"
+        ],
+        "trends": [
+            "smithsonian",
+            "study",
+            "one",
+            "diamond",
+            "great",
+            "hope",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, a private owner of a large blue diamond worth, you know, huge amounts of money typically isn't going to loan it to a scientist  to let them take it in the lab and poke and prod at it a bit to study it.",
+            "But the fact that that diamond is part of our collection means that it is available for study.",
+            "And so we did a number of those studies."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "large blue diamond worth",
+            "private owner",
+            "money typically",
+            "huge amounts",
+            "collection means",
+            "diamond",
+            "take"
+        ],
+        "trends": [
+            "know",
+            "worth",
+            "large",
+            "bit",
+            "study",
+            "diamond",
+            "available"
+        ]
+    },
+    {
+        "sentence": [
+            "We published papers on it.",
+            "We put the Hope diamond, we took it out of its setting, and we spent a night.",
+            "When you're studying the Hope diamond, one of the things you always have to keep in mind is that primarily it has to be back on exhibit during the daytime because we have thousands of people every day wanting to see it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people every day wanting",
+            "published papers",
+            "hope diamond",
+            "hope diamond",
+            "took",
+            "thousands",
+            "things"
+        ],
+        "trends": [
+            "diamond",
+            "hope",
+            "wanting",
+            "keep",
+            "back",
+            "mind",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "And so the research  starts as soon as the museum closes and we then go out, take it off exhibit, bring it back into our vault and we have a jeweler come in, unset the diamond from the setting.",
+            "And then one of the studies was we want to determine how much boron was in the diamond, giving it the blue color.",
+            "We knew that boron from other studies was the reason for the blue color, but how much boron?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "research starts",
+            "museum closes",
+            "jeweler come",
+            "blue color",
+            "blue color",
+            "much boron",
+            "much boron"
+        ],
+        "trends": [
+            "boron",
+            "blue",
+            "much",
+            "color",
+            "studies",
+            "diamond",
+            "determine"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, that's just not a study that could have been done otherwise.",
+            "But we had an instrument in the department at the time that was perfect for that study.",
+            "It's called a  of flight secondary ion mass spectrometer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "flight secondary ion mass spectrometer",
+            "done otherwise",
+            "time",
+            "study",
+            "study",
+            "perfect",
+            "mean"
+        ],
+        "trends": [
+            "study",
+            "spectrometer",
+            "time",
+            "perfect",
+            "instrument",
+            "otherwise",
+            "mean"
+        ]
+    },
+    {
+        "sentence": [
+            "And so we took the diamond out of the setting and we literally spent all night putting that diamond into that instrument.",
+            "We ablated off, we blasted off a few hundred thousand atoms off the backside of the Hope diamond, sorted those atoms by mass to determine how much boron was in the diamond.",
+            "And from that study, we determined there's about a half a part per million of boron in the Hope diamond."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "part per million",
+            "hundred thousand atoms",
+            "night putting",
+            "literally spent",
+            "much boron",
+            "hope diamond",
+            "hope diamond"
+        ],
+        "trends": [
+            "diamond",
+            "atoms",
+            "boron",
+            "hope",
+            "million",
+            "study",
+            "determined"
+        ]
+    },
+    {
+        "sentence": [
+            "And in early morning, we had the jeweler come back in  We put the diamond back into the setting and then had it back on an exhibit about five minutes before the exhibit opened to the public and no one was the wiser, but we had done this great study.",
+            "And there was another opportunity we had.",
+            "In fact, one of the really memorable moments, I guess, for me as a curator was we had this chance to do a side-by-side study of the Hope diamond and the Wittelsbach diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really memorable moments",
+            "jeweler come back",
+            "wittelsbach diamond",
+            "hope diamond",
+            "great study",
+            "five minutes",
+            "early morning"
+        ],
+        "trends": [
+            "back",
+            "diamond",
+            "exhibit",
+            "study",
+            "one",
+            "wittelsbach",
+            "chance"
+        ]
+    },
+    {
+        "sentence": [
+            "And you may know the Wittelsbach is another historically important blue diamond.",
+            "interesting history that somewhat parallels that of the Hope Diamond.",
+            "Both of the diamonds came out of India in the 1600s."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "another historically important blue diamond",
+            "hope diamond",
+            "somewhat parallels",
+            "may know",
+            "interesting history",
+            "diamonds came",
+            "wittelsbach"
+        ],
+        "trends": [
+            "diamond",
+            "india",
+            "diamonds",
+            "wittelsbach",
+            "somewhat",
+            "parallels",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "And the Hope Diamond went, or the parent of the Hope Diamond, at least as now as we believe, went to King Louis XIV of France, became part of the French crown jewels.",
+            "The Wittelsbach diamond came out of India within a few years and ended up going to the royal family of Spain.",
+            "And so here we have these two big blue diamonds, the Wittelsbach about 35  five carats then, the Hope Diamond, you know, at that time after became part of the French Crown Blues, about 68 carats."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two big blue diamonds",
+            "king louis xiv",
+            "french crown jewels",
+            "french crown blues",
+            "35 five carats",
+            "wittelsbach diamond came",
+            "hope diamond went"
+        ],
+        "trends": [
+            "part",
+            "crown",
+            "french",
+            "became",
+            "diamond",
+            "hope",
+            "went"
+        ]
+    },
+    {
+        "sentence": [
+            "Both of these big blue diamonds coming out of India about the same time and then following their path through different sort of royal intrigue and going from one country to another.",
+            "And whereas the Hope Diamond eventually ended up in Washington, D.C. owned by this wealthy woman, Evelyn Walsh McLean, and then eventually the Smithsonian, the Wittelsbach Diamond, after being part of the royal family of Bavaria in Germany,  sort of disappeared, kind of went into private ownership and nobody had seen it for decades.",
+            "But there was always this speculation, I mean it's curious, that in hundreds of years of history only two large blue diamonds ever showed up that were noteworthy and both came out of India about the same time."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two large blue diamonds ever showed",
+            "big blue diamonds coming",
+            "hope diamond eventually ended",
+            "evelyn walsh mclean",
+            "wittelsbach diamond",
+            "wealthy woman",
+            "royal intrigue"
+        ],
+        "trends": [
+            "diamond",
+            "eventually",
+            "royal",
+            "sort",
+            "time",
+            "diamonds",
+            "blue"
+        ]
+    },
+    {
+        "sentence": [
+            "And so could they have come from the same original piece of rough?",
+            "I mean were they somehow related?",
+            "But because the Wittelsbach had sort of disappeared, that study could never be done."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "study could never",
+            "somehow related",
+            "original piece",
+            "could",
+            "wittelsbach",
+            "sort",
+            "rough"
+        ],
+        "trends": [
+            "could",
+            "somehow",
+            "related",
+            "mean",
+            "wittelsbach",
+            "study",
+            "rough"
+        ]
+    },
+    {
+        "sentence": [
+            "The Hope diamond and the Wittelsbach were never put side by side.",
+            "Well then suddenly  the Wittelsbach diamond came up for auction and it was purchased by Lawrence Graff.",
+            "And then he had the diamond slightly recut to improve chips and things."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond slightly recut",
+            "never put side",
+            "wittelsbach diamond came",
+            "hope diamond",
+            "lawrence graff",
+            "improve chips",
+            "wittelsbach"
+        ],
+        "trends": [
+            "diamond",
+            "wittelsbach",
+            "side",
+            "recut",
+            "hope",
+            "put",
+            "never"
+        ]
+    },
+    {
+        "sentence": [
+            "The diamond just historically had ended up there.",
+            "And so we approached Lawrence Graff and we said, well, you know, we would love to do side by side, look at the Hope diamond and the Wittelsbach.",
+            "It's never been done."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "approached lawrence graff",
+            "would love",
+            "hope diamond",
+            "diamond",
+            "wittelsbach",
+            "well",
+            "side"
+        ],
+        "trends": [
+            "side",
+            "would",
+            "wittelsbach",
+            "well",
+            "said",
+            "love",
+            "look"
+        ]
+    },
+    {
+        "sentence": [
+            "Would you be willing, but loan it to us both for exhibition and then also for study.",
+            "And he agreed.",
+            "And so the Wittelsbach came to Washington, DC."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wittelsbach came",
+            "would",
+            "willing",
+            "washington",
+            "us",
+            "study",
+            "loan"
+        ],
+        "trends": [
+            "wittelsbach",
+            "washington",
+            "dc",
+            "would",
+            "willing",
+            "us",
+            "study"
+        ]
+    },
+    {
+        "sentence": [
+            "And I remember  a bunch of scientists, a bunch of colleagues from the G.I.A.",
+            "agent, while it was going to America, a couple of other collaborators that I worked on with diamonds, all of us assembled to do this study.",
+            "And they all brought their equipment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "us assembled",
+            "worked",
+            "study",
+            "scientists",
+            "remember",
+            "going",
+            "g"
+        ],
+        "trends": [
+            "bunch",
+            "worked",
+            "us",
+            "study",
+            "going",
+            "diamonds",
+            "couple"
+        ]
+    },
+    {
+        "sentence": [
+            "Our vault was absolutely jammed full of all these instruments that we wanted to use to study this, because it had to be done under high security.",
+            "And so, of course, the Hoke Diamond was on exhibit.",
+            "The Wittelsbach Diamond was delivered to us."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "absolutely jammed full",
+            "wittelsbach diamond",
+            "hoke diamond",
+            "high security",
+            "wanted",
+            "vault",
+            "use"
+        ],
+        "trends": [
+            "jammed",
+            "instruments",
+            "diamond",
+            "exhibit",
+            "course",
+            "hoke",
+            "wanted"
+        ]
+    },
+    {
+        "sentence": [
+            "So I put the Wittelsbach Diamond back in the vault.",
+            "And then when the  the museum closed to the public.",
+            "I had to kick all the scientists out of our vault and I had to go then with our security out to the exhibit hall and we took the Hope Diamond off exhibit and I took it back into the vault and for that first moment I was back in the vault and it was just me and the Hope Diamond and the Wittelsbach Diamond."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wittelsbach diamond back",
+            "wittelsbach diamond",
+            "hope diamond",
+            "hope diamond",
+            "museum closed",
+            "first moment",
+            "exhibit hall"
+        ],
+        "trends": [
+            "vault",
+            "diamond",
+            "back",
+            "took",
+            "exhibit",
+            "hope",
+            "wittelsbach"
+        ]
+    },
+    {
+        "sentence": [
+            "And I'm holding these two diamonds in my hands and thinking this is like the first time ever in history that these two diamonds  have been next to each other and here I am holding these two great blue diamonds.",
+            "And so I have to admit I just kind of savored those few moments and thinking where else, what other job could I ever have where I could be doing something just like this.",
+            "And then went out, got all my colleagues, brought them into the vault and we spent literally all night then doing these side-by-side studies of these two blue diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two great blue diamonds",
+            "two blue diamonds",
+            "first time ever",
+            "two diamonds",
+            "two diamonds",
+            "spent literally",
+            "side studies"
+        ],
+        "trends": [
+            "two",
+            "diamonds",
+            "blue",
+            "holding",
+            "could",
+            "thinking",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And the result of that study, which got published then, was  that in fact, there are a lot of similarities between these two diamonds, including the fact that both the Wittelsbach and the Hope diamonds show this intense red phosphorescence when exposed to ultraviolet light.",
+            "But there were also some significant differences.",
+            "So we were able to show very conclusively that no, they could not have come from the same original blue diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "original blue diamond",
+            "intense red phosphorescence",
+            "hope diamonds show",
+            "two diamonds",
+            "ultraviolet light",
+            "significant differences",
+            "got published"
+        ],
+        "trends": [
+            "diamonds",
+            "fact",
+            "show",
+            "able",
+            "blue",
+            "come",
+            "conclusively"
+        ]
+    },
+    {
+        "sentence": [
+            "They had to be different diamonds, but certainly geologically had very similar stories.",
+            "And so, you know, it was just one of those great moments.",
+            "But only again at the Smithsonian  we have done that kind of research and have those diamonds together to do that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "similar stories",
+            "great moments",
+            "different diamonds",
+            "diamonds together",
+            "certainly geologically",
+            "smithsonian",
+            "research"
+        ],
+        "trends": [
+            "diamonds",
+            "one",
+            "moments",
+            "know",
+            "great",
+            "together",
+            "smithsonian"
+        ]
+    },
+    {
+        "sentence": [
+            "But then immediately afterwards, share the two diamonds with the public and then tell the story of those two diamonds and research that we did to the public.",
+            "It's a fascinating story.",
+            "You mentioned shaving atoms off the Hope diamond."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mentioned shaving atoms",
+            "two diamonds",
+            "two diamonds",
+            "immediately afterwards",
+            "hope diamond",
+            "fascinating story",
+            "story"
+        ],
+        "trends": [
+            "two",
+            "public",
+            "diamonds",
+            "shaving",
+            "tell",
+            "story",
+            "share"
+        ]
+    },
+    {
+        "sentence": [
+            "Was there ever concern that damage might be done to one of these pieces?",
+            "Obviously, none of us wanted to be ever good out in history as the person that somehow wrecked the Hope diamond.",
+            "It was something that we took great care  with."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "took great care",
+            "us wanted",
+            "somehow wrecked",
+            "hope diamond",
+            "ever good",
+            "ever concern",
+            "damage might"
+        ],
+        "trends": [
+            "ever",
+            "concern",
+            "damage",
+            "done",
+            "might",
+            "one",
+            "care"
+        ]
+    },
+    {
+        "sentence": [
+            "And so the Hope Diamond was not the first diamond that, for example, we put into the Toph Sims, the time of flight secondary ion-mized spectrometer.",
+            "We actually worked on some other blue diamonds first to make sure that we understood exactly how the experiment would play out, what we needed to, how much we needed to do the measurement.",
+            "And in fact, we have another important blue diamond in the collection that sometimes gets overshadowed by the Hope Diamond, but in many ways is also one of the great blue diamonds in the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "another important blue diamond",
+            "great blue diamonds",
+            "sometimes gets overshadowed",
+            "flight secondary ion",
+            "experiment would play",
+            "blue diamonds first",
+            "first diamond"
+        ],
+        "trends": [
+            "diamond",
+            "blue",
+            "needed",
+            "hope",
+            "first",
+            "diamonds",
+            "example"
+        ]
+    },
+    {
+        "sentence": [
+            "It's called the  blue heart diamond, okay, not very creative there, but it's a heart-shaped blue diamond, about 30 carats.",
+            "And it's a more, you know, it's a stone that came out of the Premier mine.",
+            "So it's a more modern cut blue diamond according to a lot of people, one of the most beautiful blue diamonds because of its more modern cut."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "modern cut blue diamond according",
+            "shaped blue diamond",
+            "beautiful blue diamonds",
+            "blue heart diamond",
+            "modern cut",
+            "premier mine",
+            "30 carats"
+        ],
+        "trends": [
+            "blue",
+            "diamond",
+            "cut",
+            "modern",
+            "creative",
+            "okay",
+            "called"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's sitting in the next room from the Hope diamond.",
+            "So most of our visitors, by the time they get to it, they go, oh, another blue diamond, big deal.",
+            "And you know, whereas anywhere else it would be the star."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whereas anywhere else",
+            "another blue diamond",
+            "hope diamond",
+            "next room",
+            "big deal",
+            "would",
+            "visitors"
+        ],
+        "trends": [
+            "diamond",
+            "know",
+            "anywhere",
+            "else",
+            "whereas",
+            "would",
+            "hope"
+        ]
+    },
+    {
+        "sentence": [
+            "And they know the fact would  Marjorie Mayer with the Post gave us that diamond.",
+            "I remember she would commonly talk to her friends saying, well, this is a much prettier diamond than the Hope diamond.",
+            "You know, what's the big deal here?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fact would marjorie mayer",
+            "would commonly talk",
+            "post gave us",
+            "much prettier diamond",
+            "hope diamond",
+            "friends saying",
+            "big deal"
+        ],
+        "trends": [
+            "diamond",
+            "know",
+            "would",
+            "saying",
+            "remember",
+            "prettier",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "But of course it doesn't have the same history as the Hope diamond.",
+            "But we did study on that diamond before we did the study on the Hope diamond.",
+            "Plus we have some smaller blue diamonds that we also worked on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "smaller blue diamonds",
+            "also worked",
+            "hope diamond",
+            "hope diamond",
+            "diamond",
+            "study",
+            "study"
+        ],
+        "trends": [
+            "diamond",
+            "hope",
+            "study",
+            "history",
+            "course",
+            "worked",
+            "smaller"
+        ]
+    },
+    {
+        "sentence": [
+            "So we had a chance to do a fairly comprehensive set of measurements on a variety of blue diamonds, all leading up to the Hope diamond being the last one we did.",
+            "Right.",
+            "And it sounds like you have quite a gemological operation there,  Did you ever consider offering geological services, lab services, to the industry?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ever consider offering geological services",
+            "fairly comprehensive set",
+            "lab services",
+            "sounds like",
+            "last one",
+            "hope diamond",
+            "gemological operation"
+        ],
+        "trends": [
+            "services",
+            "variety",
+            "leading",
+            "chance",
+            "comprehensive",
+            "diamond",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not really what we're about.",
+            "We are primarily, I mean, we're a research organization.",
+            "And we're also a, well, Smithsonian's an interesting combination of being both a government sort of instrument, but also a private institution."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "research organization",
+            "private institution",
+            "interesting combination",
+            "government sort",
+            "well",
+            "smithsonian",
+            "really"
+        ],
+        "trends": [
+            "also",
+            "well",
+            "sort",
+            "smithsonian",
+            "private",
+            "interesting",
+            "instrument"
+        ]
+    },
+    {
+        "sentence": [
+            "Brief history, of course, going back to Great Britain, Englishman James Smithson, mineralogist, chemist, after he passed away in the early 1800s,  he left his fortune to the United States for the establishment of an institution for the increase in diffusion of knowledge.",
+            "Also became the Smithsonian Institution.",
+            "So we were established as a private entity using the funds from James Smithson."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "private entity using",
+            "englishman james smithson",
+            "james smithson",
+            "united states",
+            "passed away",
+            "great britain",
+            "going back"
+        ],
+        "trends": [
+            "institution",
+            "james",
+            "smithson",
+            "entity",
+            "established",
+            "using",
+            "private"
+        ]
+    },
+    {
+        "sentence": [
+            "But then ultimately that was augmented by funds from the U.S. government as our mission expanded.",
+            "As the United States started assembling collections from various exploring expeditions, particularly to the western part of the United States,  those collections needed a place and needed to have work done on them.",
+            "And so the Smithsonian became the repository for those collections and also then a place for the research to be done on those and an opportunity then ultimately to share them with the public through a museum."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "united states started assembling collections",
+            "various exploring expeditions",
+            "united states",
+            "collections needed",
+            "western part",
+            "smithsonian became",
+            "mission expanded"
+        ],
+        "trends": [
+            "collections",
+            "united",
+            "states",
+            "needed",
+            "done",
+            "place",
+            "ultimately"
+        ]
+    },
+    {
+        "sentence": [
+            "And so we're now this interesting combination of public and private.",
+            "But because I was a federal employee and because a lot of us are government, we have a fairly specific mission.",
+            "And that mission is to do the research and do not provide then a commercial service as a result of that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fairly specific mission",
+            "interesting combination",
+            "federal employee",
+            "commercial service",
+            "mission",
+            "us",
+            "result"
+        ],
+        "trends": [
+            "mission",
+            "private",
+            "interesting",
+            "service",
+            "result",
+            "research",
+            "commercial"
+        ]
+    },
+    {
+        "sentence": [
+            "We do provide, you know, we get a lot of inquiries from the public, you know, people sending us pictures of things, sending us descriptions of things, sometimes sending us things, showing up at the door saying, what is this?",
+            "And we will try to do as much of that as we can, but frankly, we just don't have the resources to serve that in that capacity.",
+            "And so we often try to connect up people with experts in their area or other places, but we have a great working relationship with various geological laboratories."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people sending us pictures",
+            "sometimes sending us things",
+            "sending us descriptions",
+            "various geological laboratories",
+            "great working relationship",
+            "door saying",
+            "often try"
+        ],
+        "trends": [
+            "us",
+            "things",
+            "sending",
+            "know",
+            "people",
+            "various",
+            "connect"
+        ]
+    },
+    {
+        "sentence": [
+            "Obviously, our collection is an important resource that we will loan to various laboratories who are doing research if they need comparison stones.",
+            "Because of the fact that a lot of our stones date back to the 1800s, early 1900s, and are from sources that are fairly well documented and then predate various treatments that were being done, a lot of times they can be useful as standards or comparisons for stones that are coming out today.",
+            "So we work with the various laboratories."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fairly well documented",
+            "stones date back",
+            "predate various treatments",
+            "need comparison stones",
+            "various laboratories",
+            "various laboratories",
+            "important resource"
+        ],
+        "trends": [
+            "stones",
+            "various",
+            "laboratories",
+            "lot",
+            "resource",
+            "loan",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "in Great Britain and the continent, but also in the United States with GIA.",
+            "So we prefer to look at our collections as a resource to be used.",
+            "And we will try to support research that's being done by those organizations and let them do the work they do so well as the more testing commercial laboratories."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "testing commercial laboratories",
+            "united states",
+            "support research",
+            "great britain",
+            "work",
+            "well",
+            "used"
+        ],
+        "trends": [
+            "also",
+            "great",
+            "united",
+            "britain",
+            "states",
+            "used",
+            "collections"
+        ]
+    },
+    {
+        "sentence": [
+            "And we just try to provide the scientific support if we can.",
+            "Very interesting.",
+            "I wanted to ask about the issue of ethical practices, the kind of trend towards reassessing past practices in terms of  acquiring wealth, acquiring objects."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "trend towards reassessing past practices",
+            "ethical practices",
+            "scientific support",
+            "acquiring wealth",
+            "acquiring objects",
+            "wanted",
+            "try"
+        ],
+        "trends": [
+            "acquiring",
+            "practices",
+            "past",
+            "ask",
+            "ethical",
+            "issue",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "I know that the Smithsonian has had to return certain items to other countries, maybe only on one occasion, but you may be able to correct me on that.",
+            "Has that been relevant at all to the mineral and gem collection?",
+            "Yeah, I mean, it is a very topical question these days."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "return certain items",
+            "topical question",
+            "one occasion",
+            "gem collection",
+            "yeah",
+            "smithsonian",
+            "relevant"
+        ],
+        "trends": [
+            "items",
+            "yeah",
+            "question",
+            "mean",
+            "topical",
+            "days",
+            "collection"
+        ]
+    },
+    {
+        "sentence": [
+            "And obviously my tenure at the Smithsonian has overlapped almost entirely with a fairly strong focus on repatriation.",
+            "And it started out with mostly a focus on repatriation for North American  indigenous peoples, but has expanded beyond that.",
+            "And I think there's an awareness throughout the world in terms of museums and similar institutions of how we have acquired collections, how we use collections and how those collections should be curated and managed in the future."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "north american indigenous peoples",
+            "overlapped almost entirely",
+            "fairly strong focus",
+            "similar institutions",
+            "expanded beyond",
+            "awareness throughout",
+            "use collections"
+        ],
+        "trends": [
+            "collections",
+            "repatriation",
+            "focus",
+            "overlapped",
+            "almost",
+            "fairly",
+            "tenure"
+        ]
+    },
+    {
+        "sentence": [
+            "And so all of my time at the Smithsonian, I think required an increasing amount, but we were always aware of a certain amount of due diligence that just needed to apply to everything certainly coming new in the collection, but also  being aware of that as we continue to do research.",
+            "Part of the job of being a curator is that you're not only adding to the collection, but you're continuing to add knowledge about the collection.",
+            "And so in both of those areas, you have to be aware of not only the prevailing ideas of how collections should be managed and where they should be managed, but also how they were acquired and perhaps what the context was at the time they were being acquired."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "everything certainly coming new",
+            "think required",
+            "prevailing ideas",
+            "increasing amount",
+            "due diligence",
+            "certain amount",
+            "add knowledge"
+        ],
+        "trends": [
+            "collection",
+            "aware",
+            "amount",
+            "acquired",
+            "managed",
+            "time",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "And one of the things that makes it a little bit simpler  our colonial past doesn't go back quite as far as some countries have.",
+            "And so there's a little bit less of an issue there to deal with, but it is something we're always aware of.",
+            "In terms of the mineral collection, probably one of the major topics that has reoccurred in that area, we have a large copper boulder."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit simpler",
+            "little bit less",
+            "large copper boulder",
+            "go back quite",
+            "mineral collection",
+            "major topics",
+            "colonial past"
+        ],
+        "trends": [
+            "one",
+            "little",
+            "bit",
+            "area",
+            "always",
+            "something",
+            "aware"
+        ]
+    },
+    {
+        "sentence": [
+            "It's called the Ontanoggin boulder.",
+            "It came from Northern Michigan and it was transported to Washington, DC through the Navy department back in the 1800s.",
+            "And there's been an ongoing  discussion about whether this is somehow was a sacred object to certain tribes up in the northern part of Michigan."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "navy department back",
+            "sacred object",
+            "ontanoggin boulder",
+            "ongoing discussion",
+            "northern part",
+            "certain tribes",
+            "northern michigan"
+        ],
+        "trends": [
+            "michigan",
+            "northern",
+            "washington",
+            "came",
+            "dc",
+            "department",
+            "navy"
+        ]
+    },
+    {
+        "sentence": [
+            "And there was a long repatriation discussion about this object.",
+            "There was a determination that this object itself was never actually used for such purposes.",
+            "But then there's a general recognition that copper boulders, such as those in general, were thought were held to be unusual or important objects to some of these early peoples."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "never actually used",
+            "long repatriation discussion",
+            "important objects",
+            "early peoples",
+            "copper boulders",
+            "general recognition",
+            "general"
+        ],
+        "trends": [
+            "object",
+            "general",
+            "determination",
+            "never",
+            "used",
+            "purposes",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "So how does that piece then fit into that story?",
+            "And that's something that's still an ongoing discussion.",
+            "And so there will be, I'm sure, other such stories that will come up that we'll have to be dealing with."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "ongoing discussion",
+            "sure",
+            "story",
+            "stories",
+            "still",
+            "something",
+            "piece"
+        ],
+        "trends": [
+            "still",
+            "something",
+            "ongoing",
+            "sure",
+            "stories",
+            "dealing",
+            "story"
+        ]
+    },
+    {
+        "sentence": [
+            "With the gem collection, you know, interesting parts of that is there's always been an interest in the history of gemstones.",
+            "It's always been fascinating to me that when you take a gemstone and you put it in the hands of somebody, almost invariably, the first question that comes out of their mouth is, who owned it?",
+            "Where did this come from?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "interesting parts",
+            "gem collection",
+            "first question",
+            "almost invariably",
+            "take",
+            "somebody",
+            "put"
+        ],
+        "trends": [
+            "comes",
+            "always",
+            "history",
+            "gemstones",
+            "collection",
+            "parts",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "In addition to the beauty and just the recognition of it as something that's been there for a long time,  special from the earth.",
+            "The fascination I think we have as people for these stones is wanting to know their story, their history.",
+            "And that has always been, I think, a focus for us because the public keeps asking these questions."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "public keeps asking",
+            "long time",
+            "wanting",
+            "us",
+            "think",
+            "think",
+            "story"
+        ],
+        "trends": [
+            "think",
+            "wanting",
+            "know",
+            "always",
+            "keeps",
+            "asking",
+            "focus"
+        ]
+    },
+    {
+        "sentence": [
+            "So I just finished a recent book about many of the objects in the collection.",
+            "And part of the motivation of that was trying to fill in a lot of the stories, the histories behind a lot of these pieces.",
+            "And so that became sort of a pandemic project was pouring through all the archives we have, which fortunately now are mostly  digitized and trying to fill in some of these early parts of those stories and see if there are parts of them that we previously were not aware of or continue the process."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "recent book",
+            "pandemic project",
+            "mostly digitized",
+            "histories behind",
+            "became sort",
+            "early parts",
+            "parts"
+        ],
+        "trends": [
+            "parts",
+            "lot",
+            "trying",
+            "stories",
+            "fill",
+            "recent",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "And it is an ongoing process.",
+            "Most of our pieces, the stories are more recent.",
+            "And so it's a little easier to follow through."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ongoing process",
+            "little easier",
+            "stories",
+            "recent",
+            "pieces",
+            "follow"
+        ],
+        "trends": [
+            "little",
+            "follow",
+            "easier",
+            "stories",
+            "recent",
+            "pieces"
+        ]
+    },
+    {
+        "sentence": [
+            "They start with some commercial interaction somewhere, something was sold to someone and we can trace them back to the origins, to the minds in many cases.",
+            "But in many places, we're still filling in some of those stories.",
+            "far, we've tried to be pretty transparent about the histories, you know, because we are a scientific organization."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "commercial interaction somewhere",
+            "still filling",
+            "scientific organization",
+            "pretty transparent",
+            "many places",
+            "many cases",
+            "tried"
+        ],
+        "trends": [
+            "many",
+            "pretty",
+            "far",
+            "histories",
+            "know",
+            "organization",
+            "filling"
+        ]
+    },
+    {
+        "sentence": [
+            "And so want to tell the story as best as we know it.",
+            "And questions come up occasionally, but so far, it hasn't been generally controversial.",
+            "But I think as we continue to learn, we have to be aware that there always could be stories that could come out that we're going to have to think about and be sure that we're thoughtful in how we address those."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "questions come",
+            "generally controversial",
+            "could come",
+            "always could",
+            "want",
+            "thoughtful",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "could",
+            "come",
+            "controversial",
+            "questions",
+            "occasionally",
+            "generally"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "Have any of the more recent hostilities or sanctions have impacted your acquisition strategy?",
+            "in, by the way, or more recently, Russia."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "recent hostilities",
+            "acquisition strategy",
+            "way",
+            "sanctions",
+            "russia",
+            "right",
+            "recently"
+        ],
+        "trends": [
+            "way",
+            "russia",
+            "recently",
+            "strategy",
+            "sanctions",
+            "recent",
+            "impacted"
+        ]
+    },
+    {
+        "sentence": [
+            "require us to follow.",
+            "But also then there's beyond that, we are a very public institution.",
+            "And so we do have to know that whatever we do has to be something that will live up to public scrutiny as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "require us",
+            "public scrutiny",
+            "public institution",
+            "whatever",
+            "well",
+            "something",
+            "live"
+        ],
+        "trends": [
+            "public",
+            "us",
+            "require",
+            "follow",
+            "whatever",
+            "well",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not just doing something that is legally correct.",
+            "It's doing something that by all perception is correct.",
+            "That gets to be a fine line."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fine line",
+            "legally correct",
+            "correct",
+            "something",
+            "something",
+            "perception",
+            "gets"
+        ],
+        "trends": [
+            "something",
+            "correct",
+            "line",
+            "gets",
+            "fine",
+            "perception",
+            "legally"
+        ]
+    },
+    {
+        "sentence": [
+            "It can often be a lot of conversation.",
+            "And when we acquire something for the collection, it's never been a case of me or any one  individual saying, yeah, let's take this for the collection.",
+            "It's always been a process of sort of consensus, first with my colleagues within my department and your collection managers and others, but then also, you know, going through to our museum director and beyond that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one individual saying",
+            "museum director",
+            "colleagues within",
+            "acquire something",
+            "collection managers",
+            "collection",
+            "collection"
+        ],
+        "trends": [
+            "collection",
+            "yeah",
+            "case",
+            "individual",
+            "let",
+            "never",
+            "acquire"
+        ]
+    },
+    {
+        "sentence": [
+            "And so there's always a fair bit of justification and evaluation and research that goes into any major gift coming into the collection.",
+            "And a big part of that discussion has always been, can we, you know,  answer all the questions that might come up about this.",
+            "And if we have concerns and doubts, then we have walked away from things sometimes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "major gift coming",
+            "walked away",
+            "things sometimes",
+            "might come",
+            "fair bit",
+            "big part",
+            "research"
+        ],
+        "trends": [
+            "always",
+            "questions",
+            "answer",
+            "doubts",
+            "might",
+            "things",
+            "away"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you hold any lab-grown gemstones or diamonds in your collection?",
+            "Well, in fact, we have some of the very first lab-grown diamonds ever introduced to the public.",
+            "You know, when General Electric did their early experiments in the 1950s to produce the lab-grown diamonds using high pressure techniques, some of those early stones were donated then to our collection."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "grown diamonds using high pressure techniques",
+            "grown diamonds ever introduced",
+            "grown gemstones",
+            "general electric",
+            "early stones",
+            "early experiments",
+            "diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "collection",
+            "early",
+            "introduced",
+            "ever",
+            "fact",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "And so it is  part of the diamond story that we do tell.",
+            "Since then, in terms of synthetic lab-grown diamonds, synthetic, I am not aware that we have any other more recent lab-grown diamonds that have been added to the collection.",
+            "We do have examples of lab-grown rubies, emeralds, others that have been donated."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "grown rubies",
+            "grown diamonds",
+            "grown diamonds",
+            "diamond story",
+            "recent lab",
+            "synthetic lab",
+            "lab"
+        ],
+        "trends": [
+            "synthetic",
+            "diamonds",
+            "part",
+            "tell",
+            "aware",
+            "others",
+            "donated"
+        ]
+    },
+    {
+        "sentence": [
+            "In part because, again, being a research collection, having the synthetic analogs to a lot of these materials have been helpful because our collection is not only there for us to use,  But also, in fact, the major reason we build our research collection is that it's available to research scientists anywhere in the world that need to borrow specimens for their collection.",
+            "And we provide those specimens for research at no charge and to any researcher connected to a legitimate research organization.",
+            "And so our thinking in terms of what we add to the collection is also what might be important scientifically, not just now, but also in the future."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "research scientists anywhere",
+            "legitimate research organization",
+            "synthetic analogs",
+            "researcher connected",
+            "major reason",
+            "important scientifically",
+            "research collection"
+        ],
+        "trends": [
+            "collection",
+            "research",
+            "also",
+            "specimens",
+            "add",
+            "important",
+            "future"
+        ]
+    },
+    {
+        "sentence": [
+            "I was going to ask the public, the visitors, do they show  any interest in these, particularly the General Electric?",
+            "Oh, they do.",
+            "The whole subject of lab-grown diamonds has been very much a topic of conversation that has come up in many contexts with our visitors."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole subject",
+            "many contexts",
+            "grown diamonds",
+            "general electric",
+            "visitors",
+            "visitors",
+            "topic"
+        ],
+        "trends": [
+            "visitors",
+            "much",
+            "interest",
+            "particularly",
+            "electric",
+            "general",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, in talks that I give, just being out there with the public, you know, clearly people are aware of them.",
+            "And the obvious question is always, are they real diamonds?",
+            "You know, what do you think?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real diamonds",
+            "obvious question",
+            "clearly people",
+            "think",
+            "talks",
+            "public",
+            "mean"
+        ],
+        "trends": [
+            "real",
+            "question",
+            "talks",
+            "public",
+            "people",
+            "mean",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, are they?",
+            "And, you know, it's the same conversations that are going on at all different levels in the diamond industry these days.",
+            "And it's a pretty fascinating one."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pretty fascinating one",
+            "different levels",
+            "diamond industry",
+            "mean",
+            "know",
+            "going",
+            "days"
+        ],
+        "trends": [
+            "pretty",
+            "one",
+            "levels",
+            "know",
+            "industry",
+            "going",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "There's no doubt about it.",
+            "What do you think?",
+            "Are they real diamonds?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "real diamonds",
+            "think",
+            "doubt"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "or as a mineralogist, I could structure the composition of a lab-grown diamond is identical to a natural diamond in all the ways that are essentially important for describing material.",
+            "So there's no doubt it's a diamond, but then the stories diverge.",
+            "And so how everyone perceives those different stories is going to be a very interesting thing to see play out."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stories diverge",
+            "see play",
+            "interesting thing",
+            "everyone perceives",
+            "essentially important",
+            "different stories",
+            "describing material"
+        ],
+        "trends": [
+            "diamond",
+            "stories",
+            "see",
+            "play",
+            "perceives",
+            "different",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "because it has become obvious in my job as curator all these years.",
+            "As I alluded to earlier, people are fascinated by the stories that go along with gemstones.",
+            "And I think people perceive a big part of the value of a gemstone as being its story."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think people perceive",
+            "go along",
+            "big part",
+            "become obvious",
+            "people",
+            "years",
+            "value"
+        ],
+        "trends": [
+            "people",
+            "gemstones",
+            "along",
+            "earlier",
+            "fascinated",
+            "obvious",
+            "job"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I think that what will be interesting to see is how people perceive the story of lab-grown versus natural diamonds as playing  and how much of the story about the diamond is its value.",
+            "There are people that are passionate about diamonds as products of the earth, and clearly there's a geological story, there's a long, as I alluded to with the Hope diamond, two billion year or more story that goes along with natural diamonds that's very different than the story that goes along with lab-grown diamonds.",
+            "And so I think that the more that story becomes part  of the natural diamond, I think that will separate it in one way, whether it's good or bad, or whether it's how it's perceived as something else for the public, but it gives the natural diamond its own place."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "grown versus natural diamonds",
+            "two billion year",
+            "story becomes part",
+            "grown diamonds",
+            "natural diamonds",
+            "natural diamond",
+            "natural diamond"
+        ],
+        "trends": [
+            "story",
+            "diamonds",
+            "diamond",
+            "natural",
+            "think",
+            "along",
+            "goes"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the more that story is emphasized, people understand what the difference is.",
+            "Now, on the other hand, lab-grown diamonds are sort of a fascinating story too.",
+            "It's a little bit of a testament to the prowess, the technological abilities of mankind to take something  to produce what are now getting to be larger and larger."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "technological abilities",
+            "take something",
+            "people understand",
+            "little bit",
+            "grown diamonds",
+            "fascinating story",
+            "story"
+        ],
+        "trends": [
+            "story",
+            "larger",
+            "understand",
+            "difference",
+            "emphasized",
+            "people",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "I've heard recently about a 50 carat man-made diamond, and who knows where that'll end, and they're becoming more and more perfect.",
+            "And so, you look at a natural or lab-grown diamond, and that has its own story that's fascinating.",
+            "Here's something that was produced in a laboratory or let's say a factory, however you want to do it, but it was produced because of the technological advancements."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "50 carat man",
+            "technological advancements",
+            "made diamond",
+            "heard recently",
+            "grown diamond",
+            "want",
+            "story"
+        ],
+        "trends": [
+            "diamond",
+            "produced",
+            "heard",
+            "becoming",
+            "carat",
+            "recently",
+            "perfect"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not something that was simple.",
+            "I mean, we  didn't do it in the last 2000 years, we only did it now.",
+            "And so it's something that took certain advancements, certain understandings of science to be able to do this."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last 2000 years",
+            "took certain advancements",
+            "certain understandings",
+            "something",
+            "something",
+            "simple",
+            "science"
+        ],
+        "trends": [
+            "certain",
+            "years",
+            "mean",
+            "last",
+            "understandings",
+            "took",
+            "something"
+        ]
+    },
+    {
+        "sentence": [
+            "And so that's a story.",
+            "And which story is more appealing, you know, or will appeal to different people, I think is part of what will separate these two different materials from each other a little bit.",
+            "And how that plays out with the public, it's not going to be clear."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two different materials",
+            "different people",
+            "little bit",
+            "think",
+            "story",
+            "story",
+            "separate"
+        ],
+        "trends": [
+            "different",
+            "two",
+            "little",
+            "appealing",
+            "bit",
+            "know",
+            "materials"
+        ]
+    },
+    {
+        "sentence": [
+            "I asked my daughter, who's 26 years old and we're 25.",
+            "And I said, well, what would you rather have, you know, a five carat lab grown diamond or a one carat natural diamond?",
+            "She just said, are they both diamonds?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "five carat lab grown diamond",
+            "one carat natural diamond",
+            "26 years old",
+            "would",
+            "well",
+            "said",
+            "said"
+        ],
+        "trends": [
+            "diamond",
+            "carat",
+            "would",
+            "well",
+            "said",
+            "rather",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "And I said, well, yes.",
+            "And she said the bigger diamond.",
+            "And so it kind of broke my heart a little bit."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit",
+            "bigger diamond",
+            "yes",
+            "well",
+            "said",
+            "said",
+            "kind"
+        ],
+        "trends": [
+            "said",
+            "diamond",
+            "bigger",
+            "yes",
+            "well",
+            "little",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "But on the other hand, who knows when push comes to shove, maybe she'll change her mind.",
+            "But I think it's a confusing time for the public.",
+            "And certainly in the industry, it's a matter of a lot of conversation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "push comes",
+            "confusing time",
+            "think",
+            "shove",
+            "public",
+            "mind",
+            "maybe"
+        ],
+        "trends": [
+            "time",
+            "confusing",
+            "matter",
+            "conversation",
+            "industry",
+            "lot",
+            "certainly"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's been fascinating for me intersecting with the public from a curator point of view and realizing that the public does have these questions.",
+            "They are curious.",
+            "They are fascinated, but I think they still want to know the stories."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still want",
+            "curator point",
+            "view",
+            "think",
+            "stories",
+            "realizing",
+            "questions"
+        ],
+        "trends": [
+            "public",
+            "want",
+            "think",
+            "view",
+            "realizing",
+            "questions",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the more that people understand or given the opportunity to understand what different stories are, people will choose.",
+            "I hate to say it now, it's made my bias coming through a little bit, but being a mineralogist and working with natural  materials from the earth all my life.",
+            "I think it's pretty hard to discount the story of something that took billions of years to form deep in the earth and then is a product of nature."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "took billions",
+            "pretty hard",
+            "natural materials",
+            "little bit",
+            "form deep",
+            "different stories",
+            "bias coming"
+        ],
+        "trends": [
+            "think",
+            "people",
+            "understand",
+            "earth",
+            "materials",
+            "natural",
+            "bit"
+        ]
+    },
+    {
+        "sentence": [
+            "It's hard to say that's not something special.",
+            "And I think that maybe we've lost that a little bit.",
+            "I mean, I think honestly, I think in some ways the diamond industry hurt itself a little bit by promoting diamond as diamond and not  so much as this thing that came out of the earth and the whole story behind it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whole story behind",
+            "diamond industry hurt",
+            "something special",
+            "promoting diamond",
+            "little bit",
+            "little bit",
+            "think honestly"
+        ],
+        "trends": [
+            "think",
+            "diamond",
+            "industry",
+            "bit",
+            "little",
+            "maybe",
+            "lost"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the fact that, you know, this whole like a diamond is forever.",
+            "You know, if you can translate diamond to either natural or lab-grown, you don't separate the two.",
+            "It's the story behind it that's different."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole like",
+            "story behind",
+            "either natural",
+            "translate diamond",
+            "diamond",
+            "two",
+            "think"
+        ],
+        "trends": [
+            "know",
+            "diamond",
+            "story",
+            "different",
+            "behind",
+            "whole",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think in some ways, the industry a little bit lost the story of where diamonds came from and why they're special in terms of their  geologic story and why it is that what came out of the earth is something that we should treasure in a different way than what came out of a laboratory.",
+            "And I think that when we're only talking about them as diamonds, generic, we sort of lost that.",
+            "And partly I understand it because for a long time lab-grown wasn't part of the story, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "long time lab",
+            "little bit lost",
+            "different way",
+            "geologic story",
+            "diamonds came",
+            "lost",
+            "diamonds"
+        ],
+        "trends": [
+            "story",
+            "came",
+            "diamonds",
+            "think",
+            "lost",
+            "partly",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "You didn't have to, when you talked about diamond, you only talked about diamonds that came out of the earth.",
+            "And now when you're talking about diamond, you're talking about a material that could either come  out of a laboratory or factory or come out of the earth.",
+            "And somehow changing that, adjusting the story a bit to remind people that, okay, they're both diamonds, but they have very different stories."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could either come",
+            "somehow changing",
+            "remind people",
+            "different stories",
+            "come",
+            "talking",
+            "talking"
+        ],
+        "trends": [
+            "earth",
+            "diamond",
+            "talked",
+            "talking",
+            "come",
+            "diamonds",
+            "adjusting"
+        ]
+    },
+    {
+        "sentence": [
+            "And I'm not sure that has been emphasized in the way that people, I think, would like to know to allow them to make a more comfortable and informed decision about what it is they're acquiring and what it is they want to have.",
+            "Because again, people, when they see that gemstone,  I don't care whether it's lab-grown or natural or it's a ruby or an emerald.",
+            "And somebody says, that's a beautiful thing you've got on your finger."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would like",
+            "somebody says",
+            "informed decision",
+            "care whether",
+            "beautiful thing",
+            "way",
+            "want"
+        ],
+        "trends": [
+            "people",
+            "emerald",
+            "whether",
+            "natural",
+            "says",
+            "got",
+            "finger"
+        ]
+    },
+    {
+        "sentence": [
+            "The first thing they want to do is they want to tell the story.",
+            "They want to say, why is this particular stone something special?",
+            "And if it's a diamond, I think a lot of us would like to say, yeah, and you know what?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "particular stone something special",
+            "us would like",
+            "first thing",
+            "yeah",
+            "want",
+            "want",
+            "want"
+        ],
+        "trends": [
+            "want",
+            "say",
+            "first",
+            "thing",
+            "tell",
+            "story",
+            "special"
+        ]
+    },
+    {
+        "sentence": [
+            "That formed 2 billion years ago on the earth and came out.",
+            "Isn't it an amazing thing that that survived the trip from 100 miles below the surface to the surface?",
+            "And it's one that survived  and one that was found and that's what makes this stone special."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "formed 2 billion years ago",
+            "stone special",
+            "amazing thing",
+            "100 miles",
+            "trip",
+            "survived",
+            "survived"
+        ],
+        "trends": [
+            "survived",
+            "one",
+            "surface",
+            "formed",
+            "billion",
+            "came",
+            "thing"
+        ]
+    },
+    {
+        "sentence": [
+            "And somebody else may say, I think this is special because somebody made this thing.",
+            "I think it's an incredible story that an engineer devised a way to produce something like this.",
+            "And isn't it wonderful that I have something that was made by human hands."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "somebody else may say",
+            "produce something like",
+            "somebody made",
+            "incredible story",
+            "human hands",
+            "engineer devised",
+            "something"
+        ],
+        "trends": [
+            "made",
+            "something",
+            "think",
+            "somebody",
+            "engineer",
+            "incredible",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think that the more that story becomes a separate story and the more that people know what that story is, they'll decide what story they want to tell.",
+            "to do to tell that story.",
+            "Oh, I agree with you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people know",
+            "story becomes",
+            "separate story",
+            "story",
+            "story",
+            "story",
+            "want"
+        ],
+        "trends": [
+            "story",
+            "want",
+            "think",
+            "tell",
+            "separate",
+            "people",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that it didn't have to push that story for a long time because all they had to say was the diamond is forever.",
+            "Well, that lab-room diamond is forever too.",
+            "So, you know, it's somehow you've got to decide what is your story and let the public know what the story is clearly so the public can decide."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "long time",
+            "room diamond",
+            "public know",
+            "public",
+            "know",
+            "diamond",
+            "well"
+        ],
+        "trends": [
+            "story",
+            "forever",
+            "diamond",
+            "public",
+            "know",
+            "decide",
+            "somehow"
+        ]
+    },
+    {
+        "sentence": [
+            "Jeff, you've achieved a lot in your career.",
+            "You've published books.",
+            "As someone who struggles to get an 800-word article over the line, I'm amazed that people are able to write books."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "write books",
+            "word article",
+            "published books",
+            "struggles",
+            "someone",
+            "people",
+            "lot"
+        ],
+        "trends": [
+            "write",
+            "struggles",
+            "someone",
+            "people",
+            "line",
+            "get",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm impressed by that.",
+            "What are your plans for retirement now?",
+            "things rather than starting things."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "things rather",
+            "starting things",
+            "retirement",
+            "plans",
+            "impressed"
+        ],
+        "trends": [
+            "things",
+            "starting",
+            "rather"
+        ]
+    },
+    {
+        "sentence": [
+            "And, you know, plus hopefully adding a little bit of flexibility to your life to allow you to focus on some of the things that maybe you haven't done.",
+            "You know, a place like the Smithsonian is wonderful, but it's also administrative overhead.",
+            "And I have to say that I've enjoyed more and more saying, not my problem."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "plus hopefully adding",
+            "also administrative overhead",
+            "place like",
+            "little bit",
+            "wonderful",
+            "things",
+            "smithsonian"
+        ],
+        "trends": [
+            "know",
+            "life",
+            "allow",
+            "bit",
+            "done",
+            "flexibility",
+            "wonderful"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, I don't have to do that anymore.",
+            "And so not going to meetings, not having to answer all the emails, not having to be part of all the discussions going on.",
+            "I'm delighted to pass a lot of that on to my very able successors."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "able successors",
+            "discussions going",
+            "going",
+            "pass",
+            "part",
+            "meetings",
+            "lot"
+        ],
+        "trends": [
+            "going",
+            "successors",
+            "pass",
+            "lot",
+            "delighted",
+            "part",
+            "meetings"
+        ]
+    },
+    {
+        "sentence": [
+            "And I can  and focus on, I can spend the day in the lab, finish some projects or work on a book or whatever it is I want to do that is different.",
+            "But, you know, I think to my wife, Chagrin, she's also realized that what I did for my job and my career is also what I do for my hobby.",
+            "And so I got into the career I did because of a passion for minerals and the stories that they have and the gems related to them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "gems related",
+            "also realized",
+            "also",
+            "work",
+            "wife",
+            "whatever",
+            "want"
+        ],
+        "trends": [
+            "career",
+            "also",
+            "hobby",
+            "job",
+            "wife",
+            "related",
+            "gems"
+        ]
+    },
+    {
+        "sentence": [
+            "And that doesn't go away because you retire.",
+            "And I'm still involved.",
+            "I'm on the board of directors for the Gemological Institute of America."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still involved",
+            "go away",
+            "gemological institute",
+            "retire",
+            "directors",
+            "board",
+            "america"
+        ],
+        "trends": [
+            "institute",
+            "gemological",
+            "directors",
+            "board",
+            "america",
+            "retire",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "got other connections that I will hopefully continue with the gem industry.",
+            "I still give talks.",
+            "I'll be working on papers and things, and I'm working with some students."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "still give talks",
+            "hopefully continue",
+            "gem industry",
+            "working",
+            "working",
+            "things",
+            "students"
+        ],
+        "trends": [
+            "working",
+            "talks",
+            "still",
+            "give",
+            "things",
+            "industry",
+            "hopefully"
+        ]
+    },
+    {
+        "sentence": [
+            "So some of that work will continue on, but hopefully again, with a little more flexibility, you know, it's nice to wake up in the morning and go, well, you know, I'm just going to stay home today and not go into the museum or not do something else.",
+            "And that part of it's good.",
+            "I still love the gems."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stay home today",
+            "still love",
+            "something else",
+            "work",
+            "well",
+            "wake",
+            "part"
+        ],
+        "trends": [
+            "go",
+            "know",
+            "well",
+            "else",
+            "flexibility",
+            "going",
+            "home"
+        ]
+    },
+    {
+        "sentence": [
+            "I still love the minerals and I enjoy probably the best part of it.",
+            "You look back and you go great stories, great objects, but mostly great people.",
+            "And the part that  that is really gratifying is that retiring doesn't mean you lose all those connections with all the people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "go great stories",
+            "mostly great people",
+            "great objects",
+            "still love",
+            "really gratifying",
+            "look back",
+            "enjoy probably"
+        ],
+        "trends": [
+            "great",
+            "part",
+            "people",
+            "mean",
+            "gratifying",
+            "probably",
+            "best"
+        ]
+    },
+    {
+        "sentence": [
+            "And so the gem industry, but also the museum world and research gives you this opportunity to interact with some really interesting and wonderful people.",
+            "And that's been the real treasure.",
+            "What's been the joy of my career is all the people that I've had a chance to work with."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "research gives",
+            "really interesting",
+            "real treasure",
+            "museum world",
+            "gem industry",
+            "wonderful people",
+            "people"
+        ],
+        "trends": [
+            "people",
+            "interact",
+            "gem",
+            "gives",
+            "industry",
+            "world",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "It made my job easy.",
+            "And you know, you don't have to convince people to love gemstones, right?",
+            "You know, it's just you settle into this great community of people  And to me, the gratifying thing is that the day I retired didn't sever those connections."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "love gemstones",
+            "job easy",
+            "great community",
+            "gratifying thing",
+            "convince people",
+            "people",
+            "sever"
+        ],
+        "trends": [
+            "people",
+            "know",
+            "connections",
+            "job",
+            "made",
+            "easy",
+            "thing"
+        ]
+    },
+    {
+        "sentence": [
+            "Really appreciated the fact that I've been able to continue a lot of those conversations to get to see people.",
+            "Many of them are good friends.",
+            "And I look forward to continuing the conversations, continuing those interactions and hopefully satisfying still my curiosity about some of the stories related to gems and minerals that I don't know the answer to yet."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hopefully satisfying still",
+            "stories related",
+            "see people",
+            "really appreciated",
+            "look forward",
+            "good friends",
+            "yet"
+        ],
+        "trends": [
+            "continuing",
+            "conversations",
+            "really",
+            "fact",
+            "lot",
+            "people",
+            "able"
+        ]
+    },
+    {
+        "sentence": [
+            "And Jeff, a final question.",
+            "I think you've probably had a lot of practice  How much is the Hope Diamond worth?",
+            "Although there is a reality that you can look up what blue diamonds sell for at auction these days, and particularly ones that may have any history associated with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hope diamond worth",
+            "blue diamonds sell",
+            "particularly ones",
+            "history associated",
+            "final question",
+            "think",
+            "reality"
+        ],
+        "trends": [
+            "final",
+            "question",
+            "look",
+            "may",
+            "associated",
+            "auction",
+            "blue"
+        ]
+    },
+    {
+        "sentence": [
+            "And you can multiply the price per carat times, you know, the 45.52 carats of the oak diamond.",
+            "And you can go, wow, that's a big number.",
+            "And you go, wow, that's got to be one of the most valuable things per volume in the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "valuable things per volume",
+            "price per carat times",
+            "oak diamond",
+            "big number",
+            "52 carats",
+            "wow",
+            "wow"
+        ],
+        "trends": [
+            "go",
+            "per",
+            "wow",
+            "things",
+            "one",
+            "world",
+            "valuable"
+        ]
+    },
+    {
+        "sentence": [
+            "And of course it underscores why gemstones are so still something that are valuable, something that in a way, if we didn't have, we'd never have.",
+            "What else has the greatest form of portable wealth and gemstones, right?",
+            "And so for the Hope Diamond, you look at it and go, my gosh, you know, somebody puts it in their pocket and they go around the country."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "somebody puts",
+            "portable wealth",
+            "hope diamond",
+            "greatest form",
+            "still something",
+            "go around",
+            "something"
+        ],
+        "trends": [
+            "gemstones",
+            "go",
+            "something",
+            "valuable",
+            "underscores",
+            "still",
+            "wealth"
+        ]
+    },
+    {
+        "sentence": [
+            "What else could you, how else could you carry that much wealth with you?",
+            "And the only ultimate answer and the one that, you know, our security officers always will say is, well, the only way we know is you put it up for auction someday and you see what somebody would pay for it.",
+            "And ultimately for things like that or great pieces of art, whatever,  the only way you really know what it's worth is what somebody is willing to pay for it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "security officers always",
+            "somebody would pay",
+            "ultimate answer",
+            "things like",
+            "much wealth",
+            "great pieces",
+            "else could"
+        ],
+        "trends": [
+            "know",
+            "else",
+            "could",
+            "way",
+            "pay",
+            "somebody",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "And then the great thing is the day after the auction, you start all over again going, how much is that worth?",
+            "You know, what's it worth now?",
+            "And isn't it kind of fun to know there are things out there that we just don't really know how much they're worth."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "great thing",
+            "really know",
+            "know",
+            "know",
+            "worth",
+            "worth",
+            "worth"
+        ],
+        "trends": [
+            "worth",
+            "much",
+            "know",
+            "thing",
+            "start",
+            "great",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "We know they're valuable to us in a lot of different ways.",
+            "And I think in some ways it almost minimalizes in a way the great value of a gemstone by putting a price on it.",
+            "Because then we go, well, its value is this amount."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "almost minimalizes",
+            "great value",
+            "different ways",
+            "ways",
+            "value",
+            "well",
+            "way"
+        ],
+        "trends": [
+            "value",
+            "ways",
+            "valuable",
+            "us",
+            "different",
+            "lot",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "But as we know,  in the industry or as those of us who love gems, the real value is history, where it came from, the beauty it has.",
+            "You put it in your hand and you hold it and you go, that is like the most incredible thing I've ever seen.",
+            "There's a value there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "love gems",
+            "incredible thing",
+            "ever seen",
+            "real value",
+            "value",
+            "us",
+            "put"
+        ],
+        "trends": [
+            "value",
+            "hand",
+            "thing",
+            "seen",
+            "put",
+            "ever",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "How do you put a value on that?",
+            "Right.",
+            "And so you don't want people to think about our gems in terms of how much they're worth in money value."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "want people",
+            "money value",
+            "value",
+            "worth",
+            "think",
+            "terms",
+            "right"
+        ],
+        "trends": [
+            "worth",
+            "want",
+            "value",
+            "think",
+            "terms",
+            "people",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "We want people to think about them as incredibly interesting and beautiful objects.",
+            "Yeah, they happen to be valuable.",
+            "But then the question is why?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "want people",
+            "incredibly interesting",
+            "beautiful objects",
+            "yeah",
+            "valuable",
+            "think",
+            "question"
+        ],
+        "trends": [
+            "yeah",
+            "valuable",
+            "happen",
+            "want",
+            "think",
+            "people",
+            "objects"
+        ]
+    },
+    {
+        "sentence": [
+            "Why are they valuable?",
+            "You know, you can't eat them.",
+            "You can't, you know, if you throw them at somebody, I guess it's a weapon, but it doesn't really hurt somebody."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really hurt somebody",
+            "somebody",
+            "weapon",
+            "valuable",
+            "throw",
+            "know",
+            "know"
+        ],
+        "trends": [
+            "somebody",
+            "know",
+            "ca",
+            "eat",
+            "weapon",
+            "throw",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "But why have these things been so appreciated?",
+            "Why have kings and queens used them as a source of either wealth or status?",
+            "I mean, why today do we still think of them as a form of status and wealth?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "still think",
+            "queens used",
+            "either wealth",
+            "wealth",
+            "today",
+            "things",
+            "status"
+        ],
+        "trends": [
+            "wealth",
+            "status",
+            "used",
+            "source",
+            "queens",
+            "today",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "And what is it about these stones that it's almost like if we didn't have them as a civilization or society, we'd have to invent something like them because  we need something like that.",
+            "And I think that becomes the greater sort of story about gems that we sometimes lose a little bit.",
+            "You know, we tend to commoditize them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "need something like",
+            "invent something like",
+            "almost like",
+            "sometimes lose",
+            "little bit",
+            "greater sort",
+            "think"
+        ],
+        "trends": [
+            "like",
+            "something",
+            "almost",
+            "stones",
+            "civilization",
+            "society",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "We tend to always be putting a price tag on them.",
+            "And I think even in the industry, if I fault the industry at all again, it's because we sort of get a little bit jaded by the fact that everything has a price on it and how much can we make by selling it with it.",
+            "And for me, the great joy of being a curator, I always say the best part of the job is  have to sell anything."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit jaded",
+            "think even",
+            "sell anything",
+            "great joy",
+            "best part",
+            "price tag",
+            "always say"
+        ],
+        "trends": [
+            "always",
+            "industry",
+            "joy",
+            "anything",
+            "best",
+            "curator",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, I didn't have to put a price tag on it.",
+            "I didn't have to convince somebody to buy something.",
+            "I could just simply hold it in my hand and say, isn't this one of the most incredible things you've ever seen for all kinds of reasons?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "simply hold",
+            "price tag",
+            "incredible things",
+            "ever seen",
+            "convince somebody",
+            "buy something",
+            "say"
+        ],
+        "trends": [
+            "incredible",
+            "could",
+            "put",
+            "price",
+            "tag",
+            "know",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "And the price had very little to do with it.",
+            "And I think the more we think about gems that way, ironically, the more valuable they become to us.",
+            "And I think ultimately that's the real value of a gemstone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real value",
+            "think ultimately",
+            "think",
+            "think",
+            "way",
+            "valuable",
+            "us"
+        ],
+        "trends": [
+            "think",
+            "value",
+            "ultimately",
+            "real",
+            "way",
+            "valuable",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "And the more we can tell that part of the story, the more we can let people just  really enjoy them as beautiful things and not worry about whether they're investments or what the value is going to be in the future or anything like that.",
+            "The value will actually be there and it will actually be even worse.",
+            "So because ultimately that's the only reason we value them is because they're sort of these beautiful things that last forever."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really enjoy",
+            "let people",
+            "last forever",
+            "even worse",
+            "beautiful things",
+            "beautiful things",
+            "anything like"
+        ],
+        "trends": [
+            "value",
+            "actually",
+            "things",
+            "beautiful",
+            "sort",
+            "reason",
+            "ultimately"
+        ]
+    },
+    {
+        "sentence": [
+            "And where else can you go in the world and point to something if that's the case?",
+            "Well, Dr. Jeffrey Post, I'm extremely grateful that you've joined us on this podcast.",
+            "Really an enlightening conversation."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joined us",
+            "jeffrey post",
+            "extremely grateful",
+            "enlightening conversation",
+            "world",
+            "well",
+            "something"
+        ],
+        "trends": [
+            "conversation",
+            "really",
+            "world",
+            "go",
+            "else",
+            "case",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "I particularly enjoyed learning about how your world has  straddled the line between gemology and storytelling.",
+            "Thank you so much for sharing your insights.",
+            "Joshua, it's been a pleasure."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "particularly enjoyed learning",
+            "world",
+            "thank",
+            "straddled",
+            "storytelling",
+            "sharing",
+            "pleasure"
+        ],
+        "trends": [
+            "thank",
+            "sharing",
+            "world",
+            "straddled",
+            "storytelling",
+            "particularly",
+            "line"
+        ]
+    },
+    {
+        "sentence": [
+            "And as you can tell, I enjoy talking about both gems and their stories and the science.",
+            "It's been a privilege for me to be at a place like the Smithsonian, where I had a chance to do that and to get to know a lot of great people and appreciate the chance to share some good memories and thoughts today with you as well.",
+            "Thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thoughts today",
+            "place like",
+            "great people",
+            "good memories",
+            "enjoy talking",
+            "well",
+            "thank"
+        ],
+        "trends": [
+            "chance",
+            "well",
+            "lot",
+            "get",
+            "good",
+            "enjoy",
+            "tell"
+        ]
+    },
+    {
+        "sentence": [
+            "to get future episodes.",
+            "For more discussion, news and analysis about the diamond industry, you can visit Rappaport.com, follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "We also invite you to watch our weekly market comment videos on our YouTube channel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly market comment videos",
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit rappaport",
+            "youtube channel",
+            "diamond industry"
+        ],
+        "trends": [
+            "follow",
+            "rappaport",
+            "youtube",
+            "invite",
+            "channel",
+            "comment",
+            "weekly"
+        ]
+    },
+    {
+        "sentence": [
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [],
+        "trends": []
+    }
+]

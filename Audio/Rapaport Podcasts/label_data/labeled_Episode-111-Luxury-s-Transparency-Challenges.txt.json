@@ -1,0 +1,2231 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "which provides technology solutions to help verify products and Professor Felicitas Mohard, Vice Dean and Professor of Marketing at the Faculty of Business and Economics at the University of Lausanne, Switzerland, also known as HDC Lausanne.",
+            "Both of them were here to talk about Original Luxury, their public-private partnership that provides resources and events about transparency and traceability to members of the luxury industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "help verify products",
+            "provides technology solutions",
+            "professor felicitas mohard",
+            "provides resources",
+            "vice dean",
+            "private partnership"
+        ],
+        "trends": [
+            "lausanne",
+            "professor",
+            "luxury",
+            "provides",
+            "events",
+            "industry",
+            "faculty"
+        ]
+    },
+    {
+        "sentence": [
+            "We discussed the organization's recent luxury roundtable in Switzerland, the emerging  academic discipline of luxury research and the challenges facing an industry that has long prided itself on mystique.",
+            "Enjoy the episode.",
+            "If you could tell me a little bit about what Original Luxury is and what's it for, why was it founded?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "emerging academic discipline",
+            "recent luxury roundtable",
+            "original luxury",
+            "luxury research",
+            "long prided",
+            "little bit",
+            "could tell"
+        ],
+        "trends": [
+            "luxury",
+            "mystique",
+            "tell",
+            "original",
+            "bit",
+            "could",
+            "founded"
+        ]
+    },
+    {
+        "sentence": [
+            "Original Luxury is a public-private initiative and it really brings together academic partners and private technology startup.",
+            "So the academic partners are the University of Lausanne and the IMD here in Switzerland and Original as a technology startup.",
+            "And it is a platform that brings together stakeholders from the luxury industry  industry and related industries to discuss and get familiar with the latest technologies for traceability."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really brings together academic partners",
+            "brings together stakeholders",
+            "luxury industry industry",
+            "private technology startup",
+            "academic partners",
+            "technology startup",
+            "private initiative"
+        ],
+        "trends": [
+            "original",
+            "partners",
+            "academic",
+            "technology",
+            "industry",
+            "luxury",
+            "together"
+        ]
+    },
+    {
+        "sentence": [
+            "So for now, we are around 20 technology partners and over 60 luxury stakeholders.",
+            "Yeah, what is it for?",
+            "I mean, there are many multi-stakeholders initiatives out there now to advance responsible practices in business, but we are unique, if I may say, in our focus on traceability  technology."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "around 20 technology partners",
+            "advance responsible practices",
+            "60 luxury stakeholders",
+            "traceability technology",
+            "stakeholders initiatives",
+            "may say",
+            "many multi"
+        ],
+        "trends": [
+            "unique",
+            "business",
+            "focus",
+            "initiatives",
+            "many",
+            "technology",
+            "stakeholders"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's really our core and our focus that we've heeded.",
+            "Having said that, that we are focused on technologies for traceability, we also are really technology agnostic.",
+            "And that is probably something very much coming from the academic world that we are holding wholly our independence."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really technology agnostic",
+            "probably something",
+            "much coming",
+            "holding wholly",
+            "academic world",
+            "really",
+            "traceability"
+        ],
+        "trends": [
+            "really",
+            "focused",
+            "traceability",
+            "technology",
+            "technologies",
+            "agnostic",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're not pushing or promoting any particular solution or any particular brand, but we really want to bring together knowledge, wisdom,  create new knowledge.",
+            "And then maybe also that why exactly the luxury industry.",
+            "So we're covering all possible sectors in the luxury industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "create new knowledge",
+            "bring together knowledge",
+            "really want",
+            "possible sectors",
+            "particular solution",
+            "particular brand",
+            "maybe also"
+        ],
+        "trends": [
+            "industry",
+            "luxury",
+            "particular",
+            "knowledge",
+            "brand",
+            "bring",
+            "sectors"
+        ]
+    },
+    {
+        "sentence": [
+            "So everyone who is in that industry is welcome.",
+            "But we thought that luxury has a special need when it comes to traceability, because it has a very special challenge.",
+            "When you think about luxury, you think about a dream, you think maybe also a little bit about  about a black box or mystique."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think maybe also",
+            "special need",
+            "special challenge",
+            "little bit",
+            "black box",
+            "think",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "luxury",
+            "special",
+            "comes",
+            "thought",
+            "need",
+            "challenge"
+        ]
+    },
+    {
+        "sentence": [
+            "There's a lot of secrets around how things are being done and where things are coming from and how they are made.",
+            "And this is the opposite of what you expect from traceability, right?",
+            "I mean, there it's all about putting facts on the table, having proofs, having factual information, also about topics which are far away from this beautiful life of the rich and beautiful, but more it's about human rights and working conditions and environmental footprints."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "working conditions",
+            "secrets around",
+            "putting facts",
+            "human rights",
+            "far away",
+            "factual information",
+            "environmental footprints"
+        ],
+        "trends": [
+            "beautiful",
+            "things",
+            "done",
+            "around",
+            "secrets",
+            "coming",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "There is a fascinating tension between luxury, the luxury world and the issue of traceability.",
+            "And we try to navigate this tension through the technology aspect, facilitating more traceability, bringing more light into an industry that used to have a little bit of a specific relationship with the issue of traceability.",
+            "And maybe the last thing why we think it is important that original luxury  is there is that luxury is very much about perfection or many luxury brands want to be perfect."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many luxury brands want",
+            "technology aspect",
+            "specific relationship",
+            "original luxury",
+            "luxury world",
+            "little bit",
+            "last thing"
+        ],
+        "trends": [
+            "luxury",
+            "traceability",
+            "issue",
+            "tension",
+            "brands",
+            "important",
+            "last"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's clear that everything which pertains to sustainability or responsible business practices is work in progress.",
+            "Every company is struggling with that.",
+            "Everyone can only try to do better because nobody's perfect."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "responsible business practices",
+            "every company",
+            "work",
+            "try",
+            "sustainability",
+            "struggling",
+            "progress"
+        ],
+        "trends": [
+            "progress",
+            "practices",
+            "every",
+            "work",
+            "sustainability",
+            "responsible",
+            "pertains"
+        ]
+    },
+    {
+        "sentence": [
+            "And that again is something which is not very comfortable to luxury  brands who used to be very perfect.",
+            "And here we really try to bring those brands into a mindset together with those oftentimes startup mentalities of the technologies to say, hey, let's get together.",
+            "Let's share the challenges that we have and let's understand that everyone is in the same boat and everyone needs to just do better and as good as they can."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "oftentimes startup mentalities",
+            "really try",
+            "mindset together",
+            "get together",
+            "luxury brands",
+            "everyone needs",
+            "everyone"
+        ],
+        "trends": [
+            "let",
+            "together",
+            "everyone",
+            "brands",
+            "needs",
+            "boat",
+            "challenges"
+        ]
+    },
+    {
+        "sentence": [
+            "And nobody expects you to be perfect.",
+            "And I think it's very liberating.",
+            "for many of those brands to see that actually everyone has the same issues."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "nobody expects",
+            "actually everyone",
+            "think",
+            "see",
+            "perfect",
+            "many",
+            "liberating"
+        ],
+        "trends": [
+            "perfect",
+            "nobody",
+            "expects",
+            "see",
+            "many",
+            "issues",
+            "everyone"
+        ]
+    },
+    {
+        "sentence": [
+            "You've already raised two points I hadn't actually thought of before this.",
+            "So thank you.",
+            "And the point about the mystique and the point about perfection."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "already raised two points",
+            "actually thought",
+            "thank",
+            "point",
+            "point",
+            "perfection",
+            "mystique"
+        ],
+        "trends": [
+            "point",
+            "perfection",
+            "mystique",
+            "two",
+            "thought",
+            "raised",
+            "points"
+        ]
+    },
+    {
+        "sentence": [
+            "I actually want to know, this is a question for both of you.",
+            "How did you get involved in Original, actually, both Felicitas and Umabu?",
+            "So Margot and me, we met at a panel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get involved",
+            "actually want",
+            "actually",
+            "umabu",
+            "question",
+            "panel",
+            "original"
+        ],
+        "trends": [
+            "actually",
+            "umabu",
+            "original",
+            "involved",
+            "want",
+            "panel",
+            "met"
+        ]
+    },
+    {
+        "sentence": [
+            "We didn't know each other before.",
+            "That was, I think, in 2021.",
+            "And it was organized by academic institutions  It is a joint venture, which is called E4S, Enterprise for Society, and it reunites people, mostly researchers, but also friends of those institutions and companies from the IMD, then from the University of Lausanne, and from the Swiss Federal Institute of Technology here in Lausanne."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "swiss federal institute",
+            "reunites people",
+            "mostly researchers",
+            "joint venture",
+            "called e4s",
+            "also friends",
+            "academic institutions"
+        ],
+        "trends": [
+            "institutions",
+            "lausanne",
+            "venture",
+            "also",
+            "called",
+            "companies",
+            "enterprise"
+        ]
+    },
+    {
+        "sentence": [
+            "And I was asked to moderate a panel on technology in responsible consumer making.",
+            "And I have to say, I mean, I'm not really a technology person.",
+            "I'm a marketing professional."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "responsible consumer making",
+            "marketing professional",
+            "technology person",
+            "technology",
+            "say",
+            "really",
+            "panel"
+        ],
+        "trends": [
+            "technology",
+            "say",
+            "really",
+            "person",
+            "responsible",
+            "panel",
+            "moderate"
+        ]
+    },
+    {
+        "sentence": [
+            "So I was just moderating the panel, but I have a very strong interest and speciality in luxury branding because I founded the Swiss Center for Luxury Research and I had my luxury lens on the topic that we were discussing.",
+            "And I found it just fascinating what Margot had to share because she was a guest on that panel.",
+            "She was the representative, well, the COO of Originale talking about latest technologies at that time, you know, blockchain and all these kinds of things."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "swiss center",
+            "strong interest",
+            "originale talking",
+            "luxury research",
+            "luxury lens",
+            "luxury branding",
+            "latest technologies"
+        ],
+        "trends": [
+            "luxury",
+            "coo",
+            "kinds",
+            "know",
+            "latest",
+            "panel",
+            "margot"
+        ]
+    },
+    {
+        "sentence": [
+            "where the buzzwords and I was fascinated by her and what she could share on this panel.",
+            "And then afterwards we just talked and we said, I think there is something we need to do to get her because I saw just naively there is nothing in the luxury industry that I really see as a big, yeah, is big there already.",
+            "I think there is a need without knowing anything about technology."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "need without knowing anything",
+            "really see",
+            "luxury industry",
+            "could share",
+            "need",
+            "yeah",
+            "think"
+        ],
+        "trends": [
+            "big",
+            "need",
+            "think",
+            "technology",
+            "anything",
+            "without",
+            "share"
+        ]
+    },
+    {
+        "sentence": [
+            "So I just  got into this discussion with Margot very naively.",
+            "And now I'm on a learning journey together with her, which is just fascinating.",
+            "And if I can just jump in here, I'd like to add that what I thought was amazing coming from Felicitas was this willingness to want to go beyond just research or publicizing another report, but wanting to go into actionable research."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "publicizing another report",
+            "learning journey together",
+            "amazing coming",
+            "go beyond",
+            "actionable research",
+            "research",
+            "go"
+        ],
+        "trends": [
+            "research",
+            "go",
+            "willingness",
+            "felicitas",
+            "naively",
+            "margot",
+            "discussion"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think Felicitas  might talk about this a bit later on in the podcast, but this was music to my ears to try and really bridge this divide between academia and industry and bring us together towards something that would involve the industry, keep the academic cap on, but do something a little entrepreneurial.",
+            "And I think we've hit it off in that way without a doubt.",
+            "Just on the topic of academia, what is the history of the luxury academia, the academic world of luxury?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bring us together towards something",
+            "think felicitas might talk",
+            "would involve",
+            "way without",
+            "really bridge",
+            "little entrepreneurial",
+            "bit later"
+        ],
+        "trends": [
+            "academia",
+            "industry",
+            "something",
+            "luxury",
+            "think",
+            "academic",
+            "topic"
+        ]
+    },
+    {
+        "sentence": [
+            "How long has that been a discipline for?",
+            "Oh, it has been an orphan for a very long time.",
+            "Because I think in the academic world, luxury is the thing for, that's maybe politically incorrect, but I would say people who like glamour and the glittery things, but are not really serious."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would say people",
+            "maybe politically incorrect",
+            "really serious",
+            "like glamour",
+            "glittery things",
+            "academic world",
+            "long time"
+        ],
+        "trends": [
+            "would",
+            "glamour",
+            "glittery",
+            "incorrect",
+            "like",
+            "luxury",
+            "orphan"
+        ]
+    },
+    {
+        "sentence": [
+            "about research, which is absolutely not true because there are some amazing researchers out there who are doing very rigorous and very solid research about the intricacies and the specialties of luxury.",
+            "And actually luxury marketing is working oftentimes opposite of traditional marketing.",
+            "So some of the laws that we know from traditional marketing or FMCG marketing work the opposite in luxury."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fmcg marketing work",
+            "working oftentimes opposite",
+            "actually luxury marketing",
+            "traditional marketing",
+            "traditional marketing",
+            "amazing researchers",
+            "solid research"
+        ],
+        "trends": [
+            "marketing",
+            "luxury",
+            "opposite",
+            "traditional",
+            "research",
+            "work",
+            "laws"
+        ]
+    },
+    {
+        "sentence": [
+            "And this is a fascinating area which needs to  Yeah, gain credibility, but I think now after a while we now have really set out our foot and there is more and more researchers Doing that and it's being published in top journals.",
+            "But yes, it's a niche not only in the industry, but also in academia right and just moving back to moving back to original luxury itself and Which most of our listeners are in the diamond and jewelry industry which I don't know if you can say which diamond  What kind of luxury brands do you have involved?",
+            "comfortable yet to really expose themselves because there is yet still a lot to do when it comes to traceability technology."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yet still",
+            "traceability technology",
+            "top journals",
+            "really set",
+            "really expose",
+            "original luxury",
+            "moving back"
+        ],
+        "trends": [
+            "really",
+            "yet",
+            "back",
+            "diamond",
+            "industry",
+            "luxury",
+            "moving"
+        ]
+    },
+    {
+        "sentence": [
+            "But one of our spare heads is really Breitling.",
+            "And at the same time, we also have smaller brands, like for example, Edith Gen\u00e8ve, who is a newcomer, but very, very successful.",
+            "So this is on the watches part."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "watches part",
+            "spare heads",
+            "smaller brands",
+            "really breitling",
+            "edith gen\u00e8ve",
+            "time",
+            "successful"
+        ],
+        "trends": [
+            "time",
+            "successful",
+            "smaller",
+            "newcomer",
+            "like",
+            "spare",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "Then from the jewelry part, I wouldn't like to talk about the brands.",
+            "themselves, but more about the suppliers that we have.",
+            "So we have suppliers from the diamond industry and from the precious metal industries."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "precious metal industries",
+            "jewelry part",
+            "diamond industry",
+            "talk",
+            "suppliers",
+            "suppliers",
+            "like"
+        ],
+        "trends": [
+            "suppliers",
+            "precious",
+            "metal",
+            "industry",
+            "would",
+            "talk",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "And Margot, maybe you want to talk a little bit about the names from the diamond industry that you gently brought into our last round table.",
+            "And I don't want to take that from your cake, let's say so.",
+            "I would say in all fairness, I would ask the podcast listeners to go to our website and then see the names that are out there."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "last round table",
+            "would ask",
+            "podcast listeners",
+            "little bit",
+            "gently brought",
+            "diamond industry",
+            "would say"
+        ],
+        "trends": [
+            "say",
+            "would",
+            "names",
+            "listeners",
+            "website",
+            "fairness",
+            "ask"
+        ]
+    },
+    {
+        "sentence": [
+            "So that I'm not accused of missing out on any of the names, but I'm sure you are some players, you know, so we're very happy to be able to count as our members.",
+            "VD Global, Elran Diamond, Dianco, Hare Krishna.",
+            "And we have quite a few more, but yes, I don't have them all at hand."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "vd global",
+            "hare krishna",
+            "elran diamond",
+            "yes",
+            "sure",
+            "quite",
+            "players"
+        ],
+        "trends": [
+            "hand",
+            "yes",
+            "quite",
+            "able",
+            "sure",
+            "accused",
+            "players"
+        ]
+    },
+    {
+        "sentence": [
+            "It's true and for Fenicitas and for myself and for the other members of our group.",
+            "consortium, we've had a great wave of newcomers from the diamond industry in the last six months.",
+            "And they have been incredibly supportive of what we're doing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last six months",
+            "incredibly supportive",
+            "great wave",
+            "diamond industry",
+            "true",
+            "newcomers",
+            "members"
+        ],
+        "trends": [
+            "true",
+            "wave",
+            "six",
+            "newcomers",
+            "months",
+            "last",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're very thankful actually to the Dynal community for supporting us and for putting their names out there because there's no doubt they're proud and loud to be part and associated to Original Luxury.",
+            "those sort of challenges, if you can call it that, you mentioned at the beginning about how luxury companies deal with the issue of transparency.",
+            "Do you find that that applies to the same extent to these diamond suppliers?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "luxury companies deal",
+            "original luxury",
+            "thankful actually",
+            "supporting us",
+            "dynal community",
+            "diamond suppliers",
+            "transparency"
+        ],
+        "trends": [
+            "luxury",
+            "companies",
+            "transparency",
+            "deal",
+            "mentioned",
+            "diamond",
+            "applies"
+        ]
+    },
+    {
+        "sentence": [
+            "No, I think that's a big difference is these diamond suppliers are actually very happy to be able to, I would say, promote themselves, but also bring forward their journey to  towards more transparency through the adoption of traceability solutions.",
+            "So I think there's, of course, because they're diamond suppliers, they're at a different stage, I would say, in the luxury value chain.",
+            "They come before the luxury brands and they're not so much consumer facing, so the risks involved are also maybe different for them to apprehend."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much consumer facing",
+            "also bring forward",
+            "luxury value chain",
+            "also maybe different",
+            "luxury brands",
+            "different stage",
+            "would say"
+        ],
+        "trends": [
+            "would",
+            "diamond",
+            "think",
+            "suppliers",
+            "say",
+            "also",
+            "different"
+        ]
+    },
+    {
+        "sentence": [
+            "I think, like Felicita said, the story  the perfection, this mystique is really all what luxury brands are facing when they're talking to their consumers.",
+            "For suppliers, the risks are different.",
+            "Of course, it's retaining these clients, which are these big luxury brands."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like felicita said",
+            "big luxury brands",
+            "luxury brands",
+            "think",
+            "talking",
+            "suppliers",
+            "story"
+        ],
+        "trends": [
+            "luxury",
+            "brands",
+            "perfection",
+            "clients",
+            "course",
+            "big",
+            "retaining"
+        ]
+    },
+    {
+        "sentence": [
+            "So for them, the storytelling is equally important, but it's actually a real competitive advantage for them.",
+            "I think today they've realized that the more they respond  And the more responsible practices they can push forward, the better it is for them.",
+            "And luxury brands also value this in their suppliers because it allows them to also continue that story of best practices and puts a positive line right on that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "luxury brands also value",
+            "real competitive advantage",
+            "positive line right",
+            "also continue",
+            "think today",
+            "responsible practices",
+            "push forward"
+        ],
+        "trends": [
+            "also",
+            "practices",
+            "responsible",
+            "respond",
+            "actually",
+            "important",
+            "value"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And without going into the nitty gritty of how it works, do these companies, are they a membership system?",
+            "Do they pay membership to the  We're very transparent about this."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "without going",
+            "pay membership",
+            "nitty gritty",
+            "membership system",
+            "works",
+            "transparent",
+            "right"
+        ],
+        "trends": [
+            "membership",
+            "transparent",
+            "pay",
+            "works",
+            "without",
+            "system",
+            "nitty"
+        ]
+    },
+    {
+        "sentence": [
+            "There's no problem.",
+            "We're very, again, very transparent.",
+            "Luxury brands and suppliers can join our consortium free of charge."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "luxury brands",
+            "consortium free",
+            "transparent",
+            "suppliers",
+            "problem",
+            "join",
+            "charge"
+        ],
+        "trends": [
+            "suppliers",
+            "luxury",
+            "join",
+            "free",
+            "consortium",
+            "charge",
+            "brands"
+        ]
+    },
+    {
+        "sentence": [
+            "There's no issue there.",
+            "And we have a membership fee for our technology partners.",
+            "And that's just because historically our initiative initially was funded by Academia and then very much original, the private partners."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "technology partners",
+            "private partners",
+            "much original",
+            "membership fee",
+            "initiative initially",
+            "issue",
+            "historically"
+        ],
+        "trends": [
+            "partners",
+            "technology",
+            "private",
+            "original",
+            "much",
+            "initiative",
+            "initially"
+        ]
+    },
+    {
+        "sentence": [
+            "in this public-private partnership has veered, I would say, 90 to 95% of all the costs.",
+            "And we ask a small, just a yearly membership to the tech partners to participate in supporting because we push them forward as much as possible.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "yearly membership",
+            "would say",
+            "tech partners",
+            "private partnership",
+            "veered",
+            "supporting",
+            "small"
+        ],
+        "trends": [
+            "yearly",
+            "participate",
+            "forward",
+            "membership",
+            "much",
+            "veered",
+            "costs"
+        ]
+    },
+    {
+        "sentence": [
+            "And how, to what extent has the, all the issues around Russia and Ukraine heightened  the importance of all of this?",
+            "Well, inevitably, I can just say it's been a huge accelerator in the development of new technology companies in the diamond industry and a huge accelerator in the implementation of these traceability solutions by the suppliers.",
+            "And clearly also an accelerator in the positioning of a lot of the luxury brands on how they're doing  they're dealing with mind diamond versus of course, lapron diamonds, but just if we stay on the topic of just mind diamonds, even they're trying to have the right story and getting it and being as transparent as possible."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new technology companies",
+            "issues around russia",
+            "mind diamond versus",
+            "mind diamonds",
+            "diamond industry",
+            "ukraine heightened",
+            "traceability solutions"
+        ],
+        "trends": [
+            "accelerator",
+            "mind",
+            "diamonds",
+            "huge",
+            "diamond",
+            "new",
+            "ukraine"
+        ]
+    },
+    {
+        "sentence": [
+            "So it has had a huge accelerating impact.",
+            "Right.",
+            "Can you give us, sorry, Felicidades, was there something you're going to add there?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "huge accelerating impact",
+            "give us",
+            "sorry",
+            "something",
+            "right",
+            "going",
+            "felicidades"
+        ],
+        "trends": [
+            "impact",
+            "huge",
+            "accelerating",
+            "us",
+            "sorry",
+            "something",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "No, I just was about to say that, unfortunately,  Oftentimes it has to be these external shocks that bring an industry or an insight further.",
+            "It's a little bit the same like with COVID, all of a sudden we were able to do things that we should have done many, many years before already.",
+            "And it's the same here, like traceability is a topic that has been around for ages for other reasons."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many years",
+            "little bit",
+            "external shocks",
+            "done many",
+            "like traceability",
+            "like",
+            "unfortunately"
+        ],
+        "trends": [
+            "many",
+            "like",
+            "oftentimes",
+            "unfortunately",
+            "shocks",
+            "say",
+            "around"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, counterfeiting issues have been there forever.",
+            "Supply chain issues have been in the supplying industries way longer than in the consumer facing businesses.",
+            "Now with the recent developments, it seems like we always need these shocks to get going."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "supplying industries way longer",
+            "consumer facing businesses",
+            "supply chain issues",
+            "counterfeiting issues",
+            "seems like",
+            "recent developments",
+            "get going"
+        ],
+        "trends": [
+            "issues",
+            "always",
+            "developments",
+            "shocks",
+            "seems",
+            "recent",
+            "need"
+        ]
+    },
+    {
+        "sentence": [
+            "It's like when you fall ill and you finally go to the doctor, but only because you're really sick.",
+            "And that's kind of a pity.",
+            "And we really hope that with an initiative like this, it becomes natural more and more for businesses not to wait for catastrophes happen or for bad things happen, but just to do it naturally to understand this is a must have."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bad things happen",
+            "catastrophes happen",
+            "really sick",
+            "really hope",
+            "finally go",
+            "fall ill",
+            "becomes natural"
+        ],
+        "trends": [
+            "happen",
+            "becomes",
+            "businesses",
+            "really",
+            "like",
+            "ill",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "How has technology developed in the last say year?",
+            "I mean, have you seen significant developments in their technology for enabling transparency and traceability?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seen significant developments",
+            "last say year",
+            "enabling transparency",
+            "technology developed",
+            "technology",
+            "traceability",
+            "right"
+        ],
+        "trends": [
+            "technology",
+            "year",
+            "say",
+            "transparency",
+            "traceability",
+            "significant",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "So overall, if we take it on a cross sector landscape, we've seen huge acceleration there again too in the innovation sphere.",
+            "I mean, we've got startups popping up left, right,  and center with new technologies or new niche approaches to bringing traceability.",
+            "I would say I've been in this industry for 17 years now."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seen huge acceleration",
+            "got startups popping",
+            "cross sector landscape",
+            "new niche approaches",
+            "new technologies",
+            "would say",
+            "innovation sphere"
+        ],
+        "trends": [
+            "new",
+            "cross",
+            "huge",
+            "innovation",
+            "landscape",
+            "overall",
+            "acceleration"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think the biggest shift I've seen is also the mentality within the traceability industry.",
+            "15 years ago, everyone had the best solution, of course, it was a unique solution.",
+            "holistic, it would be used for everything and that's how it was pitched."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "15 years ago",
+            "unique solution",
+            "traceability industry",
+            "mentality within",
+            "biggest shift",
+            "best solution",
+            "would"
+        ],
+        "trends": [
+            "solution",
+            "traceability",
+            "think",
+            "shift",
+            "seen",
+            "pitched",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Then today we see a much more collaborative spirit amongst the technology suppliers where they're acknowledging that their solution might not be able to answer all the requirements a brand has and that through partnerships with a solution that can really come and complement what they're doing, they can build  data points that the brands really looking to achieve.",
+            "And this can go from the very start of the supply chain, all the way to the consumer engagement side of the value proposition.",
+            "And it has become really interesting to see how these technologies can work together."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "consumer engagement side",
+            "collaborative spirit amongst",
+            "build data points",
+            "brands really looking",
+            "become really interesting",
+            "really come",
+            "work together"
+        ],
+        "trends": [
+            "really",
+            "solution",
+            "proposition",
+            "engagement",
+            "go",
+            "see",
+            "technologies"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that's what we were able to showcase through Original Luxury.",
+            "We now have 20 technology  partners.",
+            "And let's face it, some compete very narrowly one against the other when they're out on the market."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "20 technology partners",
+            "original luxury",
+            "narrowly one",
+            "think",
+            "showcase",
+            "market",
+            "let"
+        ],
+        "trends": [
+            "think",
+            "showcase",
+            "original",
+            "luxury",
+            "one",
+            "narrowly",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "But when they come to our events and when they come through our platforms, through our workshop, they've really understood, it seems, the value that they have to work together, propose solutions that really can answer the requests from the industry and that alone it's very difficult.",
+            "for them to achieve that.",
+            "So we're very proud in that sense of what we were able to showcase."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "work together",
+            "propose solutions",
+            "really understood",
+            "really",
+            "workshop",
+            "value",
+            "showcase"
+        ],
+        "trends": [
+            "really",
+            "come",
+            "alone",
+            "answer",
+            "difficult",
+            "events",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "And we're very happy to see that the technology landscape is coming together in a much more collaborative spirit.",
+            "Has anyone in the diamond industry commented that specifically on the Russia sanctions issue, this has benefited them?",
+            "I know there's been a lot of discussions about use of technology to trace diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "russia sanctions issue",
+            "diamond industry commented",
+            "trace diamonds",
+            "coming together",
+            "collaborative spirit",
+            "technology landscape",
+            "technology"
+        ],
+        "trends": [
+            "technology",
+            "happy",
+            "much",
+            "see",
+            "use",
+            "lot",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think we have, we probably have  a great spectrum of technology providers who are active in the diamond industry.",
+            "I wouldn't say any have, you know, specifically commented on the sanctions.",
+            "A lot of them have made their own podcasts to try and bring recommendations and share knowledge around how this might impact their clients and how, of course, their technologies can come  benefit this transition, but I think everyone's very cautious about the politics around this."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "share knowledge around",
+            "politics around",
+            "technology providers",
+            "specifically commented",
+            "might impact",
+            "great spectrum",
+            "diamond industry"
+        ],
+        "trends": [
+            "around",
+            "think",
+            "providers",
+            "diamond",
+            "great",
+            "commented",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "I mentioned in the beginning, the recent roundtable event in Lausanne in Switzerland, the luxury roundtable.",
+            "Can you tell me a little bit about that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "recent roundtable event",
+            "luxury roundtable",
+            "little bit",
+            "tell",
+            "switzerland",
+            "right",
+            "mentioned"
+        ],
+        "trends": [
+            "roundtable",
+            "tell",
+            "little",
+            "switzerland",
+            "recent",
+            "mentioned",
+            "luxury"
+        ]
+    },
+    {
+        "sentence": [
+            "What was the purpose of that event?",
+            "So there was a lot of highlights.",
+            "First of all, it was a lounge of the original  website."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "original website",
+            "purpose",
+            "lounge",
+            "lot",
+            "highlights",
+            "first",
+            "event"
+        ],
+        "trends": [
+            "website",
+            "original",
+            "lounge",
+            "first"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a really cool one.",
+            "So check it out.",
+            "It's originalluxury.org."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really cool one",
+            "originalluxury",
+            "org",
+            "check"
+        ],
+        "trends": [
+            "really",
+            "one",
+            "cool"
+        ]
+    },
+    {
+        "sentence": [
+            "And we also launched the second technology report.",
+            "So that is one of the things that we really try to bring together.",
+            "It's the wisdom, as we said in the beginning, and the use cases from the technology providers and the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "second technology report",
+            "technology providers",
+            "use cases",
+            "really try",
+            "bring together",
+            "also launched",
+            "wisdom"
+        ],
+        "trends": [
+            "technology",
+            "launched",
+            "also",
+            "really",
+            "one",
+            "together",
+            "things"
+        ]
+    },
+    {
+        "sentence": [
+            "So to be very honest, the data is very raw.",
+            "But that's the beauty of the project.",
+            "It is really work in progress and action in progress."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really work",
+            "raw",
+            "project",
+            "progress",
+            "progress",
+            "honest",
+            "data"
+        ],
+        "trends": [
+            "progress",
+            "raw",
+            "honest",
+            "data",
+            "work",
+            "really",
+            "action"
+        ]
+    },
+    {
+        "sentence": [
+            "So every round table creates a new angle or something new.",
+            "And that is really nice because we can see that nobody has an imprint or a pre-made solution ready, but we are really on the spot developing things together.",
+            "And so in the report, for example, we are showcasing the latest  use cases because for many brands and let alone consumers, it's really not clear what do these technologies do and how can brands benefit from them and how can consumers use them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spot developing things together",
+            "every round table creates",
+            "made solution ready",
+            "let alone consumers",
+            "latest use cases",
+            "consumers use",
+            "something new"
+        ],
+        "trends": [
+            "really",
+            "new",
+            "use",
+            "brands",
+            "consumers",
+            "solution",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're looking to the supply chain, we look to the brands and we look to the consumers.",
+            "And with these use cases, you learn really how to make sense of these technologies and what they're good for.",
+            "And so we had then sessions with  representatives of these use cases, for example, where we had a technology partner and a brand partner, they were talking about how they collaborated with each other to showcase what is the value that this technology is bringing for that specific brand."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "use cases",
+            "use cases",
+            "supply chain",
+            "specific brand",
+            "make sense",
+            "learn really",
+            "brand partner"
+        ],
+        "trends": [
+            "brand",
+            "technology",
+            "partner",
+            "look",
+            "cases",
+            "use",
+            "make"
+        ]
+    },
+    {
+        "sentence": [
+            "And then another highlight, and there comes again very much the diamond industry and the diamond traceability providers who showcase in a range of examples what they can do and how they can collaborate with each other.",
+            "all, maybe, Margot, you want to talk about the notebook because that was a wonderful showcase of a whole range of technologies that we could see.",
+            "And then maybe we can develop a little bit what the diamond industry has provided to this roundtable."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond traceability providers",
+            "diamond industry",
+            "diamond industry",
+            "little bit",
+            "could see",
+            "another highlight",
+            "wonderful showcase"
+        ],
+        "trends": [
+            "diamond",
+            "showcase",
+            "range",
+            "industry",
+            "maybe",
+            "bit",
+            "little"
+        ]
+    },
+    {
+        "sentence": [
+            "So again, to take over from what Felicitas just said, we wanted to really immerse our participants into the technology and best way we found to do this  was the Swiss Center for Lectionary Research, thank you, Felicity.",
+            "That's very kindly gifted a notebook to all our participants.",
+            "But it wasn't just any notebook, it was actually a personalized notebook."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "swiss center",
+            "really immerse",
+            "lectionary research",
+            "kindly gifted",
+            "best way",
+            "personalized notebook",
+            "notebook"
+        ],
+        "trends": [
+            "notebook",
+            "participants",
+            "personalized",
+            "actually",
+            "gifted",
+            "kindly",
+            "research"
+        ]
+    },
+    {
+        "sentence": [
+            "And the way it was personalized is four different technology partners came together to create traceability and personalization of the notebook.",
+            "So you could, with your phone, just go over the notebook and there was a first solution from Zata  which is an NFC tag.",
+            "And there it just pinged your phone and you could already delve into the world of the notebook and better understand the journey it made from China to Abu Dhabi, from Abu Dhabi back to Lausanne and what were the different steps in bringing it over."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "four different technology partners came together",
+            "could already delve",
+            "abu dhabi back",
+            "different steps",
+            "abu dhabi",
+            "nfc tag",
+            "first solution"
+        ],
+        "trends": [
+            "notebook",
+            "abu",
+            "dhabi",
+            "different",
+            "could",
+            "phone",
+            "solution"
+        ]
+    },
+    {
+        "sentence": [
+            "Then we had Dynamic Element who puts a secure QR code under  on the notebook and that allowed people to really understand, well, what's the difference between a regular QR code and what do we mean by secure QR code?",
+            "And that secure QR code doesn't just allow you to, like when you go to the restaurant now, view the menu or so on.",
+            "No, it actually is secured."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "secure qr code",
+            "secure qr code",
+            "secure qr code",
+            "regular qr code",
+            "really understand",
+            "dynamic element",
+            "allowed people"
+        ],
+        "trends": [
+            "code",
+            "qr",
+            "secure",
+            "allowed",
+            "allow",
+            "like",
+            "restaurant"
+        ]
+    },
+    {
+        "sentence": [
+            "So only on a permission basis can you access the information and you get to then get a whole different sense of not just publicly available  available data, but data that is actually curated for the person who is supposed to have access to this information.",
+            "We then had Crane Authentication who put a very beautiful label on our notebook and their experts historically they come from the bank notes  security business.",
+            "And so they are able to make anti-counterfeiting solutions that are optically made with optically variable inks and elements."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bank notes security business",
+            "publicly available available data",
+            "whole different sense",
+            "optically variable inks",
+            "optically made",
+            "permission basis",
+            "make anti"
+        ],
+        "trends": [
+            "optically",
+            "get",
+            "access",
+            "data",
+            "available",
+            "information",
+            "authentication"
+        ]
+    },
+    {
+        "sentence": [
+            "And so this, we were very lucky because it was actually a diamond that was showcased on the label.",
+            "And last but not least, we were also able to showcase the solution from Authentic Vision.",
+            "coupled with original application and there you could delve into all the suppliers who had helped me the day of the roundtable special."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "roundtable special",
+            "original application",
+            "could delve",
+            "authentic vision",
+            "also able",
+            "suppliers",
+            "solution"
+        ],
+        "trends": [
+            "least",
+            "also",
+            "authentic",
+            "last",
+            "vision",
+            "label",
+            "lucky"
+        ]
+    },
+    {
+        "sentence": [
+            "And then you could actually see to whom the notebook was associated.",
+            "So anyone who left their notebook on the table, we know exactly who they were.",
+            "And then now Felicitas can talk to us a little bit more about the rest of the day that was very  exciting too."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could actually see",
+            "little bit",
+            "know exactly",
+            "us",
+            "talk",
+            "table",
+            "rest"
+        ],
+        "trends": [
+            "notebook",
+            "see",
+            "table",
+            "anyone",
+            "left",
+            "know",
+            "exactly"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I mean, thanks to Marco really linking up with the diamond industry.",
+            "We had so generous contributions from their side.",
+            "So we had VD Global showcasing the amazing beating hard diamond, which is recorded on the Tracer platform."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "amazing beating hard diamond",
+            "vd global showcasing",
+            "marco really linking",
+            "diamond industry",
+            "tracer platform",
+            "generous contributions",
+            "yeah"
+        ],
+        "trends": [
+            "side",
+            "diamond",
+            "amazing",
+            "hard",
+            "tracer",
+            "beating",
+            "showcasing"
+        ]
+    },
+    {
+        "sentence": [
+            "And that was really an extraordinary, once in a lifetime, probably opportunity to see such a natural beauty, but linked with these kinds of technologies that we tried to showcase.",
+            "again VD Global who gifted to the initiative to original luxury a diamond which was nano inscribed by Obsidia, so one of the technology providers and again recorded on Tracer.",
+            "Now we had Charon to provide each participant a rough diamond that was recorded on the iTracer platform and we had Jankos participation by giving everyone a loop to get into the experience to feel a little bit like you know evaluated."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit like",
+            "vd global",
+            "technology providers",
+            "probably opportunity",
+            "original luxury",
+            "natural beauty",
+            "nano inscribed"
+        ],
+        "trends": [
+            "diamond",
+            "recorded",
+            "beauty",
+            "tried",
+            "opportunity",
+            "linked",
+            "lifetime"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was a very interactive and immersive way for people to understand the value that the technology is doing and the importance and the relevance for very specific industries and in that case really for the diamond industry.",
+            "That was just the start of the day.",
+            "And apart from the use cases that we had from a content, we also had Aur\u00e9lia Figuera, the Global Head of Sustainability from Breitling give a keynote speech about their reasons and their way into sourcing responses  their precious metals and they're discovering the landscape of lab-grown diamonds, which I know is a very specific topic here."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "use cases",
+            "specific topic",
+            "specific industries",
+            "sourcing responses",
+            "precious metals",
+            "keynote speech",
+            "grown diamonds"
+        ],
+        "trends": [
+            "way",
+            "specific",
+            "relevance",
+            "importance",
+            "industries",
+            "industry",
+            "interactive"
+        ]
+    },
+    {
+        "sentence": [
+            "So that was very interesting to see like for which reasons and in which way they started out into going into this direction.",
+            "And then was a very important discussion, well, for me personally important, again, the question of how do we make sense of all this from a consumer  point of view.",
+            "Because when you look at the poor customer at the end of the supply chain and you have these technologies and you can access the whole supply chain and the whole story behind a product, oftentimes the technology companies but also the providers, they say, what do you want?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole story behind",
+            "whole supply chain",
+            "supply chain",
+            "technology companies",
+            "see like",
+            "poor customer",
+            "personally important"
+        ],
+        "trends": [
+            "whole",
+            "chain",
+            "supply",
+            "important",
+            "consumer",
+            "sense",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "We provide you with all the information.",
+            "Now you make sense of it.",
+            "And that's too much for a customer."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "make sense",
+            "provide",
+            "much",
+            "information",
+            "customer"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Nobody has the time.",
+            "Nobody has the cognitive capacity.",
+            "Nobody  wants to walk through all this information."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cognitive capacity",
+            "nobody wants",
+            "nobody",
+            "nobody",
+            "walk",
+            "time",
+            "information"
+        ],
+        "trends": [
+            "nobody",
+            "cognitive",
+            "capacity",
+            "wants",
+            "walk",
+            "information"
+        ]
+    },
+    {
+        "sentence": [
+            "So the most important part and that for me, bears still a lot of potential, is the design of the user interface of the technology.",
+            "So how do you design the technological experience for the customer to somehow nudge this person naturally into responsible behavior or somehow to catalyze a behavior change  in the consumer through the technology.",
+            "And there are some examples that design their technology in a way where you do not have a choice as a customer, then act responsibly because the interface of the technology somehow makes you act responsibly."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "technology somehow makes",
+            "technological experience",
+            "somehow nudge",
+            "responsible behavior",
+            "person naturally",
+            "important part",
+            "behavior change"
+        ],
+        "trends": [
+            "technology",
+            "design",
+            "somehow",
+            "act",
+            "responsibly",
+            "behavior",
+            "interface"
+        ]
+    },
+    {
+        "sentence": [
+            "And that is just genius because the cognitive load for consumers now for making sense of sustainability information, responsibly making decisions is too high.",
+            "And we need to have  technology to help the consumer to make a quick and dirty but really well informed decision, right?",
+            "So this is to say that to enable them to be in a store and to receive this key information and on the spot basically decide whether this is meets matches their values."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spot basically decide whether",
+            "really well informed decision",
+            "responsibly making decisions",
+            "making sense",
+            "sustainability information",
+            "meets matches",
+            "key information"
+        ],
+        "trends": [
+            "making",
+            "information",
+            "really",
+            "decision",
+            "informed",
+            "make",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "Exactly.",
+            "Right.",
+            "I wanted to ask also, I understand that you're going to be another session at the upcoming Kimblee process  Can you tell us a little bit about that?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "upcoming kimblee process",
+            "tell us",
+            "little bit",
+            "ask also",
+            "another session",
+            "wanted",
+            "understand"
+        ],
+        "trends": [
+            "wanted",
+            "us",
+            "upcoming",
+            "understand",
+            "tell",
+            "session",
+            "process"
+        ]
+    },
+    {
+        "sentence": [
+            "Correct.",
+            "Yes.",
+            "We're very excited about that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yes",
+            "excited",
+            "correct"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "So this is actually going to be the only, as far as we know, the only public event during the KP Intersectional Week.",
+            "It will be open to all stakeholders.",
+            "You are welcome to Almaz Tower at the MCC."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "kp intersectional week",
+            "public event",
+            "almaz tower",
+            "actually going",
+            "welcome",
+            "stakeholders",
+            "open"
+        ],
+        "trends": [
+            "welcome",
+            "week",
+            "public",
+            "kp",
+            "know",
+            "intersectional",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "And it'll be three hours where we'll be presenting different technology suppliers that are active in the diamond industry.",
+            "between and really trying to show piece their differentiators, of course, how different they are, how they complement each other and the power of collaboration.",
+            "Because the reality is that suppliers today are a bit worried, I think, about being maybe imposed a single solution or not knowing which solution to adopt and how this can  pan out because of course it's an investment to invest in a technology solution, but they want to make the right choice."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "presenting different technology suppliers",
+            "suppliers today",
+            "technology solution",
+            "three hours",
+            "show piece",
+            "right choice",
+            "really trying"
+        ],
+        "trends": [
+            "solution",
+            "different",
+            "course",
+            "technology",
+            "suppliers",
+            "active",
+            "hours"
+        ]
+    },
+    {
+        "sentence": [
+            "And our ambition is to be able to really showcase that there's nothing to worry about, that there are enough solutions out there to fit the needs of different companies, whether it's the size, whether it's the geographical location where they're at, whether it's the level of infrastructure,  structure each company has, there are enough solutions out there.",
+            "And that the power of interoperability is the key.",
+            "Is that today technology really allows for interoperability or aggregation of this data."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "today technology really allows",
+            "really showcase",
+            "geographical location",
+            "enough solutions",
+            "enough solutions",
+            "different companies",
+            "worry"
+        ],
+        "trends": [
+            "whether",
+            "interoperability",
+            "solutions",
+            "enough",
+            "really",
+            "today",
+            "technology"
+        ]
+    },
+    {
+        "sentence": [
+            "And so whomever is the enforcing body who would need the data, there's always a way to get it through interoperability.",
+            "So we'll be showcasing, demonstrating  a variety of solutions and then we'll also be really delving into what impact does implementing these traceability solutions have further down the value chain.",
+            "So what impact does it have for luxury brands, jewelers, watchmakers, and also showcasing a few stories of going beyond this regulatory compliance, why actually adopting  tracability freely and as a best practice has huge advantages."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually adopting tracability freely",
+            "would need",
+            "value chain",
+            "regulatory compliance",
+            "really delving",
+            "luxury brands",
+            "huge advantages"
+        ],
+        "trends": [
+            "solutions",
+            "impact",
+            "also",
+            "showcasing",
+            "luxury",
+            "adopting",
+            "advantages"
+        ]
+    },
+    {
+        "sentence": [
+            "Excuse my ignorance.",
+            "What is interoperability?",
+            "That's the, I would say the possibility of using different solutions and then linking them to get the data that you're actually looking for."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "using different solutions",
+            "would say",
+            "actually looking",
+            "possibility",
+            "linking",
+            "interoperability",
+            "ignorance"
+        ],
+        "trends": [
+            "would",
+            "using",
+            "solutions",
+            "say",
+            "possibility",
+            "looking",
+            "linking"
+        ]
+    },
+    {
+        "sentence": [
+            "Because again, if you're in one, on one side of the planet, you might not have the same  infrastructure as if you're on the other side of the planet, right?",
+            "There are different countries, different setups that don't allow always every company to be able to have a highly sophisticated technology infrastructure.",
+            "Some might have to work with more basic materials and that in the end, what anybody wants is the data and the information and we can aggregate this data in any  And that's what's fantastic with weird technology."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "allow always every company",
+            "highly sophisticated technology infrastructure",
+            "weird technology",
+            "different setups",
+            "different countries",
+            "basic materials",
+            "anybody wants"
+        ],
+        "trends": [
+            "data",
+            "different",
+            "side",
+            "planet",
+            "one",
+            "technology",
+            "highly"
+        ]
+    },
+    {
+        "sentence": [
+            "The level of technology we're at today is that there's no reason anymore to have to impose a single solution, which might not be convenient for everyone.",
+            "So in conclusion, where do you see this sector going in the coming years?",
+            "Personally, I'm very excited to be witnessing what the diamond industry is doing, because I really feel that the diamond industry is going to be a very important part of the future."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "single solution",
+            "reason anymore",
+            "really feel",
+            "important part",
+            "diamond industry",
+            "diamond industry",
+            "coming years"
+        ],
+        "trends": [
+            "industry",
+            "diamond",
+            "might",
+            "convenient",
+            "everyone",
+            "impose",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "I feel that, of course, due to the geopolitical circumstances, they truly are pioneering technology for transparency.",
+            "So it's very exciting to see where it's going, seeing how these technologies have become state of the art.",
+            "There's also so many that come and complement each other."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pioneering technology",
+            "geopolitical circumstances",
+            "become state",
+            "truly",
+            "transparency",
+            "technologies",
+            "seeing"
+        ],
+        "trends": [
+            "many",
+            "art",
+            "technologies",
+            "state",
+            "seeing",
+            "see",
+            "become"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'm just excited to see where this is going to take us.",
+            "to go and I'm very confident that they are really leading the way for other sectors, whether it's in the materials department, but also they're enabling the luxury brands to adopt traceability with more confidence.",
+            "If I may add, I think there is a huge opportunity on the horizon if the industry wants to take it, which is this whole storytelling which comes with the traceability  technology that links back to my point of how do you make use of it in a customer focused or customer centric way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "customer centric way",
+            "customer focused",
+            "whole storytelling",
+            "traceability technology",
+            "really leading",
+            "may add",
+            "materials department"
+        ],
+        "trends": [
+            "customer",
+            "way",
+            "traceability",
+            "confidence",
+            "leading",
+            "take",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "But if your technology allows to tell the customer a story about what a diamond is, where it comes from, the beauty of the story, and we talk about natural diamonds, but we also talk about a well-informed discourse about alternatives.",
+            "So I think the industry  should rather now take the traceability technologies as an opportunity to tell the story they think should be out there and to include the consumer in an industry that has been far away from them, right?",
+            "Because oftentimes the customers, well, they see the final jeweler piece or the watch, which they like."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "final jeweler piece",
+            "traceability technologies",
+            "technology allows",
+            "natural diamonds",
+            "informed discourse",
+            "far away",
+            "also talk"
+        ],
+        "trends": [
+            "story",
+            "talk",
+            "industry",
+            "think",
+            "tell",
+            "well",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "And of course, diamonds are a girl's best friend still.",
+            "But knowing about diamonds, that's actually a supply  apply to the jewelry industry, right?",
+            "And consumers don't know a lot about where all these diamonds come from."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "best friend still",
+            "supply apply",
+            "jewelry industry",
+            "diamonds come",
+            "diamonds",
+            "diamonds",
+            "right"
+        ],
+        "trends": [
+            "diamonds",
+            "lot",
+            "know",
+            "girl",
+            "course",
+            "best",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think that traceability gives the opportunity to link the diamond industry way more to the end consumer if they take this opportunity.",
+            "Great.",
+            "Well, best of luck to you and Felicitas and Margot."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond industry way",
+            "traceability gives",
+            "end consumer",
+            "well",
+            "think",
+            "take",
+            "opportunity"
+        ],
+        "trends": [
+            "opportunity",
+            "way",
+            "traceability",
+            "think",
+            "take",
+            "link",
+            "well"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm very grateful that you've joined us on this podcast.",
+            "It's been a very interesting episode.",
+            "I've learned a lot about luxury, about traceability and how they fit together."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joined us",
+            "interesting episode",
+            "fit together",
+            "traceability",
+            "podcast",
+            "luxury",
+            "lot"
+        ],
+        "trends": [
+            "us",
+            "podcast",
+            "joined",
+            "grateful",
+            "traceability",
+            "together",
+            "luxury"
+        ]
+    },
+    {
+        "sentence": [
+            "So yeah, thanks for sharing your insights.",
+            "Thanks so much, it's been a delight.",
+            "Thank you very much for having us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yeah",
+            "us",
+            "thanks",
+            "thanks",
+            "thank",
+            "sharing",
+            "much"
+        ],
+        "trends": [
+            "much",
+            "thanks",
+            "us",
+            "thank",
+            "delight",
+            "yeah",
+            "sharing"
+        ]
+    }
+]

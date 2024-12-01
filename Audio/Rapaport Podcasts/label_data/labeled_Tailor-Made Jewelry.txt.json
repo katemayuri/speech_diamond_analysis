@@ -1,0 +1,2352 @@
+[
+    {
+        "sentence": [
+            " This podcast is brought to you by GIA, the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "I'm Joshua Friedman, senior analyst at Rappaport.",
+            "And I guest on this episode was Aryeh Rapoon, founder of Aryeh & Co, a New York based jeweler and specialist in bespoke pieces."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york based jeweler",
+            "jewelry trade since 1931",
+            "senior analyst",
+            "protecting consumers",
+            "laboratory services",
+            "joshua friedman",
+            "global gem"
+        ],
+        "trends": [
+            "aryeh",
+            "institute",
+            "brought",
+            "consumers",
+            "education",
+            "gem",
+            "york"
+        ]
+    },
+    {
+        "sentence": [
+            "We spoke about how Aryeh got into the business, the market for customized jewelry, and of course, what he thinks of synthetic diamonds.",
+            "Enjoy the episode.",
+            "Maybe you could just start by telling us a little bit about what Ari Enco is and how you personally got into the jewelry business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "telling us",
+            "synthetic diamonds",
+            "personally got",
+            "little bit",
+            "customized jewelry",
+            "aryeh got",
+            "ari enco"
+        ],
+        "trends": [
+            "jewelry",
+            "business",
+            "got",
+            "diamonds",
+            "aryeh",
+            "synthetic",
+            "spoke"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure.",
+            "And thank you, Joshua, for having me.",
+            "I myself am a big fan of the podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "big fan",
+            "thank",
+            "sure",
+            "podcast",
+            "joshua"
+        ],
+        "trends": [
+            "podcast",
+            "fan",
+            "big"
+        ]
+    },
+    {
+        "sentence": [
+            "I listen to almost every episode.",
+            "And I think you guys have a really nice range of guests and topics to cover.",
+            "So it's great to listen to and thanks for having me on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really nice range",
+            "almost every episode",
+            "topics",
+            "think",
+            "thanks",
+            "listen",
+            "listen"
+        ],
+        "trends": [
+            "listen",
+            "thanks",
+            "topics",
+            "think",
+            "really",
+            "range",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "I started Ari Enco in 2018.",
+            "Before that, I had gotten into the industry through a friend who was working for a family-owned business.",
+            "that company, they had a chain of retail stores throughout America and they had opened an office in the Diamond District in New York to take care of the manufacturing, repairs and custom designs themselves, rather than outsourcing it to another company in the district."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail stores throughout america",
+            "started ari enco",
+            "take care",
+            "owned business",
+            "new york",
+            "custom designs",
+            "diamond district"
+        ],
+        "trends": [
+            "company",
+            "district",
+            "another",
+            "care",
+            "industry",
+            "working",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "So they opened an office in New York City and a friend of mine had been running that office and they needed help.",
+            "So he invited me to come on and help oversee the manufacturing of  custom designs and dealing with private clients that lived in the Tri-State area and would come in to see stones and finished pieces and just work with us hands-on in that office.",
+            "So I started helping him that way and kind of started meeting diamond dealers, wholesalers, jewelers that actually work on the pieces and made a lot of relationships that way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started meeting diamond dealers",
+            "new york city",
+            "started helping",
+            "us hands",
+            "state area",
+            "see stones",
+            "private clients"
+        ],
+        "trends": [
+            "office",
+            "come",
+            "way",
+            "started",
+            "help",
+            "pieces",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "And after a couple of years, I went out on my own and started Aria & Co.",
+            "So would you describe yourself as a jewelry entrepreneur?",
+            "You can say that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "started aria",
+            "jewelry entrepreneur",
+            "years",
+            "would",
+            "went",
+            "say",
+            "describe"
+        ],
+        "trends": [
+            "would",
+            "jewelry",
+            "entrepreneur",
+            "describe",
+            "years",
+            "went",
+            "started"
+        ]
+    },
+    {
+        "sentence": [
+            "have any family in the business.",
+            "I kind of learned the business through my own experience and have been building it from the ground up.",
+            "So I imagine a lot of people listening to this podcast are from family businesses."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people listening",
+            "family businesses",
+            "family",
+            "podcast",
+            "lot",
+            "learned",
+            "kind"
+        ],
+        "trends": [
+            "learned",
+            "kind",
+            "ground",
+            "podcast",
+            "people",
+            "lot",
+            "listening"
+        ]
+    },
+    {
+        "sentence": [
+            "Maybe you can tell us what was your impression of the jewelry industry when you first entered it.",
+            "I still remember the first day I walked onto 47th Street, I felt like I was in a movie.",
+            "It's its own world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "walked onto 47th street",
+            "tell us",
+            "still remember",
+            "jewelry industry",
+            "first entered",
+            "first day",
+            "felt like"
+        ],
+        "trends": [
+            "first",
+            "felt",
+            "walked",
+            "maybe",
+            "jewelry",
+            "tell",
+            "entered"
+        ]
+    },
+    {
+        "sentence": [
+            "And so my first impression was just like, where am I?",
+            "What's going on here?",
+            "This is pretty exhilarating, exciting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pretty exhilarating",
+            "first impression",
+            "like",
+            "going",
+            "exciting"
+        ],
+        "trends": [
+            "like",
+            "impression",
+            "first",
+            "pretty",
+            "exhilarating",
+            "exciting"
+        ]
+    },
+    {
+        "sentence": [
+            "writing, fascinating.",
+            "And so I was kind of captured by it right away.",
+            "And then once I started getting handed, you know, five, six, 10-carat diamonds, I was only, I think, 19 or 20 at the time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "started getting handed",
+            "right away",
+            "carat diamonds",
+            "writing",
+            "time",
+            "think",
+            "six"
+        ],
+        "trends": [
+            "right",
+            "time",
+            "think",
+            "started",
+            "six",
+            "know",
+            "handed"
+        ]
+    },
+    {
+        "sentence": [
+            "It was the first time I really ever thought about diamonds or had seen them for an extended period of time, just looking at them.",
+            "And I was especially just looking at the natural beauty of a polished cut, you know, perfected stone.",
+            "It was mesmerizing, you know, just as  When you say being handed five, six, seven carat diamonds, you were viewing them or they were trusting you with them at that age?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really ever thought",
+            "seven carat diamonds",
+            "polished cut",
+            "perfected stone",
+            "natural beauty",
+            "handed five",
+            "extended period"
+        ],
+        "trends": [
+            "looking",
+            "time",
+            "diamonds",
+            "know",
+            "perfected",
+            "beauty",
+            "stone"
+        ]
+    },
+    {
+        "sentence": [
+            "it and it was just like this eight carat diamond on her finger and so I was taught how to inspect the stones and just knowing the value of it I was just taken back I'm like wow this is pretty wild so I would see them on clients fingers or we would be showing them to new couples looking for a ring so it was all around but it was always you know in a private office that's how it started I am I saw an Instagram post recently by you with a mentalist  Is that right?",
+            "Can you tell me about that?",
+            "Yes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new couples looking",
+            "instagram post recently",
+            "eight carat diamond",
+            "taken back",
+            "private office",
+            "pretty wild",
+            "clients fingers"
+        ],
+        "trends": [
+            "would",
+            "like",
+            "wow",
+            "looking",
+            "knowing",
+            "know",
+            "instagram"
+        ]
+    },
+    {
+        "sentence": [
+            "So that was actually really cool.",
+            "The creators of the video came up with the concept.",
+            "He's gotten more popular."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually really cool",
+            "video came",
+            "popular",
+            "gotten",
+            "creators",
+            "concept"
+        ],
+        "trends": [
+            "really",
+            "cool",
+            "actually",
+            "video",
+            "creators",
+            "concept",
+            "came"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, when we did the video, he was already popular and I see that he's continuing to do a lot of cool work.",
+            "But we wanted to try to do something different.",
+            "It was completely, it was not staged in the sense of the trick at all."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "something different",
+            "cool work",
+            "already popular",
+            "wanted",
+            "video",
+            "try",
+            "trick"
+        ],
+        "trends": [
+            "wanted",
+            "work",
+            "continuing",
+            "completely",
+            "trick",
+            "staged",
+            "sense"
+        ]
+    },
+    {
+        "sentence": [
+            "It was really incredible what he was able to do.",
+            "Tommy Richmond is his name, right?",
+            "No, that was the song."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tommy richmond",
+            "really incredible",
+            "song",
+            "right",
+            "name",
+            "able"
+        ],
+        "trends": [
+            "tommy",
+            "right",
+            "richmond",
+            "name",
+            "really",
+            "incredible",
+            "able"
+        ]
+    },
+    {
+        "sentence": [
+            "His name is Michael.",
+            "Tommy Richmond, that was the background.",
+            "How much do you make?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tommy richmond",
+            "name",
+            "much",
+            "michael",
+            "make",
+            "background"
+        ],
+        "trends": [
+            "tommy",
+            "richmond",
+            "background"
+        ]
+    },
+    {
+        "sentence": [
+            "behind it, like in the background.",
+            "And before I was even popular to do that, but that's kind of just what comes natural to me.",
+            "But I know that nowadays viewers need to be entertained 24-7 and it's got to always be something new every second."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "something new every second",
+            "nowadays viewers need",
+            "even popular",
+            "entertained 24",
+            "comes natural",
+            "like",
+            "know"
+        ],
+        "trends": [
+            "viewers",
+            "every",
+            "popular",
+            "comes",
+            "natural",
+            "even",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "So it was a cool way of coming up with something creative and fun.",
+            "But the trick itself was completely done on the spot.",
+            "I didn't know anything and he was able to guess the value of the merchandise I had on me just by looking at me."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "something creative",
+            "know anything",
+            "cool way",
+            "completely done",
+            "value",
+            "trick",
+            "spot"
+        ],
+        "trends": [
+            "spot",
+            "completely",
+            "done",
+            "way",
+            "creative",
+            "something",
+            "coming"
+        ]
+    },
+    {
+        "sentence": [
+            "You had a bag of merchandise, basically a bag of jewelry.",
+            "And he was  was able to say the total value and you independently calculated the total value and came to the same number, right?",
+            "Right, yeah."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "total value",
+            "total value",
+            "independently calculated",
+            "yeah",
+            "say",
+            "right",
+            "right"
+        ],
+        "trends": [
+            "bag",
+            "value",
+            "total",
+            "merchandise",
+            "say",
+            "right",
+            "number"
+        ]
+    },
+    {
+        "sentence": [
+            "So we counted it up on video.",
+            "It was sped up for the video, but we counted it and then he turned around and he was just, I think he asked me a question or two, but based on that, he was able to guess the exact amount.",
+            "Have you ever got to the bottom of how he worked it out?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "turned around",
+            "exact amount",
+            "ever got",
+            "worked",
+            "video",
+            "video",
+            "two"
+        ],
+        "trends": [
+            "exact",
+            "amount",
+            "around",
+            "asked",
+            "based",
+            "counted",
+            "worked"
+        ]
+    },
+    {
+        "sentence": [
+            "He didn't tell me, but I think a lot of what they do has to do with your reaction when they say a certain letter or number.",
+            "like they could read your face.",
+            "It was hard for me to keep a straight face."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "could read",
+            "certain letter",
+            "straight face",
+            "face",
+            "think",
+            "tell",
+            "say"
+        ],
+        "trends": [
+            "think",
+            "tell",
+            "say",
+            "straight",
+            "keep",
+            "face",
+            "reaction"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't know if I kind of gave it away too easily.",
+            "It's just funny when someone's staring at you trying to like read your mind basically.",
+            "Okay, so tell me a little bit more about Alianco."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mind basically",
+            "little bit",
+            "like read",
+            "trying",
+            "tell",
+            "staring",
+            "someone"
+        ],
+        "trends": [
+            "alianco",
+            "bit",
+            "away",
+            "easily",
+            "gave",
+            "kind",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "What's your business model?",
+            "We're still definitely in our, I would say in the earlier stages of scaling and taking things to the next level.",
+            "But I started a company founded on trust and very much like the entire jewelry industry is unique in that way where 90% of  of the products you sell are really like high ticket items."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really like high ticket items",
+            "entire jewelry industry",
+            "much like",
+            "would say",
+            "taking things",
+            "still definitely",
+            "next level"
+        ],
+        "trends": [
+            "like",
+            "would",
+            "definitely",
+            "earlier",
+            "next",
+            "things",
+            "taking"
+        ]
+    },
+    {
+        "sentence": [
+            "So I always made an emphasis to build relationships with each customer and really be patient with them and guide them and understand their needs and also do whatever it takes to earn their trust.",
+            "So our model is really just focused on building relationships and long-term relationships.",
+            "It's not just about moving a dime at one time and making a profit or a quick sale."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "term relationships",
+            "quick sale",
+            "one time",
+            "building relationships",
+            "build relationships",
+            "always made",
+            "whatever"
+        ],
+        "trends": [
+            "relationships",
+            "really",
+            "focused",
+            "model",
+            "building",
+            "whatever",
+            "needs"
+        ]
+    },
+    {
+        "sentence": [
+            "And it's customer service, customer experience.",
+            "We're essentially a concierge based company where any need you have, I mean, I started when I first started working with clients, I would drive half an hour just to pick up a ring just so, cause they needed it polished.",
+            "Like I would do anything I could to be involved in dealing with jewelry and also serving their needs."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "concierge based company",
+            "would drive half",
+            "first started working",
+            "customer service",
+            "customer experience",
+            "also serving",
+            "would"
+        ],
+        "trends": [
+            "customer",
+            "started",
+            "would",
+            "like",
+            "anything",
+            "could",
+            "dealing"
+        ]
+    },
+    {
+        "sentence": [
+            "So from those, like I said, the smallest thing of cleaning, you know, I would drive 20, 30 minutes just to pick it up, have it done, bring it back to them.",
+            "And to this day,  I still do a lot of house calls and work really hands-on with each client.",
+            "I know that'll get harder as we grow for me to do it myself, but that's really the foundation of our business is going the extra mile for clients, taking care of every need they have, answering all the questions, answering calls, texts quickly, and just always being there for them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would drive 20",
+            "work really hands",
+            "texts quickly",
+            "taking care",
+            "smallest thing",
+            "house calls",
+            "get harder"
+        ],
+        "trends": [
+            "answering",
+            "know",
+            "would",
+            "really",
+            "calls",
+            "day",
+            "client"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's really been 95% of our clients are people I know personally or referrals.",
+            "I'd say most of them  of our business is referral based.",
+            "So that's really how we're growing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "referral based",
+            "know personally",
+            "say",
+            "referrals",
+            "really",
+            "really",
+            "people"
+        ],
+        "trends": [
+            "say",
+            "referral",
+            "business",
+            "based",
+            "referrals",
+            "really",
+            "personally"
+        ]
+    },
+    {
+        "sentence": [
+            "What's your process for creating bespoke?",
+            "I mean, you focus on bespoke designs, right?",
+            "What's your process for creating?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bespoke designs",
+            "creating bespoke",
+            "creating",
+            "right",
+            "process",
+            "process",
+            "mean"
+        ],
+        "trends": [
+            "bespoke",
+            "process",
+            "creating",
+            "right",
+            "mean",
+            "focus",
+            "designs"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "That's what I would say separates us.",
+            "We focus on the tri-state area and it's something different than typical jewelers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say separates us",
+            "typical jewelers",
+            "state area",
+            "something different",
+            "tri",
+            "right",
+            "focus"
+        ],
+        "trends": [
+            "would",
+            "us",
+            "separates",
+            "say",
+            "typical",
+            "something",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "So when it comes to bespoke custom creations, for the most part, the client will have a concept that could be completely arbitrary, could be random, or it can be something where it's just a necklace that says bubby.",
+            "that they wanted to say, Bubby with diamonds.",
+            "So something simple, but it's just kind of personalized."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bespoke custom creations",
+            "completely arbitrary",
+            "something simple",
+            "says bubby",
+            "something",
+            "bubby",
+            "wanted"
+        ],
+        "trends": [
+            "could",
+            "bubby",
+            "something",
+            "wanted",
+            "diamonds",
+            "say",
+            "personalized"
+        ]
+    },
+    {
+        "sentence": [
+            "So they'll either draw up a design or we'll work with them to drop the initial concept.",
+            "And then once we have an idea, I have CAD designers that will drop the 3D renderings based on their loose drawing or whatever image we kind of came up with.",
+            "From there, we'd show the client the 3D renderings."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "3d renderings based",
+            "3d renderings",
+            "whatever image",
+            "loose drawing",
+            "initial concept",
+            "either draw",
+            "cad designers"
+        ],
+        "trends": [
+            "renderings",
+            "drop",
+            "either",
+            "concept",
+            "design",
+            "draw",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "We get their feedback if they want it to make any changes or if they approve it,  Either way, we generally will print an alloy or a wax sample of the piece So they see the physical piece they get an idea of the size they can visualize it a lot better that way After that is a proof that goes to casting Where we make the piece in the metal of their choosing and if it has diamonds or gemstones We source the stone for the right sizes right qualities make sure they all match and cut and everything is perfect And then we finish the piece we have our jewelers set the diamonds  How has technology made this process easier or is it different for you?",
+            "saying and like kind of come up with a rough image of what they want.",
+            "So in terms of that, it's been great."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right sizes right qualities make sure",
+            "wax sample",
+            "technology made",
+            "rough image",
+            "process easier",
+            "lot better",
+            "like kind"
+        ],
+        "trends": [
+            "piece",
+            "make",
+            "way",
+            "get",
+            "diamonds",
+            "right",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, it's just one way to use AI in terms of custom, but we also use it for marketing purposes, for understanding.",
+            "You know, when we come up with content, you can use AI to kind of give you an idea of what people are wanting to see, wanting to watch.",
+            "When we do copy, also it's very helpful."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "use ai",
+            "use ai",
+            "one way",
+            "marketing purposes",
+            "also use",
+            "also",
+            "watch"
+        ],
+        "trends": [
+            "use",
+            "wanting",
+            "also",
+            "ai",
+            "give",
+            "come",
+            "see"
+        ]
+    },
+    {
+        "sentence": [
+            "So there are so many different apps and tools now that you can use.",
+            "get very bogged down in the nitty gritty of the diamond trade.",
+            "So this is an opportunity for me to investigate a little bit some other areas."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many different apps",
+            "nitty gritty",
+            "little bit",
+            "diamond trade",
+            "use",
+            "tools",
+            "opportunity"
+        ],
+        "trends": [
+            "use",
+            "tools",
+            "many",
+            "different",
+            "opportunity",
+            "little",
+            "investigate"
+        ]
+    },
+    {
+        "sentence": [
+            "So looking at this bespoke jewelry and customized jewelry, how is that sector developing and growing?",
+            "It's definitely been growing rapidly.",
+            "I would say COVID definitely spurred growth and interest in customers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say covid definitely spurred growth",
+            "sector developing",
+            "customized jewelry",
+            "bespoke jewelry",
+            "growing rapidly",
+            "definitely",
+            "growing"
+        ],
+        "trends": [
+            "definitely",
+            "growing",
+            "jewelry",
+            "rapidly",
+            "would",
+            "spurred",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "They had a disposable income, but they also, if they were going to buy jewelry, they wanted to make something more personalized and unique.",
+            "And in general,  it's a great way to tell your own story, to represent, to have a piece of art essentially represent who you are that you can wear on a daily basis.",
+            "It's great for branding, personal branding, business branding."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "art essentially represent",
+            "make something",
+            "disposable income",
+            "daily basis",
+            "buy jewelry",
+            "personal branding",
+            "business branding"
+        ],
+        "trends": [
+            "branding",
+            "represent",
+            "income",
+            "buy",
+            "disposable",
+            "going",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "And actually just, you know, if you're going to spend a nice chunk of money, it's nice to have a high-end piece that is, like I said, unique, but also personal.",
+            "If you're gifting it to a spouse or a parent or another loved one, it's just people have really seen how much more  more enjoyable the process is of buying jewelry when you're designing it yourself and also the reaction when you're gifting it to somebody.",
+            "I mean, it's a world of difference than if you were to just buy a tennis bracelet for somebody in a jewelry store compared to some custom design that really shares a story and creates a bond between you and that person."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "another loved one",
+            "jewelry store compared",
+            "buying jewelry",
+            "tennis bracelet",
+            "really shares",
+            "really seen",
+            "end piece"
+        ],
+        "trends": [
+            "gifting",
+            "nice",
+            "also",
+            "jewelry",
+            "somebody",
+            "really",
+            "money"
+        ]
+    },
+    {
+        "sentence": [
+            "It's comparable to, it sounds silly, but an engagement ring.",
+            "That type of reaction where you feel like, you really feel the love and thought that was put into it.",
+            "And it shows how deep your relationship is with that person."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sounds silly",
+            "really feel",
+            "feel like",
+            "engagement ring",
+            "type",
+            "thought",
+            "shows"
+        ],
+        "trends": [
+            "feel",
+            "love",
+            "relationship",
+            "person",
+            "type",
+            "put",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "When you buy jewelry, you do want to know the person's gonna like it.",
+            "So everyone wants to know their taste.",
+            "So there's personal aspects in that way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "personal aspects",
+            "gonna like",
+            "everyone wants",
+            "buy jewelry",
+            "way",
+            "want",
+            "taste"
+        ],
+        "trends": [
+            "know",
+            "way",
+            "personal",
+            "want",
+            "person",
+            "na",
+            "wants"
+        ]
+    },
+    {
+        "sentence": [
+            "But when it's custom, it's just, people are also just blown away by what we're capable of making.",
+            "You know, 3D pieces and bespoke piece of jewelry.",
+            "So there's a shock factor and like I said, the personalization, it goes a long way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "shock factor",
+            "long way",
+            "blown away",
+            "bespoke piece",
+            "3d pieces",
+            "said",
+            "personalization"
+        ],
+        "trends": [
+            "jewelry",
+            "bespoke",
+            "also",
+            "away",
+            "blown",
+            "capable",
+            "custom"
+        ]
+    },
+    {
+        "sentence": [
+            "buying for a woman?",
+            "Do they tend to be involved in the process together?",
+            "Or what can you tell us about who actually makes these decisions?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tell us",
+            "process together",
+            "actually makes",
+            "woman",
+            "tend",
+            "involved",
+            "decisions"
+        ],
+        "trends": [
+            "together",
+            "tend",
+            "process",
+            "involved",
+            "us",
+            "tell",
+            "makes"
+        ]
+    },
+    {
+        "sentence": [
+            "me a picture of his logo and then deciding where he wants to add diamonds or gemstones to it.",
+            "Everything was different.",
+            "So it's a mix."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "add diamonds",
+            "wants",
+            "picture",
+            "mix",
+            "logo",
+            "gemstones",
+            "everything"
+        ],
+        "trends": [
+            "wants",
+            "picture",
+            "logo",
+            "gemstones",
+            "diamonds",
+            "deciding",
+            "add"
+        ]
+    },
+    {
+        "sentence": [
+            "But when it comes to couples, I would say usually the woman is the one who's kind of just guiding it and letting me know exactly.",
+            "What do you mean by logo?",
+            "Like a company logo."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say usually",
+            "know exactly",
+            "company logo",
+            "logo",
+            "woman",
+            "one",
+            "mean"
+        ],
+        "trends": [
+            "would",
+            "woman",
+            "usually",
+            "say",
+            "one",
+            "letting",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "Like if I wanted Aria and Co. just spelled out so we can make it in solid gold, it'll say Aria and Co.",
+            "If I want to add diamonds to it.",
+            "So I have a lot of clients that are business owners as well that will wear  a chain like that for branding just to show off their company."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wanted aria",
+            "solid gold",
+            "say aria",
+            "business owners",
+            "add diamonds",
+            "chain like",
+            "like"
+        ],
+        "trends": [
+            "aria",
+            "like",
+            "spelled",
+            "make",
+            "co",
+            "solid",
+            "gold"
+        ]
+    },
+    {
+        "sentence": [
+            "So interesting.",
+            "Are there many companies that offer this type of thing?",
+            "This logo jewelry?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many companies",
+            "logo jewelry",
+            "type",
+            "thing",
+            "offer",
+            "interesting"
+        ],
+        "trends": [
+            "type",
+            "thing",
+            "offer",
+            "many",
+            "companies"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I would say in like the hip hop market is really where you see a lot of the custom wild pieces, but you don't see a lot of companies really doing that work for, you know, young couples or people.",
+            "I guess you can say more just everyday regular people.",
+            "So the logo, that's just one example, but it can really be anything."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hip hop market",
+            "custom wild pieces",
+            "everyday regular people",
+            "young couples",
+            "one example",
+            "would say",
+            "companies really"
+        ],
+        "trends": [
+            "really",
+            "lot",
+            "see",
+            "say",
+            "people",
+            "everyday",
+            "regular"
+        ]
+    },
+    {
+        "sentence": [
+            "It could be like,  I said before, Bubby, it can be any type of personalizing that you just won't see in a store, or it can be like an animal, you know, like I made for myself a lion head, it's 3D, you know, so there's rubies in the mouth and emerald in the eyes and diamonds on the mane, and it's just having fun with it in any way.",
+            "Sounds fun.",
+            "So I started asking our podcast guests what their typical day is."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "typical day",
+            "started asking",
+            "podcast guests",
+            "lion head",
+            "sounds fun",
+            "fun",
+            "way"
+        ],
+        "trends": [
+            "like",
+            "know",
+            "wo",
+            "bubby",
+            "could",
+            "typical",
+            "asking"
+        ]
+    },
+    {
+        "sentence": [
+            "The results have been a bit hit and miss.",
+            "Can you tell me what's the typical day for you?",
+            "For the holiday season, I'm doing a lot to, since we don't have a retail store, we're, God willing, going to be having pop-up shops."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "typical day",
+            "retail store",
+            "holiday season",
+            "god willing",
+            "bit hit",
+            "tell",
+            "since"
+        ],
+        "trends": [
+            "season",
+            "shops",
+            "results",
+            "hit",
+            "miss",
+            "bit",
+            "typical"
+        ]
+    },
+    {
+        "sentence": [
+            "So I've been running around looking at different venues, figuring out the best way to make those happen.",
+            "I'm really answering a lot of phone calls, texting customers.",
+            "I'm on my phone like 24-7, talking to customers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "running around looking",
+            "phone like 24",
+            "phone calls",
+            "really answering",
+            "different venues",
+            "best way",
+            "texting customers"
+        ],
+        "trends": [
+            "phone",
+            "customers",
+            "different",
+            "answering",
+            "texting",
+            "really",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "Like I said, each customer, I walk through the process with them one-on-one.",
+            "So it's like a conversation every day with multiple customers just about their job, giving them  updates, answering questions, tweaking the designs and stuff like that.",
+            "And I also spend a lot of time on a daily basis on 47th Street, checking in on jobs that are in production pieces that are being made, going from one vendor to another or diamond dealer to another, looking to source diamonds for engagement rings that I'm working on for clients."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "conversation every day",
+            "source diamonds",
+            "production pieces",
+            "multiple customers",
+            "engagement rings",
+            "diamond dealer",
+            "daily basis"
+        ],
+        "trends": [
+            "like",
+            "another",
+            "job",
+            "designs",
+            "multiple",
+            "day",
+            "every"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's a lot of running around 47th Street, the diamond district, and just being on my phone 24 seven, just  answering whatever questions customers may be texting me.",
+            "So yeah, the day goes by pretty quickly.",
+            "And I also do a lot of the posting on our social media myself."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "answering whatever questions customers may",
+            "running around 47th street",
+            "phone 24 seven",
+            "social media",
+            "pretty quickly",
+            "diamond district",
+            "day goes"
+        ],
+        "trends": [
+            "lot",
+            "pretty",
+            "day",
+            "goes",
+            "yeah",
+            "quickly",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "So how do you source diamonds?",
+            "What's your process for that?",
+            "So I work with a number of diamond dealers, primarily based in the city, the diamond district."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "source diamonds",
+            "primarily based",
+            "diamond district",
+            "diamond dealers",
+            "work",
+            "process",
+            "number"
+        ],
+        "trends": [
+            "diamond",
+            "work",
+            "primarily",
+            "number",
+            "district",
+            "dealers",
+            "city"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I'll sit with them in their offices, let them know my requirements, what I'm looking for, whether it's for an engagement ring, or it's like a single stone, or it's for a piece where I need  bunch of smaller, small stones for custom design or something like that.",
+            "I'll let them know my requirements, the quality that I need, which is usually based around the customer's budget.",
+            "And so then I sit with them and they prepare the stone for me, I examine them, make sure quality all matches up and that's it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "usually based around",
+            "make sure quality",
+            "small stones",
+            "engagement ring",
+            "custom design",
+            "something like",
+            "single stone"
+        ],
+        "trends": [
+            "quality",
+            "like",
+            "need",
+            "know",
+            "stone",
+            "sit",
+            "requirements"
+        ]
+    },
+    {
+        "sentence": [
+            "It's pretty simple.",
+            "It's basically New York.",
+            "They don't once in a while they'll ask about it, but it happens to be my client base They don't really bring it up too much."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "basically new york",
+            "really bring",
+            "pretty simple",
+            "client base",
+            "much",
+            "happens",
+            "ask"
+        ],
+        "trends": [
+            "york",
+            "new",
+            "basically",
+            "really",
+            "much",
+            "happens",
+            "client"
+        ]
+    },
+    {
+        "sentence": [
+            "They do mention, you know wanting something that's conflict free, which is pretty common But in terms of they don't really dive deep into the origin, you know, what country it's from or anything like that Do they ask for lab growing ever?",
+            "Yeah, so just like everybody else we've definitely felt that the demand for lab it has at least for now it kind of took the market  by storm.",
+            "So it's even clients who wouldn't necessarily want to buy a lab, they just bring it up in conversation at least, you know, because everyone's curious what's the deal with the lab."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really dive deep",
+            "like everybody else",
+            "know wanting something",
+            "lab growing ever",
+            "anything like",
+            "pretty common",
+            "necessarily want"
+        ],
+        "trends": [
+            "lab",
+            "know",
+            "like",
+            "least",
+            "yeah",
+            "market",
+            "definitely"
+        ]
+    },
+    {
+        "sentence": [
+            "As we know, it's significantly less expensive than a natural.",
+            "So yeah, we've definitely had requests for it.",
+            "I would say most of our clients are still, you know, buying natural diamonds for engagement rings."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "significantly less expensive",
+            "buying natural diamonds",
+            "would say",
+            "engagement rings",
+            "natural",
+            "yeah",
+            "still"
+        ],
+        "trends": [
+            "natural",
+            "know",
+            "would",
+            "still",
+            "significantly",
+            "less",
+            "expensive"
+        ]
+    },
+    {
+        "sentence": [
+            "But we've had people ask about lab for other pieces of jewelry, mostly when it comes to their budget, if they have a tight budget.",
+            "budget, they'll mention it.",
+            "because I found the beauty of a natural diamond just to be fascinating."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people ask",
+            "natural diamond",
+            "tight budget",
+            "budget",
+            "budget",
+            "pieces",
+            "mostly"
+        ],
+        "trends": [
+            "budget",
+            "natural",
+            "tight",
+            "pieces",
+            "people",
+            "mostly",
+            "lab"
+        ]
+    },
+    {
+        "sentence": [
+            "And so I know you had a previous guest that mentioned the romance of natural diamond and I couldn't agree more.",
+            "So I tend to favor natural diamonds.",
+            "And when I talk to clients, I try to steer them in that direction if they do ask my personal opinion, because I am a firm believer that that's really where, you know, the value is not just monetarily, but like the sentiment and the purpose of finding luxury jewelry is to have something that is really  has a natural aspect to it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "finding luxury jewelry",
+            "favor natural diamonds",
+            "natural diamond",
+            "natural aspect",
+            "previous guest",
+            "personal opinion",
+            "firm believer"
+        ],
+        "trends": [
+            "know",
+            "natural",
+            "really",
+            "guest",
+            "mentioned",
+            "previous",
+            "agree"
+        ]
+    },
+    {
+        "sentence": [
+            "And focusing on natural diamonds, how has the weakness in the global diamond market impacted you?",
+            "I mean, have you maybe benefited from lower wholesale prices, again, on natural?",
+            "Yeah, so it benefited us and clients in the sense that prices are a little bit better now because the market is so low."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "global diamond market impacted",
+            "little bit better",
+            "lower wholesale prices",
+            "maybe benefited",
+            "benefited us",
+            "natural diamonds",
+            "market"
+        ],
+        "trends": [
+            "prices",
+            "market",
+            "natural",
+            "benefited",
+            "diamond",
+            "weakness",
+            "wholesale"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's the type of thing where it's a case by case basis.",
+            "Sometimes we'll have people that want to sell their diamonds and then  they're not necessarily getting offers for what they would typically get two years ago.",
+            "So in that sense, it goes both ways."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would typically get two years ago",
+            "necessarily getting offers",
+            "case basis",
+            "case",
+            "ways",
+            "want",
+            "type"
+        ],
+        "trends": [
+            "case",
+            "years",
+            "necessarily",
+            "diamonds",
+            "basis",
+            "type",
+            "thing"
+        ]
+    },
+    {
+        "sentence": [
+            "But I know you said diamonds, but with gold, the fact that gold has risen so high has made it, I would say it's harder for customers to afford pieces that they would normally be able to buy more easily a year or two ago.",
+            "So interesting.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say",
+            "would normally",
+            "two ago",
+            "said diamonds",
+            "afford pieces",
+            "year",
+            "risen"
+        ],
+        "trends": [
+            "gold",
+            "would",
+            "year",
+            "harder",
+            "afford",
+            "ago",
+            "buy"
+        ]
+    },
+    {
+        "sentence": [
+            "You have done a few collaborations, right?",
+            "Most notably, maybe not most notably, this is the one that caught my attention with Benny the butcher.",
+            "about this?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "right",
+            "one",
+            "notably",
+            "notably",
+            "maybe",
+            "done",
+            "collaborations"
+        ],
+        "trends": [
+            "notably",
+            "right",
+            "done",
+            "collaborations",
+            "one",
+            "maybe",
+            "caught"
+        ]
+    },
+    {
+        "sentence": [
+            "Sure.",
+            "So I actually had been talking with one of his good friends and he kind of put us in touch, but he's a rapper.",
+            "He's over the past couple of years, he's gained a lot of notoriety for his features."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "put us",
+            "past couple",
+            "good friends",
+            "years",
+            "touch",
+            "talking",
+            "sure"
+        ],
+        "trends": [
+            "one",
+            "us",
+            "put",
+            "years",
+            "past",
+            "couple",
+            "features"
+        ]
+    },
+    {
+        "sentence": [
+            "He's been on songs with a lot of the biggest artists in the world.",
+            "So with him, we did a really unique custom piece.",
+            "It's actually, I mean, based on what he raps about and his music, it was like a Pyrex pot, but it's customized as a thousand diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really unique custom piece",
+            "thousand diamonds",
+            "pyrex pot",
+            "biggest artists",
+            "world",
+            "songs",
+            "raps"
+        ],
+        "trends": [
+            "diamonds",
+            "world",
+            "artists",
+            "songs",
+            "biggest",
+            "lot",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "says Benny on it and he's worn it in his videos and that was just a cool project that I worked on with him.",
+            "And yeah, we've done for other hip hop artists, other celebrities, but it's not necessarily the main focus of our business, but we've definitely done collaborations like that, which have been really cool.",
+            "So leaving aside that particular collaboration, what's your typical price range for your bespoke items?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "definitely done collaborations like",
+            "typical price range",
+            "hip hop artists",
+            "says benny",
+            "really cool",
+            "particular collaboration",
+            "main focus"
+        ],
+        "trends": [
+            "done",
+            "cool",
+            "collaboration",
+            "leaving",
+            "bespoke",
+            "benny",
+            "worked"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say we start at around 1500 and go up to, you know, 10,000, 15,000.",
+            "15,000 it really depends because if you're doing a custom ring typically there's bigger stones when it comes to The average custom bespoke creation.",
+            "It's usually a small pendant or a ring, but it's a range We start at fifteen hundred if it takes more creative investment You know by Oz if we really have to sit there and come up with the concept ourselves for the client Then it'll end up costing a little more but for fifteen hundred two thousand We can make a really nice custom piece for somebody right it seems so that's kind of price range that has been quite  badly hit by recent economic challenges, the high inflation interest rates, the general weakness in the US market in the last couple of years."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high inflation interest rates",
+            "average custom bespoke creation",
+            "really nice custom piece",
+            "fifteen hundred two thousand",
+            "recent economic challenges",
+            "quite badly hit",
+            "custom ring typically"
+        ],
+        "trends": [
+            "custom",
+            "really",
+            "range",
+            "hundred",
+            "fifteen",
+            "ring",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "Has that affected you?",
+            "Right.",
+            "So I would say it's a mix."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would say",
+            "right",
+            "mix",
+            "affected"
+        ],
+        "trends": [
+            "would",
+            "say",
+            "mix"
+        ]
+    },
+    {
+        "sentence": [
+            "It's clients who have the disposable income, you know, they'll still do it.",
+            "Like I mentioned before, the price of gold has gone up.",
+            "So the combination of the price of gold and the economy, you know, taking a hit."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "disposable income",
+            "taking",
+            "still",
+            "price",
+            "price",
+            "mentioned",
+            "like"
+        ],
+        "trends": [
+            "know",
+            "price",
+            "gold",
+            "mentioned",
+            "like",
+            "gone",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "So it's been tougher for people to really make big pieces.",
+            "So if they're doing personalized  We also get a lot of lower, you know, 500 to a thousand dollar range items, just like a custom name bracelet or initials, like simple things that still are meaningful, like a necklace with initials for the children or birthstones for the children.",
+            "Something like that has been popular now also, which is, you know, 700 to a thousand."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really make big pieces",
+            "thousand dollar range items",
+            "custom name bracelet",
+            "like simple things",
+            "something like",
+            "also get",
+            "thousand"
+        ],
+        "trends": [
+            "like",
+            "also",
+            "thousand",
+            "know",
+            "initials",
+            "children",
+            "pieces"
+        ]
+    },
+    {
+        "sentence": [
+            "So we haven't noticed a significant decrease in the demand.",
+            "Usually people come to us if they want to do personalized or custom, they'll do it.",
+            "And how important is the holiday season for you?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "usually people come",
+            "significant decrease",
+            "holiday season",
+            "want",
+            "us",
+            "personalized",
+            "noticed"
+        ],
+        "trends": [
+            "season",
+            "important",
+            "holiday",
+            "want",
+            "usually",
+            "us",
+            "significant"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "What proportion of your business is from New York's Jewish community?",
+            "How much competition is there for that niche?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new york",
+            "much competition",
+            "jewish community",
+            "right",
+            "proportion",
+            "niche",
+            "business"
+        ],
+        "trends": [
+            "niche",
+            "much",
+            "competition",
+            "york",
+            "proportion",
+            "new",
+            "jewish"
+        ]
+    },
+    {
+        "sentence": [
+            "just for personal jewelers, but it's all about the relationship.",
+            "And I would say when it comes to, you know, small businesses that really provide that like concierge service and experience, there's not many that I just think off the top of my head that do it the same way we do.",
+            "But in terms of jewelers and the Jewish community here, there's a lot of them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "like concierge service",
+            "would say",
+            "small businesses",
+            "really provide",
+            "jewish community",
+            "personal jewelers",
+            "jewelers"
+        ],
+        "trends": [
+            "would",
+            "like",
+            "comes",
+            "jewelers",
+            "community",
+            "terms",
+            "jewish"
+        ]
+    },
+    {
+        "sentence": [
+            "But it all comes down to who you feel most comfortable with, who you know personally.",
+            "I couldn't stress that more.",
+            "You should know your jeweler on a personal level, definitely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "personal level",
+            "know personally",
+            "know",
+            "stress",
+            "jeweler",
+            "feel",
+            "definitely"
+        ],
+        "trends": [
+            "know",
+            "personal",
+            "level",
+            "jeweler",
+            "definitely",
+            "personally",
+            "feel"
+        ]
+    },
+    {
+        "sentence": [
+            "For sure.",
+            "So looking at the holiday season, I think just in general, not just any specific sub market, but there seems to be there's a lot of uncertainty about the diamond jewelry demand over the coming holiday season in the US.",
+            "What is your outlook for that?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "specific sub market",
+            "diamond jewelry demand",
+            "coming holiday season",
+            "holiday season",
+            "us",
+            "uncertainty",
+            "think"
+        ],
+        "trends": [
+            "season",
+            "holiday",
+            "us",
+            "uncertainty",
+            "think",
+            "sub",
+            "specific"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say that I have a positive outlook going into holiday season.",
+            "The market over the summer was pretty slow.",
+            "And I feel like there is a build up even now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "positive outlook going",
+            "would say",
+            "pretty slow",
+            "holiday season",
+            "feel like",
+            "summer",
+            "market"
+        ],
+        "trends": [
+            "like",
+            "feel",
+            "even",
+            "would",
+            "season",
+            "summer",
+            "slow"
+        ]
+    },
+    {
+        "sentence": [
+            "Like I mentioned, we're experiencing customers gearing up already.",
+            "thinking about gifts for holidays.",
+            "So I'm not sure exactly what to attribute it to, but I do feel like there's an excitement around jewelry and it's kind of been building up."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "experiencing customers gearing",
+            "excitement around jewelry",
+            "sure exactly",
+            "feel like",
+            "like",
+            "thinking",
+            "mentioned"
+        ],
+        "trends": [
+            "like",
+            "customers",
+            "experiencing",
+            "gearing",
+            "already",
+            "mentioned",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "It was the last couple of months, but I feel like people, it's definitely on top of mind for a lot of people going into holiday season.",
+            "It could be the, you know, there's a lot of social media.",
+            "There's a lot of content out there that has really been engaging for people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "feel like people",
+            "social media",
+            "people going",
+            "last couple",
+            "holiday season",
+            "people",
+            "top"
+        ],
+        "trends": [
+            "people",
+            "lot",
+            "going",
+            "could",
+            "media",
+            "social",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "So people think about jewelry and want jewelry even more.",
+            "And I think this year is going to be big, this holiday season.",
+            "Right, let's hope so."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "want jewelry even",
+            "holiday season",
+            "people think",
+            "jewelry",
+            "think",
+            "year",
+            "right"
+        ],
+        "trends": [
+            "jewelry",
+            "think",
+            "year",
+            "season",
+            "holiday",
+            "going",
+            "big"
+        ]
+    },
+    {
+        "sentence": [
+            "Your business is quite active on social media.",
+            "What have you learned from using Instagram, etc.",
+            "to market a jewelry brand?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "using instagram",
+            "social media",
+            "quite active",
+            "jewelry brand",
+            "market",
+            "learned",
+            "etc"
+        ],
+        "trends": [
+            "social",
+            "quite",
+            "media",
+            "using",
+            "learned",
+            "market",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "going to have to sponsor and pay boost our post as if it was in a newspaper.",
+            "You know, it's just that's how it is nowadays.",
+            "But it's also about figuring out how to make the most engaging content at the same time."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pay boost",
+            "engaging content",
+            "time",
+            "sponsor",
+            "post",
+            "nowadays",
+            "newspaper"
+        ],
+        "trends": [
+            "time",
+            "make",
+            "figuring",
+            "engaging",
+            "sponsor",
+            "post",
+            "pay"
+        ]
+    },
+    {
+        "sentence": [
+            "So it used to be that if you had now everything you see is just wild and crazy and unique, you know, on social media.",
+            "So it's kind of always changing, but you have to fit into that mold of just constantly creating content  that's engaging, creative, informative, and also just keeps the viewers coming back.",
+            "I mean, it's just basically that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "viewers coming back",
+            "constantly creating content",
+            "social media",
+            "always changing",
+            "wild",
+            "used",
+            "unique"
+        ],
+        "trends": [
+            "creating",
+            "wild",
+            "used",
+            "unique",
+            "social",
+            "see",
+            "media"
+        ]
+    },
+    {
+        "sentence": [
+            "You really have to be on top of your game.",
+            "And for different platforms, you have to know what works best.",
+            "And it's really something that you really have to be knowledgeable."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "works best",
+            "different platforms",
+            "really something",
+            "really",
+            "really",
+            "top",
+            "knowledgeable"
+        ],
+        "trends": [
+            "really",
+            "top",
+            "game",
+            "something",
+            "knowledgeable",
+            "works",
+            "platforms"
+        ]
+    },
+    {
+        "sentence": [
+            "So for me, I just, I kind of learn as I go and I have people that help with that.",
+            "But it's definitely the number one key.",
+            "I would say Instagram is where we're most active and it's a huge part of getting our brand out there  creating brand awareness and building rapport with customers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would say instagram",
+            "number one key",
+            "creating brand awareness",
+            "huge part",
+            "building rapport",
+            "brand",
+            "people"
+        ],
+        "trends": [
+            "brand",
+            "would",
+            "people",
+            "learn",
+            "kind",
+            "help",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And just finally, what are your expectations for the jewelry market in the coming years?",
+            "What sort of trends do you think we should look out for?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry market",
+            "coming years",
+            "trends",
+            "think",
+            "sort",
+            "right",
+            "look"
+        ],
+        "trends": [
+            "trends",
+            "think",
+            "sort",
+            "look",
+            "years",
+            "market",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "I would say that there's going to be, there's still a large appetite for classic designs, but definitely with a twist.",
+            "And that's where we fit in with the bespoke creations.",
+            "But there's definitely a demand for high end jewelry that feels unique and has sentimental value."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high end jewelry",
+            "would say",
+            "sentimental value",
+            "large appetite",
+            "feels unique",
+            "classic designs",
+            "bespoke creations"
+        ],
+        "trends": [
+            "definitely",
+            "would",
+            "classic",
+            "designs",
+            "going",
+            "large",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "So.",
+            "Definitely from my perspective the custom design and bespoke is going to continue to gain popularity and when it comes to engagement rings, there's still like I said, people want classic looks but they also do value the little intricacy or uniqueness of design.",
+            "So it's kind of blending the two together."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people want classic looks",
+            "two together",
+            "still like",
+            "little intricacy",
+            "gain popularity",
+            "engagement rings",
+            "custom design"
+        ],
+        "trends": [
+            "design",
+            "bespoke",
+            "classic",
+            "comes",
+            "continue",
+            "custom",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "So when you see tennis bracelets now you see a lot of mixed shape tennis bracelets or you'll see a paper clip necklace with a large solitaire diamond  And so it's like blending the classic and modern together.",
+            "I think that's going to be really popular over the next couple of years for sure.",
+            "Interesting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mixed shape tennis bracelets",
+            "paper clip necklace",
+            "large solitaire diamond",
+            "see tennis bracelets",
+            "really popular",
+            "next couple",
+            "modern together"
+        ],
+        "trends": [
+            "see",
+            "bracelets",
+            "tennis",
+            "classic",
+            "years",
+            "think",
+            "sure"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, on that note, Arie, thank you very much.",
+            "We've had a string of diamond dealers on the podcast recently.",
+            "So I think it's good to get away from the polished trade and look a little bit about what consumers are actually buying."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "polished trade",
+            "podcast recently",
+            "little bit",
+            "get away",
+            "diamond dealers",
+            "actually buying",
+            "well"
+        ],
+        "trends": [
+            "well",
+            "arie",
+            "thank",
+            "note",
+            "much",
+            "diamond",
+            "string"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm really grateful, Arie, that you've joined us on this podcast.",
+            "It's been a very interesting conversation and best of luck.",
+            "Thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really grateful",
+            "joined us",
+            "interesting conversation",
+            "thank",
+            "podcast",
+            "luck",
+            "best"
+        ],
+        "trends": [
+            "luck",
+            "interesting",
+            "conversation",
+            "best",
+            "us",
+            "really",
+            "podcast"
+        ]
+    },
+    {
+        "sentence": [
+            "I really appreciate getting to meet you guys and talk to you.",
+            "It was a pleasure.",
+            "the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "really appreciate getting",
+            "protecting consumers",
+            "laboratory services",
+            "global gem",
+            "gemological institute",
+            "talk"
+        ],
+        "trends": [
+            "trade",
+            "consumers",
+            "education",
+            "gem",
+            "guys",
+            "appreciate",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "on our YouTube channel."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "youtube channel"
+        ],
+        "trends": []
+    }
+]

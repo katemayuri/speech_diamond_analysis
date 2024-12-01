@@ -1,0 +1,2672 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "which she co-founded with her husband, Kyle Simon, with the intention of disrupting the diamond industry.",
+            "Their method of disruption was not lab-grown diamonds, a product the company doesn't sell, but rather making it easier for consumers to get the bespoke engagement ring they wanted and guide them along the way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "bespoke engagement ring",
+            "rappaport diamond podcast",
+            "diamond industry",
+            "rather making",
+            "kyle simon",
+            "joshua friedman",
+            "grown diamonds"
+        ],
+        "trends": [
+            "diamond",
+            "kyle",
+            "disrupting",
+            "husband",
+            "friedman",
+            "host",
+            "joshua"
+        ]
+    },
+    {
+        "sentence": [
+            "We talked about how the business emerged, the clear-cut NFT, the current state of consumer demand, and why she's giving away free lab-grown diamonds.",
+            "Enjoy the episode.",
+            "about this episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "giving away free lab",
+            "grown diamonds",
+            "cut nft",
+            "current state",
+            "consumer demand",
+            "business emerged",
+            "talked"
+        ],
+        "trends": [
+            "talked",
+            "state",
+            "nft",
+            "giving",
+            "free",
+            "emerged",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you for having me.",
+            "It's a pleasure.",
+            "I've read and heard a lot about the clear cut, which is why it's so great to have you on this podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "clear cut",
+            "thank",
+            "read",
+            "podcast",
+            "pleasure",
+            "lot",
+            "heard"
+        ],
+        "trends": [
+            "read",
+            "podcast",
+            "lot",
+            "heard",
+            "great",
+            "cut",
+            "clear"
+        ]
+    },
+    {
+        "sentence": [
+            "In fact, on episode number 101 of the Rappaport Diamond podcast.",
+            "So I wanted to actually just start by hearing a bit from your perspective about the clear cut world.",
+            "But can you maybe just give our listeners a brief summary?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rappaport diamond podcast",
+            "episode number 101",
+            "clear cut world",
+            "brief summary",
+            "wanted",
+            "start",
+            "perspective"
+        ],
+        "trends": [
+            "maybe",
+            "world",
+            "wanted",
+            "bit",
+            "clear",
+            "cut",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, definitely.",
+            "I'll give you a little rundown on how we came about.",
+            "So I personally come from a diamond family."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "personally come",
+            "little rundown",
+            "diamond family",
+            "yeah",
+            "give",
+            "definitely",
+            "came"
+        ],
+        "trends": [
+            "rundown",
+            "little",
+            "give",
+            "came",
+            "personally",
+            "family",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'm fourth generation in the industry.",
+            "My dad's side of the family were all  diamond cutters and dealers.",
+            "He's from Antwerp, Belgium."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fourth generation",
+            "diamond cutters",
+            "side",
+            "industry",
+            "family",
+            "dealers",
+            "dad"
+        ],
+        "trends": [
+            "industry",
+            "generation",
+            "fourth",
+            "side",
+            "family",
+            "diamond",
+            "dealers"
+        ]
+    },
+    {
+        "sentence": [
+            "And my mom and my dad had their own independent antique jewelry business.",
+            "So I grew up around the industry, but I was always told, don't go into the industry.",
+            "It's a dying industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "independent antique jewelry business",
+            "always told",
+            "dying industry",
+            "industry",
+            "industry",
+            "mom",
+            "grew"
+        ],
+        "trends": [
+            "industry",
+            "mom",
+            "jewelry",
+            "independent",
+            "dad",
+            "told",
+            "grew"
+        ]
+    },
+    {
+        "sentence": [
+            "It's not for you.",
+            "So I never thought I would be working in diamonds or jewelry until after I graduated from NYU.",
+            "I looked around."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "never thought",
+            "looked around",
+            "would",
+            "working",
+            "nyu",
+            "jewelry",
+            "graduated"
+        ],
+        "trends": [
+            "would",
+            "working",
+            "thought",
+            "nyu",
+            "never",
+            "jewelry",
+            "graduated"
+        ]
+    },
+    {
+        "sentence": [
+            "I didn't really know exactly what I wanted to do with my career.",
+            "So I decided to enroll in GIA here in New York to become  a graduate gemologist.",
+            "And while I was at GIA, I fell in love with diamonds and gemstones."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really know exactly",
+            "new york",
+            "graduate gemologist",
+            "wanted",
+            "love",
+            "gia",
+            "gia"
+        ],
+        "trends": [
+            "gia",
+            "love",
+            "fell",
+            "really",
+            "career",
+            "know",
+            "wanted"
+        ]
+    },
+    {
+        "sentence": [
+            "I guess it was in my blood all along.",
+            "And while I was there, I also met my now husband and co-founder, Kyle.",
+            "He comes from a very different background."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "different background",
+            "also met",
+            "kyle",
+            "husband",
+            "guess",
+            "founder",
+            "comes"
+        ],
+        "trends": [
+            "guess",
+            "blood",
+            "along",
+            "different",
+            "comes",
+            "background",
+            "met"
+        ]
+    },
+    {
+        "sentence": [
+            "He came from a background in fair trade mining in West Africa.",
+            "So when we graduated from GIA, I started my career at Tiffany on the engagement floor.",
+            "And I really got exposed to working with bridal clients  engagement rings, diamonds, and I really love that space in the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "bridal clients engagement rings",
+            "fair trade mining",
+            "really got exposed",
+            "engagement floor",
+            "really love",
+            "west africa",
+            "working"
+        ],
+        "trends": [
+            "really",
+            "engagement",
+            "africa",
+            "fair",
+            "west",
+            "started",
+            "career"
+        ]
+    },
+    {
+        "sentence": [
+            "I wanted to get a little bit more hands-on, so then I started working at a large diamond wholesaler in the Diamond District here in New York.",
+            "At that same time, Kyle was in Sierra Leone in West Africa and the Ebola epidemic had happened.",
+            "So he had to come back to New York, left behind his career there and went to business school at Columbia Business School here in New York."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "large diamond wholesaler",
+            "columbia business school",
+            "business school",
+            "diamond district",
+            "west africa",
+            "started working",
+            "sierra leone"
+        ],
+        "trends": [
+            "new",
+            "york",
+            "business",
+            "school",
+            "diamond",
+            "sierra",
+            "ebola"
+        ]
+    },
+    {
+        "sentence": [
+            "So while he was there, all of his friends were at that age  that they wanted to get engaged and they knew he had some sort of tie to diamonds or the diamond industry.",
+            "So everyone would always go to him and say, Hey, do you know a guy in the diamond district who can get me a good deal on the ring?",
+            "And so since I was working in wholesale, I became the go-to guy at business school to help make everyone's a ring."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "everyone would always go",
+            "help make everyone",
+            "good deal",
+            "diamond industry",
+            "diamond district",
+            "business school",
+            "get engaged"
+        ],
+        "trends": [
+            "diamond",
+            "guy",
+            "ring",
+            "everyone",
+            "get",
+            "help",
+            "wholesale"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'd help educate them, pick out their diamond, create their custom setting.",
+            "And through that, I realized that most people didn't know the first place to start when it came to buying this really  significant purchase in their life.",
+            "So I started the clear cut."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really significant purchase",
+            "help educate",
+            "first place",
+            "custom setting",
+            "clear cut",
+            "started",
+            "start"
+        ],
+        "trends": [
+            "help",
+            "setting",
+            "create",
+            "custom",
+            "pick",
+            "diamond",
+            "educate"
+        ]
+    },
+    {
+        "sentence": [
+            "It was an educational blog in 2016 and it was really just meant for our friends to read about, you know, the four C's, do's and don'ts before coming to work with me.",
+            "Then through social media, I started an Instagram account and started posting some designs online.",
+            "Strangers started following the account asking if I could help create their custom rings and then turned into this accidental side business where strangers were trusting me with their life savings for creating their  So Kyle was graduating from business school and said, Hey, I think you have a business on your hands."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "could help create",
+            "accidental side business",
+            "strangers started following",
+            "started posting",
+            "social media",
+            "life savings",
+            "instagram account"
+        ],
+        "trends": [
+            "business",
+            "started",
+            "strangers",
+            "work",
+            "blog",
+            "account",
+            "online"
+        ]
+    },
+    {
+        "sentence": [
+            "There must be a white space in the market that you're filling that, you know, consumers are not getting.",
+            "So we decided in 2018, we got into a tech accelerator here in New York called tech stars.",
+            "So in January of 2018, Kyle and I quit our jobs and started doing the clear cut full time focusing on mainly custom diamond engagement through remote sales."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "clear cut full time focusing",
+            "new york called tech stars",
+            "mainly custom diamond engagement",
+            "tech accelerator",
+            "white space",
+            "remote sales",
+            "started"
+        ],
+        "trends": [
+            "tech",
+            "york",
+            "called",
+            "space",
+            "getting",
+            "market",
+            "consumers"
+        ]
+    },
+    {
+        "sentence": [
+            "And a year later, we got into a business that we were doing.",
+            "launched our fine jewelry collection.",
+            "like the as a millennial at the time who was like at the age to get engaged, it wasn't the experience that like I would be searching for to buy my engagement ring."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fine jewelry collection",
+            "year later",
+            "get engaged",
+            "engagement ring",
+            "would",
+            "time",
+            "searching"
+        ],
+        "trends": [
+            "like",
+            "millennial",
+            "launched",
+            "jewelry",
+            "fine",
+            "collection",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "And I read on thing was on Forbes, your strategy was to target diamond deserts, which I understood to mean places where most of the available options for buying diamonds are the big chains.",
+            "Is that right?",
+            "Yeah."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "target diamond deserts",
+            "mean places",
+            "buying diamonds",
+            "big chains",
+            "available options",
+            "yeah",
+            "understood"
+        ],
+        "trends": [
+            "understood",
+            "thing",
+            "target",
+            "strategy",
+            "read",
+            "places",
+            "options"
+        ]
+    },
+    {
+        "sentence": [
+            "So what we realized when starting the business was huge swaths of the world where you didn't have a lot of optionality, but everyone knew what  they wanted through social media and the internet.",
+            "So because of Instagram, Pinterest, and our content that we created that was educational, there were people that knew exactly the type of diamond that they wanted.",
+            "They knew like the ratio, the fasting pattern, and they wanted a completely custom ring, nothing that was out of the box."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "completely custom ring",
+            "social media",
+            "knew like",
+            "knew exactly",
+            "huge swaths",
+            "fasting pattern",
+            "everyone knew"
+        ],
+        "trends": [
+            "wanted",
+            "knew",
+            "type",
+            "content",
+            "created",
+            "diamond",
+            "educational"
+        ]
+    },
+    {
+        "sentence": [
+            "And because of the internet, they knew how much that should cost too.",
+            "So they didn't want to overpay for it.",
+            "So in large parts of the country, you know, unlike New York, where there's a diamond district they can go to and see, they were limited to whatever local  mom and pop jewelry store they had or just online marketplaces to sift through."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whatever local mom",
+            "unlike new york",
+            "pop jewelry store",
+            "online marketplaces",
+            "large parts",
+            "diamond district",
+            "want"
+        ],
+        "trends": [
+            "country",
+            "diamond",
+            "district",
+            "go",
+            "jewelry",
+            "cost",
+            "internet"
+        ]
+    },
+    {
+        "sentence": [
+            "But you couldn't get very specialized cuts or stones or something that was truly unique at a fair price.",
+            "And that's why we started the business.",
+            "And that was like the white space that we were targeting."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "white space",
+            "truly unique",
+            "specialized cuts",
+            "fair price",
+            "targeting",
+            "stones",
+            "started"
+        ],
+        "trends": [
+            "unique",
+            "truly",
+            "stones",
+            "specialized",
+            "something",
+            "price",
+            "white"
+        ]
+    },
+    {
+        "sentence": [
+            "We doubled every single year since inception.",
+            "And in 2020, when you were named 30 under 30, that's when we started taking, you know, the way we were interacting with customers was a heavy  lift because you know, it's a high touch experience.",
+            "We were curating every single thing for every single client and doing it through email."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "doubled every single year since inception",
+            "curating every single thing",
+            "every single client",
+            "high touch experience",
+            "started taking",
+            "heavy lift",
+            "named 30"
+        ],
+        "trends": [
+            "single",
+            "every",
+            "know",
+            "client",
+            "curating",
+            "thing",
+            "email"
+        ]
+    },
+    {
+        "sentence": [
+            "So in 2020, right before the pandemic, we decided to create our proprietary software gem.",
+            "So gem by the clear cut was basically to scale this very unscalable experience to democratize this like one on one private jewelry experience to anyone that wanted to experience it no matter where they were physically located.",
+            "So they could log into their portal have their gemologist we would still handpick every  diamond, but make it so much more efficient on the back end by tracking every single diamond we had, creating scalable features for all of our vendors because we make everything here in New York and it's still a pretty old school business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would still handpick every diamond",
+            "tracking every single diamond",
+            "pretty old school business",
+            "one private jewelry experience",
+            "creating scalable features",
+            "proprietary software gem",
+            "like one"
+        ],
+        "trends": [
+            "experience",
+            "make",
+            "still",
+            "diamond",
+            "every",
+            "one",
+            "cut"
+        ]
+    },
+    {
+        "sentence": [
+            "So through the tech, we were able to take this, you know, one on one experience that people in quote unquote diamond deserts were not able to access, but democratize that experience for everyone.",
+            "Right.",
+            "And Forbes also said that at the time in 2020, you're expecting sales of 11 million dollars."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quote unquote diamond deserts",
+            "forbes also said",
+            "11 million dollars",
+            "expecting sales",
+            "one experience",
+            "one",
+            "experience"
+        ],
+        "trends": [
+            "able",
+            "experience",
+            "one",
+            "access",
+            "democratize",
+            "forbes",
+            "expecting"
+        ]
+    },
+    {
+        "sentence": [
+            "Is it fair to assume that it's  increased quite a lot from there.",
+            "Yeah, so since inception, we doubled every single year in sales.",
+            "In 2018, we were only focused on our custom diamond engagement rings."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "doubled every single year",
+            "custom diamond engagement rings",
+            "since inception",
+            "increased quite",
+            "yeah",
+            "sales",
+            "lot"
+        ],
+        "trends": [
+            "quite",
+            "lot",
+            "year",
+            "yeah",
+            "doubled",
+            "every",
+            "sales"
+        ]
+    },
+    {
+        "sentence": [
+            "That was really our bread and butter.",
+            "And then in 2019, a lot of our clients came back to us and said, hey, you know, I have this beautiful engagement ring, but I love to get my wedding bands now or get an anniversary present or a gift for myself that was custom.",
+            "So we realized that our fine jewelry line needed to be launched."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fine jewelry line needed",
+            "clients came back",
+            "beautiful engagement ring",
+            "wedding bands",
+            "anniversary present",
+            "us",
+            "said"
+        ],
+        "trends": [
+            "get",
+            "came",
+            "realized",
+            "jewelry",
+            "needed",
+            "fine",
+            "line"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's when we launched our first capsule collection, which is now our  fastest growing part of our business is our fine jewelry collection.",
+            "We always had the idea that, you know, the engagement ring would be the gateway drug into the rest of the fine jewelry purchases.",
+            "You know, once you get the engagement ring, then you get the wedding bands and you get the push present, all of that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first capsule collection",
+            "fine jewelry purchases",
+            "fine jewelry collection",
+            "fastest growing part",
+            "engagement ring would",
+            "engagement ring",
+            "wedding bands"
+        ],
+        "trends": [
+            "get",
+            "collection",
+            "know",
+            "ring",
+            "engagement",
+            "jewelry",
+            "fine"
+        ]
+    },
+    {
+        "sentence": [
+            "But actually what we've realized is now that we have been around and our social media presence has expanded beyond like our core Instagram community.",
+            "Now we're really big on TikTok.",
+            "We have a larger audience of diamond lovers, jewelry lovers that are finding us  a little bit earlier than their engagement ring and are purchasing fine jewelry from us way before and knowing that they want to come to us for their engagement ring later on."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "social media presence",
+            "little bit earlier",
+            "expanded beyond like",
+            "core instagram community",
+            "purchasing fine jewelry",
+            "engagement ring later",
+            "engagement ring"
+        ],
+        "trends": [
+            "us",
+            "jewelry",
+            "ring",
+            "engagement",
+            "lovers",
+            "actually",
+            "instagram"
+        ]
+    },
+    {
+        "sentence": [
+            "So that has been a huge part of the growth of our business too.",
+            "And also the scalability of our business through our technology that we built.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "huge part",
+            "technology",
+            "scalability",
+            "right",
+            "growth",
+            "business",
+            "business"
+        ],
+        "trends": [
+            "business",
+            "part",
+            "huge",
+            "growth",
+            "technology",
+            "scalability",
+            "built"
+        ]
+    },
+    {
+        "sentence": [
+            "So would you say that your annual sales are in the tens of millions now?",
+            "Yes, yes.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "annual sales",
+            "yes",
+            "yes",
+            "would",
+            "tens",
+            "say",
+            "right"
+        ],
+        "trends": [
+            "would",
+            "tens",
+            "say",
+            "sales",
+            "millions",
+            "annual"
+        ]
+    },
+    {
+        "sentence": [
+            "With success like that, could you potentially sell off the company at some point?",
+            "I don't really have a vision for that at the moment.",
+            "Our goal right now and all  always has been is to be jeweler for life."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "success like",
+            "potentially sell",
+            "goal right",
+            "vision",
+            "really",
+            "point",
+            "moment"
+        ],
+        "trends": [
+            "vision",
+            "really",
+            "moment",
+            "success",
+            "sell",
+            "right",
+            "life"
+        ]
+    },
+    {
+        "sentence": [
+            "So I t of work to do.",
+            "Our goal i what those small towns ha mom and pop jewelry store to your investment pieces, built with that jeweler.",
+            "W for this generation and th matter where you are phys that's why we take such l  quality of not only the products that we create, but what we are aiming to sell to our clients too, because we're taking that long term vision and hoping to build that trust for their entire jewelry purchasing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "small towns ha mom",
+            "pop jewelry store",
+            "long term vision",
+            "entire jewelry purchasing",
+            "th matter",
+            "l quality",
+            "investment pieces"
+        ],
+        "trends": [
+            "jewelry",
+            "mom",
+            "small",
+            "investment",
+            "pieces",
+            "pop",
+            "ha"
+        ]
+    },
+    {
+        "sentence": [
+            "and how consumers are educated on jewelry, how they like to purchase jewelry.",
+            "So at first, it was kind of like table stakes.",
+            "We're a generation, at least millennials, that grew up very comfortable with the internet, purchasing online, but there wasn't a lot of education on social media."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like table stakes",
+            "social media",
+            "purchasing online",
+            "least millennials",
+            "purchase jewelry",
+            "like",
+            "jewelry"
+        ],
+        "trends": [
+            "jewelry",
+            "like",
+            "internet",
+            "consumers",
+            "educated",
+            "purchase",
+            "table"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's where we really came in and stepped in at that crucial point where you could show people educating them on the four Cs, diamond shapes, like the basics, things to look out for, what to prioritize,  to get the best value in your diamond.",
+            "And these are things that you may not get walking into your local jewelry store.",
+            "And we always joke that a lot of our community online know more than a lot of salespeople in local jewelry stores."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "could show people educating",
+            "local jewelry stores",
+            "local jewelry store",
+            "community online know",
+            "really came",
+            "four cs",
+            "crucial point"
+        ],
+        "trends": [
+            "local",
+            "jewelry",
+            "diamond",
+            "lot",
+            "things",
+            "get",
+            "community"
+        ]
+    },
+    {
+        "sentence": [
+            "They know about ratios and basting patterns that the differences between like GIA or IGI.",
+            "So they're very well educated.",
+            "And that's always our goal to have a customer empowered to make this big purchase in their life."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "well educated",
+            "like gia",
+            "customer empowered",
+            "big purchase",
+            "basting patterns",
+            "ratios",
+            "make"
+        ],
+        "trends": [
+            "purchase",
+            "make",
+            "ratios",
+            "patterns",
+            "life",
+            "goal",
+            "empowered"
+        ]
+    },
+    {
+        "sentence": [
+            "By the time that it was time to make the diamond purchase, they knew exactly what  they wanted and how to get the best value and exactly what design they wanted.",
+            "That was the goal with social media for the millennial generation.",
+            "And I think that's why a business like ours was able to flourish in a very old school industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "old school industry",
+            "social media",
+            "millennial generation",
+            "diamond purchase",
+            "business like",
+            "best value",
+            "knew exactly"
+        ],
+        "trends": [
+            "wanted",
+            "time",
+            "exactly",
+            "able",
+            "think",
+            "school",
+            "business"
+        ]
+    },
+    {
+        "sentence": [
+            "Now what we're seeing a lot is, you know, that was with millennials and I think Gen Z are like the new generation coming up to be diamond purchasers.",
+            "So now it's table stakes.",
+            "Every single jeweler has a social media account showing their what their offerings are educating people."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "social media account showing",
+            "think gen z",
+            "new generation coming",
+            "every single jeweler",
+            "table stakes",
+            "educating people",
+            "diamond purchasers"
+        ],
+        "trends": [
+            "account",
+            "jeweler",
+            "single",
+            "showing",
+            "people",
+            "offerings",
+            "educating"
+        ]
+    },
+    {
+        "sentence": [
+            "Now with  TikTok, one thing that we have to be careful about is not only educating and providing information, but misinformation is spreading widespread.",
+            "So I think that Gen Z grew up with social media.",
+            "They are very aware of it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "gen z grew",
+            "spreading widespread",
+            "social media",
+            "providing information",
+            "one thing",
+            "tiktok",
+            "think"
+        ],
+        "trends": [
+            "widespread",
+            "tiktok",
+            "thing",
+            "spreading",
+            "providing",
+            "think",
+            "social"
+        ]
+    },
+    {
+        "sentence": [
+            "And they're also skeptical.",
+            "They're skeptical about greenwashing.",
+            "They're skeptical about, you know, what they're seeing online, what's true, what's not true."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seeing online",
+            "also skeptical",
+            "skeptical",
+            "skeptical",
+            "true",
+            "true",
+            "know"
+        ],
+        "trends": [
+            "true",
+            "skeptical",
+            "seeing",
+            "online",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's something that as an industry, we have to be responsible for in order to protect it long term.",
+            "What type of misinformation about diamonds is there on the  on social media?",
+            "Well, I think a lot of it is obviously with the rise in lab grown and a lot of it being fueled by greed within the industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "social media",
+            "long term",
+            "lab grown",
+            "greed within",
+            "well",
+            "type",
+            "think"
+        ],
+        "trends": [
+            "lot",
+            "industry",
+            "term",
+            "something",
+            "responsible",
+            "protect",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "You're seeing a lot of jewelers themselves, I believe, spreading misinformation about the value, the distinction between the lab and natural and educating this new generation on those differences.",
+            "And there's a very strong voice in the pro lab, obviously, because there's a ton of margin to be made in like the consumer relationship  that is one narrative and I think the natural narrative isn't really being defended or told as strongly.",
+            "You did something to, how would you put it, to really give a kind of a kick to the status of natural over lab-grown, offering a free lab-grown diamond as a travel ring for anyone buying a natural diamond with over $20,000."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "travel ring",
+            "strong voice",
+            "spreading misinformation",
+            "one narrative",
+            "new generation",
+            "consumer relationship",
+            "anyone buying"
+        ],
+        "trends": [
+            "natural",
+            "narrative",
+            "really",
+            "diamond",
+            "lab",
+            "generation",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, now we're actually offering it to any price point.",
+            "We tested it with our clients that spent over $20,000 for a free two-carat and now we expanded it to $10,000 and now we've expanded it to  any price point, any natural diamond that you purchase with us, you're able to get a free lab-grown diamond for a travel ring.",
+            "Because I believe that there is a place for a lab-grown, it's just not in replacement of a natural."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "travel ring",
+            "price point",
+            "price point",
+            "free two",
+            "actually offering",
+            "natural diamond",
+            "grown diamond"
+        ],
+        "trends": [
+            "diamond",
+            "free",
+            "expanded",
+            "purchase",
+            "natural",
+            "price",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "And just to clarify that lab-grown diamond that they get for free is designed to look very, very similar to the natural, or is it just a different, just anything?",
+            "So we did it very standardized."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "grown diamond",
+            "standardized",
+            "similar",
+            "right",
+            "natural",
+            "look",
+            "lab"
+        ],
+        "trends": [
+            "similar",
+            "natural",
+            "look",
+            "get",
+            "free",
+            "different",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "We don't do like a replica of your engagement ring.",
+            "So when we first started getting the idea, a lot of our clients said, hey, I would like a replica  of my engagement ring to travel with.",
+            "And we used to do it with cubic zirconia."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first started getting",
+            "engagement ring",
+            "engagement ring",
+            "cubic zirconia",
+            "clients said",
+            "would like",
+            "like"
+        ],
+        "trends": [
+            "first",
+            "getting",
+            "hey",
+            "engagement",
+            "ring",
+            "replica",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "And then we realized that lab grown diamonds have become so inexpensive.",
+            "And this is something that is kind of gate kept from the consumer.",
+            "People don't understand how inexpensive it is to purchase a lab grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lab grown diamonds",
+            "lab grown",
+            "gate kept",
+            "understand",
+            "something",
+            "realized",
+            "purchase"
+        ],
+        "trends": [
+            "lab",
+            "inexpensive",
+            "grown",
+            "something",
+            "realized",
+            "diamonds",
+            "kind"
+        ]
+    },
+    {
+        "sentence": [
+            "So we said, Hey, why not offer a free lab grown diamond for your travel ring?",
+            "So you don't have to worry about wearing your natural diamond engagement ring when doing things that you would feel unsafe.",
+            "So now we offer just a standard round brilliant and you can pick  either a white gold solitaire or a yellow gold solitaire."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "free lab grown diamond",
+            "natural diamond engagement ring",
+            "yellow gold solitaire",
+            "would feel unsafe",
+            "white gold solitaire",
+            "standard round brilliant",
+            "travel ring"
+        ],
+        "trends": [
+            "ring",
+            "diamond",
+            "offer",
+            "gold",
+            "solitaire",
+            "natural",
+            "grown"
+        ]
+    },
+    {
+        "sentence": [
+            "Some people like it that it's a completely different style than their actual engagement ring, so they can get two different styles.",
+            "But it was just much easier for us scaling wise to standardize it to round brilliant solitaire.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get two different styles",
+            "completely different style",
+            "us scaling wise",
+            "round brilliant solitaire",
+            "actual engagement ring",
+            "people like",
+            "much easier"
+        ],
+        "trends": [
+            "different",
+            "get",
+            "wise",
+            "brilliant",
+            "easier",
+            "standardize",
+            "solitaire"
+        ]
+    },
+    {
+        "sentence": [
+            "You can get those lab-growns for probably under $100 a carat, right?",
+            "Yes.",
+            "So we are purchasing our lab-grown diamonds for under $100 a carat, which is extremely inexpensive."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "grown diamonds",
+            "extremely inexpensive",
+            "yes",
+            "right",
+            "purchasing",
+            "probably",
+            "lab"
+        ],
+        "trends": [
+            "carat",
+            "right",
+            "probably",
+            "get",
+            "purchasing",
+            "inexpensive",
+            "extremely"
+        ]
+    },
+    {
+        "sentence": [
+            "And obviously, whoever we're purchasing them from is also making some sort  a margin as well.",
+            "So I don't think consumers understand how inexpensive labro diamonds are because precisely at the retail level, jewelers are marking them up so significantly, putting them side by side with the natural and saying, hey, they're the exact same thing.",
+            "This is just 50 or 70% cheaper, even though they're making, you know, over 300% margin."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "think consumers understand",
+            "inexpensive labro diamonds",
+            "retail level",
+            "even though",
+            "also making",
+            "making",
+            "whoever"
+        ],
+        "trends": [
+            "making",
+            "margin",
+            "side",
+            "whoever",
+            "well",
+            "obviously",
+            "purchasing"
+        ]
+    },
+    {
+        "sentence": [
+            "And a client actually does not want to pay so little for their engagement ring.",
+            "You know, they don't want to pay less for the engagement  than the dinner they're going out to to celebrate their engagement.",
+            "So there is actually a threshold for clients that they are willing to overpay for lab grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lab grown",
+            "pay less",
+            "client actually",
+            "engagement ring",
+            "pay",
+            "actually",
+            "engagement"
+        ],
+        "trends": [
+            "engagement",
+            "actually",
+            "want",
+            "pay",
+            "clients",
+            "grown",
+            "willing"
+        ]
+    },
+    {
+        "sentence": [
+            "And they, you know, we posted a TikTok on showing the actual value of lab grown.",
+            "And that was when they were $300 a carrot and people went crazy saying, there's no way this is fake.",
+            "This is a lie."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people went crazy saying",
+            "lab grown",
+            "actual value",
+            "way",
+            "tiktok",
+            "showing",
+            "posted"
+        ],
+        "trends": [
+            "went",
+            "way",
+            "value",
+            "tiktok",
+            "showing",
+            "saying",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a fake invoice.",
+            "I like showed where it came from.",
+            "So it's really, I think part of the industry, we really need to show the difference in the value  the product, the difference in the value, not only in the long term, but the immediate difference in the value, saying that they are totally different products that will coexist, but they are not in replacement of one another."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "totally different products",
+            "think part",
+            "one another",
+            "long term",
+            "like showed",
+            "fake invoice",
+            "really need"
+        ],
+        "trends": [
+            "value",
+            "difference",
+            "really",
+            "coexist",
+            "different",
+            "immediate",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "They need to know the distinction like how inexpensive it is that it's mass produced.",
+            "There's no rarity and that one is something that is a rare and finite resource that does hold its value because that is not what they're being told.",
+            "They're being told that they're chemically the same thing."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mass produced",
+            "finite resource",
+            "distinction like",
+            "value",
+            "told",
+            "told",
+            "thing"
+        ],
+        "trends": [
+            "told",
+            "chemically",
+            "value",
+            "finite",
+            "resource",
+            "rarity",
+            "rare"
+        ]
+    },
+    {
+        "sentence": [
+            "No one can tell the difference.",
+            "Anyone can pass it off.",
+            "And at the end of the day, the only winner in this is the retailer that sold the ring."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "winner",
+            "tell",
+            "sold",
+            "ring",
+            "retailer",
+            "pass",
+            "one"
+        ],
+        "trends": [
+            "tell",
+            "one",
+            "difference",
+            "winner",
+            "sold",
+            "ring",
+            "retailer"
+        ]
+    },
+    {
+        "sentence": [
+            "The consumer is left, you know, as the one that is holding the bag because they're the one  got screwed over.",
+            "Right.",
+            "You were at a recent, the Facets 2023 conference in Botswana, correct?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "facets 2023 conference",
+            "one got screwed",
+            "one",
+            "right",
+            "recent",
+            "left",
+            "know"
+        ],
+        "trends": [
+            "one",
+            "recent",
+            "facets",
+            "screwed",
+            "left",
+            "know",
+            "holding"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think this is one of the topics that you spoke about on a panel there.",
+            "Was this a major theme of that conference, the virtue of natural diamonds over the Avogadro?",
+            "Yeah, it definitely was."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamonds",
+            "major theme",
+            "yeah",
+            "virtue",
+            "topics",
+            "think",
+            "spoke"
+        ],
+        "trends": [
+            "topics",
+            "think",
+            "spoke",
+            "virtue",
+            "theme",
+            "natural",
+            "major"
+        ]
+    },
+    {
+        "sentence": [
+            "So I've been to Botswana about three times in the last 18 months, and I find the country so fascinating.",
+            "They have an amazing story to tell, an amazing natural diamond story to tell that consumers just are completely  unaware of.",
+            "You know, the fact that every single child gets to go to school through graduate school anywhere because of natural diamonds, that healthcare is completely accessible through natural diamonds, infrastructure."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every single child gets",
+            "amazing natural diamond story",
+            "last 18 months",
+            "graduate school anywhere",
+            "amazing story",
+            "natural diamonds",
+            "natural diamonds"
+        ],
+        "trends": [
+            "natural",
+            "completely",
+            "amazing",
+            "tell",
+            "story",
+            "school",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "People do not know where Botswana is on a map.",
+            "You know, they don't know anything about the natural diamond story or the good that it does.",
+            "And they just, we grew up with a movie called Blood Diamond, Our Generation, and that is a narrative that's just being blanketed over the natural diamond industry."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "movie called blood diamond",
+            "natural diamond story",
+            "natural diamond industry",
+            "know anything",
+            "know",
+            "know",
+            "people"
+        ],
+        "trends": [
+            "diamond",
+            "know",
+            "natural",
+            "industry",
+            "story",
+            "good",
+            "anything"
+        ]
+    },
+    {
+        "sentence": [
+            "you'll see in my comments people saying I don't want a mine diamond because it's not ethical.",
+            "Children are dying for this diamond.",
+            "It's like just completely false."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "comments people saying",
+            "completely false",
+            "mine diamond",
+            "diamond",
+            "want",
+            "see",
+            "like"
+        ],
+        "trends": [
+            "diamond",
+            "want",
+            "see",
+            "saying",
+            "people",
+            "dying",
+            "children"
+        ]
+    },
+    {
+        "sentence": [
+            "It's actually helping children, but there's no one on the other side on the natural diamond side telling the actual story of the good that diamonds do the story of Botswana as like a great example and a great case for the natural diamond industry while they're just being fed falsities about like how eco-friendly and how ethical lab-grown diamonds are.",
+            "that President Masisi, the president of Botswana said at that conference that he described land-grown diamonds as microwave diamonds.",
+            "Did those words come out of his mouth?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natural diamond side telling",
+            "natural diamond industry",
+            "actually helping children",
+            "words come",
+            "great example",
+            "great case",
+            "fed falsities"
+        ],
+        "trends": [
+            "diamonds",
+            "story",
+            "side",
+            "natural",
+            "diamond",
+            "like",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "Yes, he did.",
+            "He described them as microwave diamonds, which I completely agree with, because they're taking a chemical process and trying to replicate something that happens in the earth, and they can do that, you know, endless amount of time.",
+            "So I think it's like the fast fashion of diamonds, basically."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "replicate something",
+            "fast fashion",
+            "endless amount",
+            "completely agree",
+            "chemical process",
+            "microwave diamonds",
+            "diamonds"
+        ],
+        "trends": [
+            "amount",
+            "chemical",
+            "completely",
+            "described",
+            "diamonds",
+            "fast",
+            "fashion"
+        ]
+    },
+    {
+        "sentence": [
+            "I believe President Masisi is one of the best advocates for natural diamonds.",
+            "and for Botswana.",
+            "The reason why we went to Botswana the first time was for the Forbes 30 under 30 conference."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "believe president masisi",
+            "natural diamonds",
+            "forbes 30",
+            "first time",
+            "best advocates",
+            "30 conference",
+            "went"
+        ],
+        "trends": [
+            "went",
+            "time",
+            "president",
+            "one",
+            "natural",
+            "reason",
+            "forbes"
+        ]
+    },
+    {
+        "sentence": [
+            "And then of course we came back again to go to the mines and then back again for the facets conference.",
+            "And I think getting more international community, young people, entrepreneurs to Botswana to see the country firsthand, to see the benefits is an amazing way to understand the natural diamond story.",
+            "And of course, it needs to be told."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond story",
+            "young people",
+            "think getting",
+            "international community",
+            "facets conference",
+            "country firsthand",
+            "amazing way"
+        ],
+        "trends": [
+            "back",
+            "course",
+            "see",
+            "young",
+            "came",
+            "conference",
+            "mines"
+        ]
+    },
+    {
+        "sentence": [
+            "Their diamonds need to be branded so we can have a narrative  to share because right now the natural diamond story is silent.",
+            "Right.",
+            "And we have seen an impact, particularly this year, on natural diamond sales at retail because of lab growing."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond story",
+            "natural diamond sales",
+            "lab growing",
+            "diamonds need",
+            "year",
+            "silent",
+            "share"
+        ],
+        "trends": [
+            "diamond",
+            "natural",
+            "year",
+            "lab",
+            "seen",
+            "sales",
+            "growing"
+        ]
+    },
+    {
+        "sentence": [
+            "Have you seen that in your sales?",
+            "We haven't seen a huge impact on our AOV.",
+            "So our price point has stayed like our average engagement ring is about twenty five thousand US dollars."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "twenty five thousand us dollars",
+            "average engagement ring",
+            "stayed like",
+            "price point",
+            "huge impact",
+            "seen",
+            "seen"
+        ],
+        "trends": [
+            "us",
+            "twenty",
+            "thousand",
+            "stayed",
+            "ring",
+            "price",
+            "seen"
+        ]
+    },
+    {
+        "sentence": [
+            "And that has stayed consistent year after year.",
+            "We have seen a bit of an impact on the under ten thousand dollar  part of our business.",
+            "So I think that's where Lab Grown has become a lot more pervasive."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ten thousand dollar part",
+            "stayed consistent year",
+            "lab grown",
+            "year",
+            "think",
+            "seen",
+            "pervasive"
+        ],
+        "trends": [
+            "year",
+            "consistent",
+            "stayed",
+            "pervasive",
+            "grown",
+            "lab",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "We haven't seen an impact on our fine jewelry collection, which is interesting because a lot of the original thesis was that Lab Grown diamonds were going to really take over like more of the fashion fine jewelry space.",
+            "I've actually seen the opposite in the landscape that we work in.",
+            "I've been seeing a lot of under 10,000 engagement rings being lost to Lab Grown, but actually fine jewelry remaining natural."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually fine jewelry remaining natural",
+            "fashion fine jewelry space",
+            "fine jewelry collection",
+            "000 engagement rings",
+            "lab grown diamonds",
+            "lab grown",
+            "actually seen"
+        ],
+        "trends": [
+            "jewelry",
+            "fine",
+            "actually",
+            "seen",
+            "lab",
+            "grown",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's probably because  there's less of a price differential there because the diamonds, you know, in like small necklaces, things like that are not the vast majority of the cost.",
+            "It's like the labor and the metal.",
+            "So people are still opting for natural when it comes to that end."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like small necklaces",
+            "vast majority",
+            "things like",
+            "still opting",
+            "price differential",
+            "like",
+            "think"
+        ],
+        "trends": [
+            "like",
+            "comes",
+            "opting",
+            "end",
+            "still",
+            "natural",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "How are things looking going into the holiday season, just focusing on the state of the market right now, there seems to be a bit of uncertainty about whether it will be a good holiday season, a bad holiday season, probably most people think it will be somewhere in between.",
+            "How are things so far?",
+            "state of the entire industry is not doing great for many different reasons."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many different reasons",
+            "good holiday season",
+            "bad holiday season",
+            "things looking going",
+            "holiday season",
+            "people think",
+            "market right"
+        ],
+        "trends": [
+            "holiday",
+            "season",
+            "whether",
+            "bit",
+            "focusing",
+            "state",
+            "many"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's because not only the economy, but the pervasiveness of lab growth and misinformation.",
+            "For us, we just had our Black Friday, Cyber Monday sale, which is our only sale we do every single year.",
+            "And it was very, very strong."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every single year",
+            "cyber monday sale",
+            "lab growth",
+            "black friday",
+            "sale",
+            "us",
+            "think"
+        ],
+        "trends": [
+            "sale",
+            "think",
+            "year",
+            "us",
+            "single",
+            "monday",
+            "pervasiveness"
+        ]
+    },
+    {
+        "sentence": [
+            "So that gives me positive hope for the holiday season.",
+            "I think this holiday season is going to be a bit different in general from other years, because I think it's going to be very sales or deals  driven more than other years.",
+            "So I think that's what's going to be the differentiating factor."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "positive hope",
+            "holiday season",
+            "holiday season",
+            "differentiating factor",
+            "deals driven",
+            "bit different",
+            "years"
+        ],
+        "trends": [
+            "think",
+            "going",
+            "season",
+            "years",
+            "sales",
+            "holiday",
+            "positive"
+        ]
+    },
+    {
+        "sentence": [
+            "A lot more consumers have a slightly less purchasing power than they had in the past couple years.",
+            "So, you know, average order values of like gifting or fine jewelry for holiday are going to be a bit lower.",
+            "But at least for us so far, it has been stronger than I anticipated."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "slightly less purchasing power",
+            "past couple years",
+            "average order values",
+            "like gifting",
+            "fine jewelry",
+            "bit lower",
+            "us"
+        ],
+        "trends": [
+            "order",
+            "least",
+            "stronger",
+            "far",
+            "anticipated",
+            "us",
+            "values"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's positive.",
+            "But I think overall, it's not going to be as strong as it's been the past few years.",
+            "think  so much in the last year and a half."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "last year",
+            "think overall",
+            "think",
+            "years",
+            "strong",
+            "positive",
+            "past"
+        ],
+        "trends": [
+            "think",
+            "year",
+            "much",
+            "last",
+            "half",
+            "years",
+            "strong"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it sort of peaked maybe two years ago, year and a half to two years ago.",
+            "But from what I understood, yours actually had maybe more of a practical benefit than some of the other ones that maybe seemed a bit more gimmicky.",
+            "Can you talk us through that, please?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "peaked maybe two years ago",
+            "two years ago",
+            "maybe seemed",
+            "talk us",
+            "practical benefit",
+            "maybe",
+            "year"
+        ],
+        "trends": [
+            "maybe",
+            "years",
+            "ago",
+            "two",
+            "please",
+            "actually",
+            "practical"
+        ]
+    },
+    {
+        "sentence": [
+            "Yes, it was, we launched it early last year in 2022, our NFT at the height of NFTs and when they were really hot, but we did want to have a more practical use case for it.",
+            "Our NFT was to, you know, really essentially like hold all  of the important documents and paperwork for your engagement ring, like your GAA certificate, your appraisal, show ownership on the blockchain of your specific diamond.",
+            "Right now, we've actually been expanding to something a little bit more, even more practical and even more consumer driven."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really essentially like hold",
+            "early last year",
+            "practical use case",
+            "really hot",
+            "specific diamond",
+            "show ownership",
+            "little bit"
+        ],
+        "trends": [
+            "like",
+            "even",
+            "really",
+            "nft",
+            "practical",
+            "actually",
+            "little"
+        ]
+    },
+    {
+        "sentence": [
+            "A lot of our clients who are purchasing natural diamonds from us obviously are really interested in Origin, which was a big discussion at the facets conference as well.",
+            "We will be partnering with Tracer in the  in  blockchain and integrating it with our technology.",
+            "And GEM, which is our software, is like the perfect way to take that blockchain technology, the tracer technology, and deliver it to the end consumer because there is a bit of a gap there right now."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "purchasing natural diamonds",
+            "us obviously",
+            "really interested",
+            "perfect way",
+            "facets conference",
+            "end consumer",
+            "big discussion"
+        ],
+        "trends": [
+            "technology",
+            "blockchain",
+            "tracer",
+            "well",
+            "natural",
+            "clients",
+            "conference"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "But in what way is this an NFT as opposed to just a traceability program or app that other companies have?",
+            "So both are on the blockchain, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "traceability program",
+            "way",
+            "right",
+            "right",
+            "opposed",
+            "nft",
+            "companies"
+        ],
+        "trends": [
+            "way",
+            "traceability",
+            "program",
+            "opposed",
+            "nft",
+            "companies",
+            "app"
+        ]
+    },
+    {
+        "sentence": [
+            "So our NFT, our original NFT was each diamond ring coded on the blockchain with their GIA  certificate, their appraisal, but only once the diamond was, you know, from our hands to the client.",
+            "So at that certain point, but now Tracer takes the diamond from rough and tracks it on the blockchain through each step of the diamond journey.",
+            "So from rough to polished to finished good."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond ring coded",
+            "tracer takes",
+            "gia certificate",
+            "finished good",
+            "certain point",
+            "diamond journey",
+            "original nft"
+        ],
+        "trends": [
+            "diamond",
+            "rough",
+            "nft",
+            "blockchain",
+            "tracks",
+            "certain",
+            "tracer"
+        ]
+    },
+    {
+        "sentence": [
+            "And then that's like the pre-step before it even gets to us.",
+            "Now you can really track the diamond journey from mind to finger, which is very super cool.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "super cool",
+            "really track",
+            "even gets",
+            "diamond journey",
+            "us",
+            "step",
+            "right"
+        ],
+        "trends": [
+            "track",
+            "super",
+            "really",
+            "mind",
+            "journey",
+            "finger",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "And on that issue of  origin.",
+            "What are your consumers saying about Russian diamonds?",
+            "Are they trying to avoid them?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "russian diamonds",
+            "consumers saying",
+            "trying",
+            "origin",
+            "issue",
+            "avoid"
+        ],
+        "trends": [
+            "saying",
+            "russian",
+            "diamonds",
+            "consumers"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, so it's very interesting because Russian diamonds are a hotly debated topic within the industry and most US consumers do not even know that a lot of diamonds are mined in Russia or natural diamonds come from Russia.",
+            "We're still really consumed with the idea of the blood diamond coming from Africa, that there are like child laborers or people dying because  of natural diamonds.",
+            "So I don't think it's something that is really brought up or even knowledgeable to the US consumer that a lot of diamonds come from Russia."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hotly debated topic within",
+            "like child laborers",
+            "blood diamond coming",
+            "still really consumed",
+            "natural diamonds come",
+            "really brought",
+            "natural diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "russia",
+            "lot",
+            "us",
+            "come",
+            "even",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "But once they find out that they do, is there a preference for avoiding them?",
+            "I think that, you know, once origin comes into play and, you know, clients will be able to pick and choose their diamond based on country of origin.",
+            "Of course, I think, you know, they want a diamond that is ethically sourced, that comes from an area without conflict, a diamond that gives back  directly to the community."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "gives back directly",
+            "area without conflict",
+            "ethically sourced",
+            "diamond based",
+            "origin comes",
+            "origin",
+            "comes"
+        ],
+        "trends": [
+            "know",
+            "diamond",
+            "origin",
+            "think",
+            "comes",
+            "want",
+            "area"
+        ]
+    },
+    {
+        "sentence": [
+            "So at any point in time, I think that will obviously be the consumers preference of choice to feel good about the purchase that they're making.",
+            "Right.",
+            "What are your predictions for whether consumers going to go next?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whether consumers going",
+            "consumers preference",
+            "go next",
+            "feel good",
+            "time",
+            "think",
+            "right"
+        ],
+        "trends": [
+            "time",
+            "think",
+            "purchase",
+            "preference",
+            "consumers",
+            "whether",
+            "predictions"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, the trends consumer, is there anything we should look out for in 2024 in terms of the way that the industry interacts with consumers online and on social media?",
+            "I think 2024 is going to be one of the most crucial years to determine the future of the diamond industry.",
+            "because the natural diamond industry has been too disconnected with the end consumer, has been sitting on its hands hoping that problems will just disappear on their own without doing anything actionable."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "natural diamond industry",
+            "diamond industry",
+            "industry interacts",
+            "trends consumer",
+            "social media",
+            "hands hoping",
+            "end consumer"
+        ],
+        "trends": [
+            "anything",
+            "industry",
+            "diamond",
+            "consumer",
+            "years",
+            "think",
+            "crucial"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think that they've let this lab-grown narrative take over, misinformation spread, and they may lose an entire generation of consumers to lab-grown.",
+            "And it is crucial time to start getting off our butts, doing the work, educating people, talking about the good natural diamonds do, where do they come from,  not being scared about talking about mining and, you know, showing holes in the ground because there's so many amazing things that natural diamonds and that industry do for not only people, but the environment.",
+            "And it's something that is just not being spoken about."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many amazing things",
+            "grown narrative take",
+            "good natural diamonds",
+            "natural diamonds",
+            "start getting",
+            "showing holes",
+            "misinformation spread"
+        ],
+        "trends": [
+            "people",
+            "talking",
+            "diamonds",
+            "natural",
+            "lose",
+            "spread",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "So we need to talk about it.",
+            "We need to educate people on the value, the good that they do and the difference between natural and lab grown and really not stay silent anymore because it is a crucial, crucial time for the future of the next generation of consumers.",
+            "Do you think what the beers and the Natural Diamond Council are currently doing is sufficient?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stay silent anymore",
+            "natural diamond council",
+            "next generation",
+            "lab grown",
+            "educate people",
+            "crucial time",
+            "natural"
+        ],
+        "trends": [
+            "crucial",
+            "value",
+            "generation",
+            "consumers",
+            "natural",
+            "think",
+            "sufficient"
+        ]
+    },
+    {
+        "sentence": [
+            "Does there need to be more than that?",
+            "and really show the difference between the two and the real true value of it.",
+            "There needs to be major, major consumer campaigns done around this."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "major consumer campaigns done around",
+            "real true value",
+            "really show",
+            "major",
+            "two",
+            "needs",
+            "need"
+        ],
+        "trends": [
+            "major",
+            "needs",
+            "done",
+            "consumer",
+            "value",
+            "two",
+            "true"
+        ]
+    },
+    {
+        "sentence": [
+            "And also I think that, you know, a lot of it is industry driven, that there's a lot of greed and a lot of short-sightedness within the industry to do a money grab.",
+            "And consumers need to be empowered, understanding how they're spending their money, where the long-term value is, and how I don't think they know that most lab-grown diamonds are mass produced in China.",
+            "What are the working conditions?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "working conditions",
+            "term value",
+            "sightedness within",
+            "mass produced",
+            "grown diamonds",
+            "consumers need",
+            "money grab"
+        ],
+        "trends": [
+            "lot",
+            "know",
+            "think",
+            "money",
+            "industry",
+            "empowered",
+            "understanding"
+        ]
+    },
+    {
+        "sentence": [
+            "What are the environmental impacts there?",
+            "These are things we need to talk about if we are not doing enough I personally have left millions of dollars on the table the past couple years not selling lab-grown being so hardcore because again going back to my idea being this Generations jeweler for life.",
+            "I don't want someone coming back to me in two three years saying hey You sold me this diamond for fifteen thousand dollars and now it's worth zero."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two three years saying hey",
+            "want someone coming back",
+            "past couple years",
+            "fifteen thousand dollars",
+            "going back",
+            "worth zero",
+            "selling lab"
+        ],
+        "trends": [
+            "back",
+            "dollars",
+            "years",
+            "someone",
+            "coming",
+            "diamond",
+            "fifteen"
+        ]
+    },
+    {
+        "sentence": [
+            "Why did you do that?",
+            "That's something that I cannot sleep with myself at night doing but a lot of people Don't really mind that and that's something that we need to edge  educate the consumer on and you know, we are, you know, we're small, but we're allowed, but we need big people like to beers or the NDC or those big diamond producing countries working with us to tell that story.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "big diamond producing countries working",
+            "need big people like",
+            "really mind",
+            "edge educate",
+            "cannot sleep",
+            "people",
+            "need"
+        ],
+        "trends": [
+            "big",
+            "something",
+            "people",
+            "need",
+            "know",
+            "working",
+            "beers"
+        ]
+    },
+    {
+        "sentence": [
+            "Um, I guess a lot of this comes down to funding and to getting the core of the industry to give more money, I guess it's been difficult getting.",
+            "Well, it may not even be more money.",
+            "It's more better strategy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "better strategy",
+            "difficult getting",
+            "getting",
+            "well",
+            "um",
+            "money",
+            "money"
+        ],
+        "trends": [
+            "guess",
+            "getting",
+            "um",
+            "lot",
+            "industry",
+            "give",
+            "funding"
+        ]
+    },
+    {
+        "sentence": [
+            "We don't spend any money in our marketing.",
+            "So it's all about the strategy of how you market and the messages that you.",
+            "put out and who you're targeting."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "targeting",
+            "strategy",
+            "spend",
+            "put",
+            "money",
+            "messages",
+            "marketing"
+        ],
+        "trends": [
+            "spend",
+            "money",
+            "marketing",
+            "strategy",
+            "messages",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you is your business entirely focused on the US or do you?",
+            "We're mainly focused on the US but we do have an international market.",
+            "Our biggest markets outside of the US are Canada, UK, Australia, and then a bit in Europe and Asia as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "biggest markets outside",
+            "business entirely focused",
+            "mainly focused",
+            "international market",
+            "well",
+            "us",
+            "us"
+        ],
+        "trends": [
+            "us",
+            "canada",
+            "australia",
+            "biggest",
+            "focused",
+            "market",
+            "mainly"
+        ]
+    },
+    {
+        "sentence": [
+            "Okay.",
+            "Do you think the challenge from that growing is as strong in the countries that you've mentioned outside the US or at least outside the US and Canada?",
+            "US is definitely the strongest lab grown market because of our consumer culture."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "strongest lab grown market",
+            "mentioned outside",
+            "least outside",
+            "consumer culture",
+            "us",
+            "us",
+            "us"
+        ],
+        "trends": [
+            "us",
+            "outside",
+            "least",
+            "think",
+            "market",
+            "consumer",
+            "culture"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's seeping in  to parts of our other markets like the UK a little bit, Canada, Australia a bit as well.",
+            "Europe and Asia are probably going to take a little bit longer.",
+            "I think they care a little bit more about like quality and value over like size and flash, but it's only a matter of time where they'll start adapting it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little bit longer",
+            "little bit",
+            "little bit",
+            "start adapting",
+            "probably going",
+            "markets like",
+            "like size"
+        ],
+        "trends": [
+            "bit",
+            "like",
+            "little",
+            "think",
+            "longer",
+            "asia",
+            "take"
+        ]
+    },
+    {
+        "sentence": [
+            "If they don't do something.",
+            "From experience, what happens in the US often ends up happening in China 10 years later.",
+            "The thing about lab grown diamonds is once one  person gets proposed to with a lab-grown diamond, they become an ambassador for lab-grown diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "one person gets proposed",
+            "china 10 years later",
+            "us often ends",
+            "lab grown diamonds",
+            "grown diamonds",
+            "grown diamond",
+            "lab"
+        ],
+        "trends": [
+            "diamonds",
+            "lab",
+            "years",
+            "later",
+            "china",
+            "ends",
+            "experience"
+        ]
+    },
+    {
+        "sentence": [
+            "They don't want to be the only person in their friend group with a fake diamond.",
+            "So they are going to become the number one advocate for, hey, you need to get a lab-grown diamond, you need to get a lab-grown diamond.",
+            "And it becomes like a network effect."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "number one advocate",
+            "network effect",
+            "grown diamond",
+            "grown diamond",
+            "friend group",
+            "fake diamond",
+            "becomes like"
+        ],
+        "trends": [
+            "diamond",
+            "get",
+            "need",
+            "like",
+            "going",
+            "hey",
+            "become"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's something that we need to put a stop to because that's what's happening.",
+            "Our clients are saying, hey, every single one of my friends has a lab-grown diamond and they're putting so much pressure on me to get a lab-grown, but I still want a natural.",
+            "what do I do?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "every single one",
+            "still want",
+            "much pressure",
+            "grown diamond",
+            "grown",
+            "stop",
+            "something"
+        ],
+        "trends": [
+            "much",
+            "diamond",
+            "every",
+            "friends",
+            "get",
+            "want",
+            "one"
+        ]
+    },
+    {
+        "sentence": [
+            "Because you don't want to be the only person that doesn't have the natural.",
+            "You want everyone else to have the lab with you so you can feel good about it.",
+            "So it's about stopping that before it gets out of control."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "want everyone else",
+            "feel good",
+            "want",
+            "stopping",
+            "person",
+            "natural",
+            "lab"
+        ],
+        "trends": [
+            "want",
+            "person",
+            "lab",
+            "good",
+            "feel",
+            "everyone",
+            "stopping"
+        ]
+    },
+    {
+        "sentence": [
+            "Olivia, thank you very much.",
+            "You've given us a lot of very interesting insights into the clear cut, into your views on the industry, particularly your views on natural and lab grown diamonds.",
+            "I've found this very enjoyable and it's raised a lot of questions and taught me a lot."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown diamonds",
+            "interesting insights",
+            "given us",
+            "clear cut",
+            "views",
+            "views",
+            "thank"
+        ],
+        "trends": [
+            "lot",
+            "views",
+            "lab",
+            "taught",
+            "raised",
+            "questions",
+            "enjoyable"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're really thankful that you've joined us on the RuggerPort Diamond podcast and thank you for joining us.",
+            "Thank you so much for having me.",
+            "It's a lot of fun."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ruggerport diamond podcast",
+            "really thankful",
+            "joining us",
+            "joined us",
+            "thank",
+            "thank",
+            "much"
+        ],
+        "trends": [
+            "us",
+            "thankful",
+            "thank",
+            "ruggerport",
+            "really",
+            "podcast",
+            "joining"
+        ]
+    },
+    {
+        "sentence": [
+            "Bye, Koiz.",
+            "Thank you for listening to this episode of the Rappaport Diamond podcast.",
+            "For more discussions, news and analysis about the diamond industry, visit us at Rappaport.com."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "diamond industry",
+            "visit us",
+            "rappaport",
+            "thank",
+            "news",
+            "listening"
+        ],
+        "trends": [
+            "diamond",
+            "thank",
+            "rappaport",
+            "podcast",
+            "visit",
+            "us",
+            "news"
+        ]
+    },
+    {
+        "sentence": [
+            "Follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "twitter",
+            "subscribe",
+            "linkedin",
+            "instagram"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "subscribe",
+            "get",
+            "future",
+            "twitter",
+            "linkedin"
+        ]
+    }
+]

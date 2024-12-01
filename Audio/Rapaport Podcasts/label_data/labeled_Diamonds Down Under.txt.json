@@ -1,0 +1,2738 @@
+[
+    {
+        "sentence": [
+            " This podcast is brought to you by GIA, the Gemological Institute of America, protecting consumers and supporting the global gem and jewelry trade since 1931 through research, education and laboratory services.",
+            "and today's episode is about the Australian jewelry market.",
+            "Craig Miller, CEO of Australian Diamond Wholesaler and distributor JC Jewels, joined us to lift the lid on diamonds down under."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry trade since 1931",
+            "australian jewelry market",
+            "distributor jc jewels",
+            "australian diamond wholesaler",
+            "protecting consumers",
+            "laboratory services",
+            "joined us"
+        ],
+        "trends": [
+            "jewelry",
+            "australian",
+            "laboratory",
+            "brought",
+            "consumers",
+            "education",
+            "gem"
+        ]
+    },
+    {
+        "sentence": [
+            "He explained to me what diamonds are in demand in Australia, how companies source their goods, and the success of lab-grown in the country.",
+            "He also reflects on his time with the Young Diamondaires organization.",
+            "Enjoy the episode."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamondaires organization",
+            "companies source",
+            "also reflects",
+            "time",
+            "success",
+            "lab",
+            "grown"
+        ],
+        "trends": [
+            "young",
+            "success",
+            "source",
+            "goods",
+            "explained",
+            "time",
+            "reflects"
+        ]
+    },
+    {
+        "sentence": [
+            "years through the young diamond tears.",
+            "And the background to this is that we were kind of thinking we write a lot about the US market, we write a lot about the Indian market, the Chinese market, but there's more to the world of diamonds and jewelry than those markets.",
+            "So we thought we'd do a podcast episode on Australia."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "young diamond tears",
+            "us market",
+            "podcast episode",
+            "indian market",
+            "chinese market",
+            "years",
+            "write"
+        ],
+        "trends": [
+            "market",
+            "write",
+            "lot",
+            "thinking",
+            "tears",
+            "diamond",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "So Craig, you are really the first person that came to mind to speak about Australia.",
+            "So I'm really grateful that you're on this podcast with us.",
+            "And as far as I understand, you entered the diamond industry through a family business."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first person",
+            "family business",
+            "diamond industry",
+            "really grateful",
+            "really",
+            "us",
+            "understand"
+        ],
+        "trends": [
+            "grateful",
+            "podcast",
+            "really",
+            "diamond",
+            "business",
+            "industry",
+            "understand"
+        ]
+    },
+    {
+        "sentence": [
+            "Can you tell me a little bit about your background, how you got into diamonds?",
+            "Josh, thanks for having me on your podcast.",
+            "It's an honor."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit",
+            "thanks",
+            "tell",
+            "podcast",
+            "josh",
+            "honor",
+            "got"
+        ],
+        "trends": [
+            "thanks",
+            "podcast",
+            "josh",
+            "tell",
+            "little",
+            "got",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "to have this.",
+            "The last time we were together was with the young diamond tears when we went to the Venetian mine in Africa.",
+            "And I'm a second generation diamond tear."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "second generation diamond tear",
+            "young diamond tears",
+            "venetian mine",
+            "last time",
+            "went",
+            "together",
+            "africa"
+        ],
+        "trends": [
+            "diamond",
+            "young",
+            "went",
+            "venetian",
+            "together",
+            "time",
+            "tears"
+        ]
+    },
+    {
+        "sentence": [
+            "I come from South Africa.",
+            "Originally, as well as born, my father was a DTC site holder.",
+            "I had the privilege of polishing on the bench, moving through all the levels of the supply chain."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "dtc site holder",
+            "supply chain",
+            "south africa",
+            "well",
+            "privilege",
+            "polishing",
+            "originally"
+        ],
+        "trends": [
+            "africa",
+            "south",
+            "come",
+            "moving",
+            "bench",
+            "chain",
+            "supply"
+        ]
+    },
+    {
+        "sentence": [
+            "And in 1999, we came to live in Australia, where we set up  wholesale diamond business, supplying jewelers across all of Australia and New Zealand.",
+            "The move was a good part of my journey because I arrived in Australia and I needed to build a network and I did a lot of traveling.",
+            "I don't think there's a corner of this country I haven't touched and it's a beautiful country and I'm grateful to be here."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wholesale diamond business",
+            "supplying jewelers across",
+            "new zealand",
+            "good part",
+            "beautiful country",
+            "country",
+            "traveling"
+        ],
+        "trends": [
+            "australia",
+            "country",
+            "grateful",
+            "touched",
+            "think",
+            "corner",
+            "beautiful"
+        ]
+    },
+    {
+        "sentence": [
+            "But it's a very different country from coming from South Africa where you have mining, where you have manufacturing.",
+            "When I was in South Africa, it hadn't yet moved to Botswana.",
+            "All of the production  and there was a boiling industry there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yet moved",
+            "south africa",
+            "south africa",
+            "different country",
+            "boiling industry",
+            "production",
+            "mining"
+        ],
+        "trends": [
+            "south",
+            "africa",
+            "production",
+            "industry",
+            "boiling",
+            "mining",
+            "manufacturing"
+        ]
+    },
+    {
+        "sentence": [
+            "Australia is very different.",
+            "The land was blessed with the beautiful pink, argile diamonds, the Elendale yellows.",
+            "It's a different environment, but there is no manufacturing here and it's somewhat different."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "elendale yellows",
+            "beautiful pink",
+            "argile diamonds",
+            "somewhat different",
+            "different environment",
+            "different",
+            "manufacturing"
+        ],
+        "trends": [
+            "different",
+            "somewhat",
+            "manufacturing",
+            "yellows",
+            "pink",
+            "land",
+            "elendale"
+        ]
+    },
+    {
+        "sentence": [
+            "What I'll share with you is my journey from the last 25 years and where it's brought me to in the present.",
+            "I think we're all seeing how this industry is changing and it's changing at such a fast pace around us.",
+            "If we look back at the last five years, nothing in this industry feels the same as what it was."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fast pace around us",
+            "last five years",
+            "last 25 years",
+            "look back",
+            "industry feels",
+            "industry",
+            "think"
+        ],
+        "trends": [
+            "years",
+            "last",
+            "industry",
+            "changing",
+            "feels",
+            "back",
+            "nothing"
+        ]
+    },
+    {
+        "sentence": [
+            "was as a diamond wholesaler in Australia and a pure middleman, essentially, I could see that like many changes, the middleman is suffering.",
+            "And if he doesn't make change, his future may not be sustainable.",
+            "We are in a small country with a very small population."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "like many changes",
+            "small population",
+            "small country",
+            "make change",
+            "future may",
+            "diamond wholesaler",
+            "could see"
+        ],
+        "trends": [
+            "small",
+            "middleman",
+            "changes",
+            "could",
+            "population",
+            "country",
+            "wholesaler"
+        ]
+    },
+    {
+        "sentence": [
+            "Texas, the one state in the U.S. has more people than the whole of Australia put together.",
+            "And I'd come to work every day and, you know, we warehousing millions of dollars  of stock, we're giving memos, some long-term, some short-term, we're giving credits and extended credit.",
+            "And by the time you've finished living in a country like Australia, where the cost of living is high, et cetera, et cetera, I didn't see this business as being a sustainable model."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "work every day",
+            "country like australia",
+            "australia put together",
+            "warehousing millions",
+            "sustainable model",
+            "one state",
+            "giving memos"
+        ],
+        "trends": [
+            "cetera",
+            "et",
+            "living",
+            "giving",
+            "come",
+            "credit",
+            "australia"
+        ]
+    },
+    {
+        "sentence": [
+            "And I wanted to stay in the industry.",
+            "I didn't want to exit it, but I didn't want to stay in the industry where I'm not going to make money.",
+            "I looked around at my competition in Australia and most of the business owners in my space were North  of 60 years old."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "60 years old",
+            "make money",
+            "looked around",
+            "business owners",
+            "wanted",
+            "want",
+            "want"
+        ],
+        "trends": [
+            "industry",
+            "stay",
+            "want",
+            "australia",
+            "business",
+            "make",
+            "exit"
+        ]
+    },
+    {
+        "sentence": [
+            "I saw lab-grown as an opportunity.",
+            "As mentioned, I've spent my whole life working with natural diamonds.",
+            "I started looking into lab-grown."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole life working",
+            "started looking",
+            "natural diamonds",
+            "saw lab",
+            "lab",
+            "spent",
+            "opportunity"
+        ],
+        "trends": [
+            "working",
+            "whole",
+            "spent",
+            "natural",
+            "mentioned",
+            "life",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "I remember showing my father a lab-grown diamond and he was disgusted at me.",
+            "He literally told me to take it home before I eat dinner.",
+            "And that reaction is pretty normal and I expected that and I thanked him for it."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "remember showing",
+            "pretty normal",
+            "literally told",
+            "grown diamond",
+            "eat dinner",
+            "thanked",
+            "take"
+        ],
+        "trends": [
+            "thanked",
+            "reaction",
+            "pretty",
+            "normal",
+            "showing",
+            "remember",
+            "father"
+        ]
+    },
+    {
+        "sentence": [
+            "And he asked me why I was thanking him.",
+            "And I said, because if all my competitors are close to your age,  I've got a two year start with a disruptor.",
+            "And with that, I had a vision of what I could do in my market in Australia, where I could grow my diamond business, look after my clients, which is hundreds of retailers across Australia and New Zealand, and give them a point of difference to elevate their game."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two year start",
+            "retailers across australia",
+            "new zealand",
+            "diamond business",
+            "could grow",
+            "australia",
+            "could"
+        ],
+        "trends": [
+            "australia",
+            "could",
+            "zealand",
+            "age",
+            "two",
+            "start",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "And technology is something that's done that in all our lives.",
+            "It's, you know, everything that's changed around us, a lot of it's been as a result of technology.",
+            "So I engaged strategic partners,  One of which is Stephen, who is a millennial tech guy, is responsible for our technology that has literally been instrumental in changing the way jewelers buy their diamonds in our country."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "way jewelers buy",
+            "millennial tech guy",
+            "engaged strategic partners",
+            "changed around us",
+            "technology",
+            "technology",
+            "technology"
+        ],
+        "trends": [
+            "technology",
+            "around",
+            "result",
+            "know",
+            "us",
+            "lot",
+            "everything"
+        ]
+    },
+    {
+        "sentence": [
+            "He brought an in-house team to build technology and we built technology essentially to transform us from a traditional diamond merchant to a tech diamond merchant.",
+            "How does that work?",
+            "Essentially what we've done is we've  We've used technology to solve some of our biggest problems, while at the same time, completely value add to our client by working together in this new way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traditional diamond merchant",
+            "tech diamond merchant",
+            "completely value add",
+            "built technology essentially",
+            "used technology",
+            "build technology",
+            "working together"
+        ],
+        "trends": [
+            "technology",
+            "merchant",
+            "diamond",
+            "essentially",
+            "transform",
+            "traditional",
+            "build"
+        ]
+    },
+    {
+        "sentence": [
+            "We took our network and relationships that go back 20, 25 years of independent jewelers that were traditionally calling us, ordering a diamond in on memo, on consignment to show a client, or just to look at to buy for stock, or our traveler would go into their store and show them stock and sell them stock, or they'd want long-term memo.",
+            "We've built a platform where we give them a login.",
+            "They have to prove their jeweler, filling paperwork, they're getting access to our website."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "traveler would go",
+            "traditionally calling us",
+            "go back 20",
+            "want long",
+            "independent jewelers",
+            "getting access",
+            "filling paperwork"
+        ],
+        "trends": [
+            "stock",
+            "memo",
+            "go",
+            "show",
+            "access",
+            "website",
+            "jeweler"
+        ]
+    },
+    {
+        "sentence": [
+            "Once they're in our website, we list over 500,000 natural and lab-grown diamonds.",
+            "We have melee, layouts, shoulder stones, colored gemstones with certificates of origin.",
+            "We have a full jewelry range."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "full jewelry range",
+            "shoulder stones",
+            "grown diamonds",
+            "colored gemstones",
+            "000 natural",
+            "website",
+            "origin"
+        ],
+        "trends": [
+            "range",
+            "jewelry",
+            "stones",
+            "shoulder",
+            "origin",
+            "website",
+            "natural"
+        ]
+    },
+    {
+        "sentence": [
+            "When our clients log into a portal, it's very rare that they can't find a lab or a natural diamond that they  looking for.",
+            "When they find it, they have the ability to SMS the certificate video and image to their clients with their retail price on the SMS.",
+            "It's quite a unique, I think we were first to market with that, but you'd be surprised how many diamonds we sell through such a basic method."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "retail price",
+            "natural diamond",
+            "many diamonds",
+            "certificate video",
+            "basic method",
+            "clients log",
+            "clients"
+        ],
+        "trends": [
+            "clients",
+            "find",
+            "sms",
+            "portal",
+            "looking",
+            "ca",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "Who owns the inventory?",
+            "We've got APR feeds from probably 80% of the reputable growers.",
+            "We've got most of them listed."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "got apr feeds",
+            "reputable growers",
+            "probably 80",
+            "got",
+            "owns",
+            "listed",
+            "inventory"
+        ],
+        "trends": [
+            "reputable",
+            "probably",
+            "growers",
+            "got",
+            "feeds",
+            "apr"
+        ]
+    },
+    {
+        "sentence": [
+            "We've got several site holders listing their goods in our portal.",
+            "and the goods are listed in real time.",
+            "If you order it, you get it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "got several site holders listing",
+            "real time",
+            "portal",
+            "order",
+            "listed",
+            "goods",
+            "goods"
+        ],
+        "trends": [
+            "goods",
+            "time",
+            "real",
+            "listed",
+            "site",
+            "several",
+            "portal"
+        ]
+    },
+    {
+        "sentence": [
+            "How much of your business now is Natura versus Labgroen?",
+            "Josh, I work very hard to maintain.",
+            "I work very hard to maintain."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "natura versus labgroen",
+            "work",
+            "work",
+            "much",
+            "maintain",
+            "maintain",
+            "josh"
+        ],
+        "trends": [
+            "work",
+            "maintain",
+            "hard",
+            "versus",
+            "natura",
+            "much",
+            "labgroen"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, my dream results would be 50-50, but perhaps it's the demographic of our country.",
+            "And at the end of the day, the consumer makes that decision, not me.",
+            "My goal is to take my sales team and make sure that they are going into every one of our clients."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "dream results would",
+            "sales team",
+            "make sure",
+            "every one",
+            "consumer makes",
+            "take",
+            "perhaps"
+        ],
+        "trends": [
+            "would",
+            "country",
+            "results",
+            "perhaps",
+            "mean",
+            "consumer",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "We hold hundreds of hours of Zoom calls every quarter where we are training independent tutors in Australia around the facts of lab-grown and natural and how to present them.",
+            "Our motto is that the consumer is spending their money.",
+            "It's their choice what they want."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "zoom calls every quarter",
+            "training independent tutors",
+            "hold hundreds",
+            "australia around",
+            "want",
+            "spending",
+            "present"
+        ],
+        "trends": [
+            "zoom",
+            "hours",
+            "australia",
+            "calls",
+            "every",
+            "facts",
+            "spending"
+        ]
+    },
+    {
+        "sentence": [
+            "But what is one of my big priorities is that whoever is selling lab or natural side by side is educating that consumer, giving them the facts, the wins, the losses.",
+            "whatever questions they have and then allowing them to make the decision.",
+            "And you asked me the question, it fluctuates what percentage lab versus natural is in my business."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "percentage lab versus natural",
+            "selling lab",
+            "natural side",
+            "whatever questions",
+            "big priorities",
+            "side",
+            "wins"
+        ],
+        "trends": [
+            "natural",
+            "lab",
+            "side",
+            "make",
+            "decision",
+            "questions",
+            "allowing"
+        ]
+    },
+    {
+        "sentence": [
+            "But again, I don't make the choice, but at the same time, we go to length to educate on how to sell them side by side by giving the facts and the education.",
+            "Right.",
+            "So it sounds like Lab Grown has taken off in Australia rather like in the US."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sounds like lab grown",
+            "australia rather like",
+            "us",
+            "time",
+            "taken",
+            "side",
+            "side"
+        ],
+        "trends": [
+            "side",
+            "like",
+            "sell",
+            "make",
+            "us",
+            "rather",
+            "grown"
+        ]
+    },
+    {
+        "sentence": [
+            "Yes.",
+            "What I've seen, I was a first mover literally for the first year as a dealer, no one else in Australia was offering Lab Grown, maybe one  one other company and then slowly it started building up.",
+            "I'd say from about 12 to 18 months ago, I would say that every dealer in Australia sells lab and natural."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "offering lab grown",
+            "18 months ago",
+            "first mover literally",
+            "maybe one one",
+            "australia sells lab",
+            "one else",
+            "first year"
+        ],
+        "trends": [
+            "one",
+            "say",
+            "first",
+            "lab",
+            "australia",
+            "dealer",
+            "ago"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not aware if there's even one or two that don't do lab grown.",
+            "What I can say is America took off with lab grown, the UK took off with lab grown and Australia has definitely entered that space in a big way.",
+            "Only recently New Zealand starting  come on board."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "recently new zealand starting come",
+            "uk took",
+            "lab grown",
+            "lab grown",
+            "lab grown",
+            "even one",
+            "definitely entered"
+        ],
+        "trends": [
+            "grown",
+            "lab",
+            "took",
+            "zealand",
+            "board",
+            "come",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "We're seeing a lot of growth in the lab-grown space in New Zealand.",
+            "As I said, my focus is to educate our clients, educate their customer, let their customer make the choice.",
+            "It's their money."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new zealand",
+            "grown space",
+            "customer make",
+            "customer",
+            "seeing",
+            "said",
+            "money"
+        ],
+        "trends": [
+            "educate",
+            "customer",
+            "zealand",
+            "space",
+            "said",
+            "make",
+            "let"
+        ]
+    },
+    {
+        "sentence": [
+            "It's their gift that they're buying.",
+            "And I just think transparency and education is the most important part.",
+            "But certainly Australian markets, we're seeing substantial, I mean, Josh is growing fast in that space."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "certainly australian markets",
+            "think transparency",
+            "seeing substantial",
+            "important part",
+            "growing fast",
+            "space",
+            "mean"
+        ],
+        "trends": [
+            "substantial",
+            "space",
+            "seeing",
+            "mean",
+            "markets",
+            "transparency",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Would you say that that's because of a high cost of living in Australia and a general more high  sensitivity to price point or is there anything else?",
+            "Yes, I would say it's the value proposition that Labground brings for the consumer.",
+            "The consumer in Australia is not as hungry for diamond jewelry as they are for travel in many cases."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "value proposition",
+            "price point",
+            "many cases",
+            "labground brings",
+            "high sensitivity",
+            "high cost",
+            "diamond jewelry"
+        ],
+        "trends": [
+            "would",
+            "say",
+            "high",
+            "consumer",
+            "australia",
+            "cost",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, Michael Hill does very well.",
+            "Michael Hill is a good example.",
+            "Prouds, Angus & Coot, all the chain stores."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "michael hill",
+            "michael hill",
+            "good example",
+            "chain stores",
+            "well",
+            "prouds",
+            "mean"
+        ],
+        "trends": [
+            "michael",
+            "hill",
+            "stores",
+            "prouds",
+            "coot",
+            "chain",
+            "good"
+        ]
+    },
+    {
+        "sentence": [
+            "I'll give you an example.",
+            "Josh, when I used to walk to the shopping center, it doesn't matter which chain store I walked through, walked past.",
+            "You look through the window, you were seeing JKPK goods."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "seeing jkpk goods",
+            "shopping center",
+            "chain store",
+            "walked past",
+            "walked",
+            "window",
+            "walk"
+        ],
+        "trends": [
+            "walked",
+            "walk",
+            "used",
+            "store",
+            "shopping",
+            "past",
+            "window"
+        ]
+    },
+    {
+        "sentence": [
+            "the window.",
+            "They were trying to reach like any chain store, target price points, 5,000, 7,000, 10,000, et cetera.",
+            "And fast forward two years, I walked past the same stores now and everything is white."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "fast forward two years",
+            "target price points",
+            "walked past",
+            "reach like",
+            "et cetera",
+            "chain store",
+            "window"
+        ],
+        "trends": [
+            "like",
+            "years",
+            "walked",
+            "two",
+            "stores",
+            "everything",
+            "fast"
+        ]
+    },
+    {
+        "sentence": [
+            "Everything's clean goods.",
+            "Everything's ideal make.",
+            "It's black and white that those windows are now loaded up with lab grown and it's moving."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "lab grown",
+            "ideal make",
+            "clean goods",
+            "windows",
+            "white",
+            "moving",
+            "loaded"
+        ],
+        "trends": [
+            "everything",
+            "make",
+            "ideal",
+            "windows",
+            "white",
+            "moving",
+            "loaded"
+        ]
+    },
+    {
+        "sentence": [
+            "The value proposition, I think for the retailer is very good.",
+            "I think it comes with pros and cons and the value proposition for the consumer  I'm seeing that because I'll give an example.",
+            "When I launched Lab Grown, as you can imagine, there was no one doing it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "launched lab grown",
+            "value proposition",
+            "value proposition",
+            "think",
+            "think",
+            "seeing",
+            "retailer"
+        ],
+        "trends": [
+            "think",
+            "value",
+            "proposition",
+            "lab",
+            "one",
+            "grown",
+            "imagine"
+        ]
+    },
+    {
+        "sentence": [
+            "I never pushed anyone into it.",
+            "I educated and asked them to present to their clients, both, which they did.",
+            "I tracked 30 stores."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tracked 30 stores",
+            "never pushed anyone",
+            "present",
+            "educated",
+            "clients",
+            "asked"
+        ],
+        "trends": [
+            "pushed",
+            "never",
+            "anyone",
+            "present",
+            "educated",
+            "clients",
+            "asked"
+        ]
+    },
+    {
+        "sentence": [
+            "I strategically chose 30 stores and told them that I'm going to ask them questions each month that they're comfortable with it.",
+            "And I'd never divulge who they are.",
+            "But I chose stores that were Melbourne, Brisbane, Adelaide, Perth, South Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia, Australia,  Australia, all our states, I chose stores that were Metro and regional."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "strategically chose 30 stores",
+            "chose stores",
+            "chose stores",
+            "never divulge",
+            "south australia",
+            "australia",
+            "australia"
+        ],
+        "trends": [
+            "australia",
+            "stores",
+            "chose",
+            "brisbane",
+            "told",
+            "going",
+            "ask"
+        ]
+    },
+    {
+        "sentence": [
+            "And I chose stores that were the best middle to high end engagement ring store in their suburb or area.",
+            "Most of which would have had a bench, jeweler, and can do custom mates in-house.",
+            "I've stopped checking them when the seven out of 10 engagement rings that went out the door were lab-grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "high end engagement ring store",
+            "10 engagement rings",
+            "stopped checking",
+            "custom mates",
+            "chose stores",
+            "best middle",
+            "would"
+        ],
+        "trends": [
+            "engagement",
+            "seven",
+            "went",
+            "would",
+            "bench",
+            "custom",
+            "rings"
+        ]
+    },
+    {
+        "sentence": [
+            "You know, essentially it comes with pros and cons and I can see why it suited a lot of  these independent jewelers.",
+            "Firstly, the way we've onboarded our technology, the way the jewelers buy from us, we've helped them because they can buy diamonds in real time, hold a substantial footprint in wholesaling of lab-grown diamonds.",
+            "And from the minute we launched lab-grown on our portal, every salesperson in my business was instructed that they are not to sell a jeweler more than one or two diamonds to hold an inventory."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two diamonds",
+            "substantial footprint",
+            "real time",
+            "jewelers buy",
+            "independent jewelers",
+            "every salesperson",
+            "buy diamonds"
+        ],
+        "trends": [
+            "diamonds",
+            "way",
+            "buy",
+            "jewelers",
+            "hold",
+            "firstly",
+            "onboarded"
+        ]
+    },
+    {
+        "sentence": [
+            "They are not to fill the front window and load  them up with stock because we all knew the prices would have to come down.",
+            "It's a new product entering a market.",
+            "It's got to reach a cost plus environment."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new product entering",
+            "cost plus environment",
+            "prices would",
+            "front window",
+            "stock",
+            "reach",
+            "market"
+        ],
+        "trends": [
+            "would",
+            "plus",
+            "fill",
+            "front",
+            "knew",
+            "load",
+            "product"
+        ]
+    },
+    {
+        "sentence": [
+            "It's going to take time.",
+            "And during that time, I don't want to get caught out with stock and nor do I want my clients to, which is one of the reasons why we built our technology.",
+            "So sales team were not allowed to sell stock to clients unless it was just one or two pieces."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two pieces",
+            "sales team",
+            "get caught",
+            "take time",
+            "sell stock",
+            "clients unless",
+            "time"
+        ],
+        "trends": [
+            "one",
+            "stock",
+            "clients",
+            "time",
+            "want",
+            "sales",
+            "unless"
+        ]
+    },
+    {
+        "sentence": [
+            "And as a result, I can confidently say that 90% of our certified lab-grown diamonds  sales were going into engagement rings that were ordered on demand and going into a ring and out the door.",
+            "So I can speak for my few hundreds of clients that they continually thank me because they didn't lose money on the prices coming down.",
+            "But at the same time, they were making very healthy margins as these prices were coming down."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "grown diamonds sales",
+            "lose money",
+            "healthy margins",
+            "engagement rings",
+            "continually thank",
+            "confidently say",
+            "certified lab"
+        ],
+        "trends": [
+            "coming",
+            "prices",
+            "going",
+            "clients",
+            "continually",
+            "hundreds",
+            "thank"
+        ]
+    },
+    {
+        "sentence": [
+            "And at the same time, they were buying on demand, which meant the cash flow was very healthy.",
+            "So the whole perfect storm had come together, which is why I can see the lab grown, part of my business has grown.",
+            "so much."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole perfect storm",
+            "come together",
+            "cash flow",
+            "lab grown",
+            "grown",
+            "time",
+            "see"
+        ],
+        "trends": [
+            "grown",
+            "whole",
+            "come",
+            "lab",
+            "healthy",
+            "time",
+            "buying"
+        ]
+    },
+    {
+        "sentence": [
+            "to succeed.",
+            "How do you see that going in Australia?",
+            "Josh, this is a very hot topic of discussion between myself and my sales team on a daily basis."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sales team",
+            "hot topic",
+            "daily basis",
+            "succeed",
+            "see",
+            "josh",
+            "going"
+        ],
+        "trends": [
+            "see",
+            "going",
+            "topic",
+            "team",
+            "sales",
+            "josh",
+            "hot"
+        ]
+    },
+    {
+        "sentence": [
+            "Very important catalyst to what could bring a lot further change within our industry.",
+            "You're right.",
+            "They've ridden a wonderful ride and they've had great rewards from that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wonderful ride",
+            "important catalyst",
+            "great rewards",
+            "could bring",
+            "change within",
+            "right",
+            "ridden"
+        ],
+        "trends": [
+            "wonderful",
+            "ride",
+            "within",
+            "lot",
+            "industry",
+            "important",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "I am hearing what you just mentioned about the US and I'm also trying to see that in real time because when I look at the online sellers,  and earth, et cetera.",
+            "They are holding healthy margins there, Josh, the independence.",
+            "You're right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "holding healthy margins",
+            "real time",
+            "online sellers",
+            "et cetera",
+            "also trying",
+            "us",
+            "see"
+        ],
+        "trends": [
+            "us",
+            "cetera",
+            "earth",
+            "et",
+            "hearing",
+            "josh",
+            "healthy"
+        ]
+    },
+    {
+        "sentence": [
+            "We're seeing that drop.",
+            "It's a big concern of mine.",
+            "We continually talking to our clients and encouraging them not to get into a price war."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "price war",
+            "continually talking",
+            "big concern",
+            "seeing",
+            "mine",
+            "get",
+            "encouraging"
+        ],
+        "trends": [
+            "mine",
+            "concern",
+            "big",
+            "war",
+            "talking",
+            "price",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "It has not happened yet in Australia.",
+            "I'm monitoring our market on a daily basis because I'm looking out for it.",
+            "We have a small handful of upstairs online retailers."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "upstairs online retailers",
+            "small handful",
+            "happened yet",
+            "daily basis",
+            "monitoring",
+            "market",
+            "looking"
+        ],
+        "trends": [
+            "yet",
+            "happened",
+            "australia",
+            "upstairs",
+            "small",
+            "monitoring",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "That's by appointment only that are doing heavy discounting.",
+            "not a sustainable model.",
+            "And at this point, the independent jewelers have not followed suit."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sustainable model",
+            "independent jewelers",
+            "heavy discounting",
+            "followed suit",
+            "point",
+            "appointment"
+        ],
+        "trends": [
+            "heavy",
+            "discounting",
+            "appointment",
+            "suit",
+            "point",
+            "jewelers",
+            "independent"
+        ]
+    },
+    {
+        "sentence": [
+            "And I get phone calls on a daily basis.",
+            "Do you think I should, you know, I'm seeing these prices, it's coming from the same people that are doing it.",
+            "Josh, I think if every jeweler in Australia can hold on to a certain margin, that is healthy, and avoid that discounting, they'll be okay."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get phone calls",
+            "every jeweler",
+            "daily basis",
+            "certain margin",
+            "think",
+            "think",
+            "seeing"
+        ],
+        "trends": [
+            "think",
+            "prices",
+            "people",
+            "know",
+            "coming",
+            "phone",
+            "basis"
+        ]
+    },
+    {
+        "sentence": [
+            "But if the discounting happens, and everyone goes on a race to the bottom on who can sell the same certificate for the lowest price, you must  I understand that during 2023 in itself, I work very closely with a lot of my clients.",
+            "I see their figures.",
+            "I see which departments are moving and which are not."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "lowest price",
+            "everyone goes",
+            "discounting happens",
+            "work",
+            "understand",
+            "sell",
+            "see"
+        ],
+        "trends": [
+            "work",
+            "goes",
+            "certificate",
+            "clients",
+            "closely",
+            "discounting",
+            "everyone"
+        ]
+    },
+    {
+        "sentence": [
+            "And when Labron prices fell and when Labron substituted so many natural diamond sales, their revenue came down substantially.",
+            "I mean, this is simple maths.",
+            "Their wage bills and their expenses didn't change one bit and their bottom line profit was bigger than ever because of the high margins."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many natural diamond sales",
+            "change one bit",
+            "bottom line profit",
+            "labron prices fell",
+            "labron substituted",
+            "wage bills",
+            "simple maths"
+        ],
+        "trends": [
+            "labron",
+            "many",
+            "came",
+            "substituted",
+            "natural",
+            "prices",
+            "revenue"
+        ]
+    },
+    {
+        "sentence": [
+            "And if that changes fast, I don't know if they can adapt quick enough.",
+            "It is a major concern.",
+            "And I have these conversations openly with my clients."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "adapt quick enough",
+            "major concern",
+            "conversations openly",
+            "changes fast",
+            "know",
+            "clients"
+        ],
+        "trends": [
+            "openly",
+            "conversations",
+            "clients",
+            "quick",
+            "know",
+            "fast",
+            "enough"
+        ]
+    },
+    {
+        "sentence": [
+            "So no, at this point, we are not seeing our independent jurors are seeing healthy margins.",
+            "I see the chain stores are working on healthy margins.",
+            "There is one or two rogue traders, but we are hoping that doesn't change."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "two rogue traders",
+            "seeing healthy margins",
+            "healthy margins",
+            "independent jurors",
+            "chain stores",
+            "seeing",
+            "working"
+        ],
+        "trends": [
+            "seeing",
+            "working",
+            "stores",
+            "see",
+            "chain",
+            "margins",
+            "healthy"
+        ]
+    },
+    {
+        "sentence": [
+            "mine to market.",
+            "Through research, education, instrument development and independent gem grading and identification, GIA is dedicated to protecting consumers, ensuring their trust in gems and jewelry and helping the industry thrive.",
+            "Visit gia.edu for more information."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "independent gem grading",
+            "protecting consumers",
+            "instrument development",
+            "industry thrive",
+            "visit gia",
+            "gia",
+            "trust"
+        ],
+        "trends": [
+            "trust",
+            "grading",
+            "dedicated",
+            "development",
+            "education",
+            "ensuring",
+            "gem"
+        ]
+    },
+    {
+        "sentence": [
+            "substantial footprint in the wholesale space.",
+            "My whole life we were selling on certificates and it's commoditized the industry so much.",
+            "And I'll say this, WD Lab Grown Diamonds, I came across them because of the amazing work that they had done with the SES Global Services."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wd lab grown diamonds",
+            "ses global services",
+            "wholesale space",
+            "whole life",
+            "substantial footprint",
+            "came across",
+            "amazing work"
+        ],
+        "trends": [
+            "whole",
+            "certificates",
+            "selling",
+            "commoditized",
+            "much",
+            "life",
+            "footprint"
+        ]
+    },
+    {
+        "sentence": [
+            "The sustainability rates of diamonds and the whole program that they put together was to me an amazing story of what the end product was.",
+            "WD were a hundred percent sustainably rated diamond grown in the USA.",
+            "But one of the fundamental reasons why I came to them is they were growing as grown goods."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hundred percent sustainably rated diamond grown",
+            "grown goods",
+            "whole program",
+            "sustainability rates",
+            "put together",
+            "fundamental reasons",
+            "end product"
+        ],
+        "trends": [
+            "grown",
+            "whole",
+            "program",
+            "diamonds",
+            "usa",
+            "sustainably",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "And for me, I saw that as the premium lab-grown diamond.",
+            "So I engaged them and we then became the authorized distributor for WD lab-grown diamonds for Australia and New Zealand.",
+            "They were not involved in our business."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wd lab",
+            "premium lab",
+            "new zealand",
+            "grown diamonds",
+            "grown diamond",
+            "authorized distributor",
+            "saw"
+        ],
+        "trends": [
+            "saw",
+            "zealand",
+            "wd",
+            "new",
+            "engaged",
+            "distributor",
+            "diamonds"
+        ]
+    },
+    {
+        "sentence": [
+            "We were just distributing.",
+            "And I can't speak for the reasons.",
+            "I think we've all read what we've read and I didn't choose to probe any further."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "think",
+            "speak",
+            "reasons",
+            "read",
+            "read",
+            "probe",
+            "distributing"
+        ],
+        "trends": [
+            "read",
+            "speak",
+            "reasons",
+            "ca",
+            "think",
+            "probe",
+            "choose"
+        ]
+    },
+    {
+        "sentence": [
+            "But at the end of the day, I think that they were growing a premium product and it's very sad to have seen them leave the market.",
+            "that they'll do great things still with the technology and everything else.",
+            "It was a pleasure to work with them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great things still",
+            "premium product",
+            "everything else",
+            "work",
+            "think",
+            "technology",
+            "seen"
+        ],
+        "trends": [
+            "think",
+            "seen",
+            "sad",
+            "product",
+            "things",
+            "technology",
+            "still"
+        ]
+    },
+    {
+        "sentence": [
+            "So I just wanted to zoom out a little bit and look at the Australian market.",
+            "We covered quite a lot of important points about it.",
+            "But I'm interested also in just in general in just whether it's lab grown or natural, what sort of diamonds Australians buy?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamonds australians buy",
+            "little bit",
+            "lab grown",
+            "interested also",
+            "important points",
+            "covered quite",
+            "australian market"
+        ],
+        "trends": [
+            "zoom",
+            "wanted",
+            "australian",
+            "market",
+            "look",
+            "quite",
+            "points"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, you know, it's a typical American diamond, it's a typical Chinese diamond, it's a typical Indian diamond.",
+            "What's a typical Australian diamond?",
+            "Australia in natural goods, for the most part, it's commercial goods."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "typical indian diamond",
+            "typical chinese diamond",
+            "typical australian diamond",
+            "typical american diamond",
+            "natural goods",
+            "commercial goods",
+            "part"
+        ],
+        "trends": [
+            "typical",
+            "diamond",
+            "goods",
+            "part",
+            "natural",
+            "mean",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "Australia is very much like the US.",
+            "A lot of the majors  chain stores to reach their price points were selling a lot of lower color, lower clarity.",
+            "There was a there's a big market in the natural for the JKPK goods, then the independent jewelers, it's pretty much D to H Si goods, the dream I clean Si2."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "majors chain stores",
+            "h si goods",
+            "jkpk goods",
+            "price points",
+            "pretty much",
+            "much like",
+            "lower color"
+        ],
+        "trends": [
+            "lot",
+            "lower",
+            "goods",
+            "independent",
+            "pretty",
+            "big",
+            "natural"
+        ]
+    },
+    {
+        "sentence": [
+            "So the market for independence was mostly D to H Si2.",
+            "And then you have your high end independent jewelers who would be selling the F plus BS plus, but it's very similar to America.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "high end independent jewelers",
+            "f plus bs plus",
+            "h si2",
+            "would",
+            "similar",
+            "selling",
+            "right"
+        ],
+        "trends": [
+            "plus",
+            "would",
+            "similar",
+            "selling",
+            "jewelers",
+            "independent",
+            "high"
+        ]
+    },
+    {
+        "sentence": [
+            "You touched on this before the fact that there were  no or few siteholders so the siteholders come over to Australia to sell.",
+            "Are these mostly Indians or are they supplied in Australia?",
+            "Most of the Indian companies are calling on a daily basis, what's happening, emailing, lists, etc."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mostly indians",
+            "indian companies",
+            "daily basis",
+            "siteholders come",
+            "siteholders",
+            "touched",
+            "supplied"
+        ],
+        "trends": [
+            "australia",
+            "siteholders",
+            "lists",
+            "come",
+            "touched",
+            "sell",
+            "fact"
+        ]
+    },
+    {
+        "sentence": [
+            "to the Australians.",
+            "A lot of Australians attend the Hong Kong show.",
+            "So that's where they're making their first introduction."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "hong kong show",
+            "first introduction",
+            "australians attend",
+            "australians",
+            "making",
+            "lot"
+        ],
+        "trends": [
+            "making",
+            "introduction",
+            "first",
+            "show",
+            "lot",
+            "kong",
+            "hong"
+        ]
+    },
+    {
+        "sentence": [
+            "It's close, it's easy to get there and a lot of Australians are going.",
+            "It's mostly the Indian manufacturers that work closely with Australia.",
+            "And most of the majors, Michael Hill, etc."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "work closely",
+            "michael hill",
+            "indian manufacturers",
+            "mostly",
+            "majors",
+            "lot",
+            "going"
+        ],
+        "trends": [
+            "michael",
+            "majors",
+            "hill",
+            "etc",
+            "lot",
+            "going",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "strategic alliances and partners, you know, supply relationships with the source in India.",
+            "Most of them are traveling to India getting their goods.",
+            "There's one or two site holders that have partner offices here or alliances."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two site holders",
+            "supply relationships",
+            "partner offices",
+            "strategic alliances",
+            "india getting",
+            "india",
+            "alliances"
+        ],
+        "trends": [
+            "india",
+            "getting",
+            "traveling",
+            "goods",
+            "alliances",
+            "supply",
+            "strategic"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm not sure what the structures are.",
+            "And there are a few companies that have now started sending over people that are being here more permanent or opening offices.",
+            "And I think a lot of them arrived here and realized that it's this huge piece of land Australia, but everyone lives around the coastlines."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "everyone lives around",
+            "started sending",
+            "opening offices",
+            "land australia",
+            "huge piece",
+            "think",
+            "sure"
+        ],
+        "trends": [
+            "think",
+            "everyone",
+            "arrived",
+            "sending",
+            "permanent",
+            "people",
+            "opening"
+        ]
+    },
+    {
+        "sentence": [
+            "And to service business in Australia is a  night  They're within a few hours in terms of time zones.",
+            "Israel, Botswana, South Africa are on the same time zone.",
+            "Antwerp is only one hour off that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time zones",
+            "time zone",
+            "south africa",
+            "service business",
+            "one hour",
+            "within",
+            "terms"
+        ],
+        "trends": [
+            "time",
+            "one",
+            "australia",
+            "africa",
+            "south",
+            "botswana",
+            "zone"
+        ]
+    },
+    {
+        "sentence": [
+            "The UK is only two hours off.",
+            "India is only three and a half hours the other way.",
+            "Hong Kong is a bit further with one way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two hours",
+            "hong kong",
+            "half hours",
+            "one way",
+            "way",
+            "uk",
+            "three"
+        ],
+        "trends": [
+            "way",
+            "hours",
+            "three",
+            "india",
+            "one",
+            "kong",
+            "hong"
+        ]
+    },
+    {
+        "sentence": [
+            "New York is a bit further the other way.",
+            "But they're all kind of in communicable time zones.",
+            "Whereas Australia is like, you're a year ahead of us or something like that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "communicable time zones",
+            "year ahead",
+            "whereas australia",
+            "new york",
+            "something like",
+            "like",
+            "way"
+        ],
+        "trends": [
+            "like",
+            "york",
+            "way",
+            "new",
+            "year",
+            "whereas",
+            "zones"
+        ]
+    },
+    {
+        "sentence": [
+            "Does that actually, how hard does that make business?",
+            "I guess that's related to the fact that it takes such a long time to travel there.",
+            "But how does the time zone affect the ease of doing business?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time zone affect",
+            "long time",
+            "make business",
+            "business",
+            "travel",
+            "takes",
+            "related"
+        ],
+        "trends": [
+            "time",
+            "business",
+            "travel",
+            "takes",
+            "make",
+            "hard",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "Well, thank God India comes online at about two o'clock in our afternoon and about one o'clock in winter.",
+            "That makes a really big difference because that's where a lot of it's happening.",
+            "We've got New York for the morning here and India for the afternoon."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thank god india comes online",
+            "really big difference",
+            "got new york",
+            "india",
+            "winter",
+            "well",
+            "two"
+        ],
+        "trends": [
+            "afternoon",
+            "india",
+            "really",
+            "lot",
+            "happening",
+            "difference",
+            "new"
+        ]
+    },
+    {
+        "sentence": [
+            "Josh, that's one of the complexities, I think, for Australia across all industries that has kept us so isolated in many ways, which I think if you live here, it can be a good thing in some ways.",
+            "But Josh, it is challenging and especially  when we travel, everything is very far and very long.",
+            "Right."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "kept us",
+            "good thing",
+            "australia across",
+            "many ways",
+            "ways",
+            "travel",
+            "think"
+        ],
+        "trends": [
+            "ways",
+            "think",
+            "industries",
+            "australia",
+            "complexities",
+            "josh",
+            "travel"
+        ]
+    },
+    {
+        "sentence": [
+            "So there's a few other elements of Australia that maybe are less significant than they used to be, particularly the mining.",
+            "Obviously Australia is famous for the Argyle Mine, which used to be the largest volume producer of rough diamond in the world, but that closed a few years ago.",
+            "And there's a few small projects, but they're not of great significance."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "largest volume producer",
+            "years ago",
+            "small projects",
+            "rough diamond",
+            "less significant",
+            "great significance",
+            "argyle mine"
+        ],
+        "trends": [
+            "used",
+            "australia",
+            "mining",
+            "significant",
+            "particularly",
+            "elements",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "Do you think there's any sort of any hope of a revival of the Australian diamond mining industry?",
+            "I think the Argyle Mine and its beautiful  I think that the Ellendale mine is beautiful yellows is a gift that this land gave us and it would be really nice to find other deposits.",
+            "I think there is exploration in the pipeline that we'll see what comes from that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "australian diamond mining industry",
+            "land gave us",
+            "really nice",
+            "ellendale mine",
+            "argyle mine",
+            "beautiful yellows",
+            "beautiful"
+        ],
+        "trends": [
+            "think",
+            "mine",
+            "beautiful",
+            "industry",
+            "australian",
+            "sort",
+            "revival"
+        ]
+    },
+    {
+        "sentence": [
+            "The Ellendale mine would be nice to see that background line with the beautiful yellows.",
+            "I've been out there and it's waiting to give us the gifts.",
+            "But then there's the Merlin mine in the Northern Territory."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "ellendale mine would",
+            "merlin mine",
+            "northern territory",
+            "give us",
+            "beautiful yellows",
+            "background line",
+            "waiting"
+        ],
+        "trends": [
+            "mine",
+            "territory",
+            "yellows",
+            "would",
+            "waiting",
+            "us",
+            "give"
+        ]
+    },
+    {
+        "sentence": [
+            "Josh, I think it's a very high cost in this country to work a mine relative to some other countries.",
+            "manufacturing or jewellery manufacturing in Australia?",
+            "At one point, from what I understand, and it may still be slightly active, Rio Tinto, when they were working the Argyle mine, a lot of the special tender goods were being manufactured in Western Australia."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "special tender goods",
+            "slightly active",
+            "rio tinto",
+            "one point",
+            "mine relative",
+            "may still",
+            "high cost"
+        ],
+        "trends": [
+            "manufacturing",
+            "australia",
+            "mine",
+            "cost",
+            "think",
+            "countries",
+            "country"
+        ]
+    },
+    {
+        "sentence": [
+            "They were polishing the goods there.",
+            "But again, you know, if you think about it, there's no manufacturing here.",
+            "Equipment, everything else."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "everything else",
+            "think",
+            "polishing",
+            "manufacturing",
+            "know",
+            "goods",
+            "equipment"
+        ],
+        "trends": [
+            "everything",
+            "equipment",
+            "else",
+            "think",
+            "manufacturing",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it just made sense to export everything.",
+            "Does that raise the cost of buying for a consumer?",
+            "Does that raise the cost of buying diamonds in Australia because everything's imported?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "made sense",
+            "export everything",
+            "buying diamonds",
+            "everything",
+            "buying",
+            "think",
+            "raise"
+        ],
+        "trends": [
+            "cost",
+            "buying",
+            "raise",
+            "everything",
+            "consumer",
+            "think",
+            "sense"
+        ]
+    },
+    {
+        "sentence": [
+            "No, I will say that  I don't have the data on this, but I'll make my own assumptions.",
+            "I think you'll find that we make a healthy margin relative to other dealers in the world.",
+            "It's not easy to get clients because Australians are very loyal."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "healthy margin relative",
+            "get clients",
+            "world",
+            "think",
+            "say",
+            "make",
+            "make"
+        ],
+        "trends": [
+            "make",
+            "world",
+            "say",
+            "data",
+            "loyal",
+            "get",
+            "easy"
+        ]
+    },
+    {
+        "sentence": [
+            "And as I mentioned earlier, you'd be surprised at how the majority of independent jewelers are buying their goods locally.",
+            "They're not buying them from a siteholder offshore.",
+            "Importing themselves is very challenging logistically when you live, you know, a thousand kilometers away from a capitol."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thousand kilometers away",
+            "siteholder offshore",
+            "mentioned earlier",
+            "independent jewelers",
+            "goods locally",
+            "challenging logistically",
+            "surprised"
+        ],
+        "trends": [
+            "buying",
+            "goods",
+            "mentioned",
+            "majority",
+            "locally",
+            "surprised",
+            "jewelers"
+        ]
+    },
+    {
+        "sentence": [
+            "the city and there's higher cost to that.",
+            "So they support the local in a big way, which is wonderful.",
+            "Sure, a lot of people still import themselves, but it doesn't impact the cost to them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "people still import",
+            "big way",
+            "higher cost",
+            "cost",
+            "wonderful",
+            "sure",
+            "support"
+        ],
+        "trends": [
+            "cost",
+            "sure",
+            "still",
+            "wonderful",
+            "higher",
+            "city",
+            "way"
+        ]
+    },
+    {
+        "sentence": [
+            "Right.",
+            "Fine.",
+            "We mentioned at the beginning that we met at the Young Diamonteers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamonteers",
+            "right",
+            "met",
+            "mentioned",
+            "fine",
+            "beginning"
+        ],
+        "trends": [
+            "young",
+            "met",
+            "mentioned",
+            "diamonteers",
+            "beginning"
+        ]
+    },
+    {
+        "sentence": [
+            "Can you tell me a little bit about how, I mean, I've gained a lot from the Young Diamonteers.",
+            "What's your experience of it?",
+            "How's it affected you?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamonteers",
+            "little bit",
+            "tell",
+            "mean",
+            "lot",
+            "gained",
+            "experience"
+        ],
+        "trends": [
+            "young",
+            "tell",
+            "mean",
+            "lot",
+            "little",
+            "gained",
+            "diamonteers"
+        ]
+    },
+    {
+        "sentence": [
+            "Okay.",
+            "So I've been, since I was with you on that trip, I've been on the Young Diamonteers organizing committee.",
+            "We meet once a week, 18 of us from different countries."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamonteers organizing committee",
+            "different countries",
+            "week",
+            "us",
+            "trip",
+            "since",
+            "okay"
+        ],
+        "trends": [
+            "young",
+            "trip",
+            "since",
+            "organizing",
+            "diamonteers",
+            "week",
+            "us"
+        ]
+    },
+    {
+        "sentence": [
+            "Rummy and I, who sit in Australia, are doing it sometimes till 10, 11 o'clock at night with a horrible time change.",
+            "The Young Diamond Tears for me, my business has transformed into a digital business.",
+            "I'm a digital diamond merchant."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond tears",
+            "sometimes till 10",
+            "horrible time change",
+            "digital diamond merchant",
+            "digital business",
+            "business",
+            "transformed"
+        ],
+        "trends": [
+            "digital",
+            "diamond",
+            "business",
+            "time",
+            "till",
+            "sometimes",
+            "young"
+        ]
+    },
+    {
+        "sentence": [
+            "I never in my life dreamed that that would be possible or how that would work.",
+            "And I was even told when I started, if you look at New Voda, we're very similar, but I'm only Australian, New Zealand, they international.",
+            "If you look at New Voda,  If you look at that model, when I took it to people to talk to them about it before I started, I was told that I'm lining myself up for failure."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new zealand",
+            "new voda",
+            "new voda",
+            "life dreamed",
+            "would work",
+            "even told",
+            "would"
+        ],
+        "trends": [
+            "look",
+            "started",
+            "voda",
+            "told",
+            "new",
+            "would",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "But when the Young Diamond Tears was formed and when Rummy formed the Young Diamond Tears, I didn't know where that would go.",
+            "I grew up my whole life.",
+            "My father was chairman of the Diamond Club of South Africa with EDMA, WFDB, et cetera."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond tears",
+            "young diamond tears",
+            "diamond club",
+            "would go",
+            "whole life",
+            "south africa",
+            "et cetera"
+        ],
+        "trends": [
+            "diamond",
+            "young",
+            "formed",
+            "tears",
+            "africa",
+            "et",
+            "wfdb"
+        ]
+    },
+    {
+        "sentence": [
+            "And I grew up seeing this culture that I just wanted to be a part of.",
+            "And over the years, the clubs around the world  and everything's changed a lot, just like my business.",
+            "And what I like about the Young Diamond Tears is that it's like being part of a organization in today's modern world, doing things the modern way."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamond tears",
+            "modern way",
+            "clubs around",
+            "modern world",
+            "world",
+            "years",
+            "wanted"
+        ],
+        "trends": [
+            "like",
+            "world",
+            "modern",
+            "part",
+            "diamond",
+            "grew",
+            "wanted"
+        ]
+    },
+    {
+        "sentence": [
+            "It's conversation, communication, you get insights into what's happening in the world.",
+            "You have no idea how much I've learned from our WhatsApp chat group.",
+            "When you guys post an article at Rappaport, and it's got a lot of discussion around it, you've seen, it can be anyone who posts anything."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "whatsapp chat group",
+            "posts anything",
+            "guys post",
+            "get insights",
+            "discussion around",
+            "world",
+            "seen"
+        ],
+        "trends": [
+            "world",
+            "communication",
+            "insights",
+            "happening",
+            "chat",
+            "much",
+            "learned"
+        ]
+    },
+    {
+        "sentence": [
+            "It turns into a conversation.",
+            "It opens your mind to the mindset in India.",
+            "What are you thinking in Israel?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "turns",
+            "thinking",
+            "opens",
+            "mindset",
+            "mind",
+            "israel",
+            "india"
+        ],
+        "trends": [
+            "opens",
+            "mindset",
+            "mind",
+            "india"
+        ]
+    },
+    {
+        "sentence": [
+            "What do you think in New York?",
+            "The business developments that have come out of the Young Diamonds Tears, I'm forever grateful.",
+            "And there's a lot of people, hundreds on the WhatsApp chat group."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamonds tears",
+            "whatsapp chat group",
+            "new york",
+            "forever grateful",
+            "business developments",
+            "think",
+            "people"
+        ],
+        "trends": [
+            "diamonds",
+            "york",
+            "new",
+            "hundreds",
+            "whatsapp",
+            "chat",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "Some choose to be active, some not.",
+            "But there's a lot about the Young Diamonds Tears organization that I think is the modern way of being part of a community within our global industry and being able to reach out in a safe place, be able to learn in a safe place.",
+            "You know, we go to trade shows."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "young diamonds tears organization",
+            "trade shows",
+            "safe place",
+            "safe place",
+            "modern way",
+            "global industry",
+            "community within"
+        ],
+        "trends": [
+            "able",
+            "safe",
+            "place",
+            "community",
+            "diamonds",
+            "global",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just wonderful You've seen we all just connect and you cannot believe just on those dinners and other events what kind of business comes out of that and friendships So when Rummy first started the young diamond tears and to where it's come today I think that it was an amazing concept for today's modern world and it resonates well with this generation and just for those not clued in Rummy Baron being senior at the World Federation WFTB he set up the young diamond tears and it's quite interesting because the next generation  There's so much second and third generation in our industry.",
+            "And this has given the next generation a voice.",
+            "And I think that Rami has achieved so many great things on a personal level for me with friendships, as well as business and development that has come out of this with people I would never have met and potentially never done business with before."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "potentially never done business",
+            "young diamond tears",
+            "young diamond tears",
+            "many great things",
+            "world federation wftb",
+            "rummy first started",
+            "would never"
+        ],
+        "trends": [
+            "generation",
+            "business",
+            "next",
+            "young",
+            "today",
+            "rummy",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "Not to mention the fun that we have and the trips, our trip to India, our trip to the Venetian mine in South Africa.",
+            "Kudos to them.",
+            "And there's a lot of organization that goes on internally."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "venetian mine",
+            "south africa",
+            "trips",
+            "trip",
+            "trip",
+            "organization",
+            "mention"
+        ],
+        "trends": [
+            "trip",
+            "organization",
+            "venetian",
+            "trips",
+            "south",
+            "mine",
+            "mention"
+        ]
+    },
+    {
+        "sentence": [
+            "There's some amazing  Congratulations.",
+            "I'm looking forward to that.",
+            "I'm sure that'll happen one day."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "happen one day",
+            "looking forward",
+            "amazing congratulations",
+            "sure"
+        ],
+        "trends": [
+            "sure",
+            "one",
+            "happen",
+            "day"
+        ]
+    },
+    {
+        "sentence": [
+            "And I hope we'll continue to talk, Craig, best of luck with all your endeavors.",
+            "It's been great to have you on this episode.",
+            "Thank you for having me."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thank",
+            "talk",
+            "luck",
+            "hope",
+            "great",
+            "episode",
+            "endeavors"
+        ],
+        "trends": [
+            "talk",
+            "luck",
+            "hope",
+            "endeavors",
+            "craig",
+            "continue",
+            "best"
+        ]
+    },
+    {
+        "sentence": [
+            "And thank you for all of what you guys do is amazing.",
+            "And yeah, I look forward to seeing you in the near future.",
+            "Thanks for having me."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "near future",
+            "look forward",
+            "yeah",
+            "thanks",
+            "thank",
+            "seeing",
+            "guys"
+        ],
+        "trends": [
+            "thank",
+            "guys",
+            "amazing",
+            "yeah",
+            "seeing",
+            "near",
+            "look"
+        ]
+    },
+    {
+        "sentence": [
+            "Bye, Craig.",
+            "the Rappaport Diamond podcast.",
+            "Don't forget to subscribe to get future episodes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "get future episodes",
+            "subscribe",
+            "forget",
+            "craig",
+            "bye"
+        ],
+        "trends": [
+            "rappaport",
+            "podcast",
+            "diamond",
+            "subscribe",
+            "get",
+            "future",
+            "forget"
+        ]
+    },
+    {
+        "sentence": [
+            "For more discussion, news and analysis about the diamond industry, you can visit Rappaport.com, follow Rappaport group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "We also invite you to watch our weekly market comment videos on our YouTube channel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "weekly market comment videos",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit rappaport",
+            "youtube channel",
+            "diamond industry",
+            "also invite"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "news",
+            "youtube",
+            "market",
+            "channel",
+            "comment"
+        ]
+    }
+]

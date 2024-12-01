@@ -1,0 +1,2334 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond podcast and now your host, Joshua Friedman.",
+            "which is an organization that provides legal guidance to the jewelry industry.",
+            "We had an interesting conversation in which we discussed US sanctions on Russian diamonds, the G7, the development of the FTC, the Federal Trade Commission's green guides on responsible sourcing claims, and many other issues, including Tiffany's own background in the jewelry industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "responsible sourcing claims",
+            "rappaport diamond podcast",
+            "provides legal guidance",
+            "federal trade commission",
+            "discussed us sanctions",
+            "russian diamonds",
+            "joshua friedman"
+        ],
+        "trends": [
+            "industry",
+            "jewelry",
+            "guidance",
+            "interesting",
+            "issues",
+            "claims",
+            "commission"
+        ]
+    },
+    {
+        "sentence": [
+            "I hope you enjoy listening to this conversation.",
+            "so much for having me here today.",
+            "I agree with your sentiment."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "enjoy listening",
+            "today",
+            "sentiment",
+            "much",
+            "hope",
+            "conversation",
+            "agree"
+        ],
+        "trends": [
+            "listening",
+            "hope",
+            "enjoy",
+            "conversation"
+        ]
+    },
+    {
+        "sentence": [
+            "And I also watched your market update from a couple days ago, and I thought that really also was totally  spot on.",
+            "We've been eagerly anticipating news from this G7 summit.",
+            "Specifically, we knew that diplomatic relations were aiming towards this meeting."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "eagerly anticipating news",
+            "couple days ago",
+            "totally spot",
+            "really also",
+            "market update",
+            "g7 summit",
+            "diplomatic relations"
+        ],
+        "trends": [
+            "also",
+            "meeting",
+            "knew",
+            "towards",
+            "aiming",
+            "specifically",
+            "relations"
+        ]
+    },
+    {
+        "sentence": [
+            "Obviously, it's a seminal event.",
+            "In any case, this year, especially for us, for those of us in the US or people who are JBC members, we had Ambassador James O'Brien, who's the head of sanctions for the State Department, speak at our event.",
+            "He came to talk to industry in person to use some of the same strong language to let us know something was coming."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "let us know something",
+            "strong language",
+            "state department",
+            "jbc members",
+            "ambassador james",
+            "seminal event",
+            "us"
+        ],
+        "trends": [
+            "us",
+            "event",
+            "year",
+            "case",
+            "department",
+            "especially",
+            "head"
+        ]
+    },
+    {
+        "sentence": [
+            "So we were very highly anticipating news out of this year's summit.",
+            "To your point, it seems like we have sort of an announcement about an announcement with stronger language.",
+            "So we remain on the edge of our seats to find out exactly what that's going to mean."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "highly anticipating news",
+            "stronger language",
+            "seems like",
+            "year",
+            "summit",
+            "sort",
+            "seats"
+        ],
+        "trends": [
+            "announcement",
+            "edge",
+            "exactly",
+            "find",
+            "stronger",
+            "sort",
+            "seems"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think, you know, these diplomatic processes, especially when they're meaningful, can take some time.",
+            "It does seem like there are more and more parties truly concerned about this issue and that momentum has built.",
+            "The logistics of how they might roll out  that all out is taking time."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "parties truly concerned",
+            "seem like",
+            "might roll",
+            "diplomatic processes",
+            "taking time",
+            "time",
+            "think"
+        ],
+        "trends": [
+            "time",
+            "know",
+            "think",
+            "take",
+            "processes",
+            "diplomatic",
+            "might"
+        ]
+    },
+    {
+        "sentence": [
+            "I guess that's actually pretty encouraging because hopefully they're being thoughtful about it and thoughtful about rolling it out in a way that we can actually achieve our, you know, we all have this same shared goal of preventing the flow of funds to this war.",
+            "But again, we wait to see exactly what that's going to look like.",
+            "thing is G7 sanctions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "actually pretty encouraging",
+            "actually achieve",
+            "shared goal",
+            "see exactly",
+            "look like",
+            "g7 sanctions",
+            "way"
+        ],
+        "trends": [
+            "actually",
+            "thoughtful",
+            "way",
+            "guess",
+            "encouraging",
+            "flow",
+            "wait"
+        ]
+    },
+    {
+        "sentence": [
+            "Are we right to expect that at some point the G7 could as a unit introduce sanctions?",
+            "Is that something that it does?",
+            "I believe that it's possible, but I do think that it would be quite powerful if the countries themselves actually put it forward as their own sort of locuses of power, loci of power would probably mean a lot more coming from the member countries themselves than from this third party body."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "power would probably mean",
+            "unit introduce sanctions",
+            "third party body",
+            "quite powerful",
+            "g7 could",
+            "actually put",
+            "member countries"
+        ],
+        "trends": [
+            "would",
+            "countries",
+            "power",
+            "believe",
+            "sanctions",
+            "right",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "Right, I see.",
+            "Talking of the US, probably the biggest  biggest point of contention with the US sanctions is this issue of substantial transformation.",
+            "I think I got that right, which obviously means that diamonds, at least the way it's usually interpreted, is that diamonds that come from Russia, but are cut and polished somewhere else like in India, are technically legal in the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "polished somewhere else like",
+            "biggest biggest point",
+            "usually interpreted",
+            "technically legal",
+            "substantial transformation",
+            "obviously means",
+            "us sanctions"
+        ],
+        "trends": [
+            "us",
+            "biggest",
+            "diamonds",
+            "sanctions",
+            "probably",
+            "transformation",
+            "issue"
+        ]
+    },
+    {
+        "sentence": [
+            "Does everyone agree that that is true?",
+            "Is that something that could change at some point soon?",
+            "Yeah, I mean, this is the pathway that the US government has left open on purpose."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us government",
+            "point soon",
+            "left open",
+            "everyone agree",
+            "could change",
+            "yeah",
+            "true"
+        ],
+        "trends": [
+            "yeah",
+            "us",
+            "true",
+            "everyone",
+            "soon",
+            "something",
+            "point"
+        ]
+    },
+    {
+        "sentence": [
+            "I've heard it characterizes a loophole.",
+            "It's not a loophole.",
+            "It was  designed this way."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "way",
+            "loophole",
+            "loophole",
+            "heard",
+            "designed",
+            "characterizes"
+        ],
+        "trends": [
+            "loophole",
+            "heard",
+            "characterizes"
+        ]
+    },
+    {
+        "sentence": [
+            "The purpose here is not to collapse US industry or to punish diamonds or any other product.",
+            "The goal here is to stop the flow of money to Putin.",
+            "So the substantial transformation pathway was very methodically designed, or I should say adopted."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "substantial transformation pathway",
+            "collapse us industry",
+            "say adopted",
+            "punish diamonds",
+            "methodically designed",
+            "stop",
+            "putin"
+        ],
+        "trends": [
+            "stop",
+            "putin",
+            "pathway",
+            "transformation",
+            "designed",
+            "methodically",
+            "adopted"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a larger custom standards.",
+            "We'll never get away from substantial transformation as a concept.",
+            "It's a much larger concept than just diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "never get away",
+            "larger custom standards",
+            "much larger concept",
+            "substantial transformation",
+            "concept",
+            "diamonds"
+        ],
+        "trends": [
+            "larger",
+            "concept",
+            "standards",
+            "custom",
+            "much",
+            "transformation",
+            "substantial"
+        ]
+    },
+    {
+        "sentence": [
+            "It's just how it's applied to our industry.",
+            "So at this time, that is a valid  path for products we have found that Consumer sentiment is actually stronger at this time It has been for the last year then this sort of actual rules are so even though this behavior is technically allowed We found that consumers and those with trade are actually going several steps further off and insane Well, I know that this technically might be okay But I don't want any Russian goods and you need to show me, you know the proof that you're not passing those along So that's really interesting because we deal with lots  of different compliance topics and never are consumers or the trade wanting to go further than what the current rules are.",
+            "So it's been a really interesting space to live in the last year."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually going several steps",
+            "different compliance topics",
+            "really interesting space",
+            "really interesting",
+            "actually stronger",
+            "valid path",
+            "technically might"
+        ],
+        "trends": [
+            "actually",
+            "know",
+            "trade",
+            "time",
+            "technically",
+            "consumers",
+            "rules"
+        ]
+    },
+    {
+        "sentence": [
+            "Although I think it seems in the coming months, it'll be rectified because I think the rules are going to catch up to where sentiment is.",
+            "All right.",
+            "So actually, I was going to ask about that because I wonder if it's got to the point where further sanctions would actually not have any point given that companies, the trade and consumers have already voted with their feet."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sanctions would actually",
+            "coming months",
+            "already voted",
+            "point given",
+            "actually",
+            "point",
+            "wonder"
+        ],
+        "trends": [
+            "actually",
+            "point",
+            "think",
+            "going",
+            "although",
+            "sentiment",
+            "seems"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, just personally, I think that there's always room.",
+            "You know, I'm a lawyer, I'm a rule follower, I love rules.",
+            "So I think it's great to show the seriousness of the US government that you said in the world symbolically on this issue and then practically on the logistical side."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "world symbolically",
+            "us government",
+            "rule follower",
+            "love rules",
+            "logistical side",
+            "always room",
+            "think"
+        ],
+        "trends": [
+            "think",
+            "always",
+            "room",
+            "personally",
+            "mean",
+            "world",
+            "said"
+        ]
+    },
+    {
+        "sentence": [
+            "And anybody who's still okay with doing this, you know, that we sort of tighten, tighten that up.",
+            "I don't think it's been completely solved internally, even though the sentiment is there.",
+            "potential traceability solution."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "potential traceability solution",
+            "completely solved internally",
+            "still okay",
+            "even though",
+            "tighten",
+            "tighten",
+            "think"
+        ],
+        "trends": [
+            "tighten",
+            "traceability",
+            "solution",
+            "potential",
+            "though",
+            "think",
+            "solved"
+        ]
+    },
+    {
+        "sentence": [
+            "This phrase has come up a lot of traceability solution or technology solution to this problem.",
+            "Do we have any information yet on what this would entail?",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would entail",
+            "traceability solution",
+            "technology solution",
+            "information yet",
+            "right",
+            "problem",
+            "phrase"
+        ],
+        "trends": [
+            "solution",
+            "yet",
+            "would",
+            "information",
+            "traceability",
+            "technology",
+            "problem"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, I share your sentiment.",
+            "I'm sure as a journalist, you know even more than I do about some of the details of these programs.",
+            "And I think it's right as a society."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "know even",
+            "think",
+            "sure",
+            "society",
+            "share",
+            "sentiment",
+            "right"
+        ],
+        "trends": [
+            "share",
+            "sure",
+            "programs",
+            "know",
+            "journalist",
+            "think",
+            "society"
+        ]
+    },
+    {
+        "sentence": [
+            "I think we've all as humans yearned for technology to save us in different ways.",
+            "And we always want to believe that that's possible.",
+            "It seems there are some interesting developments on the technology side."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "save us",
+            "interesting developments",
+            "humans yearned",
+            "different ways",
+            "always want",
+            "technology side",
+            "technology"
+        ],
+        "trends": [
+            "technology",
+            "want",
+            "possible",
+            "yearned",
+            "side",
+            "seems",
+            "interesting"
+        ]
+    },
+    {
+        "sentence": [
+            "I haven't seen anything personally yet that shows that this problem would be solved with the push of a button with some great piece of technology So I'm willing to be convinced.",
+            "I hope to be amazed, but I haven't quite seen yet the technological side of this being possible I don't know what you've seen I mean the suggestion that seems to be that there'll be a requirement to declare the origin of diamonds and that this would only be possible through technology It's that requirement is that going to happen?",
+            "And if so, how how far away are we from that happening?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "seen anything personally yet",
+            "quite seen yet",
+            "technological side",
+            "great piece",
+            "far away",
+            "problem would",
+            "seen"
+        ],
+        "trends": [
+            "seen",
+            "possible",
+            "requirement",
+            "yet",
+            "technology",
+            "would",
+            "problem"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I mean, one of the really interesting things about working at the JVC for me and everybody else who works with me is the combination of esoteric problems and issues and questions like we're talking about now.",
+            "How might the global trade of diamonds be altered?",
+            "It also collides with practical implications because what we actually spend all day doing is advising our members on how to run their businesses, some of them quite small, some of them quite enormous."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really interesting things",
+            "quite small",
+            "quite enormous",
+            "questions like",
+            "practical implications",
+            "global trade",
+            "everybody else"
+        ],
+        "trends": [
+            "quite",
+            "yeah",
+            "combination",
+            "else",
+            "esoteric",
+            "everybody",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "So I don't know.",
+            "I mean, we've seen it with, you know,  think about a case study being lab-grown diamonds and all of the different solutions that have come up from like sort of spraying everything with some sort of, you know, chemical that would be detected in a certain way or engraving or whatever.",
+            "We've seen that sort of traceability or differentiation come up."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "spraying everything",
+            "grown diamonds",
+            "different solutions",
+            "certain way",
+            "case study",
+            "differentiation come",
+            "like sort"
+        ],
+        "trends": [
+            "sort",
+            "know",
+            "would",
+            "certain",
+            "chemical",
+            "detected",
+            "come"
+        ]
+    },
+    {
+        "sentence": [
+            "There are some good ideas, but one of the problems is like the bad actors are the ones who aren't going to do it in the first place.",
+            "So you're sort of putting the onus on all the people who are probably doing the right thing anyway.",
+            "way and then you've still got this flow of other goods coming in, not to mention secondhand goods and so forth."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "right thing anyway",
+            "mention secondhand goods",
+            "goods coming",
+            "still got",
+            "good ideas",
+            "first place",
+            "bad actors"
+        ],
+        "trends": [
+            "goods",
+            "way",
+            "coming",
+            "putting",
+            "thing",
+            "anyway",
+            "sort"
+        ]
+    },
+    {
+        "sentence": [
+            "And then, you know, in the US when we were looking at something like the FTC, they're always balancing, you know, how much do they want to chill commercial activity versus how much are they protecting the consumer?",
+            "So there's so much nuance there.",
+            "Again, I wish there were a really easy technological answer."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really easy technological answer",
+            "chill commercial activity versus",
+            "something like",
+            "always balancing",
+            "much nuance",
+            "much",
+            "much"
+        ],
+        "trends": [
+            "much",
+            "know",
+            "ftc",
+            "always",
+            "balancing",
+            "chill",
+            "commercial"
+        ]
+    },
+    {
+        "sentence": [
+            "And maybe there's a brilliant engineer out there right now who's already solved this.",
+            "But for me, just more homework to do to meet more people who are building these kinds of  How is the trade coping with the sanctions so far?",
+            "and to give them some guidance on how to do that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "trade coping",
+            "brilliant engineer",
+            "already solved",
+            "sanctions",
+            "right",
+            "people",
+            "meet"
+        ],
+        "trends": [
+            "solved",
+            "trade",
+            "sanctions",
+            "people",
+            "meet",
+            "right",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "I think there's some, we're talking about confusion around the technology or the logistics of exactly how to do all of this.",
+            "But you know, it's been amazing and especially in the US right now, which can be fractured in so many ways on so many issues, even like tiny issues, people are fighting here about them.",
+            "But this one, I mean, everybody is on the same page."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "even like tiny issues",
+            "many issues",
+            "us right",
+            "many ways",
+            "confusion around",
+            "think",
+            "technology"
+        ],
+        "trends": [
+            "many",
+            "issues",
+            "logistics",
+            "around",
+            "think",
+            "technology",
+            "talking"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's been surprising and kind of heartening, actually, in a way.",
+            "could be the next step in this sanction story?",
+            "What should we watch out for next?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sanction story",
+            "next step",
+            "next",
+            "way",
+            "watch",
+            "surprising",
+            "kind"
+        ],
+        "trends": [
+            "way",
+            "surprising",
+            "kind",
+            "heartening",
+            "actually",
+            "story",
+            "step"
+        ]
+    },
+    {
+        "sentence": [
+            "Now you mentioned gold, I feel like I should ask about gold.",
+            "The US banned Russian gold, correct?",
+            "About a year ago."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "us banned russian gold",
+            "mentioned gold",
+            "year ago",
+            "feel like",
+            "gold",
+            "correct",
+            "ask"
+        ],
+        "trends": [
+            "gold",
+            "us",
+            "russian",
+            "correct",
+            "banned",
+            "mentioned",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "We usually deal with diamonds, but how is the gold market being affected?",
+            "and they're paying in gold or paying Wagner group in gold.",
+            "I mean, it's a really complicated issue."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really complicated issue",
+            "paying wagner group",
+            "usually deal",
+            "gold market",
+            "paying",
+            "gold",
+            "gold"
+        ],
+        "trends": [
+            "gold",
+            "paying",
+            "really",
+            "mean",
+            "issue",
+            "complicated",
+            "usually"
+        ]
+    },
+    {
+        "sentence": [
+            "And when we talk about traceability, right?",
+            "I mean, geez, like it's just such a beast.",
+            "I don't know what's next or how that's going to be solved, but I know that they're also quite serious."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also quite serious",
+            "traceability",
+            "talk",
+            "solved",
+            "right",
+            "next",
+            "mean"
+        ],
+        "trends": [
+            "know",
+            "traceability",
+            "talk",
+            "right",
+            "solved",
+            "serious",
+            "quite"
+        ]
+    },
+    {
+        "sentence": [
+            "The U.S. government is quite serious about this issue and really struggling and working hard to kind of come up with solution.",
+            "You'd have to speak to a gold expert on the financial side about how it's impacted financials in the market.",
+            "But we  We see our members are always concerned about gold, gold issues, tracing of gold in general."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "working hard",
+            "really struggling",
+            "quite serious",
+            "impacted financials",
+            "financial side",
+            "always concerned",
+            "gold issues"
+        ],
+        "trends": [
+            "gold",
+            "government",
+            "issues",
+            "see",
+            "concerned",
+            "general",
+            "tracing"
+        ]
+    },
+    {
+        "sentence": [
+            "And so this only adds to their sort of list of worries.",
+            "for bringing it up.",
+            "Actually, we're in the time machine."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "time machine",
+            "worries",
+            "sort",
+            "list",
+            "bringing",
+            "adds",
+            "actually"
+        ],
+        "trends": [
+            "time",
+            "machine",
+            "actually",
+            "worries",
+            "sort",
+            "list",
+            "adds"
+        ]
+    },
+    {
+        "sentence": [
+            "When we're recording this, I'm in an hour boarding a train down to DC to go to a hearing at the Federal Trade Commission early tomorrow morning, focusing just on the term recycling, which is one of the many issues they're focusing on.",
+            "But the Green Guides themselves, like you said, they basically set the standards for marketing in the US market, any marketing that touches the US consumer of any product, no matter where the company itself is based, for any type of green claim or  eco claim, sustainability, all of these topics are under the umbrella of the Green Guides.",
+            "We've had the same rules since 2012."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "federal trade commission early tomorrow morning",
+            "rules since 2012",
+            "us market",
+            "us consumer",
+            "term recycling",
+            "many issues",
+            "hour boarding"
+        ],
+        "trends": [
+            "green",
+            "us",
+            "claim",
+            "guides",
+            "marketing",
+            "focusing",
+            "many"
+        ]
+    },
+    {
+        "sentence": [
+            "So if they were published in 2012, right, they were probably written and advocated for in like 2009, 2010.",
+            "The world has substantially changed in the 10 plus years, especially around the issues and the consumer consciousness around sustainability.",
+            "And sadly, I think the temperature of the world has gone up in those 12 years as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "consumer consciousness around sustainability",
+            "10 plus years",
+            "especially around",
+            "12 years",
+            "substantially changed",
+            "probably written",
+            "like 2009"
+        ],
+        "trends": [
+            "around",
+            "years",
+            "world",
+            "sadly",
+            "temperature",
+            "like",
+            "written"
+        ]
+    },
+    {
+        "sentence": [
+            "So the FTC under the leadership of Lena Kahn, who's the new ish FTC,  Commissioner and has been trailblazing in lots of ways is taking this quite seriously and has opened the door to basically everything.",
+            "So it's a process.",
+            "They announced that they were going to rewrite all these rules."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new ish ftc",
+            "quite seriously",
+            "lena kahn",
+            "basically everything",
+            "ftc",
+            "ways",
+            "trailblazing"
+        ],
+        "trends": [
+            "ftc",
+            "leadership",
+            "basically",
+            "commissioner",
+            "door",
+            "everything",
+            "ish"
+        ]
+    },
+    {
+        "sentence": [
+            "Then they issued these questions for anyone in the US to answer any trade, including ours.",
+            "And they really put everything on the table.",
+            "So they're looking at redefining organic completely, redefining recycling, maybe writing a definition for sustainability, which we don't have."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really put everything",
+            "redefining organic completely",
+            "redefining recycling",
+            "maybe writing",
+            "us",
+            "trade",
+            "table"
+        ],
+        "trends": [
+            "redefining",
+            "really",
+            "answer",
+            "issued",
+            "trade",
+            "anyone",
+            "questions"
+        ]
+    },
+    {
+        "sentence": [
+            "Currently, they're looking at the entire concept of carbon offsets, really so many different issues and thousands and thousands of comments have come in from industries all over the US.",
+            "As jewelry, you know, we're small, but we're special and we always want to make sure that our concerns are taken seriously and fully understood.",
+            "So the reason JVC exists is for just these moments."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "reason jvc exists",
+            "many different issues",
+            "taken seriously",
+            "make sure",
+            "fully understood",
+            "entire concept",
+            "carbon offsets"
+        ],
+        "trends": [
+            "thousands",
+            "want",
+            "concerns",
+            "fully",
+            "jewelry",
+            "make",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "So we went out to our membership in the industry at large over the last six months, conducted interviews, feedback, calls,  all kinds of things to explain exactly what was at stake and to get people's honest feedback about what goes on at their business or from their point of view.",
+            "We didn't have an agenda going into it.",
+            "We took everybody's feedback and built out our own strategic advocacy points based on what our members said."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "strategic advocacy points based",
+            "last six months",
+            "took everybody",
+            "members said",
+            "get people",
+            "explain exactly",
+            "conducted interviews"
+        ],
+        "trends": [
+            "feedback",
+            "advocacy",
+            "members",
+            "took",
+            "based",
+            "strategic",
+            "built"
+        ]
+    },
+    {
+        "sentence": [
+            "And we wrote a basically a legal brief that's about 25 pages responding to the issues that we thought were most important to our industry.",
+            "Then that's available on the FTC website.",
+            "Those are all publicly available."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "25 pages responding",
+            "legal brief",
+            "ftc website",
+            "publicly available",
+            "available",
+            "wrote",
+            "thought"
+        ],
+        "trends": [
+            "wrote",
+            "thought",
+            "responding",
+            "pages",
+            "legal",
+            "issues",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "public comments and they're part of the public record now.",
+            "So that's step one.",
+            "It's sort of the opening salvo, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "step one",
+            "public record",
+            "public comments",
+            "opening salvo",
+            "sort",
+            "right",
+            "part"
+        ],
+        "trends": [
+            "public",
+            "sort",
+            "salvo",
+            "right",
+            "opening",
+            "record",
+            "part"
+        ]
+    },
+    {
+        "sentence": [
+            "We tried to set the tone for the issues that are important to us.",
+            "Because they opened the door so wide, it gave us lots of room to focus on what we wanted to, but it also left lots of questions in our minds about what exactly the FTC has in mind for this process.",
+            "They haven't tipped their hand at all yet on that."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "also left lots",
+            "gave us lots",
+            "us",
+            "yet",
+            "wide",
+            "wanted",
+            "tried"
+        ],
+        "trends": [
+            "lots",
+            "left",
+            "us",
+            "tried",
+            "tone",
+            "set",
+            "important"
+        ]
+    },
+    {
+        "sentence": [
+            "So tomorrow we'll hear from them on recycling specifically.",
+            "This matters for us for many reasons,  for gold and other precious metals.",
+            "We're working with our metals members on that issue."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "recycling specifically",
+            "precious metals",
+            "metals members",
+            "many reasons",
+            "working",
+            "us",
+            "tomorrow"
+        ],
+        "trends": [
+            "metals",
+            "working",
+            "members",
+            "issue",
+            "us",
+            "reasons",
+            "tomorrow"
+        ]
+    },
+    {
+        "sentence": [
+            "And then the next step will be the FTC will come back in the next, you know, X number of months and issue either more questions that we can answer that are probably going to be more pointed.",
+            "And we'll come back to industry again.",
+            "So anyone who's listening, please don't be shy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "x number",
+            "probably going",
+            "issue either",
+            "come back",
+            "come back",
+            "next step",
+            "next"
+        ],
+        "trends": [
+            "next",
+            "step",
+            "either",
+            "ftc",
+            "back",
+            "come",
+            "anyone"
+        ]
+    },
+    {
+        "sentence": [
+            "We would absolutely love to hear from you.",
+            "And we'll write probably another brief, you know, honing in on the issues once we realize what's actually in play.",
+            "And we'll also have a chance to read the other  industries, public comments, and talk to our friends at other trade associations and other industries to figure out where we can build alliances, to advocate for some of the things we all have in common and to understand where some of our friends in fashion, apparel or cars or wherever might have a contradictory view to us."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "write probably another brief",
+            "would absolutely love",
+            "wherever might",
+            "trade associations",
+            "public comments",
+            "contradictory view",
+            "build alliances"
+        ],
+        "trends": [
+            "friends",
+            "industries",
+            "probably",
+            "actually",
+            "another",
+            "brief",
+            "issues"
+        ]
+    },
+    {
+        "sentence": [
+            "One thing I'm really watching out for is, you know, JVC is product neutral, but we didn't address the issues around lab grown because it wasn't asked at this time.",
+            "We alluded to it as an issue, but it wasn't timely.",
+            "We're gonna watch what happens with milk in the milk industry the meat industry and the leathers industry because they have their own sets of lab-grown issues and see where we might be able to team up with them where it makes sense and then year plus will have actual new rules will actually have the new rules and you'll get the summary from JVC about what you're supposed to do next and you're advertising probably about a year from now."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "issues around lab grown",
+            "actual new rules",
+            "grown issues",
+            "new rules",
+            "really watching",
+            "product neutral",
+            "one thing"
+        ],
+        "trends": [
+            "industry",
+            "year",
+            "rules",
+            "new",
+            "milk",
+            "issues",
+            "jvc"
+        ]
+    },
+    {
+        "sentence": [
+            "To clarify what you mean about what you said about lab-grown.",
+            "You said you didn't mention lab-grown.",
+            "You haven't mentioned lab-grown."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "mentioned lab",
+            "mention lab",
+            "lab",
+            "said",
+            "said",
+            "mean",
+            "grown"
+        ],
+        "trends": [
+            "said",
+            "mean",
+            "clarify"
+        ]
+    },
+    {
+        "sentence": [
+            "We mentioned it.",
+            "We didn't take a step  there wasn't a foothold with the question because you have to respond to the questions they asked.",
+            "There wasn't a foothold in the set of questions they asked because they were just so broad."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take",
+            "step",
+            "set",
+            "respond",
+            "questions",
+            "questions",
+            "question"
+        ],
+        "trends": [
+            "questions",
+            "foothold",
+            "asked",
+            "set",
+            "broad",
+            "take",
+            "step"
+        ]
+    },
+    {
+        "sentence": [
+            "It felt artificial to have some huge argument one way or the other about Ladbroin with the questions they asked and being responsive.",
+            "We surfaced it as an issue, but we're sort of waiting to see how because it is a larger issue, right, that touches lots of industries to see what the arguments are and how we might be able to.",
+            "Right."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "huge argument one way",
+            "touches lots",
+            "felt artificial",
+            "larger issue",
+            "issue",
+            "waiting",
+            "surfaced"
+        ],
+        "trends": [
+            "issue",
+            "see",
+            "way",
+            "ladbroin",
+            "argument",
+            "artificial",
+            "asked"
+        ]
+    },
+    {
+        "sentence": [
+            "So when, for example, when the final guys come out and  and they address say lab-grown meat or something.",
+            "You'll be able to interpret that to give some guidance to how...",
+            "Even earlier."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "final guys come",
+            "address say lab",
+            "grown meat",
+            "even earlier",
+            "something",
+            "interpret",
+            "guidance"
+        ],
+        "trends": [
+            "something",
+            "say",
+            "meat",
+            "guys",
+            "final",
+            "example",
+            "interpret"
+        ]
+    },
+    {
+        "sentence": [
+            "So we're looking at what our friends and other trade associations are advocating for and we'll join with them in advocacy well in advance of the new rules coming out to if it's relevant.",
+            "If not, we'll address it when the jewelry guides are revised again in a couple of years.",
+            "But I suspect, this is just a personal suspicion, that the milk industry is very interested in this issue as is meat and leather to a lesser  extent and maybe some others too that I'm not thinking of."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new rules coming",
+            "trade associations",
+            "personal suspicion",
+            "milk industry",
+            "lesser extent",
+            "jewelry guides",
+            "advocacy well"
+        ],
+        "trends": [
+            "rules",
+            "relevant",
+            "years",
+            "revised",
+            "couple",
+            "guides",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "So yeah, because I think there was sort of a green halo around a lot of different lab grown products that has sort of shifted.",
+            "And so we'll see, you know, but the FTC ultimately is just always interested in the data, the consumer perception data.",
+            "And that's another thing that hopefully we can lean on our friends in other industries."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "different lab grown products",
+            "green halo around",
+            "consumer perception data",
+            "ftc ultimately",
+            "another thing",
+            "always interested",
+            "data"
+        ],
+        "trends": [
+            "sort",
+            "data",
+            "interested",
+            "consumer",
+            "ftc",
+            "know",
+            "friends"
+        ]
+    },
+    {
+        "sentence": [
+            "And based on the submissions that came in, what would you describe as the biggest the biggest concerns of the industry?",
+            "What's can you give us a sort of summary of what people have said?",
+            "Absolutely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "give us",
+            "biggest concerns",
+            "biggest",
+            "would",
+            "summary",
+            "submissions",
+            "sort"
+        ],
+        "trends": [
+            "biggest",
+            "us",
+            "summary",
+            "would",
+            "submissions",
+            "industry",
+            "describe"
+        ]
+    },
+    {
+        "sentence": [
+            "So we have written our submission and turned it in.",
+            "It's  public  it's a false consumer perception of what's going on because all metal, no one's throwing away gold, right?",
+            "So it's kind of all recycled."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "throwing away gold",
+            "false consumer perception",
+            "written",
+            "turned",
+            "submission",
+            "right",
+            "recycled"
+        ],
+        "trends": [
+            "throwing",
+            "right",
+            "public",
+            "perception",
+            "one",
+            "metal",
+            "gold"
+        ]
+    },
+    {
+        "sentence": [
+            "And just because something is labeled as recycled doesn't mean that it's holier than now necessarily.",
+            "It could come from a very problematic source in the Amazon.",
+            "It could have been traded through a cartel, you know."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "problematic source",
+            "could come",
+            "could",
+            "traded",
+            "something",
+            "recycled",
+            "necessarily"
+        ],
+        "trends": [
+            "could",
+            "something",
+            "recycled",
+            "source",
+            "traded",
+            "know",
+            "cartel"
+        ]
+    },
+    {
+        "sentence": [
+            "So we were very surprised about that, but we built a big argument around it and asked the FTC to consider other terminology such as reused, repurposed, or  responsible.",
+            "Likewise, everyone in industry outside of metals, just in general, pretty much everybody wanted to get away from the word sustainable or sustainability totally.",
+            "They feel that in the consumer's mind, it has lost all meaning because it's been misused so much by so many people."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "pretty much everybody wanted",
+            "big argument around",
+            "word sustainable",
+            "sustainability totally",
+            "many people",
+            "industry outside",
+            "get away"
+        ],
+        "trends": [
+            "much",
+            "many",
+            "mind",
+            "consumer",
+            "feel",
+            "lost",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "Those who take sustainability really seriously in industry have stopped using it altogether and instead sort of tell their story, their sourcing story.",
+            "You know, that's pretty, that can get long winded.",
+            "and with so much advertising happening online now, it's even worse because you'd only have people's attention for a few seconds."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "take sustainability really seriously",
+            "much advertising happening online",
+            "get long winded",
+            "stopped using",
+            "instead sort",
+            "even worse",
+            "sourcing story"
+        ],
+        "trends": [
+            "story",
+            "attention",
+            "even",
+            "happening",
+            "much",
+            "online",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "So we definitely need something.",
+            "We propose that, again, we use the word responsible, that there's some definition for the word responsible and that we can break that down between responsible products and responsible business practices.",
+            "And therefore that everyone in industry would feel that they could confidently make a claim on one, if not both of those fronts."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "industry would feel",
+            "definitely need something",
+            "could confidently make",
+            "responsible business practices",
+            "word responsible",
+            "word responsible",
+            "responsible products"
+        ],
+        "trends": [
+            "responsible",
+            "word",
+            "would",
+            "industry",
+            "claim",
+            "confidently",
+            "could"
+        ]
+    },
+    {
+        "sentence": [
+            "recycling and recycle.",
+            "Because I think the American Gem Traders Association, the actor, had this committee of people who were kind of working on the green guys issue.",
+            "And they called for the term to be banned, the term recycle to be banned."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "american gem traders association",
+            "green guys issue",
+            "term recycle",
+            "term",
+            "recycle",
+            "working",
+            "think"
+        ],
+        "trends": [
+            "term",
+            "banned",
+            "working",
+            "gem",
+            "american",
+            "association",
+            "committee"
+        ]
+    },
+    {
+        "sentence": [
+            "And the explanation they gave was pretty much what you said, that there's no evidence that diamonds or color stones are being thrown into landfills in an amount that is meaningful.",
+            "So it caught my attention because it never occurred to me that people interpreted recycled diamonds in that way, that consumers imagined that diamonds were being  kind of thrown in the rubbish, thrown in the trash, and the big green truck was coming and picking it up and putting it through a treatment factory.",
+            "Are there consumers that think that that's what goes on?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "people interpreted recycled diamonds",
+            "big green truck",
+            "treatment factory",
+            "pretty much",
+            "never occurred",
+            "color stones",
+            "consumers imagined"
+        ],
+        "trends": [
+            "thrown",
+            "diamonds",
+            "landfills",
+            "much",
+            "color",
+            "evidence",
+            "explanation"
+        ]
+    },
+    {
+        "sentence": [
+            "I don't think so.",
+            "But you know, it's just that's where we are with the definition of recycled right now is being something that's diverted from the waste stream.",
+            "So that's why I like going to the workshop on recycling tomorrow at the FTC is so important because we want to see if they're going to change the definition of recycled."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "waste stream",
+            "recycling tomorrow",
+            "recycled right",
+            "like going",
+            "recycled",
+            "going",
+            "workshop"
+        ],
+        "trends": [
+            "going",
+            "ftc",
+            "important",
+            "recycled",
+            "definition",
+            "know",
+            "diverted"
+        ]
+    },
+    {
+        "sentence": [
+            "OK, maybe we can fit in.",
+            "But the way that it's defined now, it truly makes  doesn't really make sense for us.",
+            "It's great."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really make sense",
+            "truly makes",
+            "way",
+            "us",
+            "ok",
+            "maybe",
+            "great"
+        ],
+        "trends": [
+            "ok",
+            "maybe",
+            "way",
+            "us",
+            "truly",
+            "sense",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, we really are happy that AGTA has gotten together with their concerns and thought about terminology.",
+            "Sibjo has done the same.",
+            "The Jewelry Summit had a terminology project."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "jewelry summit",
+            "gotten together",
+            "terminology project",
+            "terminology",
+            "thought",
+            "sibjo",
+            "really"
+        ],
+        "trends": [
+            "terminology",
+            "summit",
+            "together",
+            "thought",
+            "really",
+            "mean",
+            "happy"
+        ]
+    },
+    {
+        "sentence": [
+            "I think it's really important within industry for us to get together and decide what's meaningful to us, what's moral to us, what makes sense to us in our sort of informal or formal trade groups.",
+            "I think when we're talking about the FTC, I just always want to caution us from getting too caught up in our  own terminology because what actually matters legally is the federal government definitions, whether it's at the US level or an international level.",
+            "So I think it's important to keep both parallels going at the same time to interpret that text that we're getting from the government and to work it out amongst ourselves as things continue to change."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "really important within industry",
+            "formal trade groups",
+            "actually matters legally",
+            "federal government definitions",
+            "things continue",
+            "parallels going",
+            "makes sense"
+        ],
+        "trends": [
+            "us",
+            "think",
+            "level",
+            "getting",
+            "government",
+            "important",
+            "work"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think we do have to, of course, defer to the actual hard text at the federal level.",
+            "being completed?",
+            "jewelry guys to get published last time is that it was actually all written and done before the presidential change."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "get published last time",
+            "actual hard text",
+            "presidential change",
+            "jewelry guys",
+            "federal level",
+            "written",
+            "think"
+        ],
+        "trends": [
+            "presidential",
+            "last",
+            "hard",
+            "level",
+            "course",
+            "defer",
+            "federal"
+        ]
+    },
+    {
+        "sentence": [
+            "But because the FTC commissioners are politically appointed and they do the final approval, it took two more years to get all those nominees in place and seated before they could just gavel and approve.",
+            "So our guess is that we'll hopefully see something by the end of Biden's first term.",
+            "So about a year from now is what we're hoping for, but we don't  No."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "hopefully see something",
+            "took two",
+            "politically appointed",
+            "ftc commissioners",
+            "first term",
+            "final approval",
+            "years"
+        ],
+        "trends": [
+            "years",
+            "approval",
+            "first",
+            "term",
+            "something",
+            "see",
+            "biden"
+        ]
+    },
+    {
+        "sentence": [
+            "Okay.",
+            "Fair enough.",
+            "Thank you."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fair enough",
+            "thank",
+            "okay"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "I actually wanted a bit about your background because I know that you've been in the jewelry industry for a while.",
+            "And your first role was at Cibjo.",
+            "Is that your first role in the industry?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "first role",
+            "first role",
+            "actually wanted",
+            "jewelry industry",
+            "industry",
+            "know",
+            "cibjo"
+        ],
+        "trends": [
+            "role",
+            "first",
+            "industry",
+            "cibjo",
+            "wanted",
+            "know",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "Was it Cibjo?",
+            "Is that correct?",
+            "I'm actually I cannot claim to have been in the industry for a while."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "cannot claim",
+            "industry",
+            "correct",
+            "cibjo",
+            "actually"
+        ],
+        "trends": [
+            "industry",
+            "claim",
+            "actually"
+        ]
+    },
+    {
+        "sentence": [
+            "I have so much respect for people been in this industry for decades, not to say generations.",
+            "So I've been in this role at the JBC for just over six years.",
+            "So as much as I fall in love with it and have learned so much and feel so steeped in it, I also acknowledge  What's been your impression of the industry in those years?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "say generations",
+            "also acknowledge",
+            "six years",
+            "much respect",
+            "years",
+            "much",
+            "much"
+        ],
+        "trends": [
+            "years",
+            "industry",
+            "much",
+            "say",
+            "respect",
+            "people",
+            "decades"
+        ]
+    },
+    {
+        "sentence": [
+            "superficial.",
+            "It's so many different things and it's so global and there's so many different people around the world.",
+            "When you look at what our supply chain really is and end to end is fascinating."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "many different people around",
+            "many different things",
+            "supply chain really",
+            "world",
+            "superficial",
+            "look",
+            "global"
+        ],
+        "trends": [
+            "many",
+            "different",
+            "end",
+            "supply",
+            "really",
+            "look",
+            "world"
+        ]
+    },
+    {
+        "sentence": [
+            "I feel like I'll never fully understand it and it's really fun to work with different types of people here in the US and around the world, you know, with this the end goal of beautiful art that means so much emotionally to so many people around the world.",
+            "So  I love it and I love all the intersections of science and art and business and politics.",
+            "It's an amazing lens through which to see so many different aspects of our world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "never fully understand",
+            "many different aspects",
+            "many people around",
+            "different types",
+            "really fun",
+            "much emotionally",
+            "feel like"
+        ],
+        "trends": [
+            "world",
+            "around",
+            "people",
+            "love",
+            "many",
+            "different",
+            "art"
+        ]
+    },
+    {
+        "sentence": [
+            "The community has been incredibly welcoming given that there are people who, you know, are very well positioned and don't need to be as nice to me as they are by any stretch of the imagination.",
+            "And people, it's really fun.",
+            "I've worked in different industries."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "incredibly welcoming given",
+            "well positioned",
+            "really fun",
+            "different industries",
+            "worked",
+            "stretch",
+            "people"
+        ],
+        "trends": [
+            "given",
+            "imagination",
+            "incredibly",
+            "need",
+            "people",
+            "worked",
+            "industries"
+        ]
+    },
+    {
+        "sentence": [
+            "Many people do not like their jobs, no matter how much money they make.",
+            "It's really fun to work  work with people who care.",
+            "It's hard to get people to retire from this industry, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "work work",
+            "really fun",
+            "much money",
+            "many people",
+            "get people",
+            "people",
+            "right"
+        ],
+        "trends": [
+            "people",
+            "work",
+            "retire",
+            "get",
+            "care",
+            "really",
+            "fun"
+        ]
+    },
+    {
+        "sentence": [
+            "That's not true like anywhere else.",
+            "It's fun for people to welcome me, to be welcomed into the world that people have built around their businesses.",
+            "And it's been, it's felt high stakes many times because there are some very, when conflict comes in our industry, it's very real."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "felt high stakes many times",
+            "true like anywhere else",
+            "conflict comes",
+            "built around",
+            "world",
+            "welcomed",
+            "welcome"
+        ],
+        "trends": [
+            "people",
+            "else",
+            "comes",
+            "conflict",
+            "felt",
+            "high",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "It has very real world impacts.",
+            "So it can be stressful at times as well.",
+            "But anyway, I won't go on and on, but so far, so good."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "real world impacts",
+            "well",
+            "times",
+            "stressful",
+            "good",
+            "go",
+            "far"
+        ],
+        "trends": [
+            "well",
+            "times",
+            "world",
+            "real",
+            "impacts",
+            "wo",
+            "good"
+        ]
+    },
+    {
+        "sentence": [
+            "guidance to the whole range of.",
+            "Yeah, I think we're different in that, or jewelry itself is different because we have, as we all like, a lot of people like to joke, like there's a zillion industry organizations, right?",
+            "There's like a million acronyms in the US."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "zillion industry organizations",
+            "whole range",
+            "million acronyms",
+            "people like",
+            "like",
+            "like",
+            "like"
+        ],
+        "trends": [
+            "like",
+            "different",
+            "right",
+            "people",
+            "million",
+            "us",
+            "acronyms"
+        ]
+    },
+    {
+        "sentence": [
+            "I mean, every country, it's like there's so many industry organizations.",
+            "I think what I've seen many other industries, it's a bit more consolidated.",
+            "So something like JVC that does the purpose of JVC might live inside of like a larger industry organization and function as like the public affairs and policy."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jvc might live inside",
+            "larger industry organization",
+            "many industry organizations",
+            "something like jvc",
+            "seen many",
+            "public affairs",
+            "every country"
+        ],
+        "trends": [
+            "like",
+            "industry",
+            "jvc",
+            "many",
+            "bit",
+            "consolidated",
+            "industries"
+        ]
+    },
+    {
+        "sentence": [
+            "Margins are famously a big issue for the jewelry industry.",
+            "Do you feel that the JVC in some ways enables industry members to get legal guidance without having to, they would otherwise be spending more on their own private legal advice?",
+            "I appreciate it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get legal guidance without",
+            "ways enables industry members",
+            "private legal advice",
+            "jewelry industry",
+            "would otherwise",
+            "big issue",
+            "spending"
+        ],
+        "trends": [
+            "legal",
+            "enables",
+            "feel",
+            "get",
+            "guidance",
+            "industry",
+            "jewelry"
+        ]
+    },
+    {
+        "sentence": [
+            "We feel that way strongly.",
+            "You know, we were for someone has a specific intellectual property concern.",
+            "We're not a law firm."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "specific intellectual property concern",
+            "way strongly",
+            "law firm",
+            "someone",
+            "know",
+            "feel"
+        ],
+        "trends": [
+            "way",
+            "strongly",
+            "feel",
+            "specific",
+            "someone",
+            "property",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "We're not practicing law individually at the JBC.",
+            "We're doing something much bigger.",
+            "So we would refer people out to like an individual IP practitioner."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would refer people",
+            "something much bigger",
+            "practicing law individually",
+            "individual ip practitioner",
+            "like",
+            "jbc"
+        ],
+        "trends": [
+            "something",
+            "much",
+            "bigger",
+            "would",
+            "refer",
+            "practitioner",
+            "practicing"
+        ]
+    },
+    {
+        "sentence": [
+            "We could give them some general guidance and make sure that they really actually need to engage someone before they do that.",
+            "And I think that's valuable.",
+            "But we're fighting for these larger concerns."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really actually need",
+            "make sure",
+            "larger concerns",
+            "general guidance",
+            "engage someone",
+            "could give",
+            "valuable"
+        ],
+        "trends": [
+            "sure",
+            "someone",
+            "really",
+            "need",
+            "make",
+            "guidance",
+            "give"
+        ]
+    },
+    {
+        "sentence": [
+            "Like we just talked about with sanctions and the Green Guide.",
+            "So not only is it good for margins on legal space,  I would say we're protecting your bottom line in a much larger way.",
+            "Hopefully you'll never know about it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "much larger way",
+            "would say",
+            "never know",
+            "legal space",
+            "green guide",
+            "bottom line",
+            "talked"
+        ],
+        "trends": [
+            "would",
+            "legal",
+            "talked",
+            "green",
+            "sanctions",
+            "guide",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "You'll never have to worry about it.",
+            "You can sleep soundly while we worry and are working with the US government to prevent things from happening to our trade that you would have to spend money on dealing with.",
+            "You know, that can be complicated to communicate to people as a value proposition all the times the thing didn't go bad, right?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "value proposition",
+            "us government",
+            "spend money",
+            "sleep soundly",
+            "prevent things",
+            "go bad",
+            "would"
+        ],
+        "trends": [
+            "right",
+            "thing",
+            "communicate",
+            "complicated",
+            "go",
+            "know",
+            "people"
+        ]
+    },
+    {
+        "sentence": [
+            "But yeah, we see our value helping small organizations really get their footing on some of these issues.",
+            "And then we find that we're quite valuable to  to especially the general councils at some of these large companies and understanding the issues because I used to work at a big law firm, you know, when I first started out and a big law firm, they'll be happy to bill you some hours to learn from scratch what JVC already has down pat and can tell you in, you know, five seconds.",
+            "They'll be happy to bill you five hours at a thousand dollars an hour or whatever for that."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "value helping small organizations really get",
+            "big law firm",
+            "big law firm",
+            "thousand dollars",
+            "quite valuable",
+            "large companies",
+            "jvc already"
+        ],
+        "trends": [
+            "know",
+            "big",
+            "firm",
+            "law",
+            "bill",
+            "happy",
+            "hours"
+        ]
+    },
+    {
+        "sentence": [
+            "So we found that big to small, our members have found us useful and a positive financial impact.",
+            "Great.",
+            "And the JVC has also expanded quite a lot recently in terms  of people and also I launched a new website recently."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "positive financial impact",
+            "new website recently",
+            "found us useful",
+            "also expanded quite",
+            "lot recently",
+            "found",
+            "also"
+        ],
+        "trends": [
+            "also",
+            "recently",
+            "found",
+            "launched",
+            "members",
+            "us",
+            "big"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, we've rebranded.",
+            "We want to make sure that we're accessible, reachable to everyone.",
+            "That's why we exist."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "make sure",
+            "yeah",
+            "want",
+            "rebranded",
+            "reachable",
+            "exist",
+            "everyone"
+        ],
+        "trends": [
+            "want",
+            "sure",
+            "reachable",
+            "make",
+            "everyone",
+            "accessible"
+        ]
+    },
+    {
+        "sentence": [
+            "We're building on our team at a pace that we want to reach as many people as possible.",
+            "We'll be publishing two publications this year, as well as all the work that we talked about on the call today.",
+            "So we strive our best to make sure that we're living our mission."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "publishing two publications",
+            "many people",
+            "make sure",
+            "call today",
+            "year",
+            "work",
+            "well"
+        ],
+        "trends": [
+            "best",
+            "pace",
+            "building",
+            "want",
+            "team",
+            "living",
+            "year"
+        ]
+    },
+    {
+        "sentence": [
+            "Great.",
+            "Well, thank you very much, Tiffany Stevens of the JVC for joining us on the podcast.",
+            "It's been a very interesting discussion."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tiffany stevens",
+            "joining us",
+            "interesting discussion",
+            "well",
+            "thank",
+            "podcast",
+            "much"
+        ],
+        "trends": [
+            "well",
+            "us",
+            "tiffany",
+            "thank",
+            "stevens",
+            "podcast",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "I hope we'll hear more  from you and thank you once again.",
+            "Thank you so much for having me.",
+            "Thank you for listening to this episode of the Rappaport Diamond podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport diamond podcast",
+            "thank",
+            "thank",
+            "thank",
+            "much",
+            "listening",
+            "hope"
+        ],
+        "trends": [
+            "thank",
+            "hope",
+            "hear",
+            "rappaport",
+            "podcast",
+            "listening",
+            "episode"
+        ]
+    },
+    {
+        "sentence": [
+            "For more discussions, news and analysis about the diamond industry, visit us on Rappaport.com, follow Rappaport group on Instagram and follow Rappaport on YouTube, Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes.",
+            "you"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get future episodes",
+            "follow rappaport group",
+            "follow rappaport",
+            "visit us",
+            "diamond industry",
+            "rappaport",
+            "youtube"
+        ],
+        "trends": [
+            "rappaport",
+            "follow",
+            "youtube",
+            "visit",
+            "diamond",
+            "discussions",
+            "facebook"
+        ]
+    }
+]

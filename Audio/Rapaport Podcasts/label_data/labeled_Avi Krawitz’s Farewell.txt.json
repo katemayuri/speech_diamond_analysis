@@ -1,0 +1,2807 @@
+[
+    {
+        "sentence": [
+            " Welcome to the Rappaport Diamond Podcast and now your host, Sonja Estressoltani.",
+            "and the gemstones sold at the recent magnificent auctions that made the headlines and been very much talked about.",
+            "I am your host, Sonja Ester-Solteny, Editor-in-Chief at Rappaport."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "recent magnificent auctions",
+            "rappaport diamond podcast",
+            "sonja estressoltani",
+            "sonja ester",
+            "much talked",
+            "gemstones sold",
+            "rappaport"
+        ],
+        "trends": [
+            "sonja",
+            "rappaport",
+            "host",
+            "talked",
+            "sold",
+            "recent",
+            "welcome"
+        ]
+    },
+    {
+        "sentence": [
+            "To comment on these exciting topics, I have with me today the full team of Rappaport writers.",
+            "We have Lea Merovich, Senior News Writer.",
+            "Hey, nice to be here."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "senior news writer",
+            "rappaport writers",
+            "lea merovich",
+            "full team",
+            "exciting topics",
+            "today",
+            "nice"
+        ],
+        "trends": [
+            "writer",
+            "senior",
+            "writers",
+            "topics",
+            "today",
+            "team",
+            "rappaport"
+        ]
+    },
+    {
+        "sentence": [
+            "Joshua Friedman, our News Editor.",
+            "Nice to be here, Sonja.",
+            "And Avi Kravitz, our Senior Analyst."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "senior analyst",
+            "news editor",
+            "joshua friedman",
+            "avi kravitz",
+            "sonja",
+            "nice"
+        ],
+        "trends": [
+            "senior",
+            "kravitz",
+            "avi",
+            "analyst",
+            "news",
+            "joshua",
+            "friedman"
+        ]
+    },
+    {
+        "sentence": [
+            "Hello, Sonja.",
+            "Hello, Lea.",
+            "Joshua."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sonja",
+            "lea",
+            "joshua",
+            "hello",
+            "hello"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Great to be here.",
+            "So we're recording this podcast today  in the studio altogether.",
+            "It's getting a little bit emotional."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "little bit emotional",
+            "studio altogether",
+            "podcast today",
+            "recording",
+            "great",
+            "getting"
+        ],
+        "trends": [
+            "today",
+            "studio",
+            "recording",
+            "podcast",
+            "altogether",
+            "little",
+            "getting"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a bit of a bittersweet atmosphere for us because today is actually Avi's last day as a full-time employee at Rappaport after 16 years.",
+            "We'll miss you, Avi, as a friend, as a colleague.",
+            "We'll still be friends, Sonja."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "time employee",
+            "last day",
+            "bittersweet atmosphere",
+            "16 years",
+            "actually avi",
+            "avi",
+            "us"
+        ],
+        "trends": [
+            "atmosphere",
+            "bit",
+            "day",
+            "avi",
+            "friend",
+            "miss",
+            "colleague"
+        ]
+    },
+    {
+        "sentence": [
+            "Of course, of course we will.",
+            "And Avi has had a stellar career at Rappaport.",
+            "He's been covering the diamond industry in print, in podcasts, on webinars, live presentations at conferences,  over the world is such a well-known figure in the industry and is going to pursue new adventures."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pursue new adventures",
+            "stellar career",
+            "live presentations",
+            "known figure",
+            "diamond industry",
+            "industry",
+            "world"
+        ],
+        "trends": [
+            "industry",
+            "world",
+            "conferences",
+            "covering",
+            "diamond",
+            "figure",
+            "going"
+        ]
+    },
+    {
+        "sentence": [
+            "We're really excited to follow that from afar and close as well, obviously.",
+            "And stay tuned with us until the end of this episode, because we'll have an interview with Avi.",
+            "You know him already."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stay tuned",
+            "really excited",
+            "well",
+            "us",
+            "obviously",
+            "know",
+            "interview"
+        ],
+        "trends": [
+            "us",
+            "tuned",
+            "stay",
+            "well",
+            "really",
+            "obviously",
+            "interview"
+        ]
+    },
+    {
+        "sentence": [
+            "You might have met him at events.",
+            "He might have spoken to you, but do you really know the real Avi Kravitz?",
+            "Do I know the real Avi Kravitz?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "real avi kravitz",
+            "real avi kravitz",
+            "really know",
+            "know",
+            "spoken",
+            "might",
+            "might"
+        ],
+        "trends": [
+            "might",
+            "real",
+            "kravitz",
+            "know",
+            "avi",
+            "met",
+            "events"
+        ]
+    },
+    {
+        "sentence": [
+            "We'll find out.",
+            "So stay with us.",
+            "Try not to get too emotional today."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "emotional today",
+            "us",
+            "try",
+            "stay",
+            "get",
+            "find"
+        ],
+        "trends": [
+            "try",
+            "today",
+            "get",
+            "emotional"
+        ]
+    },
+    {
+        "sentence": [
+            "And talking about  Avi Kravitz, big epic ride.",
+            "How was Vegas?",
+            "Yeah, it's been a bit of a whirlwind few weeks."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "big epic ride",
+            "avi kravitz",
+            "yeah",
+            "whirlwind",
+            "weeks",
+            "vegas",
+            "talking"
+        ],
+        "trends": [
+            "yeah",
+            "whirlwind",
+            "weeks",
+            "bit",
+            "talking",
+            "ride",
+            "kravitz"
+        ]
+    },
+    {
+        "sentence": [
+            "I spent quite a few days in Vegas.",
+            "I was there before the show for a few days for some reason.",
+            "That's my lack of efficient planning."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "spent quite",
+            "efficient planning",
+            "vegas",
+            "show",
+            "reason",
+            "lack",
+            "days"
+        ],
+        "trends": [
+            "days",
+            "vegas",
+            "spent",
+            "quite",
+            "show",
+            "reason",
+            "planning"
+        ]
+    },
+    {
+        "sentence": [
+            "And then of course, during the show as well.",
+            "And it's been a while since I've been at the Vegas show.",
+            "I missed last year's event and it was just so nice to be there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "missed last year",
+            "vegas show",
+            "show",
+            "well",
+            "since",
+            "nice",
+            "event"
+        ],
+        "trends": [
+            "show",
+            "vegas",
+            "since",
+            "well",
+            "course",
+            "year",
+            "nice"
+        ]
+    },
+    {
+        "sentence": [
+            "And so there was such a great atmosphere and energy about  the shows.",
+            "That's my first takeaway from being in Las Vegas.",
+            "The JCK show of course, Couture, the antique shows and Luxury as well."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "las vegas",
+            "jck show",
+            "great atmosphere",
+            "first takeaway",
+            "antique shows",
+            "shows",
+            "well"
+        ],
+        "trends": [
+            "well",
+            "show",
+            "vegas",
+            "takeaway",
+            "las",
+            "shows",
+            "luxury"
+        ]
+    },
+    {
+        "sentence": [
+            "Luxury was a very good show.",
+            "It was just a very positive energy and I guess that's the reason they have it in Vegas because you can't be not in a good mood in Vegas unless you stay a little too long.",
+            "Then you start to get a bit itchy as I found out."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "positive energy",
+            "good show",
+            "good mood",
+            "bit itchy",
+            "vegas unless",
+            "vegas",
+            "stay"
+        ],
+        "trends": [
+            "vegas",
+            "ca",
+            "energy",
+            "good",
+            "bit",
+            "itchy",
+            "start"
+        ]
+    },
+    {
+        "sentence": [
+            "But being in Vegas itself, it was really great.",
+            "And the main thing  The thing about the show is the networking and the seeing old friends and meeting new people in the industry and being exposed to the full gambit of the American market and seeing how it ticks.",
+            "It was a good reminder that for me at least that the American jewelry market is alive and kicking."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "meeting new people",
+            "seeing old friends",
+            "american jewelry market",
+            "american market",
+            "really great",
+            "good reminder",
+            "full gambit"
+        ],
+        "trends": [
+            "american",
+            "thing",
+            "seeing",
+            "market",
+            "great",
+            "vegas",
+            "really"
+        ]
+    },
+    {
+        "sentence": [
+            "We know it's been a difficult year off the highs of 2021 and 2022 and certainly within the diamond trade.",
+            "It's been a struggle this year.",
+            "It's not an easy environment,  the shows at least demonstrate that there's this massive jewelry market out there in America that's alive and well and that was the other big takeaway for me from being at the shows and then from a trading point of view again you know my focus is generally on the diamond trading markets supply demand prices and that didn't change the shows didn't change the diamond industry sometimes they do sometimes these big trade events do change the dynamic of the market but this year the  the JCK show and the diamond trading didn't change the landscape."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond trading markets supply demand prices",
+            "diamond industry sometimes",
+            "massive jewelry market",
+            "big trade events",
+            "diamond trading",
+            "diamond trade",
+            "trading point"
+        ],
+        "trends": [
+            "diamond",
+            "change",
+            "shows",
+            "trading",
+            "big",
+            "market",
+            "sometimes"
+        ]
+    },
+    {
+        "sentence": [
+            "It's still tough as I'm sure Joshua will discuss and we'll discuss later in the podcast.",
+            "There's still a lot of inventory out there.",
+            "There's not enough demand."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "sure joshua",
+            "enough demand",
+            "still tough",
+            "discuss later",
+            "still",
+            "discuss",
+            "podcast"
+        ],
+        "trends": [
+            "discuss",
+            "still",
+            "lot",
+            "inventory",
+            "tough",
+            "sure",
+            "podcast"
+        ]
+    },
+    {
+        "sentence": [
+            "And so you did feel that from a diamond trading point of view.",
+            "And then the fourth aspect of the show is from a design point of view, which we had this discussion yesterday, Sonia, that I do still struggle a bit with the lingo.",
+            "It's still new for me after all these years in the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond trading point",
+            "design point",
+            "still struggle",
+            "still new",
+            "fourth aspect",
+            "discussion yesterday",
+            "years"
+        ],
+        "trends": [
+            "bit",
+            "still",
+            "view",
+            "point",
+            "feel",
+            "trading",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "But that's also what's so exciting about the jewelry industry is you see these innovative designs and the creativity of the industry, which was on full display at the various shows.",
+            "So it was an exciting week.",
+            "It really was."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "various shows",
+            "innovative designs",
+            "full display",
+            "jewelry industry",
+            "exciting week",
+            "industry",
+            "exciting"
+        ],
+        "trends": [
+            "industry",
+            "various",
+            "shows",
+            "see",
+            "jewelry",
+            "innovative",
+            "full"
+        ]
+    },
+    {
+        "sentence": [
+            "You did actually fantastic videos.",
+            "You interviewed emerging designers that benefited from the National Diamond Council, Lauren Schwartz scholarship that's going to be available on the Jewelry Corner, Sir, YouTube channel.",
+            "So you'll be able to see Avi doing a great job being a jewelry journalist."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "national diamond council",
+            "lauren schwartz scholarship",
+            "interviewed emerging designers",
+            "actually fantastic videos",
+            "youtube channel",
+            "see avi",
+            "jewelry journalist"
+        ],
+        "trends": [
+            "jewelry",
+            "able",
+            "see",
+            "avi",
+            "journalist",
+            "job",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "Shout out to the designers really, they were so fun to meet and those six designers, I'm not going to name each individually right now, but he said we will be publishing those interviews and they were such a fun group and such creative and exciting group to get to know and talk to.",
+            "And what do you think the whole show gives you as a preview of what's happening for the holiday season for the second half of the year?",
+            "Because from Vegas, that's it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "whole show gives",
+            "six designers",
+            "second half",
+            "individually right",
+            "holiday season",
+            "exciting group",
+            "designers really"
+        ],
+        "trends": [
+            "designers",
+            "fun",
+            "group",
+            "year",
+            "think",
+            "show",
+            "gives"
+        ]
+    },
+    {
+        "sentence": [
+            "We're already thinking all what is going to happen for the holiday season.",
+            "Is it going to be a good year?",
+            "or break the retail?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "holiday season",
+            "good year",
+            "already thinking",
+            "retail",
+            "happen",
+            "going",
+            "going"
+        ],
+        "trends": [
+            "going",
+            "year",
+            "good",
+            "thinking",
+            "season",
+            "holiday",
+            "happen"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, I think we can expect more of the same really.",
+            "As I said, it's from the diamond trading point of view, we're not expecting a sudden change in the trajectory of the market.",
+            "And there is a downward trend in polished prices in the general sentiment of the market."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "diamond trading point",
+            "sudden change",
+            "polished prices",
+            "general sentiment",
+            "downward trend",
+            "yeah",
+            "view"
+        ],
+        "trends": [
+            "market",
+            "diamond",
+            "expecting",
+            "point",
+            "yeah",
+            "really",
+            "expect"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think if we look towards the holiday season, well, let me take a step back.",
+            "That sort of negative tone within the diamond market is being influenced by a few things.",
+            "And the main thing  has been influenced is the economic caution and uncertainty that we're feeling both in America with the cost of living as higher inflation, rising interest rates, et cetera, that's having an effect on middle America."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "rising interest rates",
+            "negative tone within",
+            "step back",
+            "main thing",
+            "look towards",
+            "holiday season",
+            "higher inflation"
+        ],
+        "trends": [
+            "america",
+            "back",
+            "holiday",
+            "influenced",
+            "within",
+            "negative",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "The average household, their budget is being squeezed.",
+            "And so when that happens, the priority is not on discretionary spending, not to go out and buy jewelry ahead of those necessity items.",
+            "And so I think we can expect the numbers are down compared to last year and they probably  will be down compared to last year for the holiday season."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "buy jewelry ahead",
+            "necessity items",
+            "last year",
+            "last year",
+            "holiday season",
+            "discretionary spending",
+            "average household"
+        ],
+        "trends": [
+            "year",
+            "compared",
+            "last",
+            "buy",
+            "squeezed",
+            "average",
+            "budget"
+        ]
+    },
+    {
+        "sentence": [
+            "But again, like I said, that American market is so big and so diverse that it still remains sort of the mainstay for the global diamond industry.",
+            "And it's by no means dire.",
+            "There's still a strong foundation and we're still above pre-COVID level."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "global diamond industry",
+            "still remains sort",
+            "strong foundation",
+            "means dire",
+            "covid level",
+            "american market",
+            "still"
+        ],
+        "trends": [
+            "still",
+            "sort",
+            "said",
+            "remains",
+            "market",
+            "mainstay",
+            "like"
+        ]
+    },
+    {
+        "sentence": [
+            "So that's the encouraging bit.",
+            "So that's quite good news.",
+            "Joshua, tell us, you mentioned the price of polished diamonds."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "quite good news",
+            "tell us",
+            "polished diamonds",
+            "encouraging bit",
+            "price",
+            "mentioned",
+            "joshua"
+        ],
+        "trends": [
+            "quite",
+            "news",
+            "good",
+            "us",
+            "tell",
+            "price",
+            "polished"
+        ]
+    },
+    {
+        "sentence": [
+            "What's happening for,  From a larger market perspective, what did you see recently that has an impact on pricing?",
+            "one of the things that seems to be happening at the moment is that even engagement ring spending has fallen and Signet jewelers put out a report in which they claimed that this is a long term effect of COVID, that there was less dating during the lockdowns and three years later or two or three years later, we're kind of seeing the effect of that.",
+            "There are now fewer engagements and we saw some pretty negative figures from Signet in the first fiscal quarter, but they did also predict a bit of a recovery later in this year or next year."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "even engagement ring spending",
+            "pretty negative figures",
+            "larger market perspective",
+            "first fiscal quarter",
+            "three years later",
+            "three years later",
+            "signet jewelers put"
+        ],
+        "trends": [
+            "later",
+            "years",
+            "three",
+            "effect",
+            "year",
+            "signet",
+            "happening"
+        ]
+    },
+    {
+        "sentence": [
+            "So I think that might be influencing why things are so weak at the moment.",
+            "And yeah, Polish prices  been falling and all of this has an effect all the way down the industry.",
+            "So rough prices have also declined, the beers reduced prices at their site in June and manufacturers, you speak to say they've really been struggling with sales recently, reducing their polished production, but still hopeful that things will improve in the next few months."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "beers reduced prices",
+            "rough prices",
+            "polish prices",
+            "still hopeful",
+            "sales recently",
+            "polished production",
+            "also declined"
+        ],
+        "trends": [
+            "prices",
+            "things",
+            "effect",
+            "falling",
+            "industry",
+            "weak",
+            "think"
+        ]
+    },
+    {
+        "sentence": [
+            "Sonja, maybe this is a question for you.",
+            "You know, we talk about the bridal being the mainstay of the industry, but I'm not sure that's completely true anymore.",
+            "And I think one of the themes that came through in Vegas in a number of discussions  was the female self purchaser."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "female self purchaser",
+            "completely true anymore",
+            "think one",
+            "vegas",
+            "themes",
+            "talk",
+            "sure"
+        ],
+        "trends": [
+            "anymore",
+            "industry",
+            "bridal",
+            "talk",
+            "sure",
+            "completely",
+            "true"
+        ]
+    },
+    {
+        "sentence": [
+            "Hooray!",
+            "Absolutely, that's really been the driver of growth in the last few years.",
+            "And I'm just wondering if that might be a bit of a lifeline for the industry in a negative market, that there is that sort of sense of rewarding oneself with, you know, buying jewelry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rewarding oneself",
+            "negative market",
+            "buying jewelry",
+            "years",
+            "wondering",
+            "sort",
+            "sense"
+        ],
+        "trends": [
+            "oneself",
+            "negative",
+            "might",
+            "market",
+            "years",
+            "really",
+            "driver"
+        ]
+    },
+    {
+        "sentence": [
+            "And by the way, there's a growing trend of men's jewelry as well, that men are buying jewelry for themselves also.",
+            "And so I'm just questioning  I mean, of course, bridal is such a, is a big part of the industry, but I'm not sure if it's that bedrock that's really driving the industry as it used to.",
+            "In the latest Rappaport magazine, the major issue that you can find on the Rappaport.com, Martin Rappaport interviewed Lisa Bridge of Bend Bridge drawers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "martin rappaport interviewed lisa bridge",
+            "bend bridge drawers",
+            "latest rappaport magazine",
+            "really driving",
+            "major issue",
+            "growing trend",
+            "big part"
+        ],
+        "trends": [
+            "bridge",
+            "rappaport",
+            "industry",
+            "jewelry",
+            "men",
+            "really",
+            "questioning"
+        ]
+    },
+    {
+        "sentence": [
+            "And she said something that is exactly matches what you just mentioned, Avi, that the self-purchase buyer is actually taking over the bridal market.",
+            "And they notice it as a big market.",
+            "retailer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "said something",
+            "purchase buyer",
+            "exactly matches",
+            "bridal market",
+            "big market",
+            "actually taking",
+            "self"
+        ],
+        "trends": [
+            "taking",
+            "something",
+            "said",
+            "mentioned",
+            "matches",
+            "exactly",
+            "buyer"
+        ]
+    },
+    {
+        "sentence": [
+            "That's what we've noticed as well.",
+            "If you look at the trends that were at Couture, which is the show that I've been following the most from the fall, I would say bridal is very limited.",
+            "Actually, it's really self purchasing."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would say bridal",
+            "really self purchasing",
+            "well",
+            "trends",
+            "show",
+            "noticed",
+            "look"
+        ],
+        "trends": [
+            "would",
+            "trends",
+            "show",
+            "say",
+            "look",
+            "limited",
+            "self"
+        ]
+    },
+    {
+        "sentence": [
+            "It's like the cool earrings to go partying.",
+            "It's the necklace that you stack.",
+            "It's the beautiful bangles."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "go partying",
+            "cool earrings",
+            "beautiful bangles",
+            "stack",
+            "necklace",
+            "like"
+        ],
+        "trends": [
+            "partying",
+            "like",
+            "go",
+            "earrings",
+            "cool"
+        ]
+    },
+    {
+        "sentence": [
+            "It's like creating a story on your wrist.",
+            "It's creating a story on your body and of celebrating events, connection, milestones, and it has nothing to do with bridal, which I think is very, very exciting.",
+            "If you look  most of the designers that were exhibiting, I would think very few were actually bridal designers."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "actually bridal designers",
+            "celebrating events",
+            "would think",
+            "like creating",
+            "designers",
+            "bridal",
+            "think"
+        ],
+        "trends": [
+            "creating",
+            "think",
+            "bridal",
+            "designers",
+            "story",
+            "actually",
+            "would"
+        ]
+    },
+    {
+        "sentence": [
+            "Yeah, in fact, you know, I mean, Hot and Fire put out a new bridal collection and that was like sort of a big a big move for them.",
+            "I think it was their first global bridal collection, meaning that they they're not sort of curating their collections for each individual market, which is kind of interesting.",
+            "But apart from that, the emphasis at the show, as you mentioned, you know, when you walk the floors of Coteuil and of luxury  It's more about fashion and creative design than specifically bridal."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "first global bridal collection",
+            "new bridal collection",
+            "specifically bridal",
+            "individual market",
+            "fire put",
+            "creative design",
+            "like sort"
+        ],
+        "trends": [
+            "bridal",
+            "big",
+            "sort",
+            "collection",
+            "know",
+            "yeah",
+            "put"
+        ]
+    },
+    {
+        "sentence": [
+            "Which is good for the industries.",
+            "It's good news.",
+            "So, Joshua, I'm also going to take a page from your book."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "also going",
+            "good news",
+            "good",
+            "take",
+            "page",
+            "joshua",
+            "industries"
+        ],
+        "trends": [
+            "take",
+            "page",
+            "joshua",
+            "going",
+            "book",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "Usually I'm the one who maybe is over-optimistic.",
+            "So we tried to find a happy medium, but there was some really good news.",
+            "This one, I can't lie, from the magnificent auction sales in New York recently."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really good news",
+            "new york recently",
+            "magnificent auction sales",
+            "happy medium",
+            "usually",
+            "tried",
+            "optimistic"
+        ],
+        "trends": [
+            "one",
+            "usually",
+            "medium",
+            "tried",
+            "find",
+            "really",
+            "news"
+        ]
+    },
+    {
+        "sentence": [
+            "Leah, tell us, there were some quite phenomenal stones there.",
+            "There actually were.",
+            "And it's a good thing because in the fall auctions last year,  There really wasn't a whole lot of big items to talk about and people were really looking forward to the spring auctions bringing a lot more into play."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fall auctions last year",
+            "spring auctions bringing",
+            "quite phenomenal stones",
+            "really looking forward",
+            "tell us",
+            "good thing",
+            "big items"
+        ],
+        "trends": [
+            "auctions",
+            "really",
+            "lot",
+            "big",
+            "bringing",
+            "fall",
+            "leah"
+        ]
+    },
+    {
+        "sentence": [
+            "Hong Kong was okay.",
+            "Geneva was much better, but New York really had a lot to show.",
+            "In Christie's Magnificent Jules Auction, which was on June 7th, their top seller was the Piece of Light Diamond, which is a pair brilliant cut 126.76 carat D-color  internally flawless diamond that used to belong to the Zayel family."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "pair brilliant cut 126",
+            "color internally flawless diamond",
+            "new york really",
+            "magnificent jules auction",
+            "light diamond",
+            "zayel family",
+            "top seller"
+        ],
+        "trends": [
+            "diamond",
+            "better",
+            "show",
+            "really",
+            "new",
+            "much",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "And that diamond actually part of it's what it sold for, which was 13.6 million went to benefit charities and it was sold without reserve.",
+            "So it made a really nice price.",
+            "But I think really the big sellers were at the Sotheby's New York Magnificent Jewels auction where they had the Estrella de Fura, which is a 55.22 carat Mozambique Ruby, which  sold for $34.8 million and it set a world record for the top price for any color gemstone."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new york magnificent jewels auction",
+            "22 carat mozambique ruby",
+            "estrella de fura",
+            "diamond actually part",
+            "6 million went",
+            "really nice price",
+            "sold without reserve"
+        ],
+        "trends": [
+            "sold",
+            "million",
+            "actually",
+            "diamond",
+            "part",
+            "charities",
+            "price"
+        ]
+    },
+    {
+        "sentence": [
+            "That one was estimated at $30 million, more than $30 million, so it beat that estimate.",
+            "And meanwhile, matching the same price, which is unusual, $34.8 million, was the Eternal Pink, which was a cushion cut, 10.57 carat fancy, vivid purplish pink, internally flawless diamond.",
+            "And that one also  a record for the highest price for any diamond of that color and also a record per carat price, which was 3.3 million per carat."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "3 million per carat",
+            "record per carat price",
+            "57 carat fancy",
+            "vivid purplish pink",
+            "internally flawless diamond",
+            "eternal pink",
+            "8 million"
+        ],
+        "trends": [
+            "million",
+            "carat",
+            "price",
+            "one",
+            "pink",
+            "diamond",
+            "also"
+        ]
+    },
+    {
+        "sentence": [
+            "And it is also the first time that two gems sold for more than 30 million in the same auction.",
+            "So we hit a lot of records there.",
+            "Let me ask you, if you had to choose one piece to own from those auctions, which would you choose?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two gems sold",
+            "choose one piece",
+            "first time",
+            "30 million",
+            "choose",
+            "would",
+            "records"
+        ],
+        "trends": [
+            "choose",
+            "lot",
+            "records",
+            "also",
+            "time",
+            "sold",
+            "auction"
+        ]
+    },
+    {
+        "sentence": [
+            "Oh, from those three?",
+            "I probably would go for the Estrella de Fiora ruby.",
+            "I would also think I thought it was such a rich  color."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "estrella de fiora ruby",
+            "would also think",
+            "probably would go",
+            "rich color",
+            "three",
+            "thought",
+            "oh"
+        ],
+        "trends": [
+            "would",
+            "thought",
+            "think",
+            "rich",
+            "ruby",
+            "probably",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "Beautiful.",
+            "It's gorgeous.",
+            "Yeah."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "yeah",
+            "gorgeous",
+            "beautiful"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And pink's not my color.",
+            "So now Joshua and I, we have to fight over the pink one because that's the one I would like to take home.",
+            "I'll take the gavel."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "would like",
+            "take home",
+            "pink one",
+            "take",
+            "pink",
+            "one",
+            "joshua"
+        ],
+        "trends": [
+            "one",
+            "would",
+            "take",
+            "pink",
+            "like",
+            "joshua",
+            "home"
+        ]
+    },
+    {
+        "sentence": [
+            "Actually.",
+            "I thought you were going to go for the white diamond, at least the zelle diamond.",
+            "It went to charity."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "zelle diamond",
+            "white diamond",
+            "went",
+            "thought",
+            "least",
+            "going",
+            "go"
+        ],
+        "trends": [
+            "diamond",
+            "zelle",
+            "white",
+            "thought",
+            "least",
+            "going",
+            "go"
+        ]
+    },
+    {
+        "sentence": [
+            "It was a good season.",
+            "It was also a good season in Geneva.",
+            "We mentioned in a previous episode, the big sale, the Houghton, Heidi Houghton sale did very, very well in spite of the controversy or maybe because of the controversy."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "heidi houghton sale",
+            "big sale",
+            "previous episode",
+            "good season",
+            "good season",
+            "houghton",
+            "well"
+        ],
+        "trends": [
+            "sale",
+            "houghton",
+            "controversy",
+            "well",
+            "spite",
+            "previous",
+            "mentioned"
+        ]
+    },
+    {
+        "sentence": [
+            "And interestingly, actually, Lea, as you know, the new  Estrella de Fura is no more expensive than the Sunrise Ruby.",
+            "Am I correct?",
+            "It is indeed."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "new estrella de fura",
+            "sunrise ruby",
+            "lea",
+            "know",
+            "interestingly",
+            "indeed",
+            "expensive"
+        ],
+        "trends": [
+            "sunrise",
+            "ruby",
+            "new",
+            "lea",
+            "know",
+            "interestingly",
+            "fura"
+        ]
+    },
+    {
+        "sentence": [
+            "Actually, I think the Sunrise Ruby sold for 32.6 million and this one was 34.8.",
+            "It set a new record.",
+            "I must say, looking at it, it's totally worth it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "sunrise ruby sold",
+            "totally worth",
+            "new record",
+            "must say",
+            "6 million",
+            "think",
+            "set"
+        ],
+        "trends": [
+            "think",
+            "sunrise",
+            "set",
+            "record",
+            "new",
+            "worth",
+            "totally"
+        ]
+    },
+    {
+        "sentence": [
+            "It is a beautiful gem.",
+            "If you haven't looked at it, please read our story on Rappaport.com.",
+            "There is a nice big picture in the top."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "nice big picture",
+            "please read",
+            "beautiful gem",
+            "top",
+            "story",
+            "rappaport",
+            "looked"
+        ],
+        "trends": [
+            "story",
+            "read",
+            "please",
+            "looked",
+            "top",
+            "picture",
+            "nice"
+        ]
+    },
+    {
+        "sentence": [
+            "You will really love it.",
+            "Lovely.",
+            "Thank you so much, Lea."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "really love",
+            "thank",
+            "much",
+            "lovely",
+            "lea"
+        ],
+        "trends": [
+            "thank",
+            "much",
+            "lea"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks, Joshua.",
+            "Now we have a victim, also known as a guest.",
+            "called Avi Kravitz who's not here now anymore, almost, as our senior analyst, but as our dear friend."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "called avi kravitz",
+            "senior analyst",
+            "dear friend",
+            "also known",
+            "victim",
+            "thanks",
+            "joshua"
+        ],
+        "trends": [
+            "victim",
+            "senior",
+            "kravitz",
+            "friend",
+            "dear",
+            "called",
+            "avi"
+        ]
+    },
+    {
+        "sentence": [
+            "I was going to carry on contributing to the Rappaport research report.",
+            "You'll see his byline in a magazine as well.",
+            "And I'm sure we'll do other projects as the years go by."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "rappaport research report",
+            "years go",
+            "well",
+            "sure",
+            "see",
+            "projects",
+            "magazine"
+        ],
+        "trends": [
+            "well",
+            "see",
+            "magazine",
+            "byline",
+            "research",
+            "report",
+            "years"
+        ]
+    },
+    {
+        "sentence": [
+            "And of course, follow him on all the social media platform that you can find him, LinkedIn, Instagram.",
+            "So for the second half of this podcast, we're just going to ask Avi questions.",
+            "It's going to be quick fire and Lea will start asking Avi questions."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "start asking avi questions",
+            "ask avi questions",
+            "social media platform",
+            "second half",
+            "quick fire",
+            "podcast",
+            "linkedin"
+        ],
+        "trends": [
+            "going",
+            "avi",
+            "questions",
+            "asking",
+            "fire",
+            "start",
+            "ask"
+        ]
+    },
+    {
+        "sentence": [
+            "A question he doesn't know the questions we're going to ask him.",
+            "And Avi, please keep your answers quick and sorry.",
+            "I'll reserve the right to not answer the questions as well."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "please keep",
+            "answers quick",
+            "well",
+            "sorry",
+            "right",
+            "reserve",
+            "questions"
+        ],
+        "trends": [
+            "questions",
+            "sorry",
+            "well",
+            "right",
+            "reserve",
+            "answer",
+            "question"
+        ]
+    },
+    {
+        "sentence": [
+            "How about that?",
+            "Oh, you know loud.",
+            "That's not part of the..."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "know loud",
+            "part",
+            "oh",
+            "..."
+        ],
+        "trends": [
+            "oh",
+            "loud",
+            "know"
+        ]
+    },
+    {
+        "sentence": [
+            "Imagine if Auguste said that to us.",
+            "Don't set a precedent.",
+            "So I have so many questions, but I think I'm limited here."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "many questions",
+            "auguste said",
+            "us",
+            "think",
+            "set",
+            "precedent",
+            "limited"
+        ],
+        "trends": [
+            "us",
+            "said",
+            "imagine",
+            "auguste",
+            "think",
+            "questions",
+            "many"
+        ]
+    },
+    {
+        "sentence": [
+            "So Avi, I want to know in all of your 16 years, what was your favorite topic that you covered during your time with Rappaport?",
+            "That's a tough question.",
+            "I think initially I was always fascinated by the rough market and the mining sector."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "tough question",
+            "think initially",
+            "rough market",
+            "mining sector",
+            "favorite topic",
+            "always fascinated",
+            "16 years"
+        ],
+        "trends": [
+            "initially",
+            "rappaport",
+            "want",
+            "mining",
+            "rough",
+            "fascinated",
+            "market"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm a bit of a data junkie, as many of you know, and I can kind of get lost in an Excel sheet.",
+            "And so the mining sector really gave good data and information that helped me understand the market or at least understand that that had a nice structure that fitted my personality, I think.",
+            "But over the years, I think I've kind of diversified and I've  I've come to appreciate the design aspect of it, even if I don't speak that lingo so fluently just yet."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "mining sector really gave good data",
+            "data junkie",
+            "nice structure",
+            "get lost",
+            "excel sheet",
+            "design aspect",
+            "least understand"
+        ],
+        "trends": [
+            "understand",
+            "data",
+            "think",
+            "kind",
+            "excel",
+            "junkie",
+            "get"
+        ]
+    },
+    {
+        "sentence": [
+            "But generally, the analysis always stemmed from the rough market and that mining sector, which I kind of have a soft spot for.",
+            "If you could write any story that's no problem of access, money, time, which story would you write about this industry?",
+            "The industry is so blessed with content."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "analysis always stemmed",
+            "soft spot",
+            "rough market",
+            "mining sector",
+            "story would",
+            "could write",
+            "write"
+        ],
+        "trends": [
+            "industry",
+            "write",
+            "story",
+            "content",
+            "mining",
+            "generally",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "And the older I get and the wiser I get, I think the people  in the industry have the stories to tell and I think that's what's not explored enough.",
+            "And so I think there are everyday stories of people who are affected by the industry every day that I think are so...",
+            "I think there's opportunity to explore that sort of rich content that's out there and I think that's where my focus would be if I had that opportunity."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "industry every day",
+            "rich content",
+            "focus would",
+            "explored enough",
+            "everyday stories",
+            "industry",
+            "stories"
+        ],
+        "trends": [
+            "think",
+            "people",
+            "industry",
+            "stories",
+            "opportunity",
+            "get",
+            "older"
+        ]
+    },
+    {
+        "sentence": [
+            "I wanted to say how much I idolize Avi in everything but the literal sense.",
+            "My question for you is, what is your favorite destination that this job has taken you to?",
+            "than other destinations."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "literal sense",
+            "idolize avi",
+            "favorite destination",
+            "wanted",
+            "taken",
+            "say",
+            "question"
+        ],
+        "trends": [
+            "taken",
+            "question",
+            "wanted",
+            "sense",
+            "say",
+            "much",
+            "literal"
+        ]
+    },
+    {
+        "sentence": [
+            "But I think my favorite destination that I've got to, that I've been exposed to and got to know has been India.",
+            "And I look forward to exploring India as a country and as a culture on a broader scale.",
+            "That's something that I haven't done yet."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "look forward",
+            "favorite destination",
+            "done yet",
+            "broader scale",
+            "exploring india",
+            "india",
+            "think"
+        ],
+        "trends": [
+            "india",
+            "got",
+            "done",
+            "something",
+            "forward",
+            "country",
+            "culture"
+        ]
+    },
+    {
+        "sentence": [
+            "It's always been very industry specific, but there's again, there's so much to, there's so much color and richness there that I find just walking the streets that I always found just so fascinating.",
+            "and always loved visiting India and I would come home exhausted, needing a vacation.",
+            "It's definitely a destination that I look forward to exploring more of."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "would come home exhausted",
+            "always loved visiting india",
+            "always found",
+            "look forward",
+            "industry specific",
+            "much color",
+            "always"
+        ],
+        "trends": [
+            "always",
+            "much",
+            "come",
+            "exhausted",
+            "home",
+            "would",
+            "look"
+        ]
+    },
+    {
+        "sentence": [
+            "So Avi, is there any story that's come in over the last 16 years that completely shocked you?",
+            "Wow, there have been a few that we've, as a team, had a good laugh about.",
+            "I don't know if I want to mention any of them."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last 16 years",
+            "good laugh",
+            "completely shocked",
+            "wow",
+            "want",
+            "team",
+            "story"
+        ],
+        "trends": [
+            "want",
+            "mention",
+            "know",
+            "years",
+            "story",
+            "shocked",
+            "wow"
+        ]
+    },
+    {
+        "sentence": [
+            "It's a family show, this.",
+            "I'll tell you, I think, you know, the latest round  to look at it on a more serious market related with the Russia-Ukraine war and having El Rosa, which is such an important producer and that we've developed relationships with the people in El Rosa and to have Russian goods off the market.",
+            "I remember, I think it was a few years back during the Crimea war, there was an initial sort of tension between Russia and Ukraine and there was a hint that El Rosa would be sanctioned."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "serious market related",
+            "el rosa would",
+            "el rosa",
+            "el rosa",
+            "years back",
+            "russian goods",
+            "latest round"
+        ],
+        "trends": [
+            "el",
+            "rosa",
+            "market",
+            "war",
+            "think",
+            "years",
+            "russia"
+        ]
+    },
+    {
+        "sentence": [
+            "And I thought to myself, wow, that's radical.",
+            "That's completely, how could that happen?",
+            "And it didn't happen at the time."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "wow",
+            "time",
+            "thought",
+            "radical",
+            "happen",
+            "happen",
+            "could"
+        ],
+        "trends": [
+            "happen",
+            "could",
+            "completely",
+            "wow",
+            "thought",
+            "radical"
+        ]
+    },
+    {
+        "sentence": [
+            "And then now that it has happened, I think it's really something that's, it's not that it's shocking, it's just really shocked the market to an extent that I don't think we all have fully understood yet.",
+            "And so I would rank that somewhere along, you know, among those stories, but the kind of the beauty of this industry and the job that we do when I tell people that I'm a  journalists covering the diamond industry.",
+            "They always look at me and immediately ask the question like, wow, do you have what to write every day?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "write every day",
+            "fully understood yet",
+            "would rank",
+            "tell people",
+            "somewhere along",
+            "really something",
+            "really shocked"
+        ],
+        "trends": [
+            "industry",
+            "really",
+            "think",
+            "along",
+            "beauty",
+            "know",
+            "job"
+        ]
+    },
+    {
+        "sentence": [
+            "Are you busy?",
+            "And I say to them, you have no idea the scope of the diamond industry and the diversity of topic that we cover.",
+            "And that's very special."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "diamond industry",
+            "topic",
+            "special",
+            "scope",
+            "say",
+            "idea",
+            "diversity"
+        ],
+        "trends": [
+            "topic",
+            "scope",
+            "say",
+            "industry",
+            "idea",
+            "diversity",
+            "diamond"
+        ]
+    },
+    {
+        "sentence": [
+            "It's such a unique and fun industry to cover.",
+            "It's, you know, I think we can really be, you know, count ourselves lucky in that sense.",
+            "Am I keeping it brief enough?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fun industry",
+            "brief enough",
+            "unique",
+            "think",
+            "sense",
+            "really",
+            "lucky"
+        ],
+        "trends": [
+            "know",
+            "keeping",
+            "enough",
+            "brief",
+            "unique",
+            "think",
+            "sense"
+        ]
+    },
+    {
+        "sentence": [
+            "Not really, but that's okay.",
+            "playing bad overalls to the heavy.",
+            "Actually on this note, I wanted to ask you, have you ever been disappointed in the industry in the 16 years?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "playing bad overalls",
+            "16 years",
+            "wanted",
+            "really",
+            "okay",
+            "note",
+            "industry"
+        ],
+        "trends": [
+            "playing",
+            "overalls",
+            "years",
+            "wanted",
+            "note",
+            "industry",
+            "ever"
+        ]
+    },
+    {
+        "sentence": [
+            "Because I know your passion, I think we all feel it, we all know it.",
+            "People who've been listening to you for years know it and know you, but has there been one moment where you've been disappointed?",
+            "Well, you journalists really ask the tough questions, right?"
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "journalists really ask",
+            "tough questions",
+            "one moment",
+            "years know",
+            "know",
+            "know",
+            "know"
+        ],
+        "trends": [
+            "know",
+            "passion",
+            "feel",
+            "think",
+            "well",
+            "journalists",
+            "ask"
+        ]
+    },
+    {
+        "sentence": [
+            "Again, referring back to the Russia crisis, just over a year ago, the industry was, I think, a little slow.",
+            "in responding.",
+            "It's difficult to say if I was disappointed in the industry at any point."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "year ago",
+            "russia crisis",
+            "referring back",
+            "little slow",
+            "think",
+            "say",
+            "responding"
+        ],
+        "trends": [
+            "industry",
+            "year",
+            "think",
+            "slow",
+            "russia",
+            "referring",
+            "say"
+        ]
+    },
+    {
+        "sentence": [
+            "It's an industry that's faced reputational risk for so long.",
+            "And so I always felt that, you know, being within the trade and covering it and seeing sort of being in a way part of the discussion that takes place to deal with these reputational issues.",
+            "You kind of feel that you want to tell people that the industry is trying, that there is efforts to deal  with these issues."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "faced reputational risk",
+            "way part",
+            "tell people",
+            "takes place",
+            "seeing sort",
+            "reputational issues",
+            "always felt"
+        ],
+        "trends": [
+            "industry",
+            "issues",
+            "deal",
+            "efforts",
+            "tell",
+            "trying",
+            "reputational"
+        ]
+    },
+    {
+        "sentence": [
+            "And so there's always more that can be done.",
+            "I also don't want to say, no, I've never been disappointed in the industry because I'm also, I'm a journalist and I try my best to look at it from an objective point of view.",
+            "But it's a tough question to answer in terms of specifics."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "tough question",
+            "objective point",
+            "want",
+            "view",
+            "try",
+            "terms",
+            "specifics"
+        ],
+        "trends": [
+            "also",
+            "want",
+            "look",
+            "best",
+            "disappointed",
+            "industry",
+            "answer"
+        ]
+    },
+    {
+        "sentence": [
+            "I think the industry can be overly cautious in dealing with those issues.",
+            "And so maybe there is some risk taking to take it a little to the harder line in preventing those reputational  things.",
+            "I will say this, I think, you know, I have had the pleasure or challenge of attending a Kimberley process meeting or two, and that is a frustrating experience."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "kimberley process meeting",
+            "risk taking",
+            "reputational things",
+            "overly cautious",
+            "harder line",
+            "frustrating experience",
+            "two"
+        ],
+        "trends": [
+            "maybe",
+            "harder",
+            "line",
+            "little",
+            "think",
+            "issues",
+            "industry"
+        ]
+    },
+    {
+        "sentence": [
+            "And I think that lack of progress in the Kimberley process, which for a long time was a poster child for the industries dealing with these conflict diamond, human rights issues, whatever that has, I think overall, you know, it's a frustrating process that's lost its relevancy.",
+            "And maybe that's that is the  It's a classic question, but there's a reason why it's a classic question.",
+            "If you could go about 16 years and give yourself, give your 16 years younger self some advice, what would it be?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "16 years younger self",
+            "human rights issues",
+            "16 years",
+            "poster child",
+            "long time",
+            "kimberley process",
+            "industries dealing"
+        ],
+        "trends": [
+            "classic",
+            "question",
+            "think",
+            "process",
+            "give",
+            "years",
+            "younger"
+        ]
+    },
+    {
+        "sentence": [
+            "I guess this is my little message to my beloved colleagues that if you have the opportunity to engage with the industry in person, you should take that opportunity as much as possible because that's where the life is.",
+            "It's very easy to get stuck behind our laptops, behind our screens and sort of work through the news  that comes in, but when you get a chance to meet the people and see the product and enjoy the dynamic of the industry, it's just a drug.",
+            "It just gives you a new lease on life."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "get stuck behind",
+            "new lease",
+            "little message",
+            "beloved colleagues",
+            "get",
+            "behind",
+            "work"
+        ],
+        "trends": [
+            "behind",
+            "get",
+            "opportunity",
+            "industry",
+            "life",
+            "beloved",
+            "take"
+        ]
+    },
+    {
+        "sentence": [
+            "So if I had to, I would say that if I had to go back 16 years and give myself that advice, I would definitely say just maybe don't take it so seriously and enjoy the wonderful things that the job has to offer.",
+            "I'm quite enjoying this interviewing thing with Avi.",
+            "He's a good guest."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "go back 16 years",
+            "would definitely say",
+            "would say",
+            "wonderful things",
+            "quite enjoying",
+            "interviewing thing",
+            "good guest"
+        ],
+        "trends": [
+            "would",
+            "say",
+            "years",
+            "back",
+            "definitely",
+            "enjoy",
+            "give"
+        ]
+    },
+    {
+        "sentence": [
+            "We might have you back on the podcast.",
+            "Keep your diary.",
+            "So aside from some well-deserved sleep, what is the first thing that you're going to do in your new life?"
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "new life",
+            "first thing",
+            "deserved sleep",
+            "well",
+            "podcast",
+            "might",
+            "keep"
+        ],
+        "trends": [
+            "podcast",
+            "might",
+            "back",
+            "thing",
+            "sleep",
+            "new",
+            "life"
+        ]
+    },
+    {
+        "sentence": [
+            "So I'm planning to travel.",
+            "I'm going to be spending quite a bit of time in South Africa.",
+            "My family is there."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "spending quite",
+            "south africa",
+            "travel",
+            "time",
+            "planning",
+            "going",
+            "family"
+        ],
+        "trends": [
+            "time",
+            "spending",
+            "south",
+            "quite",
+            "going",
+            "bit",
+            "africa"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm pining for my family and I'm looking forward to seeing them.",
+            "So I'm going to be spending a few months in South Africa, in Southern Africa and traveling around a bit.",
+            "And I'll still be as I start to travel around the world."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "traveling around",
+            "travel around",
+            "southern africa",
+            "south africa",
+            "looking forward",
+            "world",
+            "still"
+        ],
+        "trends": [
+            "around",
+            "africa",
+            "world",
+            "looking",
+            "family",
+            "forward",
+            "pining"
+        ]
+    },
+    {
+        "sentence": [
+            "sort of lay the foundation for my freelance work and various other projects that I'm hoping to embark on and you will hear about them soon.",
+            "So stay posted, but my initial move will be to spend a few months abroad back in SA.",
+            "Sounds nice."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "months abroad back",
+            "stay posted",
+            "sounds nice",
+            "initial move",
+            "freelance work",
+            "various",
+            "spend"
+        ],
+        "trends": [
+            "projects",
+            "months",
+            "sa",
+            "back",
+            "initial",
+            "move",
+            "posted"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm expecting a bunch of pictures, please.",
+            "Follow me on Instagram, Lea.",
+            "Follow me on Instagram."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "please",
+            "pictures",
+            "lea",
+            "instagram",
+            "instagram",
+            "follow",
+            "follow"
+        ],
+        "trends": [
+            "lea",
+            "instagram",
+            "follow",
+            "please",
+            "pictures",
+            "expecting",
+            "bunch"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm asking the last question for me.",
+            "Are you planning to be on TikTok?",
+            "I actually am on TikTok."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "last question",
+            "tiktok",
+            "tiktok",
+            "planning",
+            "asking",
+            "actually"
+        ],
+        "trends": [
+            "question",
+            "last",
+            "asking"
+        ]
+    },
+    {
+        "sentence": [
+            "I've been posting our market comment videos when I remember to on TikTok.",
+            "And so I'm trying to figure out how much I've still got to learn on social media.",
+            "The added benefits of TikTok over Instagram reels."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "market comment videos",
+            "still got",
+            "social media",
+            "instagram reels",
+            "added benefits",
+            "trying",
+            "tiktok"
+        ],
+        "trends": [
+            "tiktok",
+            "benefits",
+            "market",
+            "comment",
+            "videos",
+            "posting",
+            "remember"
+        ]
+    },
+    {
+        "sentence": [
+            "And maybe that's a whole other discussion that some other podcast guests can explain.",
+            "But I am there and I enjoy video.",
+            "I've come to enjoy the presentation elements of the job."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "presentation elements",
+            "podcast guests",
+            "enjoy video",
+            "enjoy",
+            "whole",
+            "maybe",
+            "job"
+        ],
+        "trends": [
+            "presentation",
+            "job",
+            "enjoy",
+            "elements",
+            "whole",
+            "podcast",
+            "maybe"
+        ]
+    },
+    {
+        "sentence": [
+            "And that's again, a skill set that I was lucky enough to learn at Rappaport.",
+            "And so that's, that is something that I enjoy doing and we'll see if TikTok's the outlet for it for me.",
+            "So I have to add LinkedIn, Instagram, TikTok to photo Javi Kravitz."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "photo javi kravitz",
+            "skill set",
+            "lucky enough",
+            "add linkedin",
+            "tiktok",
+            "tiktok",
+            "something"
+        ],
+        "trends": [
+            "tiktok",
+            "see",
+            "outlet",
+            "something",
+            "linkedin",
+            "instagram",
+            "javi"
+        ]
+    },
+    {
+        "sentence": [
+            "And Joshua is going to get the last question.",
+            "What can you remember about your first day at Rappaport?",
+            "Well, it's kind of come full circle because my first day at Rappaport, I was working at home actually."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "come full circle",
+            "last question",
+            "home actually",
+            "first day",
+            "first day",
+            "working",
+            "well"
+        ],
+        "trends": [
+            "first",
+            "rappaport",
+            "day",
+            "working",
+            "question",
+            "last",
+            "joshua"
+        ]
+    },
+    {
+        "sentence": [
+            "I was living in Jerusalem.",
+            "didn't have an office in Jerusalem except Martin's house.",
+            "And I was also working with an editor, Jeff Miller, shout out to him if he's listening."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "jerusalem except martin",
+            "jeff miller",
+            "also working",
+            "jerusalem",
+            "shout",
+            "office",
+            "living"
+        ],
+        "trends": [
+            "office",
+            "martin",
+            "jerusalem",
+            "working",
+            "shout",
+            "miller",
+            "listening"
+        ]
+    },
+    {
+        "sentence": [
+            "He was in New York, so there was this sort of time difference.",
+            "But I do remember very clearly my interview at Rappaport and meeting Martin for the first time.",
+            "I think his two sons were there and a few others who were working in his team and he had just got back from New York, I think, and arrived back in Israel."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "two sons",
+            "time difference",
+            "new york",
+            "new york",
+            "meeting martin",
+            "got back",
+            "first time"
+        ],
+        "trends": [
+            "time",
+            "back",
+            "think",
+            "york",
+            "new",
+            "meeting",
+            "clearly"
+        ]
+    },
+    {
+        "sentence": [
+            "And I arrived for an interview with him and he was  was full of energy and just talking, talking, talking as he does and telling me about the company.",
+            "And I had no idea his position in the market.",
+            "I had no idea what the company's role in the industry was."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "telling",
+            "talking",
+            "talking",
+            "talking",
+            "role",
+            "position",
+            "market"
+        ],
+        "trends": [
+            "talking",
+            "idea",
+            "company",
+            "position",
+            "market",
+            "telling",
+            "interview"
+        ]
+    },
+    {
+        "sentence": [
+            "For me, it was just sort of a journalistic job that became available and someone sort of suggested I look into.",
+            "And Martin started talking about the industry and he was a bit jet lagged and he sort of nodded off and fell asleep once or twice during the interview, but woke up and continued where he  left off explaining what's going on.",
+            "And I was, I remember a little taken back thinking, wow, this is a company that's kind of eccentric and interesting, and it's an industry that's eccentric and interesting."
+        ],
+        "sentiment": "negative",
+        "keywords": [
+            "little taken back thinking",
+            "martin started talking",
+            "bit jet lagged",
+            "journalistic job",
+            "fell asleep",
+            "became available",
+            "someone sort"
+        ],
+        "trends": [
+            "sort",
+            "eccentric",
+            "interesting",
+            "industry",
+            "lagged",
+            "wow",
+            "remember"
+        ]
+    },
+    {
+        "sentence": [
+            "And so maybe I might be a good fit for it.",
+            "And I think that Gutfeel was correct.",
+            "I, I love the industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "good fit",
+            "think",
+            "might",
+            "maybe",
+            "love",
+            "industry",
+            "gutfeel"
+        ],
+        "trends": [
+            "might",
+            "maybe",
+            "good",
+            "fit",
+            "think",
+            "gutfeel",
+            "correct"
+        ]
+    },
+    {
+        "sentence": [
+            "I love our company.",
+            "I feel very blessed to have worked for Apple port for so long.",
+            "\u1794\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2  I was always kind of the old man in the group over here, but it's really been such a wild journey and so blessed to have had it."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "\u1794 \u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2\u17d2",
+            "wild journey",
+            "old man",
+            "apple port",
+            "always kind",
+            "worked",
+            "really"
+        ],
+        "trends": [
+            "blessed",
+            "worked",
+            "wild",
+            "really",
+            "old",
+            "man",
+            "port"
+        ]
+    },
+    {
+        "sentence": [
+            "So thank you all for being so wonderful.",
+            "Thank you so much, Avi.",
+            "I think that was a fantastic interview."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "fantastic interview",
+            "wonderful",
+            "think",
+            "thank",
+            "thank",
+            "much",
+            "avi"
+        ],
+        "trends": [
+            "thank",
+            "much",
+            "avi",
+            "think",
+            "interview",
+            "fantastic"
+        ]
+    },
+    {
+        "sentence": [
+            "We all enjoyed it.",
+            "We all enjoy working with you.",
+            "Thanks, Leah and Joshua for your insights on this podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "enjoy working",
+            "thanks",
+            "podcast",
+            "leah",
+            "joshua",
+            "insights",
+            "enjoyed"
+        ],
+        "trends": [
+            "thanks",
+            "podcast",
+            "leah",
+            "joshua",
+            "insights"
+        ]
+    },
+    {
+        "sentence": [
+            "And if you've been listening to this podcast for a while, please don't worry.",
+            "Avi is leaving us, but this podcast will carry on every other week, hosted by either Joshua, Leah or me, or we'll have other hosts as well, obviously other guests.",
+            "one, but we'll have other people from the industry that we love quizzing and learning from."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "love quizzing",
+            "leaving us",
+            "either joshua",
+            "worry",
+            "well",
+            "week",
+            "podcast"
+        ],
+        "trends": [
+            "podcast",
+            "industry",
+            "quizzing",
+            "people",
+            "one",
+            "love",
+            "learning"
+        ]
+    },
+    {
+        "sentence": [
+            "Subscribe to this podcast on all the good platforms that you know, always on use on markmapple.com.",
+            "And that's my shameless plugging, as Avi would say, for our products.",
+            "But carry on, please joining us to learn more about this industry that Avi describes so well as an eccentric and interesting industry."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "please joining us",
+            "avi would say",
+            "avi describes",
+            "shameless plugging",
+            "good platforms",
+            "interesting industry",
+            "industry"
+        ],
+        "trends": [
+            "avi",
+            "industry",
+            "carry",
+            "describes",
+            "please",
+            "platforms",
+            "podcast"
+        ]
+    },
+    {
+        "sentence": [
+            "Thanks, Leah, for joining us today.",
+            "Thanks for having me and Avi, you'll be very much missed on the team.",
+            "Thank you, Lea."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "joining us today",
+            "much missed",
+            "thanks",
+            "thanks",
+            "thank",
+            "team",
+            "leah"
+        ],
+        "trends": [
+            "thanks",
+            "us",
+            "today",
+            "leah",
+            "joining",
+            "team",
+            "much"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you, Joshua.",
+            "Thank you, Sonja.",
+            "Thank you, Lea."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "thank",
+            "thank",
+            "thank",
+            "sonja",
+            "lea",
+            "joshua"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "And thank you, Avi.",
+            "We'll greatly miss you.",
+            "And you are a great interviewer."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "greatly miss",
+            "great interviewer",
+            "thank",
+            "avi"
+        ],
+        "trends": []
+    },
+    {
+        "sentence": [
+            "Thank you.",
+            "Thank you.",
+            "You're a great interviewer, Joshua."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "great interviewer",
+            "thank",
+            "thank",
+            "joshua"
+        ],
+        "trends": [
+            "joshua",
+            "interviewer",
+            "great"
+        ]
+    },
+    {
+        "sentence": [
+            "And thank you so much, Avi Kravitz.",
+            "You know, we love you so much and we'll miss you a lot.",
+            "Absolutely."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "avi kravitz",
+            "thank",
+            "much",
+            "much",
+            "miss",
+            "love",
+            "lot"
+        ],
+        "trends": [
+            "much",
+            "thank",
+            "kravitz",
+            "avi",
+            "miss",
+            "love",
+            "lot"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you all.",
+            "Appreciate it.",
+            "Thanks to our wonderful producer as well, Vanina, who's been making this happen, podcast after podcast."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "wonderful producer",
+            "well",
+            "vanina",
+            "thanks",
+            "thank",
+            "podcast",
+            "podcast"
+        ],
+        "trends": [
+            "podcast",
+            "wonderful",
+            "well",
+            "vanina",
+            "thanks",
+            "producer",
+            "making"
+        ]
+    },
+    {
+        "sentence": [
+            "We have this amazing team behind the scenes as well that, you know, we might be speaking and speaking and you might see the bylines of some of us, but that's really  big, big Rappaport behind the scene team that always makes things happen, all these products.",
+            "So thanks to them as well.",
+            "And a parting word of wisdom, Adlie Kravitz."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "always makes things happen",
+            "big rappaport behind",
+            "amazing team behind",
+            "scene team",
+            "really big",
+            "parting word",
+            "adlie kravitz"
+        ],
+        "trends": [
+            "behind",
+            "team",
+            "speaking",
+            "might",
+            "big",
+            "makes",
+            "always"
+        ]
+    },
+    {
+        "sentence": [
+            "I'm looking forward to hearing what you guys have installed next.",
+            "This podcast is only going to grow and get better.",
+            "So stay listening, everyone, and stay tuned."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "stay tuned",
+            "stay listening",
+            "looking forward",
+            "installed next",
+            "get better",
+            "podcast",
+            "hearing"
+        ],
+        "trends": [
+            "stay",
+            "next",
+            "podcast",
+            "grow",
+            "going",
+            "get",
+            "tuned"
+        ]
+    },
+    {
+        "sentence": [
+            "Thank you for listening to this episode of the Rappaport Diamond podcast.",
+            "For more discussions, news, and analysis about the diamond industry,  Visit us at Rappaport.com Follow Rappaport Group on Instagram and follow Rappaport on Facebook, Twitter and LinkedIn.",
+            "And don't forget to subscribe to get future episodes."
+        ],
+        "sentiment": "positive",
+        "keywords": [
+            "com follow rappaport group",
+            "get future episodes",
+            "rappaport diamond podcast",
+            "follow rappaport",
+            "diamond industry",
+            "visit us",
+            "rappaport"
+        ],
+        "trends": [
+            "rappaport",
+            "diamond",
+            "follow",
+            "future",
+            "subscribe",
+            "episodes",
+            "forget"
+        ]
+    }
+]

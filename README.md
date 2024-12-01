@@ -1,4 +1,4 @@
-CSCI 6518 Deep Speech Project: Diamond Market Analysis
+# CSCI 6518 Deep Speech Project: Diamond Market Analysis
 
 Overview:
 
